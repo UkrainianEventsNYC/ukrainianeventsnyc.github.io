@@ -1,0 +1,877 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="referrer" content="no-referrer" />
+  <title>🇺🇦 NYC Ukrainian Events</title>
+  <meta name="description" content="Continuously updated directory of Ukrainian cultural events in New York City Area — sorted by Next Week, Upcoming, and Next Month." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --blue:       #1a56db;
+      --blue-mid:   #1648c0;
+      --blue-dark:  #0b2a7a;
+      --blue-deep:  #060f2e;
+      --gold:       #ffd500;
+      --gold-dim:   #c9a52b;
+      --gold-glow:  rgba(255,213,0,0.18);
+      --bg:         #080d1a;
+      --surface:    #0e1525;
+      --surface2:   #141d2e;
+      --surface3:   #1a2540;
+      --border:     rgba(255,255,255,0.07);
+      --border-hi:  rgba(255,255,255,0.13);
+      --text:       #e8eef8;
+      --text-dim:   #a0b0cc;
+      --muted:      #5c738a;
+      --radius:     16px;
+      --radius-sm:  10px;
+      --shadow:     0 8px 40px rgba(0,0,0,0.6);
+    }
+
+    html { scroll-behavior: smooth; }
+    body {
+      font-family: 'Inter', sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      overflow-x: hidden;
+    }
+
+    /* ── Background grain ── */
+    body::before {
+      content: '';
+      position: fixed; inset: 0; z-index: 0;
+      background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='0.04'/%3E%3C/svg%3E");
+      pointer-events: none;
+    }
+
+    /* ── Header ── */
+    header {
+      position: relative; z-index: 1;
+      background: linear-gradient(160deg, var(--blue-dark) 0%, #091838 40%, var(--bg) 100%);
+      border-bottom: 1px solid var(--border-hi);
+      padding: 4rem 2rem 3rem;
+      text-align: center;
+      overflow: hidden;
+    }
+    header::after {
+      content: '';
+      position: absolute; bottom: 0; left: 0; right: 0;
+      height: 1px;
+      background: linear-gradient(90deg, transparent, var(--gold), transparent);
+    }
+
+
+    header h1 {
+      font-size: clamp(2rem, 6vw, 3.6rem);
+      font-weight: 900;
+      letter-spacing: -0.03em;
+      line-height: 1.1;
+      color: #fff;
+    }
+    header h1 em {
+      font-style: normal;
+      background: linear-gradient(90deg, var(--gold) 0%, #ffe87a 50%, var(--gold) 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+    .header-sub {
+      margin-top: 0.75rem;
+      color: var(--text-dim);
+      font-size: 1rem;
+      font-weight: 400;
+      max-width: 520px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    .updated-pill {
+      display: inline-flex; align-items: center; gap: 6px;
+      margin-top: 1.5rem;
+      background: rgba(255,255,255,0.05);
+      border: 1px solid var(--border-hi);
+      border-radius: 999px;
+      padding: 5px 14px;
+      font-size: 0.72rem;
+      color: var(--text-dim);
+      letter-spacing: 0.01em;
+    }
+    .pulse {
+      width: 7px; height: 7px; border-radius: 50%;
+      background: #4ade80;
+      animation: pulse 2s ease-in-out infinite;
+    }
+    @keyframes pulse {
+      0%,100% { opacity: 1; transform: scale(1); }
+      50% { opacity: 0.4; transform: scale(0.7); }
+    }
+
+    /* ── Filter bar ── */
+    .filter-bar {
+      position: relative; z-index: 1;
+      display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem;
+      max-width: 1260px;
+      margin: 2rem auto 0;
+      padding: 0 1.5rem;
+    }
+    .filter-label {
+      font-size: 0.72rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--muted);
+      margin-right: 0.25rem;
+    }
+    .pill {
+      background: var(--surface2);
+      border: 1px solid var(--border-hi);
+      color: var(--text-dim);
+      border-radius: 999px;
+      padding: 6px 16px;
+      font-size: 0.78rem;
+      font-weight: 500;
+      font-family: inherit;
+      cursor: pointer;
+      transition: all 0.18s ease;
+    }
+    .pill:hover { background: var(--surface3); color: var(--text); }
+    .pill.active {
+      background: var(--blue);
+      border-color: var(--blue);
+      color: #fff;
+      box-shadow: 0 0 16px rgba(26,86,219,0.4);
+    }
+
+    /* ── Main content ── */
+    main {
+      position: relative; z-index: 1;
+      max-width: 1260px;
+      margin: 0 auto;
+      padding: 2.5rem 1.5rem 5rem;
+    }
+
+    /* ── Section ── */
+    .section { margin-bottom: 3.5rem; }
+
+    .section-header {
+      display: flex; align-items: center; gap: 1rem;
+      margin-bottom: 1.5rem;
+      padding-bottom: 1rem;
+      border-bottom: 1px solid var(--border);
+    }
+    .section-icon {
+      width: 42px; height: 42px;
+      border-radius: 12px;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 1.2rem;
+      flex-shrink: 0;
+    }
+    .section-icon.week  { background: linear-gradient(135deg, #1e3a8a, #1a56db); box-shadow: 0 0 20px rgba(26,86,219,0.4); }
+    .section-icon.upcoming { background: linear-gradient(135deg, #78350f, #d97706); box-shadow: 0 0 20px rgba(217,119,6,0.3); }
+    .section-icon.month { background: linear-gradient(135deg, #1e3a5f, #0f5fa8); box-shadow: 0 0 20px rgba(15,95,168,0.3); }
+
+    .section-title {
+      flex: 1;
+    }
+    .section-title h2 {
+      font-size: 1.2rem;
+      font-weight: 700;
+      color: var(--text);
+    }
+    .section-title p {
+      font-size: 0.78rem;
+      color: var(--muted);
+      margin-top: 2px;
+    }
+    .section-count {
+      background: var(--surface2);
+      border: 1px solid var(--border-hi);
+      border-radius: 999px;
+      padding: 3px 12px;
+      font-size: 0.75rem;
+      font-weight: 600;
+      color: var(--text-dim);
+    }
+
+    /* ── Grid ── */
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+      gap: 1.25rem;
+    }
+
+    /* ── Card ── */
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      transition: transform 0.22s ease, box-shadow 0.22s ease, border-color 0.22s ease;
+      cursor: default;
+    }
+    .card:hover {
+      transform: translateY(-5px);
+      box-shadow: var(--shadow), 0 0 0 1px rgba(26,86,219,0.5);
+      border-color: rgba(26,86,219,0.5);
+    }
+
+    /* Card image */
+    .card-img-wrap {
+      position: relative;
+      width: 100%;
+      height: 195px;
+      overflow: hidden;
+      background: var(--surface2);
+      flex-shrink: 0;
+    }
+    .card-img {
+      width: 100%; height: 100%;
+      object-fit: cover;
+      display: block;
+      transition: transform 0.4s ease;
+    }
+    .card:hover .card-img { transform: scale(1.04); }
+    .card-img-fallback {
+      width: 100%; height: 100%;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 3rem;
+      background: linear-gradient(135deg, var(--surface2) 0%, var(--surface3) 100%);
+    }
+
+    /* Date badge on image */
+    .date-badge {
+      position: absolute; bottom: 10px; left: 10px;
+      text-align: center;
+      background: rgba(8,13,26,0.85);
+      backdrop-filter: blur(8px);
+      border: 1px solid var(--border-hi);
+      border-radius: 8px;
+      padding: 5px 10px;
+      font-size: 0.72rem;
+      font-weight: 600;
+      color: #fff;
+      line-height: 1.3;
+    }
+    .date-badge .db-day {
+      font-size: 1.1rem;
+      font-weight: 800;
+      color: var(--gold);
+      display: block;
+      line-height: 1;
+    }
+
+    /* Card body */
+    .card-body {
+      padding: 1.1rem 1.1rem 0;
+      display: flex; flex-direction: column; gap: 0.4rem;
+      flex: 1;
+    }
+    .card-title {
+      font-size: 0.95rem;
+      font-weight: 700;
+      color: var(--text);
+      line-height: 1.4;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+    .card-meta { display: none; } /* User requested we completely omit time/address text globally for all cards */
+
+    .card-footer {
+      padding: 0.9rem 1.1rem 1.1rem;
+      margin-top: auto;
+    }
+    .ticket-btn {
+      display: flex; align-items: center; justify-content: center; gap: 6px;
+      width: 100%;
+      background: var(--blue);
+      color: #fff;
+      text-decoration: none;
+      padding: 9px 14px;
+      border-radius: var(--radius-sm);
+      font-size: 0.82rem;
+      font-weight: 600;
+      transition: background 0.18s, transform 0.12s, box-shadow 0.18s;
+      border: none; cursor: pointer; font-family: inherit;
+    }
+    .ticket-btn:hover {
+      background: var(--blue-mid);
+      transform: scale(1.02);
+      box-shadow: 0 4px 16px rgba(26,86,219,0.5);
+    }
+    .ticket-btn.no-link {
+      background: var(--surface2);
+      color: var(--muted);
+      cursor: default;
+    }
+    .ticket-btn.no-link:hover { transform: none; box-shadow: none; }
+
+    /* ── Empty section ── */
+    .empty-section {
+      grid-column: 1/-1;
+      padding: 3rem 2rem;
+      text-align: center;
+      color: var(--muted);
+      font-size: 0.88rem;
+      border: 1px dashed var(--border-hi);
+      border-radius: var(--radius);
+    }
+
+    /* ── See more ── */
+    .see-more-bar {
+      margin-top: 1.25rem;
+      text-align: center;
+    }
+    .see-more-link {
+      color: var(--gold-dim);
+      font-size: 0.82rem;
+      font-weight: 600;
+      text-decoration: none;
+      padding: 7px 22px;
+      border: 1px solid var(--border-hi);
+      border-radius: 999px;
+      background: var(--surface2);
+      transition: all 0.18s ease;
+      display: inline-block;
+    }
+    .see-more-link:hover {
+      background: var(--surface3);
+      color: var(--gold);
+      border-color: var(--gold-dim);
+    }
+
+    /* ── Loading / Error ── */
+    #loading, #error-state {
+      position: fixed; inset: 0; z-index: 100;
+      display: flex; flex-direction: column; align-items: center; justify-content: center;
+      gap: 1rem;
+      background: var(--bg);
+    }
+    .spinner {
+      width: 48px; height: 48px;
+      border: 3px solid var(--border-hi);
+      border-top-color: var(--blue);
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    #error-state { display: none; }
+    #error-state .err-icon { font-size: 2.5rem; }
+    #error-state p { color: var(--text-dim); max-width: 340px; text-align: center; }
+
+    /* ── Footer ── */
+    footer {
+      position: relative; z-index: 1;
+      border-top: 1px solid var(--border);
+      text-align: center;
+      padding: 2rem;
+      font-size: 0.78rem;
+      color: var(--muted);
+    }
+    footer a { color: var(--gold-dim); text-decoration: none; }
+    footer a:hover { text-decoration: underline; }
+
+    /* ── Responsive ── */
+    @media (max-width: 640px) {
+      header { padding: 3rem 1.25rem 2.5rem; }
+      main { padding: 2rem 0.5rem 4rem; }
+
+      /* Mobile Grid View (3 columns) */
+      main:not(.list-view) .grid { 
+        display: grid; 
+        grid-template-columns: repeat(3, 1fr); 
+        gap: 0.4rem; 
+      }
+      main:not(.list-view) .card {
+        border-radius: 8px;
+        min-width: 0; /* allows flex compression */
+      }
+      main:not(.list-view) .card-img-wrap {
+        height: 100px;
+      }
+      main:not(.list-view) .date-badge {
+        bottom: 4px; left: 4px; padding: 2px 6px; font-size: 0.6rem; border-radius: 6px;
+      }
+      main:not(.list-view) .date-badge .db-day {
+        font-size: 0.85rem;
+      }
+      main:not(.list-view) .card-body {
+        padding: 0.4rem; gap: 0.2rem;
+      }
+      main:not(.list-view) .card-title {
+        font-size: 0.75rem; line-height: 1.2; -webkit-line-clamp: 3;
+      }
+      main:not(.list-view) .card-footer {
+        padding: 0 0.4rem 0.5rem; margin-top: auto;
+      }
+      main:not(.list-view) .ticket-btn {
+        padding: 4px; font-size: 0.65rem; border-radius: 6px;
+      }
+      .tabs-container { padding: 0 2px; gap: 2px; border-bottom-width: 2px; }
+      .main-tab { padding: 0.25rem 0.1rem; flex: 1; font-size: 0.75rem; border-radius: 6px 6px 0 0; gap: 2px; }
+      .main-tab .tab-text { font-size: 0.7rem; }
+      .main-tab .tab-icon { font-size: 0.8rem; }
+      .main-tab .section-count { display: none !important; }
+      .main-tab:not(.active) .tab-text { display: none; }
+      .main-tab.active { flex: 2; }
+    }
+
+    /* ── Fade-in animation ── */
+    .card { animation: fadeUp 0.35s ease both; }
+    @keyframes fadeUp {
+      from { opacity: 0; transform: translateY(12px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+
+    /* ── Tabs & View Toggle ── */
+    .filter-bar-header { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 1rem; margin-top: 10px; }
+    .view-toggles { display: flex; gap: 0.5rem; }
+    
+    .tabs-container {
+      display: flex; gap: 4px; border-bottom: 2px solid var(--blue); margin-bottom: 1.5rem;
+      align-items: flex-end; padding: 0 10px; overflow-x: auto; scrollbar-width: none;
+    }
+    .tabs-container::-webkit-scrollbar { display: none; }
+    .main-tab {
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-bottom: none;
+      color: var(--muted);
+      font-size: 0.85rem; font-weight: 600;
+      padding: 0.75rem 1.2rem;
+      cursor: pointer; position: relative;
+      border-radius: 8px 8px 0 0;
+      display: flex; align-items: center; gap: 8px; justify-content: center;
+      transition: background 0.2s, color 0.2s;
+      white-space: nowrap;
+      flex: 1; min-width: 0; /* Forces all 4 tabs to equally fill the 100% container width */
+    }
+    .main-tab:hover {
+      background: var(--surface3);
+    }
+    .main-tab.active {
+      background: var(--blue);
+      color: #fff;
+      border-color: var(--blue);
+    }
+    .main-tab .section-count {
+      background: var(--surface); padding: 2px 8px; border-radius: 12px; font-size: 0.8rem; font-weight: 700; color: var(--text);
+    }
+    .main-tab.active .section-count {
+      background: rgba(255,255,255,0.2);
+      color: #fff;
+    }
+    .tab-icon { font-size: 1.2rem; }
+    
+    /* ── List View Style ── */
+    main.list-view .grid { display: flex; flex-direction: column; gap: 0.5rem; }
+    main.list-view .card { 
+      display: flex; flex-direction: row; align-items: center; justify-content: space-between; 
+      padding: 0.75rem 1rem; border: none; border-bottom: 1px solid var(--border); 
+      border-radius: 0; background: transparent; 
+    }
+    main.list-view .card:hover { background: var(--surface2); transform: none; box-shadow: none; border-bottom-color: var(--blue); }
+    main.list-view .card-img-wrap { display: none; }
+    main.list-view .card-body { padding: 0.25rem 0; display: flex; flex-direction: row; align-items: center; gap: 1.5rem; flex: 1; min-width: 0; }
+    main.list-view .card-title { font-size: 1.1rem; flex: 1; margin: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-weight: 600; }
+    main.list-view .card-meta { display: none; } /* Hide full date/time and location */
+    main.list-view .list-view-date { display: flex; flex-direction: column; align-items: center; justify-content: center; width: 50px; flex-shrink: 0; line-height: 1.1; }
+    main.list-view .list-view-date .mon { font-size: 0.75rem; font-weight: 700; text-transform: uppercase; color: var(--gold-dim); }
+    main.list-view .list-view-date .day { font-size: 1.35rem; font-weight: 800; color: var(--text); }
+    .list-view-date { display: none; } /* Hidden by default in grid view */
+    
+    main.list-view .card-footer { padding: 0; margin: 0 0 0 1.5rem; flex-shrink: 0; }
+    main.list-view .ticket-btn { padding: 8px 16px; font-size: 0.85rem; }
+    
+    @media (max-width: 640px) {
+      main.list-view .card { padding: 1rem; border: 1px solid var(--border); border-radius: var(--radius-sm); margin-bottom: 0.5rem; background: var(--surface); }
+      main.list-view .card-body { gap: 1rem; }
+      main.list-view .card-title { white-space: normal; }
+      main.list-view .card-footer { margin: 0; }
+      .filter-bar-header { flex-direction: column; align-items: flex-start; }
+    }
+  </style>
+</head>
+<body>
+
+<div id="loading">
+  <div class="spinner"></div>
+  <p style="color:var(--text-dim);font-size:0.88rem">Loading events…</p>
+</div>
+
+<div id="error-state">
+  <div class="err-icon">⚠️</div>
+  <p>Could not load events. Please try again later or refresh the page.</p>
+</div>
+
+<div id="app" style="display:none">
+
+  <header>
+    <h1>🇺🇦 <em>NYC</em> Ukrainian Events</h1>
+    <p class="header-sub">Continuously updated directory of Ukrainian cultural events in New York City Area</p>
+    <div class="updated-pill">
+      <span class="pulse"></span>
+      <span id="updated-text">Auto-updated daily</span>
+    </div>
+  </header>
+
+  <div class="filter-bar" id="source-filter-bar" style="display:none">
+    <span class="filter-label">Sources:</span>
+    <button class="pill active" id="source-all" onclick="setSourceFilter('all')">All</button>
+    <span id="source-pills"></span>
+  </div>
+  <div class="filter-bar filter-bar-header">
+    <div>
+      <span class="filter-label">Categories:</span>
+      <button class="pill active" id="cat-all" onclick="setCategoryFilter('all')">All</button>
+      <button class="pill" id="cat-concert" onclick="setCategoryFilter('concert')">Concert</button>
+      <button class="pill" id="cat-movie" onclick="setCategoryFilter('movie')">Film</button>
+      <button class="pill" id="cat-arttalk" onclick="setCategoryFilter('arttalk')">Performance</button>
+      <button class="pill" id="cat-standup" onclick="setCategoryFilter('standup')">Stand up</button>
+      <button class="pill" id="cat-workshop" onclick="setCategoryFilter('workshop')">Workshop</button>
+      <button class="pill" id="cat-hidden" onclick="setCategoryFilter('hidden')" style="display:none">Hidden</button>
+    </div>
+    <div class="view-toggles">
+      <button class="pill active" id="view-grid" onclick="setViewMode('grid')">Grid ▦</button>
+      <button class="pill" id="view-list" onclick="setViewMode('list')">List ☰</button>
+    </div>
+  </div>
+
+  <main id="main-content">
+    <!-- TIMELINE (TABS SECTION) -->
+    <section class="section" id="section-timeline">
+      <div class="tabs-container">
+        <button class="main-tab" id="tab-upcoming" onclick="setTimelineTab('upcoming')">
+          <span class="tab-icon">📣</span><span class="tab-text">Newly Added</span><span class="section-count" id="count-upcoming">0</span>
+        </button>
+        <button class="main-tab active" id="tab-this_week" onclick="setTimelineTab('this_week')">
+          <span class="tab-icon">⚡</span><span class="tab-text">This Week</span><span class="section-count" id="count-this_week">0</span>
+        </button>
+        <button class="main-tab" id="tab-next_week" onclick="setTimelineTab('next_week')">
+          <span class="tab-icon">⏰</span><span class="tab-text">Next Week</span><span class="section-count" id="count-next_week">0</span>
+        </button>
+        <button class="main-tab" id="tab-month" onclick="setTimelineTab('month')">
+          <span class="tab-icon">📅</span><span class="tab-text">Next Month</span><span class="section-count" id="count-month">0</span>
+        </button>
+      </div>
+      
+      <div id="content-upcoming" style="display:none;">
+        <div class="grid" id="grid-upcoming"></div>
+        <div class="see-more-bar" id="more-upcoming"></div>
+      </div>
+
+      <div id="content-this_week">
+        <div class="grid" id="grid-this_week"></div>
+        <div class="see-more-bar" id="more-this_week"></div>
+      </div>
+
+      <div id="content-next_week" style="display:none;">
+        <div class="grid" id="grid-next_week"></div>
+        <div class="see-more-bar" id="more-next_week"></div>
+      </div>
+      
+      <div id="content-month" style="display:none;">
+        <div class="grid" id="grid-month"></div>
+        <div class="see-more-bar" id="more-month"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    Auto-updated daily by
+    <a href="https://github.com/idobushovska/NYCUkrEventsProject" target="_blank" rel="noopener">NYCUkrEventsProject</a>
+    &nbsp;·&nbsp; Slava Ukraini 🇺🇦
+  </footer>
+</div>
+
+<script>
+  // ── State ─────────────────────────────────────────────────────────────
+  const isAdmin = new URLSearchParams(window.location.search).has('admin');
+  let allData = null;
+  let activeSourceFilter = 'all';
+  let activeCategoryFilter = 'all';
+  let activeViewMode = 'grid';
+  const sectionExpanded = { upcoming: false, this_week: false, next_week: false, month: false };
+  const INITIAL_COUNT = 9;
+
+  function setViewMode(mode) {
+    activeViewMode = mode;
+    document.getElementById('view-grid').classList.toggle('active', mode === 'grid');
+    document.getElementById('view-list').classList.toggle('active', mode === 'list');
+    
+    if (mode === 'list') {
+      document.getElementById('main-content').classList.add('list-view');
+    } else {
+      document.getElementById('main-content').classList.remove('list-view');
+    }
+  }
+
+  function setTimelineTab(tab) {
+    ['upcoming', 'this_week', 'next_week', 'month'].forEach(t => {
+      document.getElementById('tab-' + t).classList.toggle('active', tab === t);
+      document.getElementById('content-' + t).style.display = (tab === t) ? 'block' : 'none';
+    });
+  }
+
+  // ── Bootstrap ─────────────────────────────────────────────────────────
+  async function init() {
+    try {
+      const res = await fetch('./events.json?_=' + Date.now());
+      if (!res.ok) throw new Error('HTTP ' + res.status);
+      allData = await res.json();
+      renderPage();
+      document.getElementById('loading').style.display = 'none';
+      document.getElementById('app').style.display = 'block';
+    } catch (err) {
+      console.error('Failed to load events.json:', err);
+      document.getElementById('loading').style.display = 'none';
+      document.getElementById('error-state').style.display = 'flex';
+    }
+  }
+
+  // ── Render ─────────────────────────────────────────────────────────────
+  function renderPage() {
+    if (allData.generated_at) {
+      const d = new Date(allData.generated_at);
+      const fmt = d.toLocaleDateString('en-US', { month:'long', day:'numeric', year:'numeric' })
+                + ' · ' + d.toLocaleTimeString('en-US', { hour:'2-digit', minute:'2-digit', timeZoneName:'short' });
+      document.getElementById('updated-text').textContent = 'Updated ' + fmt;
+    }
+    buildSourcePills();
+    // Show admin-only controls
+    if (isAdmin) {
+      document.getElementById('source-filter-bar').style.display = '';
+      document.getElementById('cat-hidden').style.display = '';
+    }
+    renderSection('grid-upcoming',  'count-upcoming',  allData.upcoming   || [], 'more-upcoming',  'upcoming');
+    renderSection('grid-this_week', 'count-this_week', allData.this_week  || [], 'more-this_week', 'this_week');
+    renderSection('grid-next_week', 'count-next_week', allData.next_week  || [], 'more-next_week', 'next_week');
+    renderSection('grid-month',     'count-month',     allData.next_month || [], 'more-month',     'month');
+
+  }
+
+  function getEventCategory(e) {
+    // Scrapers now infer category at collection time via utils/normalizer.py::infer_category().
+    // Trust the backend value unless it's missing or 'other' (legacy fallback).
+    if (e.event_category && e.event_category !== 'other' && e.event_category !== 'hidden') {
+      return e.event_category;
+    }
+
+    // Minimal frontend fallback for legacy DB rows without a category
+    const t = ((e.event_title || '') + ' ' + (e.event_description || '')).toLowerCase();
+    if (t.includes('movie') || t.includes('film') || t.includes('screening') || t.includes('cinema')) return 'movie';
+    if (t.includes('stand up') || t.includes('standup') || t.includes('comedy') || t.includes('open mic')) return 'standup';
+    if (t.includes('concert') || t.includes('music') || t.includes('choir') || t.includes('band') || t.includes('boat') || t.includes('cruise')) return 'concert';
+    if (t.includes('workshop') || t.includes('class') || t.includes('craft') || t.includes('decorating')) return 'workshop';
+    if (t.includes('talk') || t.includes('poetry') || t.includes('exhibition') || t.includes('art') || t.includes('dinner') || t.includes('performance')) return 'arttalk';
+    return 'hidden';
+  }
+
+  function renderSection(gridId, countId, events, moreBarId, sectionKey) {
+    const grid    = document.getElementById(gridId);
+    const countEl = document.getElementById(countId);
+    const moreBar = moreBarId ? document.getElementById(moreBarId) : null;
+    
+    const filtered = events.filter(e => {
+      const cat = getEventCategory(e);
+      // Non-admin: skip hidden events entirely
+      if (!isAdmin && cat === 'hidden') return false;
+      const sourceMatch = activeSourceFilter === 'all' || (e.source || '') === activeSourceFilter;
+      const catMatch = activeCategoryFilter === 'all' || cat === activeCategoryFilter;
+      return sourceMatch && catMatch;
+    });
+
+    countEl.textContent = filtered.length;
+
+    if (filtered.length === 0) {
+      grid.innerHTML = '<div class="empty-section">No events in this section right now.</div>';
+      if (moreBar) moreBar.innerHTML = '';
+      return;
+    }
+
+    const expanded  = sectionExpanded[sectionKey];
+    const visible   = expanded ? filtered : filtered.slice(0, INITIAL_COUNT);
+    const remaining = filtered.length - INITIAL_COUNT;
+
+    grid.innerHTML = visible.map((e, i) => buildCard(e, i)).join('');
+
+    if (moreBar) {
+      if (filtered.length > INITIAL_COUNT) {
+        const label = expanded ? '↑ See less' : `See ${remaining} more →`;
+        moreBar.innerHTML =
+          `<a class="see-more-link" href="#" onclick="toggleSection('${sectionKey}', event)">${label}</a>`;
+      } else {
+        moreBar.innerHTML = '';
+      }
+    }
+  }
+
+  function toggleSection(sectionKey, e) {
+    e.preventDefault();
+    sectionExpanded[sectionKey] = !sectionExpanded[sectionKey];
+    renderSection('grid-upcoming',  'count-upcoming',  allData.upcoming   || [], 'more-upcoming',  'upcoming');
+    renderSection('grid-this_week', 'count-this_week', allData.this_week  || [], 'more-this_week', 'this_week');
+    renderSection('grid-next_week', 'count-next_week', allData.next_week  || [], 'more-next_week', 'next_week');
+    renderSection('grid-month',     'count-month',     allData.next_month || [], 'more-month',     'month');
+  }
+
+  // ── Source pills ─────────────────────────────────────────────────────
+  function buildSourcePills() {
+    const allEvents = [
+      ...(allData.upcoming   || []),
+      ...(allData.this_week  || []),
+      ...(allData.next_week  || []),
+      ...(allData.next_month || []),
+    ];
+    const sources = [...new Set(allEvents.map(e => e.source).filter(Boolean))].sort();
+    const container = document.getElementById('source-pills');
+    container.innerHTML = sources.map(s =>
+      `<button class="pill" id="source-${CSS.escape(s)}" onclick="setSourceFilter('${esc(s)}')">${esc(s)}</button>`
+    ).join('');
+  }
+
+  function setSourceFilter(source) {
+    activeSourceFilter = source;
+    sectionExpanded.upcoming  = false;
+    sectionExpanded.this_week = false;
+    sectionExpanded.next_week = false;
+    sectionExpanded.month     = false;
+    
+    // Update active class on source pills only
+    document.querySelectorAll('[id^="source-"]').forEach(p => p.classList.remove('active'));
+    const pill = document.getElementById(source === 'all' ? 'source-all' : 'source-' + CSS.escape(source));
+    if (pill) pill.classList.add('active');
+    
+    renderSection('grid-upcoming',  'count-upcoming',  allData.upcoming   || [], 'more-upcoming',  'upcoming');
+    renderSection('grid-this_week', 'count-this_week', allData.this_week  || [], 'more-this_week', 'this_week');
+    renderSection('grid-next_week', 'count-next_week', allData.next_week  || [], 'more-next_week', 'next_week');
+    renderSection('grid-month',     'count-month',     allData.next_month || [], 'more-month',     'month');
+  }
+
+  function setCategoryFilter(category) {
+    activeCategoryFilter = category;
+    sectionExpanded.upcoming  = false;
+    sectionExpanded.this_week = false;
+    sectionExpanded.next_week = false;
+    sectionExpanded.month     = false;
+    
+    // Update active class on category pills only
+    document.querySelectorAll('[id^="cat-"]').forEach(p => p.classList.remove('active'));
+    const pill = document.getElementById('cat-' + category);
+    if (pill) pill.classList.add('active');
+    
+    renderSection('grid-upcoming',  'count-upcoming',  allData.upcoming   || [], 'more-upcoming',  'upcoming');
+    renderSection('grid-this_week', 'count-this_week', allData.this_week  || [], 'more-this_week', 'this_week');
+    renderSection('grid-next_week', 'count-next_week', allData.next_week  || [], 'more-next_week', 'next_week');
+    renderSection('grid-month',     'count-month',     allData.next_month || [], 'more-month',     'month');
+  }
+
+
+  // ── Card builder ─────────────────────────────────────────────────────
+  function buildCard(event, index) {
+    const title       = esc(event.event_title || 'Untitled Event');
+    const source      = esc(event.source || '');
+    const location    = esc(event.location || '');
+    const description = esc(event.event_description || '');
+    const link        = event.ticket_link || '';
+    const cover       = event.cover_image_url || '';
+
+    const { dateStr, dayNum, monthShort } = formatDate(event.event_date);
+
+    const imgHtml = cover
+      ? `<img class="card-img" src="${cover}" alt="${title}" loading="lazy"
+             onerror="this.style.display='none';this.nextElementSibling.style.display='flex'"
+         /><div class="card-img-fallback" style="display:none">🇺🇦</div>`
+      : `<div class="card-img-fallback">🇺🇦</div>`;
+
+    const dateBadge = dayNum
+      ? `<div class="date-badge">
+           <span class="db-day">${dayNum}</span>
+           ${monthShort}
+         </div>`
+      : '';
+
+
+    const locationHtml = location
+      ? `<div class="card-meta-row"><span class="icon">📍</span><span>${location}</span></div>`
+      : '';
+
+    const timeHtml = dateStr
+      ? `<div class="card-meta-row"><span class="icon">📅</span><span>${dateStr}</span></div>`
+      : '';
+
+
+    const btnHtml = link
+      ? `<a class="ticket-btn" href="${link}" target="_blank" rel="noopener">Tickets / Info</a>`
+      : `<button class="ticket-btn no-link" disabled>No link available</button>`;
+
+    const listDateHtml = dayNum 
+      ? `<div class="list-view-date"><span class="mon">${monthShort}</span><span class="day">${dayNum}</span></div>`
+      : `<div class="list-view-date"><span class="day">—</span></div>`;
+
+    return `
+      <div class="card" data-source="${source}" style="animation-delay:${index * 0.04}s">
+        <div class="card-img-wrap">
+          ${imgHtml}
+          ${dateBadge}
+        </div>
+        <div class="card-body">
+          ${listDateHtml}
+          <p class="card-title">${title}</p>
+          <div class="card-meta">
+            ${timeHtml}
+            ${locationHtml}
+          </div>
+        </div>
+        <div class="card-footer">${btnHtml}</div>
+      </div>`;
+  }
+
+  // ── Date helpers ──────────────────────────────────────────────────────
+  function formatDate(raw) {
+    if (!raw) return { dateStr: '', dayNum: '', monthShort: '' };
+    try {
+      const tz = 'America/New_York';
+      const dt = new Date(raw.replace('Z', '+00:00'));
+      const dayNum = dt.toLocaleDateString('en-US', { day: 'numeric', timeZone: tz });
+      const monthShort = dt.toLocaleDateString('en-US', { month: 'short', timeZone: tz });
+      const weekday = dt.toLocaleDateString('en-US', { weekday: 'short', timeZone: tz });
+      const fullDate = dt.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric', timeZone: tz });
+      const hasTime = !raw.endsWith('00:00:00+00:00') && raw.includes('T') && !raw.includes('T00:00');
+      const timeStr = hasTime
+        ? dt.toLocaleTimeString('en-US', { hour: 'numeric', minute: '2-digit', timeZone: tz })
+        : '';
+      const dateStr = weekday + ', ' + fullDate + (timeStr ? ' · ' + timeStr : '');
+      return { dateStr, dayNum, monthShort };
+    } catch {
+      return { dateStr: raw.slice(0, 10), dayNum: '', monthShort: '' };
+    }
+  }
+
+  function nextMonthDate() {
+    const d = new Date();
+    return new Date(d.getFullYear(), d.getMonth() + 1, 1);
+  }
+
+  // ── HTML escape ───────────────────────────────────────────────────────
+  function esc(str) {
+    return String(str)
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;');
+  }
+
+  init();
+</script>
+</body>
+</html>
