@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-06T05:13:46.672097-04:00",
+  "generated_at": "2026-04-06T15:11:40.902857-04:00",
   "this_week": [
     {
       "id": "16ef2519-6db7-4115-bba3-7c4b12372cbc",
@@ -76,18 +76,6 @@
   ],
   "next_week": [
     {
-      "id": "8b7f1c79-ee72-4155-aaaa-5c035a83df1b",
-      "event_title": "AI Creator School: Content Generation & Monetization",
-      "event_date": "2026-04-13T12:00:00+00:00",
-      "location": "New York",
-      "event_description": null,
-      "ticket_link": "https://ukrainian.us/events/ai-school",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/T9fwthwMWQPhAfugnmAkMWGerIlmsMqS-source.png?v=0.1&s=972978d4b1a6024bbd36992eedb5eddc",
-      "source": "Ukrainian USA",
-      "date_added": "2026-04-04T04:40:08.904769+00:00",
-      "event_category": "workshop"
-    },
-    {
       "id": "c97f1d2c-b41b-449a-8666-6de2fc2d41d8",
       "event_title": "Book Launch: Mrs. Orwell by Andrea Chalupa in conversation with Nomiki Konst",
       "event_date": "2026-04-13T23:00:00+00:00",
@@ -134,18 +122,6 @@
       "source": "mticket",
       "date_added": "2026-04-05T00:00:00+00:00",
       "event_category": "concert"
-    },
-    {
-      "id": "4361bba4-3b12-4aa6-ad4f-5b885982edcb",
-      "event_title": "Dollmaking Workshop",
-      "event_date": "2026-04-19T15:00:00+00:00",
-      "location": "Bard and Baker Board Game CafeTroy, NYSunday, Apr 19 from 11 am to 2 pm",
-      "event_description": "Make your own Waldorf doll keychain using upcycled materials!",
-      "ticket_link": "https://www.eventbrite.com/e/dollmaking-workshop-tickets-1986481904852",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1181244829%252F2713859545081%252F1%252Foriginal.20260401-221919%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D592ebb5fed30a31a7bc311f8d7c22ae2&w=1880&q=75",
-      "source": "Eventbrite",
-      "date_added": "2026-04-03T18:05:57.861029+00:00",
-      "event_category": "workshop"
     },
     {
       "id": "f1339390-8b17-4488-afe3-4d733145fcb8",
@@ -198,18 +174,6 @@
       "event_category": "concert"
     },
     {
-      "id": "8b7f1c79-ee72-4155-aaaa-5c035a83df1b",
-      "event_title": "AI Creator School: Content Generation & Monetization",
-      "event_date": "2026-04-13T12:00:00+00:00",
-      "location": "New York",
-      "event_description": null,
-      "ticket_link": "https://ukrainian.us/events/ai-school",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/T9fwthwMWQPhAfugnmAkMWGerIlmsMqS-source.png?v=0.1&s=972978d4b1a6024bbd36992eedb5eddc",
-      "source": "Ukrainian USA",
-      "date_added": "2026-04-04T04:40:08.904769+00:00",
-      "event_category": "workshop"
-    },
-    {
       "id": "c97f1d2c-b41b-449a-8666-6de2fc2d41d8",
       "event_title": "Book Launch: Mrs. Orwell by Andrea Chalupa in conversation with Nomiki Konst",
       "event_date": "2026-04-13T23:00:00+00:00",
@@ -256,18 +220,6 @@
       "source": "mticket",
       "date_added": "2026-04-05T00:00:00+00:00",
       "event_category": "concert"
-    },
-    {
-      "id": "4361bba4-3b12-4aa6-ad4f-5b885982edcb",
-      "event_title": "Dollmaking Workshop",
-      "event_date": "2026-04-19T15:00:00+00:00",
-      "location": "Bard and Baker Board Game CafeTroy, NYSunday, Apr 19 from 11 am to 2 pm",
-      "event_description": "Make your own Waldorf doll keychain using upcycled materials!",
-      "ticket_link": "https://www.eventbrite.com/e/dollmaking-workshop-tickets-1986481904852",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1181244829%252F2713859545081%252F1%252Foriginal.20260401-221919%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D592ebb5fed30a31a7bc311f8d7c22ae2&w=1880&q=75",
-      "source": "Eventbrite",
-      "date_added": "2026-04-03T18:05:57.861029+00:00",
-      "event_category": "workshop"
     },
     {
       "id": "f1339390-8b17-4488-afe3-4d733145fcb8",
@@ -342,18 +294,6 @@
       "event_category": "concert"
     },
     {
-      "id": "d39afe8d-3bdf-496b-a14f-6deffc94d7d3",
-      "event_title": "Digital Marketing — an online course to start a career in digital marketing",
-      "event_date": "2026-04-30T16:00:00+00:00",
-      "location": "TOP",
-      "event_description": null,
-      "ticket_link": "https://ukrainian.us/events/dmarketing",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/9aHIhLETEApPIXl5jBA32Xn_hrcsybM_-source.png?v=0.1&s=bb2e7d4149e3b24f8c30ef8423895298",
-      "source": "Ukrainian USA",
-      "date_added": "2026-04-05T00:00:00+00:00",
-      "event_category": "workshop"
-    },
-    {
       "id": "9279ca3c-0594-458f-96d2-e56ce56c5165",
       "event_title": "Женя Галич - New York City",
       "event_date": "2026-05-03T22:00:00+00:00",
@@ -375,7 +315,7 @@
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1181214341%252F2328834903653%252F1%252Foriginal.20260401-165906%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.919%26fp-y%3D0.463%26s%3D2e697c0511f6d0264d129d6ec7944d1e&w=1880&q=75",
       "source": "Eventbrite",
       "date_added": "2026-04-04T04:40:09.445287+00:00",
-      "event_category": "performence"
+      "event_category": "arttalk"
     },
     {
       "id": "3db058b0-5eca-4115-aff9-d1902452b3ee",
@@ -485,7 +425,7 @@
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1181214341%252F2328834903653%252F1%252Foriginal.20260401-165906%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.919%26fp-y%3D0.463%26s%3D2e697c0511f6d0264d129d6ec7944d1e&w=1880&q=75",
       "source": "Eventbrite",
       "date_added": "2026-04-04T04:40:09.445287+00:00",
-      "event_category": "performence"
+      "event_category": "arttalk"
     },
     {
       "id": "3db058b0-5eca-4115-aff9-d1902452b3ee",
