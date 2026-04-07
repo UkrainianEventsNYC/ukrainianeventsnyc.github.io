@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T01:09:48.645520-04:00",
+  "generated_at": "2026-04-07T05:06:49.799570-04:00",
   "this_week": [
     {
       "id": "16ef2519-6db7-4115-bba3-7c4b12372cbc",
@@ -109,7 +109,7 @@
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/SuzyQ-Volunteer1.png",
       "source": "Soyuzivka",
       "date_added": "2026-04-07T04:52:55.194929+00:00",
-      "event_category": "other"
+      "event_category": "workshop"
     },
     {
       "id": "e3002a4a-dcee-4d73-b91b-bbd10c68530a",
@@ -219,7 +219,7 @@
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/SuzyQ-Volunteer1.png",
       "source": "Soyuzivka",
       "date_added": "2026-04-07T04:52:55.194929+00:00",
-      "event_category": "other"
+      "event_category": "workshop"
     },
     {
       "id": "e3002a4a-dcee-4d73-b91b-bbd10c68530a",
@@ -387,7 +387,7 @@
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2026/03/Mothers-Day-Pic.png",
       "source": "Soyuzivka",
       "date_added": "2026-04-07T04:52:55.97853+00:00",
-      "event_category": "other"
+      "event_category": "arttalk"
     },
     {
       "id": "1fae8937-b633-4c26-8f38-9f5daa122a54",
@@ -483,7 +483,7 @@
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/05/Fathers-Day.png",
       "source": "Soyuzivka",
       "date_added": "2026-04-07T04:52:56.280795+00:00",
-      "event_category": "other"
+      "event_category": "arttalk"
     },
     {
       "id": "8a8f9584-0738-4433-a512-fb08513a8218",
@@ -495,7 +495,7 @@
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/July4th.png",
       "source": "Soyuzivka",
       "date_added": "2026-04-07T04:52:56.356892+00:00",
-      "event_category": "other"
+      "event_category": "concert"
     },
     {
       "id": "f39d9063-9970-4fe4-905b-58a771880f43",
@@ -519,7 +519,7 @@
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/UkrFestival.png",
       "source": "Soyuzivka",
       "date_added": "2026-04-07T04:52:56.425444+00:00",
-      "event_category": "other"
+      "event_category": "concert"
     },
     {
       "id": "d60ef1a1-3eb8-4c26-a904-e13cf320b2b7",
@@ -567,7 +567,7 @@
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/10/Fall-Fest.jpg",
       "source": "Soyuzivka",
       "date_added": "2026-04-07T04:52:56.714305+00:00",
-      "event_category": "other"
+      "event_category": "concert"
     },
     {
       "id": "a6fad82b-f5ff-4de3-8429-2ef8d66ff410",
@@ -653,7 +653,7 @@
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2026/03/Mothers-Day-Pic.png",
       "source": "Soyuzivka",
       "date_added": "2026-04-07T04:52:55.97853+00:00",
-      "event_category": "other"
+      "event_category": "arttalk"
     },
     {
       "id": "1fae8937-b633-4c26-8f38-9f5daa122a54",
@@ -823,7 +823,7 @@
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/SuzyQ-Volunteer1.png",
       "source": "Soyuzivka",
       "date_added": "2026-04-07T04:52:55.194929+00:00",
-      "event_category": "other"
+      "event_category": "workshop"
     },
     {
       "id": "e3002a4a-dcee-4d73-b91b-bbd10c68530a",
@@ -991,7 +991,7 @@
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2026/03/Mothers-Day-Pic.png",
       "source": "Soyuzivka",
       "date_added": "2026-04-07T04:52:55.97853+00:00",
-      "event_category": "other"
+      "event_category": "arttalk"
     },
     {
       "id": "1fae8937-b633-4c26-8f38-9f5daa122a54",
@@ -1087,7 +1087,7 @@
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/05/Fathers-Day.png",
       "source": "Soyuzivka",
       "date_added": "2026-04-07T04:52:56.280795+00:00",
-      "event_category": "other"
+      "event_category": "arttalk"
     },
     {
       "id": "8a8f9584-0738-4433-a512-fb08513a8218",
@@ -1099,7 +1099,7 @@
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/July4th.png",
       "source": "Soyuzivka",
       "date_added": "2026-04-07T04:52:56.356892+00:00",
-      "event_category": "other"
+      "event_category": "concert"
     },
     {
       "id": "f39d9063-9970-4fe4-905b-58a771880f43",
@@ -1123,7 +1123,7 @@
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/UkrFestival.png",
       "source": "Soyuzivka",
       "date_added": "2026-04-07T04:52:56.425444+00:00",
-      "event_category": "other"
+      "event_category": "concert"
     },
     {
       "id": "d60ef1a1-3eb8-4c26-a904-e13cf320b2b7",
@@ -1171,7 +1171,7 @@
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/10/Fall-Fest.jpg",
       "source": "Soyuzivka",
       "date_added": "2026-04-07T04:52:56.714305+00:00",
-      "event_category": "other"
+      "event_category": "concert"
     },
     {
       "id": "a6fad82b-f5ff-4de3-8429-2ef8d66ff410",
