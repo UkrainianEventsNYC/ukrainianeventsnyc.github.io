@@ -562,6 +562,9 @@
         <button class="main-tab" id="tab-month" onclick="setTimelineTab('month')">
           <span class="tab-icon">📅</span><span class="tab-text">Next Month</span><span class="section-count" id="count-month">0</span>
         </button>
+        <button class="main-tab" id="tab-all_events" onclick="setTimelineTab('all_events')">
+          <span class="tab-icon">🗓️</span><span class="tab-text">All Events</span><span class="section-count" id="count-all_events">0</span>
+        </button>
       </div>
       
       <div id="content-upcoming" style="display:none;">
@@ -583,6 +586,11 @@
         <div class="grid" id="grid-month"></div>
         <div class="see-more-bar" id="more-month"></div>
       </div>
+
+      <div id="content-all_events" style="display:none;">
+        <div class="grid" id="grid-all_events"></div>
+        <div class="see-more-bar" id="more-all_events"></div>
+      </div>
     </section>
   </main>
 
@@ -600,7 +608,7 @@
   let activeSourceFilter = 'all';
   let activeCategoryFilter = 'all';
   let activeViewMode = 'grid';
-  const sectionExpanded = { upcoming: false, this_week: false, next_week: false, month: false };
+  const sectionExpanded = { upcoming: false, this_week: false, next_week: false, month: false, all_events: false };
   const INITIAL_COUNT = 9;
 
   function setViewMode(mode) {
@@ -616,7 +624,7 @@
   }
 
   function setTimelineTab(tab) {
-    ['upcoming', 'this_week', 'next_week', 'month'].forEach(t => {
+    ['upcoming', 'this_week', 'next_week', 'month', 'all_events'].forEach(t => {
       document.getElementById('tab-' + t).classList.toggle('active', tab === t);
       document.getElementById('content-' + t).style.display = (tab === t) ? 'block' : 'none';
     });
@@ -652,10 +660,11 @@
       document.getElementById('source-filter-bar').style.display = '';
       document.getElementById('cat-hidden').style.display = '';
     }
-    renderSection('grid-upcoming',  'count-upcoming',  allData.upcoming   || [], 'more-upcoming',  'upcoming');
-    renderSection('grid-this_week', 'count-this_week', allData.this_week  || [], 'more-this_week', 'this_week');
-    renderSection('grid-next_week', 'count-next_week', allData.next_week  || [], 'more-next_week', 'next_week');
-    renderSection('grid-month',     'count-month',     allData.next_month || [], 'more-month',     'month');
+    renderSection('grid-upcoming',    'count-upcoming',    allData.upcoming    || [], 'more-upcoming',    'upcoming');
+    renderSection('grid-this_week',   'count-this_week',   allData.this_week   || [], 'more-this_week',   'this_week');
+    renderSection('grid-next_week',   'count-next_week',   allData.next_week   || [], 'more-next_week',   'next_week');
+    renderSection('grid-month',       'count-month',       allData.next_month  || [], 'more-month',       'month');
+    renderSection('grid-all_events',  'count-all_events',  allData.all_events  || [], 'more-all_events',  'all_events');
 
   }
 
@@ -718,19 +727,21 @@
   function toggleSection(sectionKey, e) {
     e.preventDefault();
     sectionExpanded[sectionKey] = !sectionExpanded[sectionKey];
-    renderSection('grid-upcoming',  'count-upcoming',  allData.upcoming   || [], 'more-upcoming',  'upcoming');
-    renderSection('grid-this_week', 'count-this_week', allData.this_week  || [], 'more-this_week', 'this_week');
-    renderSection('grid-next_week', 'count-next_week', allData.next_week  || [], 'more-next_week', 'next_week');
-    renderSection('grid-month',     'count-month',     allData.next_month || [], 'more-month',     'month');
+    renderSection('grid-upcoming',    'count-upcoming',    allData.upcoming    || [], 'more-upcoming',    'upcoming');
+    renderSection('grid-this_week',   'count-this_week',   allData.this_week   || [], 'more-this_week',   'this_week');
+    renderSection('grid-next_week',   'count-next_week',   allData.next_week   || [], 'more-next_week',   'next_week');
+    renderSection('grid-month',       'count-month',       allData.next_month  || [], 'more-month',       'month');
+    renderSection('grid-all_events',  'count-all_events',  allData.all_events  || [], 'more-all_events',  'all_events');
   }
 
   // ── Source pills ─────────────────────────────────────────────────────
   function buildSourcePills() {
     const allEvents = [
-      ...(allData.upcoming   || []),
-      ...(allData.this_week  || []),
-      ...(allData.next_week  || []),
-      ...(allData.next_month || []),
+      ...(allData.upcoming    || []),
+      ...(allData.this_week   || []),
+      ...(allData.next_week   || []),
+      ...(allData.next_month  || []),
+      ...(allData.all_events  || []),
     ];
     const sources = [...new Set(allEvents.map(e => e.source).filter(Boolean))].sort();
     const container = document.getElementById('source-pills');
@@ -741,38 +752,42 @@
 
   function setSourceFilter(source) {
     activeSourceFilter = source;
-    sectionExpanded.upcoming  = false;
-    sectionExpanded.this_week = false;
-    sectionExpanded.next_week = false;
-    sectionExpanded.month     = false;
+    sectionExpanded.upcoming    = false;
+    sectionExpanded.this_week   = false;
+    sectionExpanded.next_week   = false;
+    sectionExpanded.month       = false;
+    sectionExpanded.all_events  = false;
     
     // Update active class on source pills only
     document.querySelectorAll('[id^="source-"]').forEach(p => p.classList.remove('active'));
     const pill = document.getElementById(source === 'all' ? 'source-all' : 'source-' + CSS.escape(source));
     if (pill) pill.classList.add('active');
     
-    renderSection('grid-upcoming',  'count-upcoming',  allData.upcoming   || [], 'more-upcoming',  'upcoming');
-    renderSection('grid-this_week', 'count-this_week', allData.this_week  || [], 'more-this_week', 'this_week');
-    renderSection('grid-next_week', 'count-next_week', allData.next_week  || [], 'more-next_week', 'next_week');
-    renderSection('grid-month',     'count-month',     allData.next_month || [], 'more-month',     'month');
+    renderSection('grid-upcoming',    'count-upcoming',    allData.upcoming    || [], 'more-upcoming',    'upcoming');
+    renderSection('grid-this_week',   'count-this_week',   allData.this_week   || [], 'more-this_week',   'this_week');
+    renderSection('grid-next_week',   'count-next_week',   allData.next_week   || [], 'more-next_week',   'next_week');
+    renderSection('grid-month',       'count-month',       allData.next_month  || [], 'more-month',       'month');
+    renderSection('grid-all_events',  'count-all_events',  allData.all_events  || [], 'more-all_events',  'all_events');
   }
 
   function setCategoryFilter(category) {
     activeCategoryFilter = category;
-    sectionExpanded.upcoming  = false;
-    sectionExpanded.this_week = false;
-    sectionExpanded.next_week = false;
-    sectionExpanded.month     = false;
+    sectionExpanded.upcoming    = false;
+    sectionExpanded.this_week   = false;
+    sectionExpanded.next_week   = false;
+    sectionExpanded.month       = false;
+    sectionExpanded.all_events  = false;
     
     // Update active class on category pills only
     document.querySelectorAll('[id^="cat-"]').forEach(p => p.classList.remove('active'));
     const pill = document.getElementById('cat-' + category);
     if (pill) pill.classList.add('active');
     
-    renderSection('grid-upcoming',  'count-upcoming',  allData.upcoming   || [], 'more-upcoming',  'upcoming');
-    renderSection('grid-this_week', 'count-this_week', allData.this_week  || [], 'more-this_week', 'this_week');
-    renderSection('grid-next_week', 'count-next_week', allData.next_week  || [], 'more-next_week', 'next_week');
-    renderSection('grid-month',     'count-month',     allData.next_month || [], 'more-month',     'month');
+    renderSection('grid-upcoming',    'count-upcoming',    allData.upcoming    || [], 'more-upcoming',    'upcoming');
+    renderSection('grid-this_week',   'count-this_week',   allData.this_week   || [], 'more-this_week',   'this_week');
+    renderSection('grid-next_week',   'count-next_week',   allData.next_week   || [], 'more-next_week',   'next_week');
+    renderSection('grid-month',       'count-month',       allData.next_month  || [], 'more-month',       'month');
+    renderSection('grid-all_events',  'count-all_events',  allData.all_events  || [], 'more-all_events',  'all_events');
   }
 
 
