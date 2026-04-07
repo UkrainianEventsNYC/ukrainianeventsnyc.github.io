@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T15:29:29.749039-04:00",
+  "generated_at": "2026-04-07T16:55:39.615699-04:00",
   "this_week": [
     {
       "id": "16ef2519-6db7-4115-bba3-7c4b12372cbc",
@@ -10,7 +10,7 @@
       "ticket_link": "https://waylight.me/ucrazystandup/event/0d240-caaa6",
       "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1774908637__--2-1920x1080.jpg",
       "source": "Waylight",
-      "date_added": "2026-04-03T18:05:57.163995+00:00",
+      "date_added": "2026-03-28T00:00:00+00:00",
       "event_category": "standup"
     },
     {
@@ -22,7 +22,7 @@
       "ticket_link": "https://ukrainian.us/events/artclasses",
       "cover_image_url": "https://ukrainian.us/storage/event/1/hc_V99QD4g5JAbTaAOpXO2foxPdXR4Cz-source.png?v=0.1&s=d6bdbe4e5c4aeba611e94d7157aaa883",
       "source": "Ukrainian USA",
-      "date_added": "2026-03-28T04:33:11.639976+00:00",
+      "date_added": "2026-03-28T00:00:00+00:00",
       "event_category": "workshop"
     },
     {
@@ -34,7 +34,7 @@
       "ticket_link": "https://www.eventbrite.com/e/new-york-when-will-you-get-divorced-tickets-1985212495013",
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1179688422%252F294391790611%252F1%252Foriginal.20260312-143148%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.896%26fp-y%3D0.487%26s%3Db2b76ff67ee90fb2f3bf7b6570423ba5&w=940&q=75",
       "source": "Eventbrite",
-      "date_added": "2026-03-28T04:33:12.48796+00:00",
+      "date_added": "2026-03-28T00:00:00+00:00",
       "event_category": "movie"
     },
     {
@@ -46,7 +46,7 @@
       "ticket_link": "https://www.eventbrite.com/e/change-my-mind-nyc-premiere-tickets-1985003343435",
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1179634212%252F169569148912%252F1%252Foriginal.20260311-211535%3Fw%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26s%3Da0d7f13f2ba237b9321498fe581bf781&w=940&q=75",
       "source": "Eventbrite",
-      "date_added": "2026-03-28T04:33:12.904919+00:00",
+      "date_added": "2026-03-28T00:00:00+00:00",
       "event_category": "movie"
     },
     {
@@ -96,7 +96,7 @@
       "ticket_link": "https://www.zeffy.com/en-US/ticketing/members-appreciation-night",
       "cover_image_url": "https://www.theukrainianmuseum.org/wp-content/uploads/MembershipNight2.png",
       "source": "Ukrainian Museum",
-      "date_added": "2026-04-04T04:06:00.464921+00:00",
+      "date_added": "2026-03-28T00:00:00+00:00",
       "event_category": "arttalk"
     },
     {
@@ -150,18 +150,6 @@
   ],
   "upcoming": [
     {
-      "id": "16ef2519-6db7-4115-bba3-7c4b12372cbc",
-      "event_title": "Антон Тимошенко - Нью-Йорк - Додатковий концерт",
-      "event_date": "2026-04-08T23:00:00+00:00",
-      "location": "New York",
-      "event_description": "Я їду в тур США і КАНАДОЮ! ЗРОБИМО СТЕНДАП ЗНОВУ ВЕЛИКИМ! Це буде найкращий і НАЙКРУТІШИЙ ТУР, кращий за всі тури до цього! Не тільки стендап тури, музичні також, тури Притули, Зеленського чи навіть ТЕЙЛОР СВІФТ! Я написав новий дуже СМІШНИЙ матеріал! Я розказував його друзям, вони ДУЖЕ сміялись!!!",
-      "ticket_link": "https://waylight.me/ucrazystandup/event/0d240-caaa6",
-      "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1774908637__--2-1920x1080.jpg",
-      "source": "Waylight",
-      "date_added": "2026-04-03T18:05:57.163995+00:00",
-      "event_category": "standup"
-    },
-    {
       "id": "3db5cad7-6212-4961-8ef4-089992f9c384",
       "event_title": "INTRODUCTIONS",
       "event_date": "2026-04-12T21:00:00+00:00",
@@ -195,18 +183,6 @@
       "cover_image_url": "https://www.razomforukraine.org/wp-content/uploads/2026/03/Group-4076283-2.png",
       "source": "Razom For Ukraine",
       "date_added": "2026-04-05T00:00:00+00:00",
-      "event_category": "arttalk"
-    },
-    {
-      "id": "5c665d9f-fde1-4cb3-8b64-6bfa708a9349",
-      "event_title": "Ukrainian Museum Members Appreciation Night",
-      "event_date": "2026-04-16T00:00:00+00:00",
-      "location": "222 East 6th Street, New York, NY 10003",
-      "event_description": "To celebrate our community, we warmly invite you to a special evening at the Museum.",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/members-appreciation-night",
-      "cover_image_url": "https://www.theukrainianmuseum.org/wp-content/uploads/MembershipNight2.png",
-      "source": "Ukrainian Museum",
-      "date_added": "2026-04-04T04:06:00.464921+00:00",
       "event_category": "arttalk"
     },
     {
@@ -268,18 +244,6 @@
       "source": "Eventbrite",
       "date_added": "2026-04-07T04:52:56.980419+00:00",
       "event_category": "arttalk"
-    },
-    {
-      "id": "bf08ff31-769b-4c78-bf96-011d0c5f572b",
-      "event_title": "Brooklyn, NY/Премʼєра фільму \"На Драйві \"/“On Drive”",
-      "event_date": "2026-04-23T23:00:00+00:00",
-      "location": "Alpine CinemaBrooklyn, NYThursday, Apr 23 from 7 pm to 9 pm",
-      "event_description": "When the world around freezes - they press the gas. “ON DRIVE” is a film about youth with no brakes.",
-      "ticket_link": "https://www.eventbrite.com/e/brooklyn-ny-on-drive-tickets-1985993901220",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1180716526%252F294391790611%252F1%252Foriginal.20260326-004213%3Fw%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26s%3Ddee521dbf08edd4e9b840130ceabeeb7&w=1880&q=75",
-      "source": "Eventbrite",
-      "date_added": "2026-04-03T18:05:57.79088+00:00",
-      "event_category": "movie"
     },
     {
       "id": "fad7eb77-fe04-4e23-a772-e559d789a4ca",
@@ -366,30 +330,6 @@
       "event_category": "standup"
     },
     {
-      "id": "24b97a58-5eec-4370-9034-485c45d5cdf0",
-      "event_title": "Ukrainian Drama Showcase",
-      "event_date": "2026-05-07T22:00:00+00:00",
-      "location": "The Clemente Soto Vélez Cultural & Educational CenterNew York, NYMultiple dates",
-      "event_description": "Dive into six powerful stories at Razom for Ukraine's inaugural staged reading festival of Ukrainian theater.",
-      "ticket_link": "https://www.eventbrite.com/e/ukrainian-drama-showcase-tickets-1985937061210",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1181214341%252F2328834903653%252F1%252Foriginal.20260401-165906%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.919%26fp-y%3D0.463%26s%3D2e697c0511f6d0264d129d6ec7944d1e&w=1880&q=75",
-      "source": "Eventbrite",
-      "date_added": "2026-04-04T04:40:09.445287+00:00",
-      "event_category": "performance"
-    },
-    {
-      "id": "3db058b0-5eca-4115-aff9-d1902452b3ee",
-      "event_title": "Across the Oceans: United in Support of Kyiv-Mohyla Academy-New York",
-      "event_date": "2026-05-09T22:00:00+00:00",
-      "location": "Ukrainian Institute of AmericaNew York, NYSaturday, May 9 from 6 pm to 9:30 pm",
-      "event_description": "While the war continues, Ukraine is already building what comes after.",
-      "ticket_link": "https://www.eventbrite.com/e/across-the-oceans-united-in-support-of-kyiv-mohyla-academy-new-york-tickets-1984716832473",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1179326041%252F865995669873%252F1%252Foriginal.20260308-174605%3Fw%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26s%3D82853ed14ed58ced42c57e6aec7da2be&w=1880&q=75",
-      "source": "Eventbrite",
-      "date_added": "2026-04-04T04:40:09.678882+00:00",
-      "event_category": "arttalk"
-    },
-    {
       "id": "2c954da7-b124-4b5c-9bab-5c37b3efcaf2",
       "event_title": "Fisch Trio",
       "event_date": "2026-05-10T00:00:00+00:00",
@@ -412,18 +352,6 @@
       "source": "Soyuzivka",
       "date_added": "2026-04-07T04:52:55.97853+00:00",
       "event_category": "arttalk"
-    },
-    {
-      "id": "1fae8937-b633-4c26-8f38-9f5daa122a54",
-      "event_title": "Voice of the Ukrainian Diaspora",
-      "event_date": "2026-05-10T21:00:00+00:00",
-      "location": "140 2nd AveNew York, NYSunday, May 10 from 5 pm to 7 pm",
-      "event_description": "Voice of the Ukrainian Diaspora – живе спілкування і підтримка наших людей за кордоном!",
-      "ticket_link": "https://www.eventbrite.com/e/voice-of-the-ukrainian-diaspora-tickets-1985816161596",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1180787456%252F2996288818158%252F1%252Foriginal.20260326-200013%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D878929400151e51f65767e2b14f999ee&w=1880&q=75",
-      "source": "Eventbrite",
-      "date_added": "2026-04-04T04:40:09.523364+00:00",
-      "event_category": "performence"
     },
     {
       "id": "43678301-bcbf-430d-8688-1d78af2af149",
@@ -688,7 +616,7 @@
       "ticket_link": "https://www.eventbrite.com/e/ukrainian-drama-showcase-tickets-1985937061210",
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1181214341%252F2328834903653%252F1%252Foriginal.20260401-165906%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.919%26fp-y%3D0.463%26s%3D2e697c0511f6d0264d129d6ec7944d1e&w=1880&q=75",
       "source": "Eventbrite",
-      "date_added": "2026-04-04T04:40:09.445287+00:00",
+      "date_added": "2026-03-28T00:00:00+00:00",
       "event_category": "performance"
     },
     {
@@ -700,7 +628,7 @@
       "ticket_link": "https://www.eventbrite.com/e/across-the-oceans-united-in-support-of-kyiv-mohyla-academy-new-york-tickets-1984716832473",
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1179326041%252F865995669873%252F1%252Foriginal.20260308-174605%3Fw%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26s%3D82853ed14ed58ced42c57e6aec7da2be&w=1880&q=75",
       "source": "Eventbrite",
-      "date_added": "2026-04-04T04:40:09.678882+00:00",
+      "date_added": "2026-03-28T00:00:00+00:00",
       "event_category": "arttalk"
     },
     {
@@ -736,7 +664,7 @@
       "ticket_link": "https://www.eventbrite.com/e/voice-of-the-ukrainian-diaspora-tickets-1985816161596",
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1180787456%252F2996288818158%252F1%252Foriginal.20260326-200013%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D878929400151e51f65767e2b14f999ee&w=1880&q=75",
       "source": "Eventbrite",
-      "date_added": "2026-04-04T04:40:09.523364+00:00",
+      "date_added": "2026-03-28T00:00:00+00:00",
       "event_category": "performence"
     },
     {
@@ -798,7 +726,7 @@
       "ticket_link": "https://waylight.me/ucrazystandup/event/0d240-caaa6",
       "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1774908637__--2-1920x1080.jpg",
       "source": "Waylight",
-      "date_added": "2026-04-03T18:05:57.163995+00:00",
+      "date_added": "2026-03-28T00:00:00+00:00",
       "event_category": "standup"
     },
     {
@@ -810,7 +738,7 @@
       "ticket_link": "https://ukrainian.us/events/artclasses",
       "cover_image_url": "https://ukrainian.us/storage/event/1/hc_V99QD4g5JAbTaAOpXO2foxPdXR4Cz-source.png?v=0.1&s=d6bdbe4e5c4aeba611e94d7157aaa883",
       "source": "Ukrainian USA",
-      "date_added": "2026-03-28T04:33:11.639976+00:00",
+      "date_added": "2026-03-28T00:00:00+00:00",
       "event_category": "workshop"
     },
     {
@@ -822,7 +750,7 @@
       "ticket_link": "https://www.eventbrite.com/e/new-york-when-will-you-get-divorced-tickets-1985212495013",
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1179688422%252F294391790611%252F1%252Foriginal.20260312-143148%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.896%26fp-y%3D0.487%26s%3Db2b76ff67ee90fb2f3bf7b6570423ba5&w=940&q=75",
       "source": "Eventbrite",
-      "date_added": "2026-03-28T04:33:12.48796+00:00",
+      "date_added": "2026-03-28T00:00:00+00:00",
       "event_category": "movie"
     },
     {
@@ -834,7 +762,7 @@
       "ticket_link": "https://www.eventbrite.com/e/change-my-mind-nyc-premiere-tickets-1985003343435",
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1179634212%252F169569148912%252F1%252Foriginal.20260311-211535%3Fw%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26s%3Da0d7f13f2ba237b9321498fe581bf781&w=940&q=75",
       "source": "Eventbrite",
-      "date_added": "2026-03-28T04:33:12.904919+00:00",
+      "date_added": "2026-03-28T00:00:00+00:00",
       "event_category": "movie"
     },
     {
@@ -882,7 +810,7 @@
       "ticket_link": "https://www.zeffy.com/en-US/ticketing/members-appreciation-night",
       "cover_image_url": "https://www.theukrainianmuseum.org/wp-content/uploads/MembershipNight2.png",
       "source": "Ukrainian Museum",
-      "date_added": "2026-04-04T04:06:00.464921+00:00",
+      "date_added": "2026-03-28T00:00:00+00:00",
       "event_category": "arttalk"
     },
     {
@@ -954,7 +882,7 @@
       "ticket_link": "https://www.eventbrite.com/e/brooklyn-ny-on-drive-tickets-1985993901220",
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1180716526%252F294391790611%252F1%252Foriginal.20260326-004213%3Fw%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26s%3Ddee521dbf08edd4e9b840130ceabeeb7&w=1880&q=75",
       "source": "Eventbrite",
-      "date_added": "2026-04-03T18:05:57.79088+00:00",
+      "date_added": "2026-03-28T00:00:00+00:00",
       "event_category": "movie"
     },
     {
@@ -1050,7 +978,7 @@
       "ticket_link": "https://www.eventbrite.com/e/ukrainian-drama-showcase-tickets-1985937061210",
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1181214341%252F2328834903653%252F1%252Foriginal.20260401-165906%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.919%26fp-y%3D0.463%26s%3D2e697c0511f6d0264d129d6ec7944d1e&w=1880&q=75",
       "source": "Eventbrite",
-      "date_added": "2026-04-04T04:40:09.445287+00:00",
+      "date_added": "2026-03-28T00:00:00+00:00",
       "event_category": "performance"
     },
     {
@@ -1062,7 +990,7 @@
       "ticket_link": "https://www.eventbrite.com/e/across-the-oceans-united-in-support-of-kyiv-mohyla-academy-new-york-tickets-1984716832473",
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1179326041%252F865995669873%252F1%252Foriginal.20260308-174605%3Fw%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26s%3D82853ed14ed58ced42c57e6aec7da2be&w=1880&q=75",
       "source": "Eventbrite",
-      "date_added": "2026-04-04T04:40:09.678882+00:00",
+      "date_added": "2026-03-28T00:00:00+00:00",
       "event_category": "arttalk"
     },
     {
@@ -1098,7 +1026,7 @@
       "ticket_link": "https://www.eventbrite.com/e/voice-of-the-ukrainian-diaspora-tickets-1985816161596",
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1180787456%252F2996288818158%252F1%252Foriginal.20260326-200013%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D878929400151e51f65767e2b14f999ee&w=1880&q=75",
       "source": "Eventbrite",
-      "date_added": "2026-04-04T04:40:09.523364+00:00",
+      "date_added": "2026-03-28T00:00:00+00:00",
       "event_category": "performence"
     },
     {
