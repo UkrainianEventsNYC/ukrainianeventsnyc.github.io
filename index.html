@@ -315,6 +315,60 @@
     }
     .ticket-btn.no-link:hover { transform: none; box-shadow: none; }
 
+    /* ── Collapsible Filter Sections ── */
+    .filter-accordion {
+      position: relative; z-index: 1;
+      max-width: 1260px;
+      margin: 1.5rem auto 0;
+      padding: 0 1.5rem;
+      display: flex; flex-direction: column; gap: 0.5rem;
+    }
+    .filter-section {}
+    .filter-toggle {
+      display: flex; align-items: center; gap: 8px;
+      background: var(--surface2);
+      border: 1px solid var(--border-hi);
+      border-radius: var(--radius-sm);
+      padding: 0.55rem 1rem;
+      color: var(--text-dim);
+      font-size: 0.78rem;
+      font-weight: 600;
+      font-family: inherit;
+      cursor: pointer;
+      transition: background 0.18s, border-color 0.18s;
+      width: 100%;
+      text-align: left;
+    }
+    .filter-toggle:hover { background: var(--surface3); border-color: var(--blue); }
+    .filter-toggle .chevron {
+      margin-left: auto;
+      transition: transform 0.25s ease;
+      font-size: 0.7rem;
+    }
+    .filter-section.open .filter-toggle { background: var(--surface3); border-color: var(--blue); }
+    .filter-section.open .filter-toggle .chevron { transform: rotate(180deg); }
+    .filter-toggle .active-label {
+      background: var(--blue);
+      color: #fff;
+      padding: 2px 8px;
+      border-radius: 10px;
+      font-size: 0.7rem;
+      font-weight: 700;
+    }
+    .filter-content {
+      max-height: 0;
+      overflow: hidden;
+      transition: max-height 0.3s ease, padding 0.3s ease;
+      padding: 0 0.5rem;
+    }
+    .filter-section.open .filter-content {
+      max-height: 300px;
+      padding: 0.6rem 0.5rem;
+    }
+    .filter-pills {
+      display: flex; flex-wrap: wrap; gap: 0.4rem;
+    }
+
     /* ── Empty section ── */
     .empty-section {
       grid-column: 1/-1;
@@ -614,23 +668,43 @@
     </div>
   </header>
 
-  <div class="filter-bar" id="source-filter-bar" style="display:none">
-    <span class="filter-label">Sources:</span>
-    <button class="pill active" id="source-all" onclick="setSourceFilter('all')">All</button>
-    <span id="source-pills"></span>
-  </div>
-  <div class="filter-bar filter-bar-header">
-    <div>
-      <span class="filter-label">Categories:</span>
-      <button class="pill active" id="cat-all" onclick="setCategoryFilter('all')">All</button>
-      <button class="pill" id="cat-concert" onclick="setCategoryFilter('concert')">Concert</button>
-      <button class="pill" id="cat-movie" onclick="setCategoryFilter('movie')">Film</button>
-      <button class="pill" id="cat-arttalk" onclick="setCategoryFilter('arttalk')">Performance</button>
-      <button class="pill" id="cat-standup" onclick="setCategoryFilter('standup')">Stand up</button>
-      <button class="pill" id="cat-workshop" onclick="setCategoryFilter('workshop')">Workshop</button>
-      <button class="pill" id="cat-hidden" onclick="setCategoryFilter('hidden')" style="display:none">Hidden</button>
+  <div class="filter-accordion">
+    <!-- Category Filter -->
+    <div class="filter-section" id="filter-category">
+      <button class="filter-toggle" onclick="toggleFilter('filter-category')">
+        🏷️ Category <span class="active-label" id="cat-active-label">All</span>
+        <span class="chevron">▼</span>
+      </button>
+      <div class="filter-content">
+        <div class="filter-pills">
+          <button class="pill active" id="cat-all" onclick="setCategoryFilter('all')">All</button>
+          <button class="pill" id="cat-concert" onclick="setCategoryFilter('concert')">Concert</button>
+          <button class="pill" id="cat-movie" onclick="setCategoryFilter('movie')">Film</button>
+          <button class="pill" id="cat-performance" onclick="setCategoryFilter('performance')">Performance</button>
+          <button class="pill" id="cat-arttalk" onclick="setCategoryFilter('arttalk')">Art/Talk</button>
+          <button class="pill" id="cat-standup" onclick="setCategoryFilter('standup')">Stand up</button>
+          <button class="pill" id="cat-workshop" onclick="setCategoryFilter('workshop')">Workshop</button>
+          <button class="pill" id="cat-other" onclick="setCategoryFilter('other')">Other</button>
+        </div>
+      </div>
     </div>
-    <div class="view-toggles">
+
+    <!-- Source Filter -->
+    <div class="filter-section" id="filter-source">
+      <button class="filter-toggle" onclick="toggleFilter('filter-source')">
+        🌐 Source <span class="active-label" id="source-active-label">All</span>
+        <span class="chevron">▼</span>
+      </button>
+      <div class="filter-content">
+        <div class="filter-pills">
+          <button class="pill active" id="source-all" onclick="setSourceFilter('all')">All</button>
+          <span id="source-pills"></span>
+        </div>
+      </div>
+    </div>
+
+    <!-- View Toggle -->
+    <div style="display:flex; justify-content:flex-end; gap:0.5rem;">
       <button class="pill active" id="view-grid" onclick="setViewMode('grid')">Grid ▦</button>
       <button class="pill" id="view-list" onclick="setViewMode('list')">List ☰</button>
     </div>
@@ -641,19 +715,19 @@
     <section class="section" id="section-timeline">
       <div class="tabs-container">
         <button class="main-tab" id="tab-upcoming" onclick="setTimelineTab('upcoming')">
-          <span class="tab-icon">📣</span><span class="tab-text">Newly Added</span><span class="section-count" id="count-upcoming">0</span>
+          <span class="tab-icon">📣</span><span class="tab-text">Announced</span><span class="section-count" id="count-upcoming">0</span>
         </button>
         <button class="main-tab active" id="tab-this_week" onclick="setTimelineTab('this_week')">
           <span class="tab-icon">⚡</span><span class="tab-text">This Week</span><span class="section-count" id="count-this_week">0</span>
         </button>
         <button class="main-tab" id="tab-next_week" onclick="setTimelineTab('next_week')">
-          <span class="tab-icon">⏰</span><span class="tab-text">Next Week</span><span class="section-count" id="count-next_week">0</span>
+          <span class="tab-icon">📋</span><span class="tab-text">Next Week</span><span class="section-count" id="count-next_week">0</span>
         </button>
         <button class="main-tab" id="tab-month" onclick="setTimelineTab('month')">
-          <span class="tab-icon">📅</span><span class="tab-text">Next Month</span><span class="section-count" id="count-month">0</span>
+          <span class="tab-icon">⏰</span><span class="tab-text">Next Month</span><span class="section-count" id="count-month">0</span>
         </button>
         <button class="main-tab" id="tab-all_events" onclick="setTimelineTab('all_events')">
-          <span class="tab-icon">🗓️</span><span class="tab-text">All Events</span><span class="section-count" id="count-all_events">0</span>
+          <span class="tab-icon">📅</span><span class="tab-text">All Events</span><span class="section-count" id="count-all_events">0</span>
         </button>
       </div>
       
@@ -693,7 +767,6 @@
 
 <script>
   // ── State ─────────────────────────────────────────────────────────────
-  const isAdmin = new URLSearchParams(window.location.search).has('admin');
   let allData = null;
   let activeSourceFilter = 'all';
   let activeCategoryFilter = 'all';
@@ -745,11 +818,6 @@
       document.getElementById('updated-text').textContent = 'Updated ' + fmt;
     }
     buildSourcePills();
-    // Show admin-only controls
-    if (isAdmin) {
-      document.getElementById('source-filter-bar').style.display = '';
-      document.getElementById('cat-hidden').style.display = '';
-    }
     renderSection('grid-upcoming',    'count-upcoming',    allData.upcoming    || [], 'more-upcoming',    'upcoming');
     renderSection('grid-this_week',   'count-this_week',   allData.this_week   || [], 'more-this_week',   'this_week');
     renderSection('grid-next_week',   'count-next_week',   allData.next_week   || [], 'more-next_week',   'next_week');
@@ -759,8 +827,8 @@
   }
 
   function getEventCategory(e) {
-    // Scrapers now infer category at collection time via utils/normalizer.py::infer_category().
-    // Trust the backend value unless it's missing or 'other' (legacy fallback).
+    // Scrapers infer category at collection time via utils/normalizer.py::infer_category().
+    // Trust the backend value; fall back to frontend inference for legacy rows.
     if (e.event_category && e.event_category !== 'other' && e.event_category !== 'hidden') {
       return e.event_category;
     }
@@ -771,8 +839,9 @@
     if (t.includes('stand up') || t.includes('standup') || t.includes('comedy') || t.includes('open mic')) return 'standup';
     if (t.includes('concert') || t.includes('music') || t.includes('choir') || t.includes('band') || t.includes('boat') || t.includes('cruise')) return 'concert';
     if (t.includes('workshop') || t.includes('class') || t.includes('craft') || t.includes('decorating')) return 'workshop';
-    if (t.includes('talk') || t.includes('poetry') || t.includes('exhibition') || t.includes('art') || t.includes('dinner') || t.includes('performance')) return 'arttalk';
-    return 'hidden';
+    if (t.includes('performance') || t.includes('theater') || t.includes('theatre') || t.includes('dance') || t.includes('ballet') || t.includes('cabaret') || t.includes('showcase') || t.includes('drama')) return 'performance';
+    if (t.includes('talk') || t.includes('poetry') || t.includes('exhibition') || t.includes('art') || t.includes('dinner') || t.includes('book') || t.includes('lecture')) return 'arttalk';
+    return 'other';
   }
 
   function renderSection(gridId, countId, events, moreBarId, sectionKey) {
@@ -782,8 +851,6 @@
     
     const filtered = events.filter(e => {
       const cat = getEventCategory(e);
-      // Non-admin: skip hidden events entirely
-      if (!isAdmin && cat === 'hidden') return false;
       const sourceMatch = activeSourceFilter === 'all' || (e.source || '') === activeSourceFilter;
       const catMatch = activeCategoryFilter === 'all' || cat === activeCategoryFilter;
       return sourceMatch && catMatch;
@@ -852,12 +919,10 @@
     document.querySelectorAll('[id^="source-"]').forEach(p => p.classList.remove('active'));
     const pill = document.getElementById(source === 'all' ? 'source-all' : 'source-' + CSS.escape(source));
     if (pill) pill.classList.add('active');
-    
-    renderSection('grid-upcoming',    'count-upcoming',    allData.upcoming    || [], 'more-upcoming',    'upcoming');
-    renderSection('grid-this_week',   'count-this_week',   allData.this_week   || [], 'more-this_week',   'this_week');
-    renderSection('grid-next_week',   'count-next_week',   allData.next_week   || [], 'more-next_week',   'next_week');
-    renderSection('grid-month',       'count-month',       allData.next_month  || [], 'more-month',       'month');
-    renderSection('grid-all_events',  'count-all_events',  allData.all_events  || [], 'more-all_events',  'all_events');
+    // Update label and auto-collapse
+    document.getElementById('source-active-label').textContent = source === 'all' ? 'All' : source;
+    collapseFilter('filter-source');
+    renderAllSections();
   }
 
   function setCategoryFilter(category) {
@@ -872,7 +937,22 @@
     document.querySelectorAll('[id^="cat-"]').forEach(p => p.classList.remove('active'));
     const pill = document.getElementById('cat-' + category);
     if (pill) pill.classList.add('active');
-    
+    // Update label and auto-collapse
+    const labels = {all:'All',concert:'Concert',movie:'Film',performance:'Performance',arttalk:'Art/Talk',standup:'Stand up',workshop:'Workshop',other:'Other'};
+    document.getElementById('cat-active-label').textContent = labels[category] || category;
+    collapseFilter('filter-category');
+    renderAllSections();
+  }
+
+  // ── Collapsible filter helpers ──────────────────────────────────────
+  function toggleFilter(id) {
+    document.getElementById(id).classList.toggle('open');
+  }
+  function collapseFilter(id) {
+    document.getElementById(id).classList.remove('open');
+  }
+
+  function renderAllSections() {
     renderSection('grid-upcoming',    'count-upcoming',    allData.upcoming    || [], 'more-upcoming',    'upcoming');
     renderSection('grid-this_week',   'count-this_week',   allData.this_week   || [], 'more-this_week',   'this_week');
     renderSection('grid-next_week',   'count-next_week',   allData.next_week   || [], 'more-next_week',   'next_week');
