@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T05:06:49.799570-04:00",
+  "generated_at": "2026-04-07T14:04:17.466843-04:00",
   "this_week": [
     {
       "id": "16ef2519-6db7-4115-bba3-7c4b12372cbc",
@@ -306,6 +306,18 @@
       "event_category": "concert"
     },
     {
+      "id": "25a0e2b6-9ef6-425b-8e83-6ae2e252aac5",
+      "event_title": "Viktor movie screening at the ReelAbilities Film Festival",
+      "event_date": "2026-04-25T04:00:00+00:00",
+      "location": "New York, NY",
+      "event_description": null,
+      "ticket_link": "https://www.razomforukraine.org/events/viktor-movie-screening-at-the-reelabilities-film-festival/",
+      "cover_image_url": "https://www.razomforukraine.org/wp-content/uploads/2026/04/Facebook-cover-3.png",
+      "source": "Razom For Ukraine",
+      "date_added": "2026-04-07T17:28:47.083554+00:00",
+      "event_category": "movie"
+    },
+    {
       "id": "1de42729-b4e6-4e80-8e8a-fc33fb17ff76",
       "event_title": "CHICO & QATOSHI | NEW YORK",
       "event_date": "2026-04-25T20:00:00+00:00",
@@ -363,7 +375,7 @@
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1181214341%252F2328834903653%252F1%252Foriginal.20260401-165906%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.919%26fp-y%3D0.463%26s%3D2e697c0511f6d0264d129d6ec7944d1e&w=1880&q=75",
       "source": "Eventbrite",
       "date_added": "2026-04-04T04:40:09.445287+00:00",
-      "event_category": "arttalk"
+      "event_category": "performance"
     },
     {
       "id": "3db058b0-5eca-4115-aff9-d1902452b3ee",
@@ -376,6 +388,18 @@
       "source": "Eventbrite",
       "date_added": "2026-04-04T04:40:09.678882+00:00",
       "event_category": "arttalk"
+    },
+    {
+      "id": "2c954da7-b124-4b5c-9bab-5c37b3efcaf2",
+      "event_title": "Fisch Trio",
+      "event_date": "2026-05-10T00:00:00+00:00",
+      "location": "Forte Piano Recital Hall: 159 Rte 4, Paramus, NJ",
+      "event_description": "Mother’s Day Jazz Join us for a very special celebration on Mother’s day!Beautiful jazz compositions by Duke Ellington and other masters performed by a very talented trio! Dima Fisch – violinYuri Bakhtin – guitarValentin Korniyenko – bass Fisch Trio combines a transparent and aesthetic violin sound",
+      "ticket_link": "https://www.helpinghandsukraine.org/fisch-trio-mothers-day-jazz/",
+      "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2026/03/634329812_10238196600551959_4115646380688254202_n.jpg",
+      "source": "Helping Hands for Ukraine",
+      "date_added": "2026-04-07T17:28:45.736551+00:00",
+      "event_category": "concert"
     },
     {
       "id": "87720f39-3f58-4229-9cc6-64557a4ed9b0",
@@ -399,7 +423,7 @@
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1180787456%252F2996288818158%252F1%252Foriginal.20260326-200013%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D878929400151e51f65767e2b14f999ee&w=1880&q=75",
       "source": "Eventbrite",
       "date_added": "2026-04-04T04:40:09.523364+00:00",
-      "event_category": "arttalk"
+      "event_category": "performence"
     },
     {
       "id": "43678301-bcbf-430d-8688-1d78af2af149",
@@ -471,6 +495,18 @@
       "cover_image_url": "https://ukrainian.us/storage/event/1/_JoiFXBZMTcMXEeBkrHCLr7w4d0w43PY-source.png?v=0.1&s=c59913f10f1d531661acf259238c9ded",
       "source": "Ukrainian USA",
       "date_added": "2026-04-05T00:00:00+00:00",
+      "event_category": "concert"
+    },
+    {
+      "id": "ba66e8d3-2edf-4f66-abdc-9a57850cabf6",
+      "event_title": "From Bach to Broadway: Virtuosos for Ukraine",
+      "event_date": "2026-06-11T00:00:00+00:00",
+      "location": "Forte Piano Recital Hall: 159 Rte 4, Paramus, NJ",
+      "event_description": "Concert in Support of Ukraine Bach to Broadway: Virtuosos for Ukraine Three internationally acclaimed artists—Elena Mindlina, Alexander Bedenko and Visha Nguyen Voskresensky—join forces for an extraordinary evening of music that transcends genres and borders. The program seamlessly blends classical",
+      "ticket_link": "https://www.helpinghandsukraine.org/bach_to_broadway/",
+      "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2026/03/mindlina-4.jpg",
+      "source": "Helping Hands for Ukraine",
+      "date_added": "2026-04-07T17:28:46.66792+00:00",
       "event_category": "concert"
     },
     {
@@ -558,6 +594,18 @@
       "event_category": "concert"
     },
     {
+      "id": "015715f7-d4cf-4cfc-9303-5c95fb7e93ae",
+      "event_title": "Strings in Concert",
+      "event_date": "2026-09-19T00:00:00+00:00",
+      "location": "Forte Piano Recital Hall: 159 Rte 4, Paramus, NJ",
+      "event_description": "An Evening with Alexander Notkin & Michael Drob An unforgettable evening of guitar and violin at their finest, where artistry, precision, and passion come together on one stage. Alexander Notkin and Michael Drob present a dynamic program that highlights the full expressive range of their instruments",
+      "ticket_link": "https://www.helpinghandsukraine.org/notkin-drob/",
+      "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2025/03/IMG_5700-scaled.jpg",
+      "source": "Helping Hands for Ukraine",
+      "date_added": "2026-04-07T17:28:46.811086+00:00",
+      "event_category": "concert"
+    },
+    {
       "id": "edc0a04e-a4b2-490c-9f3d-e897e464d80d",
       "event_title": "Fall Fest",
       "event_date": "2026-10-02T00:00:00+00:00",
@@ -567,6 +615,18 @@
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/10/Fall-Fest.jpg",
       "source": "Soyuzivka",
       "date_added": "2026-04-07T04:52:56.714305+00:00",
+      "event_category": "concert"
+    },
+    {
+      "id": "6b985070-611a-40c8-8106-a456cca3361b",
+      "event_title": "Mikhail Voskresensky",
+      "event_date": "2026-10-03T00:00:00+00:00",
+      "location": "Forte Piano Recital Hall: 159 Rte 4, Paramus, NJ",
+      "event_description": "An Evening with a Legend: Mikhail Voskresensky in Concert Join us for a truly unforgettable evening — a rare and deeply moving recital by the great Mikhail Voskresensky, one of the last living titans of the Russian piano tradition. This charity concert promises not only world-class artistry, but an",
+      "ticket_link": "https://www.helpinghandsukraine.org/mikhail-voskresensky/",
+      "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2025/11/mikhail-voskresenskiy.jpg",
+      "source": "Helping Hands for Ukraine",
+      "date_added": "2026-04-07T17:28:46.952562+00:00",
       "event_category": "concert"
     },
     {
@@ -603,7 +663,7 @@
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/NewYears.png",
       "source": "Soyuzivka",
       "date_added": "2026-04-07T04:52:56.912475+00:00",
-      "event_category": "arttalk"
+      "event_category": "concert"
     }
   ],
   "next_month": [
@@ -629,7 +689,7 @@
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1181214341%252F2328834903653%252F1%252Foriginal.20260401-165906%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.919%26fp-y%3D0.463%26s%3D2e697c0511f6d0264d129d6ec7944d1e&w=1880&q=75",
       "source": "Eventbrite",
       "date_added": "2026-04-04T04:40:09.445287+00:00",
-      "event_category": "arttalk"
+      "event_category": "performance"
     },
     {
       "id": "3db058b0-5eca-4115-aff9-d1902452b3ee",
@@ -642,6 +702,18 @@
       "source": "Eventbrite",
       "date_added": "2026-04-04T04:40:09.678882+00:00",
       "event_category": "arttalk"
+    },
+    {
+      "id": "2c954da7-b124-4b5c-9bab-5c37b3efcaf2",
+      "event_title": "Fisch Trio",
+      "event_date": "2026-05-10T00:00:00+00:00",
+      "location": "Forte Piano Recital Hall: 159 Rte 4, Paramus, NJ",
+      "event_description": "Mother’s Day Jazz Join us for a very special celebration on Mother’s day!Beautiful jazz compositions by Duke Ellington and other masters performed by a very talented trio! Dima Fisch – violinYuri Bakhtin – guitarValentin Korniyenko – bass Fisch Trio combines a transparent and aesthetic violin sound",
+      "ticket_link": "https://www.helpinghandsukraine.org/fisch-trio-mothers-day-jazz/",
+      "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2026/03/634329812_10238196600551959_4115646380688254202_n.jpg",
+      "source": "Helping Hands for Ukraine",
+      "date_added": "2026-04-07T17:28:45.736551+00:00",
+      "event_category": "concert"
     },
     {
       "id": "87720f39-3f58-4229-9cc6-64557a4ed9b0",
@@ -665,7 +737,7 @@
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1180787456%252F2996288818158%252F1%252Foriginal.20260326-200013%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D878929400151e51f65767e2b14f999ee&w=1880&q=75",
       "source": "Eventbrite",
       "date_added": "2026-04-04T04:40:09.523364+00:00",
-      "event_category": "arttalk"
+      "event_category": "performence"
     },
     {
       "id": "43678301-bcbf-430d-8688-1d78af2af149",
@@ -910,6 +982,18 @@
       "event_category": "concert"
     },
     {
+      "id": "25a0e2b6-9ef6-425b-8e83-6ae2e252aac5",
+      "event_title": "Viktor movie screening at the ReelAbilities Film Festival",
+      "event_date": "2026-04-25T04:00:00+00:00",
+      "location": "New York, NY",
+      "event_description": null,
+      "ticket_link": "https://www.razomforukraine.org/events/viktor-movie-screening-at-the-reelabilities-film-festival/",
+      "cover_image_url": "https://www.razomforukraine.org/wp-content/uploads/2026/04/Facebook-cover-3.png",
+      "source": "Razom For Ukraine",
+      "date_added": "2026-04-07T17:28:47.083554+00:00",
+      "event_category": "movie"
+    },
+    {
       "id": "1de42729-b4e6-4e80-8e8a-fc33fb17ff76",
       "event_title": "CHICO & QATOSHI | NEW YORK",
       "event_date": "2026-04-25T20:00:00+00:00",
@@ -967,7 +1051,7 @@
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1181214341%252F2328834903653%252F1%252Foriginal.20260401-165906%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.919%26fp-y%3D0.463%26s%3D2e697c0511f6d0264d129d6ec7944d1e&w=1880&q=75",
       "source": "Eventbrite",
       "date_added": "2026-04-04T04:40:09.445287+00:00",
-      "event_category": "arttalk"
+      "event_category": "performance"
     },
     {
       "id": "3db058b0-5eca-4115-aff9-d1902452b3ee",
@@ -980,6 +1064,18 @@
       "source": "Eventbrite",
       "date_added": "2026-04-04T04:40:09.678882+00:00",
       "event_category": "arttalk"
+    },
+    {
+      "id": "2c954da7-b124-4b5c-9bab-5c37b3efcaf2",
+      "event_title": "Fisch Trio",
+      "event_date": "2026-05-10T00:00:00+00:00",
+      "location": "Forte Piano Recital Hall: 159 Rte 4, Paramus, NJ",
+      "event_description": "Mother’s Day Jazz Join us for a very special celebration on Mother’s day!Beautiful jazz compositions by Duke Ellington and other masters performed by a very talented trio! Dima Fisch – violinYuri Bakhtin – guitarValentin Korniyenko – bass Fisch Trio combines a transparent and aesthetic violin sound",
+      "ticket_link": "https://www.helpinghandsukraine.org/fisch-trio-mothers-day-jazz/",
+      "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2026/03/634329812_10238196600551959_4115646380688254202_n.jpg",
+      "source": "Helping Hands for Ukraine",
+      "date_added": "2026-04-07T17:28:45.736551+00:00",
+      "event_category": "concert"
     },
     {
       "id": "87720f39-3f58-4229-9cc6-64557a4ed9b0",
@@ -1003,7 +1099,7 @@
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1180787456%252F2996288818158%252F1%252Foriginal.20260326-200013%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D878929400151e51f65767e2b14f999ee&w=1880&q=75",
       "source": "Eventbrite",
       "date_added": "2026-04-04T04:40:09.523364+00:00",
-      "event_category": "arttalk"
+      "event_category": "performence"
     },
     {
       "id": "43678301-bcbf-430d-8688-1d78af2af149",
@@ -1075,6 +1171,18 @@
       "cover_image_url": "https://ukrainian.us/storage/event/1/_JoiFXBZMTcMXEeBkrHCLr7w4d0w43PY-source.png?v=0.1&s=c59913f10f1d531661acf259238c9ded",
       "source": "Ukrainian USA",
       "date_added": "2026-04-05T00:00:00+00:00",
+      "event_category": "concert"
+    },
+    {
+      "id": "ba66e8d3-2edf-4f66-abdc-9a57850cabf6",
+      "event_title": "From Bach to Broadway: Virtuosos for Ukraine",
+      "event_date": "2026-06-11T00:00:00+00:00",
+      "location": "Forte Piano Recital Hall: 159 Rte 4, Paramus, NJ",
+      "event_description": "Concert in Support of Ukraine Bach to Broadway: Virtuosos for Ukraine Three internationally acclaimed artists—Elena Mindlina, Alexander Bedenko and Visha Nguyen Voskresensky—join forces for an extraordinary evening of music that transcends genres and borders. The program seamlessly blends classical",
+      "ticket_link": "https://www.helpinghandsukraine.org/bach_to_broadway/",
+      "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2026/03/mindlina-4.jpg",
+      "source": "Helping Hands for Ukraine",
+      "date_added": "2026-04-07T17:28:46.66792+00:00",
       "event_category": "concert"
     },
     {
@@ -1162,6 +1270,18 @@
       "event_category": "concert"
     },
     {
+      "id": "015715f7-d4cf-4cfc-9303-5c95fb7e93ae",
+      "event_title": "Strings in Concert",
+      "event_date": "2026-09-19T00:00:00+00:00",
+      "location": "Forte Piano Recital Hall: 159 Rte 4, Paramus, NJ",
+      "event_description": "An Evening with Alexander Notkin & Michael Drob An unforgettable evening of guitar and violin at their finest, where artistry, precision, and passion come together on one stage. Alexander Notkin and Michael Drob present a dynamic program that highlights the full expressive range of their instruments",
+      "ticket_link": "https://www.helpinghandsukraine.org/notkin-drob/",
+      "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2025/03/IMG_5700-scaled.jpg",
+      "source": "Helping Hands for Ukraine",
+      "date_added": "2026-04-07T17:28:46.811086+00:00",
+      "event_category": "concert"
+    },
+    {
       "id": "edc0a04e-a4b2-490c-9f3d-e897e464d80d",
       "event_title": "Fall Fest",
       "event_date": "2026-10-02T00:00:00+00:00",
@@ -1171,6 +1291,18 @@
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/10/Fall-Fest.jpg",
       "source": "Soyuzivka",
       "date_added": "2026-04-07T04:52:56.714305+00:00",
+      "event_category": "concert"
+    },
+    {
+      "id": "6b985070-611a-40c8-8106-a456cca3361b",
+      "event_title": "Mikhail Voskresensky",
+      "event_date": "2026-10-03T00:00:00+00:00",
+      "location": "Forte Piano Recital Hall: 159 Rte 4, Paramus, NJ",
+      "event_description": "An Evening with a Legend: Mikhail Voskresensky in Concert Join us for a truly unforgettable evening — a rare and deeply moving recital by the great Mikhail Voskresensky, one of the last living titans of the Russian piano tradition. This charity concert promises not only world-class artistry, but an",
+      "ticket_link": "https://www.helpinghandsukraine.org/mikhail-voskresensky/",
+      "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2025/11/mikhail-voskresenskiy.jpg",
+      "source": "Helping Hands for Ukraine",
+      "date_added": "2026-04-07T17:28:46.952562+00:00",
       "event_category": "concert"
     },
     {
@@ -1207,7 +1339,7 @@
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/NewYears.png",
       "source": "Soyuzivka",
       "date_added": "2026-04-07T04:52:56.912475+00:00",
-      "event_category": "arttalk"
+      "event_category": "concert"
     }
   ]
 }
