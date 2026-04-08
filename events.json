@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T17:53:26.901985-04:00",
+  "generated_at": "2026-04-07T20:10:49.464846-04:00",
   "this_week": [
     {
       "id": "16ef2519-6db7-4115-bba3-7c4b12372cbc",
@@ -10,7 +10,7 @@
       "ticket_link": "https://waylight.me/ucrazystandup/event/0d240-caaa6",
       "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1774908637__--2-1920x1080.jpg",
       "source": "Waylight",
-      "date_added": "2026-03-21T00:00:00+00:00",
+      "date_added": "2026-03-14T00:00:00+00:00",
       "event_category": "standup"
     },
     {
@@ -22,7 +22,7 @@
       "ticket_link": "https://ukrainian.us/events/artclasses",
       "cover_image_url": "https://ukrainian.us/storage/event/1/hc_V99QD4g5JAbTaAOpXO2foxPdXR4Cz-source.png?v=0.1&s=d6bdbe4e5c4aeba611e94d7157aaa883",
       "source": "Ukrainian USA",
-      "date_added": "2026-03-28T00:00:00+00:00",
+      "date_added": "2026-03-21T00:00:00+00:00",
       "event_category": "workshop"
     },
     {
@@ -34,7 +34,7 @@
       "ticket_link": "https://www.eventbrite.com/e/new-york-when-will-you-get-divorced-tickets-1985212495013",
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1179688422%252F294391790611%252F1%252Foriginal.20260312-143148%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.896%26fp-y%3D0.487%26s%3Db2b76ff67ee90fb2f3bf7b6570423ba5&w=940&q=75",
       "source": "Eventbrite",
-      "date_added": "2026-03-28T00:00:00+00:00",
+      "date_added": "2026-03-21T00:00:00+00:00",
       "event_category": "movie"
     },
     {
@@ -46,7 +46,7 @@
       "ticket_link": "https://www.eventbrite.com/e/change-my-mind-nyc-premiere-tickets-1985003343435",
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1179634212%252F169569148912%252F1%252Foriginal.20260311-211535%3Fw%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26s%3Da0d7f13f2ba237b9321498fe581bf781&w=940&q=75",
       "source": "Eventbrite",
-      "date_added": "2026-03-28T00:00:00+00:00",
+      "date_added": "2026-03-21T00:00:00+00:00",
       "event_category": "movie"
     },
     {
@@ -58,7 +58,7 @@
       "ticket_link": "https://www.eventbrite.com/e/introductions-tickets-1984527310608",
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1179753339%252F14210349983%252F1%252Foriginal.20260313-040358%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D2ae90b5a6ca1a257c568247ed61c6e5f&w=940&q=75",
       "source": "Eventbrite",
-      "date_added": "2026-03-28T00:00:00+00:00",
+      "date_added": "2026-03-21T00:00:00+00:00",
       "event_category": "concert"
     },
     {
@@ -70,9 +70,11 @@
       "ticket_link": "https://bomond.com/events/verka-serduchka-band-new-york-2026",
       "cover_image_url": "https://api.bomond.com/public/56/2834/141700/serduchka_432x432%20%282%29.webp",
       "source": "Bomond",
-      "date_added": "2026-03-28T00:00:00+00:00",
+      "date_added": "2026-03-21T00:00:00+00:00",
       "event_category": "concert"
-    },
+    }
+  ],
+  "next_week": [
     {
       "id": "c97f1d2c-b41b-449a-8666-6de2fc2d41d8",
       "event_title": "Book Launch: Mrs. Orwell by Andrea Chalupa in conversation with Nomiki Konst",
@@ -82,11 +84,9 @@
       "ticket_link": "https://www.razomforukraine.org/events/book-launch-mrs-orwell-by-andrea-chalupa-in-conversation-with-nomiki-konst/",
       "cover_image_url": "https://www.razomforukraine.org/wp-content/uploads/2026/03/Group-4076283-2.png",
       "source": "Razom For Ukraine",
-      "date_added": "2026-03-28T00:00:00+00:00",
+      "date_added": "2026-03-21T00:00:00+00:00",
       "event_category": "arttalk"
-    }
-  ],
-  "next_week": [
+    },
     {
       "id": "5c665d9f-fde1-4cb3-8b64-6bfa708a9349",
       "event_title": "Ukrainian Museum Members Appreciation Night",
@@ -96,7 +96,7 @@
       "ticket_link": "https://www.zeffy.com/en-US/ticketing/members-appreciation-night",
       "cover_image_url": "https://www.theukrainianmuseum.org/wp-content/uploads/MembershipNight2.png",
       "source": "Ukrainian Museum",
-      "date_added": "2026-03-28T00:00:00+00:00",
+      "date_added": "2026-03-21T00:00:00+00:00",
       "event_category": "arttalk"
     },
     {
@@ -108,7 +108,7 @@
       "ticket_link": "https://soyuzivka.com/calendar-of-events/volunteer-weekend/",
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/SuzyQ-Volunteer1.png",
       "source": "Soyuzivka",
-      "date_added": "2026-03-28T00:00:00+00:00",
+      "date_added": "2026-03-21T00:00:00+00:00",
       "event_category": "workshop"
     },
     {
@@ -120,22 +120,22 @@
       "ticket_link": "https://waylight.me/Mriya/event/caaca-30796",
       "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1772261744_14.png",
       "source": "Waylight",
+      "date_added": "2026-03-21T00:00:00+00:00",
+      "event_category": "concert"
+    },
+    {
+      "id": "0bdf255c-1154-41bd-a13e-4a9f1f30ba22",
+      "event_title": "Homin Choir",
+      "event_date": "2026-04-18T00:00:00+00:00",
+      "location": "New York, NY",
+      "event_description": "mticket.com ⏩ Buy a concert ticket ✅ Homin Choir ☝ 18 April 2026 St. Bartholomew’s Church (“St. Bart’s”) in New York - Official tickets online",
+      "ticket_link": "https://mticket.com/en/new-york/homin-choir-in-new-york-1602.html",
+      "cover_image_url": "https://usa.mticket.com/uploads/resize/shows/logo/630x891_show_P1clnW1iyAFWX3JcF0GGzhXdpMf_Nr6y.jpg",
+      "source": "mticket",
       "date_added": "2026-03-28T00:00:00+00:00",
       "event_category": "concert"
     },
     {
-      "id": "0bdf255c-1154-41bd-a13e-4a9f1f30ba22",
-      "event_title": "Homin Choir",
-      "event_date": "2026-04-18T00:00:00+00:00",
-      "location": "New York, NY",
-      "event_description": "mticket.com ⏩ Buy a concert ticket ✅ Homin Choir ☝ 18 April 2026 St. Bartholomew’s Church (“St. Bart’s”) in New York - Official tickets online",
-      "ticket_link": "https://mticket.com/en/new-york/homin-choir-in-new-york-1602.html",
-      "cover_image_url": "https://usa.mticket.com/uploads/resize/shows/logo/630x891_show_P1clnW1iyAFWX3JcF0GGzhXdpMf_Nr6y.jpg",
-      "source": "mticket",
-      "date_added": "2026-04-04T00:00:00+00:00",
-      "event_category": "concert"
-    },
-    {
       "id": "f1339390-8b17-4488-afe3-4d733145fcb8",
       "event_title": "Woman’s Identity Dinner with OLIA FREIMUT in New York",
       "event_date": "2026-04-19T16:00:00+00:00",
@@ -144,83 +144,11 @@
       "ticket_link": "https://urclife.org/events/olia-freimut-new-york",
       "cover_image_url": "https://urclife.org/wp-content/uploads/2026/03/%D0%A4%D1%80%D0%B5%D0%B8%CC%86%D0%BC%D1%83%D1%82-NY-19-1080%D1%851080-1.jpg",
       "source": "URC Life",
-      "date_added": "2026-04-04T00:00:00+00:00",
+      "date_added": "2026-03-28T00:00:00+00:00",
       "event_category": "arttalk"
     }
   ],
   "upcoming": [
-    {
-      "id": "0bdf255c-1154-41bd-a13e-4a9f1f30ba22",
-      "event_title": "Homin Choir",
-      "event_date": "2026-04-18T00:00:00+00:00",
-      "location": "New York, NY",
-      "event_description": "mticket.com ⏩ Buy a concert ticket ✅ Homin Choir ☝ 18 April 2026 St. Bartholomew’s Church (“St. Bart’s”) in New York - Official tickets online",
-      "ticket_link": "https://mticket.com/en/new-york/homin-choir-in-new-york-1602.html",
-      "cover_image_url": "https://usa.mticket.com/uploads/resize/shows/logo/630x891_show_P1clnW1iyAFWX3JcF0GGzhXdpMf_Nr6y.jpg",
-      "source": "mticket",
-      "date_added": "2026-04-04T00:00:00+00:00",
-      "event_category": "concert"
-    },
-    {
-      "id": "f1339390-8b17-4488-afe3-4d733145fcb8",
-      "event_title": "Woman’s Identity Dinner with OLIA FREIMUT in New York",
-      "event_date": "2026-04-19T16:00:00+00:00",
-      "location": "Level Restaurant",
-      "event_description": "Join Women’s Identity Dinner in New York featuring Olia Freimut. A nonprofit evening of dialogue, leadership, and women’s empowerment supporting Ukrainian Roots Community.",
-      "ticket_link": "https://urclife.org/events/olia-freimut-new-york",
-      "cover_image_url": "https://urclife.org/wp-content/uploads/2026/03/%D0%A4%D1%80%D0%B5%D0%B8%CC%86%D0%BC%D1%83%D1%82-NY-19-1080%D1%851080-1.jpg",
-      "source": "URC Life",
-      "date_added": "2026-04-04T00:00:00+00:00",
-      "event_category": "arttalk"
-    },
-    {
-      "id": "bdab2c68-0c97-48c0-a2ce-4ac416677f8c",
-      "event_title": "Afternoon Event w/ Yevgenia Nayberg: Chernobyl, Life, and Other Disasters",
-      "event_date": "2026-04-23T20:00:00+00:00",
-      "location": "Books Are Magic SmithBrooklyn, NYThursday, Apr 23 from 4 pm to 5 pm",
-      "event_description": "\"A strong and beautifully rendered addition to graphic memoir and nonfiction middle grade collections.\" —School Library Journal",
-      "ticket_link": "https://www.eventbrite.com/e/afternoon-event-w-yevgenia-nayberg-chernobyl-life-and-other-disasters-tickets-1984999914178",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1179629620%252F213734307976%252F1%252Foriginal.20260311-202827%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D1.0%26fp-y%3D0.483%26s%3D6bccfae807e05f8d6e6aac337b6951f5&w=1880&q=75",
-      "source": "Eventbrite",
-      "date_added": "2026-04-04T00:00:00+00:00",
-      "event_category": "arttalk"
-    },
-    {
-      "id": "bf08ff31-769b-4c78-bf96-011d0c5f572b",
-      "event_title": "Brooklyn, NY/Премʼєра фільму \"На Драйві \"/“On Drive”",
-      "event_date": "2026-04-23T23:00:00+00:00",
-      "location": "Alpine CinemaBrooklyn, NYThursday, Apr 23 from 7 pm to 9 pm",
-      "event_description": "When the world around freezes - they press the gas. “ON DRIVE” is a film about youth with no brakes.",
-      "ticket_link": "https://www.eventbrite.com/e/brooklyn-ny-on-drive-tickets-1985993901220",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1180716526%252F294391790611%252F1%252Foriginal.20260326-004213%3Fw%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26s%3Ddee521dbf08edd4e9b840130ceabeeb7&w=1880&q=75",
-      "source": "Eventbrite",
-      "date_added": "2026-04-04T00:00:00+00:00",
-      "event_category": "movie"
-    },
-    {
-      "id": "fad7eb77-fe04-4e23-a772-e559d789a4ca",
-      "event_title": "CHICO & QATOSHI | WHIPPANY",
-      "event_date": "2026-04-24T19:00:00+00:00",
-      "location": "New Jersey",
-      "event_description": null,
-      "ticket_link": "https://ukrainian.us/events/chico-qatoshi-whippany",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/E9vX1XF2MQiJb8_UlgaGmayZ7C9QM7a_-source.png?v=0.1&s=b63eb6c815afb4759c5bf0fe6f6c3cfc",
-      "source": "Ukrainian USA",
-      "date_added": "2026-04-04T00:00:00+00:00",
-      "event_category": "concert"
-    },
-    {
-      "id": "68ad1e1f-dc57-4aa7-af63-079b216b5c20",
-      "event_title": "Dima Prokopov Live in New York",
-      "event_date": "2026-04-24T21:00:00+00:00",
-      "location": "New York",
-      "event_description": null,
-      "ticket_link": "https://ukrainian.us/events/prokopov-ny",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/HYEvKyLi0mJi92ocbWd3EpyjsHILgBxE-source.png?v=0.1&s=e0b574e217810f6ca7e82c13e06f0c15",
-      "source": "Ukrainian USA",
-      "date_added": "2026-04-04T00:00:00+00:00",
-      "event_category": "concert"
-    },
     {
       "id": "25a0e2b6-9ef6-425b-8e83-6ae2e252aac5",
       "event_title": "Viktor movie screening at the ReelAbilities Film Festival",
@@ -306,18 +234,6 @@
       "event_category": "arttalk"
     },
     {
-      "id": "87720f39-3f58-4229-9cc6-64557a4ed9b0",
-      "event_title": "Mother’s Day Brunch",
-      "event_date": "2026-05-10T00:00:00+00:00",
-      "location": "Soyuzivka Heritage Center, Kerhonkson, NY",
-      "event_description": "Celebrate Mother’s Day in style at Soyuzivka with our exquisite brunch buffet, where a delectable array of dishes awaits along with a complimentary glass of champagne or mimosa—because every mom deserves a toast on her special day! Reservations Accepted - Call (845) 626-5641 or email [email protecte",
-      "ticket_link": "https://soyuzivka.com/calendar-of-events/fathers-day-brunch-copy/",
-      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2026/03/Mothers-Day-Pic.png",
-      "source": "Soyuzivka",
-      "date_added": "2026-04-11T00:00:00+00:00",
-      "event_category": "arttalk"
-    },
-    {
       "id": "2c954da7-b124-4b5c-9bab-5c37b3efcaf2",
       "event_title": "Fisch Trio",
       "event_date": "2026-05-10T00:00:00+00:00",
@@ -328,6 +244,18 @@
       "source": "Helping Hands for Ukraine",
       "date_added": "2026-04-11T00:00:00+00:00",
       "event_category": "concert"
+    },
+    {
+      "id": "87720f39-3f58-4229-9cc6-64557a4ed9b0",
+      "event_title": "Mother’s Day Brunch",
+      "event_date": "2026-05-10T00:00:00+00:00",
+      "location": "Soyuzivka Heritage Center, Kerhonkson, NY",
+      "event_description": "Celebrate Mother’s Day in style at Soyuzivka with our exquisite brunch buffet, where a delectable array of dishes awaits along with a complimentary glass of champagne or mimosa—because every mom deserves a toast on her special day! Reservations Accepted - Call (845) 626-5641 or email [email protecte",
+      "ticket_link": "https://soyuzivka.com/calendar-of-events/fathers-day-brunch-copy/",
+      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2026/03/Mothers-Day-Pic.png",
+      "source": "Soyuzivka",
+      "date_added": "2026-04-11T00:00:00+00:00",
+      "event_category": "arttalk"
     },
     {
       "id": "1fae8937-b633-4c26-8f38-9f5daa122a54",
@@ -620,18 +548,6 @@
       "event_category": "arttalk"
     },
     {
-      "id": "87720f39-3f58-4229-9cc6-64557a4ed9b0",
-      "event_title": "Mother’s Day Brunch",
-      "event_date": "2026-05-10T00:00:00+00:00",
-      "location": "Soyuzivka Heritage Center, Kerhonkson, NY",
-      "event_description": "Celebrate Mother’s Day in style at Soyuzivka with our exquisite brunch buffet, where a delectable array of dishes awaits along with a complimentary glass of champagne or mimosa—because every mom deserves a toast on her special day! Reservations Accepted - Call (845) 626-5641 or email [email protecte",
-      "ticket_link": "https://soyuzivka.com/calendar-of-events/fathers-day-brunch-copy/",
-      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2026/03/Mothers-Day-Pic.png",
-      "source": "Soyuzivka",
-      "date_added": "2026-04-11T00:00:00+00:00",
-      "event_category": "arttalk"
-    },
-    {
       "id": "2c954da7-b124-4b5c-9bab-5c37b3efcaf2",
       "event_title": "Fisch Trio",
       "event_date": "2026-05-10T00:00:00+00:00",
@@ -642,6 +558,18 @@
       "source": "Helping Hands for Ukraine",
       "date_added": "2026-04-11T00:00:00+00:00",
       "event_category": "concert"
+    },
+    {
+      "id": "87720f39-3f58-4229-9cc6-64557a4ed9b0",
+      "event_title": "Mother’s Day Brunch",
+      "event_date": "2026-05-10T00:00:00+00:00",
+      "location": "Soyuzivka Heritage Center, Kerhonkson, NY",
+      "event_description": "Celebrate Mother’s Day in style at Soyuzivka with our exquisite brunch buffet, where a delectable array of dishes awaits along with a complimentary glass of champagne or mimosa—because every mom deserves a toast on her special day! Reservations Accepted - Call (845) 626-5641 or email [email protecte",
+      "ticket_link": "https://soyuzivka.com/calendar-of-events/fathers-day-brunch-copy/",
+      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2026/03/Mothers-Day-Pic.png",
+      "source": "Soyuzivka",
+      "date_added": "2026-04-11T00:00:00+00:00",
+      "event_category": "arttalk"
     },
     {
       "id": "1fae8937-b633-4c26-8f38-9f5daa122a54",
@@ -714,7 +642,7 @@
       "ticket_link": "https://waylight.me/ucrazystandup/event/0d240-caaa6",
       "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1774908637__--2-1920x1080.jpg",
       "source": "Waylight",
-      "date_added": "2026-03-21T00:00:00+00:00",
+      "date_added": "2026-03-14T00:00:00+00:00",
       "event_category": "standup"
     },
     {
@@ -726,7 +654,7 @@
       "ticket_link": "https://ukrainian.us/events/artclasses",
       "cover_image_url": "https://ukrainian.us/storage/event/1/hc_V99QD4g5JAbTaAOpXO2foxPdXR4Cz-source.png?v=0.1&s=d6bdbe4e5c4aeba611e94d7157aaa883",
       "source": "Ukrainian USA",
-      "date_added": "2026-03-28T00:00:00+00:00",
+      "date_added": "2026-03-21T00:00:00+00:00",
       "event_category": "workshop"
     },
     {
@@ -738,7 +666,7 @@
       "ticket_link": "https://www.eventbrite.com/e/new-york-when-will-you-get-divorced-tickets-1985212495013",
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1179688422%252F294391790611%252F1%252Foriginal.20260312-143148%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.896%26fp-y%3D0.487%26s%3Db2b76ff67ee90fb2f3bf7b6570423ba5&w=940&q=75",
       "source": "Eventbrite",
-      "date_added": "2026-03-28T00:00:00+00:00",
+      "date_added": "2026-03-21T00:00:00+00:00",
       "event_category": "movie"
     },
     {
@@ -750,7 +678,7 @@
       "ticket_link": "https://www.eventbrite.com/e/change-my-mind-nyc-premiere-tickets-1985003343435",
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1179634212%252F169569148912%252F1%252Foriginal.20260311-211535%3Fw%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26s%3Da0d7f13f2ba237b9321498fe581bf781&w=940&q=75",
       "source": "Eventbrite",
-      "date_added": "2026-03-28T00:00:00+00:00",
+      "date_added": "2026-03-21T00:00:00+00:00",
       "event_category": "movie"
     },
     {
@@ -762,7 +690,7 @@
       "ticket_link": "https://www.eventbrite.com/e/introductions-tickets-1984527310608",
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1179753339%252F14210349983%252F1%252Foriginal.20260313-040358%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D2ae90b5a6ca1a257c568247ed61c6e5f&w=940&q=75",
       "source": "Eventbrite",
-      "date_added": "2026-03-28T00:00:00+00:00",
+      "date_added": "2026-03-21T00:00:00+00:00",
       "event_category": "concert"
     },
     {
@@ -774,7 +702,7 @@
       "ticket_link": "https://bomond.com/events/verka-serduchka-band-new-york-2026",
       "cover_image_url": "https://api.bomond.com/public/56/2834/141700/serduchka_432x432%20%282%29.webp",
       "source": "Bomond",
-      "date_added": "2026-03-28T00:00:00+00:00",
+      "date_added": "2026-03-21T00:00:00+00:00",
       "event_category": "concert"
     },
     {
@@ -786,7 +714,7 @@
       "ticket_link": "https://www.razomforukraine.org/events/book-launch-mrs-orwell-by-andrea-chalupa-in-conversation-with-nomiki-konst/",
       "cover_image_url": "https://www.razomforukraine.org/wp-content/uploads/2026/03/Group-4076283-2.png",
       "source": "Razom For Ukraine",
-      "date_added": "2026-03-28T00:00:00+00:00",
+      "date_added": "2026-03-21T00:00:00+00:00",
       "event_category": "arttalk"
     },
     {
@@ -798,7 +726,7 @@
       "ticket_link": "https://www.zeffy.com/en-US/ticketing/members-appreciation-night",
       "cover_image_url": "https://www.theukrainianmuseum.org/wp-content/uploads/MembershipNight2.png",
       "source": "Ukrainian Museum",
-      "date_added": "2026-03-28T00:00:00+00:00",
+      "date_added": "2026-03-21T00:00:00+00:00",
       "event_category": "arttalk"
     },
     {
@@ -810,7 +738,7 @@
       "ticket_link": "https://soyuzivka.com/calendar-of-events/volunteer-weekend/",
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/SuzyQ-Volunteer1.png",
       "source": "Soyuzivka",
-      "date_added": "2026-03-28T00:00:00+00:00",
+      "date_added": "2026-03-21T00:00:00+00:00",
       "event_category": "workshop"
     },
     {
@@ -822,7 +750,7 @@
       "ticket_link": "https://waylight.me/Mriya/event/caaca-30796",
       "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1772261744_14.png",
       "source": "Waylight",
-      "date_added": "2026-03-28T00:00:00+00:00",
+      "date_added": "2026-03-21T00:00:00+00:00",
       "event_category": "concert"
     },
     {
@@ -834,7 +762,7 @@
       "ticket_link": "https://mticket.com/en/new-york/homin-choir-in-new-york-1602.html",
       "cover_image_url": "https://usa.mticket.com/uploads/resize/shows/logo/630x891_show_P1clnW1iyAFWX3JcF0GGzhXdpMf_Nr6y.jpg",
       "source": "mticket",
-      "date_added": "2026-04-04T00:00:00+00:00",
+      "date_added": "2026-03-28T00:00:00+00:00",
       "event_category": "concert"
     },
     {
@@ -846,7 +774,7 @@
       "ticket_link": "https://urclife.org/events/olia-freimut-new-york",
       "cover_image_url": "https://urclife.org/wp-content/uploads/2026/03/%D0%A4%D1%80%D0%B5%D0%B8%CC%86%D0%BC%D1%83%D1%82-NY-19-1080%D1%851080-1.jpg",
       "source": "URC Life",
-      "date_added": "2026-04-04T00:00:00+00:00",
+      "date_added": "2026-03-28T00:00:00+00:00",
       "event_category": "arttalk"
     },
     {
@@ -858,7 +786,7 @@
       "ticket_link": "https://www.eventbrite.com/e/afternoon-event-w-yevgenia-nayberg-chernobyl-life-and-other-disasters-tickets-1984999914178",
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1179629620%252F213734307976%252F1%252Foriginal.20260311-202827%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D1.0%26fp-y%3D0.483%26s%3D6bccfae807e05f8d6e6aac337b6951f5&w=1880&q=75",
       "source": "Eventbrite",
-      "date_added": "2026-04-04T00:00:00+00:00",
+      "date_added": "2026-03-28T00:00:00+00:00",
       "event_category": "arttalk"
     },
     {
@@ -870,7 +798,7 @@
       "ticket_link": "https://www.eventbrite.com/e/brooklyn-ny-on-drive-tickets-1985993901220",
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1180716526%252F294391790611%252F1%252Foriginal.20260326-004213%3Fw%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26s%3Ddee521dbf08edd4e9b840130ceabeeb7&w=1880&q=75",
       "source": "Eventbrite",
-      "date_added": "2026-04-04T00:00:00+00:00",
+      "date_added": "2026-03-28T00:00:00+00:00",
       "event_category": "movie"
     },
     {
@@ -882,7 +810,7 @@
       "ticket_link": "https://ukrainian.us/events/chico-qatoshi-whippany",
       "cover_image_url": "https://ukrainian.us/storage/event/1/E9vX1XF2MQiJb8_UlgaGmayZ7C9QM7a_-source.png?v=0.1&s=b63eb6c815afb4759c5bf0fe6f6c3cfc",
       "source": "Ukrainian USA",
-      "date_added": "2026-04-04T00:00:00+00:00",
+      "date_added": "2026-03-28T00:00:00+00:00",
       "event_category": "concert"
     },
     {
@@ -894,7 +822,7 @@
       "ticket_link": "https://ukrainian.us/events/prokopov-ny",
       "cover_image_url": "https://ukrainian.us/storage/event/1/HYEvKyLi0mJi92ocbWd3EpyjsHILgBxE-source.png?v=0.1&s=e0b574e217810f6ca7e82c13e06f0c15",
       "source": "Ukrainian USA",
-      "date_added": "2026-04-04T00:00:00+00:00",
+      "date_added": "2026-03-28T00:00:00+00:00",
       "event_category": "concert"
     },
     {
@@ -982,18 +910,6 @@
       "event_category": "arttalk"
     },
     {
-      "id": "87720f39-3f58-4229-9cc6-64557a4ed9b0",
-      "event_title": "Mother’s Day Brunch",
-      "event_date": "2026-05-10T00:00:00+00:00",
-      "location": "Soyuzivka Heritage Center, Kerhonkson, NY",
-      "event_description": "Celebrate Mother’s Day in style at Soyuzivka with our exquisite brunch buffet, where a delectable array of dishes awaits along with a complimentary glass of champagne or mimosa—because every mom deserves a toast on her special day! Reservations Accepted - Call (845) 626-5641 or email [email protecte",
-      "ticket_link": "https://soyuzivka.com/calendar-of-events/fathers-day-brunch-copy/",
-      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2026/03/Mothers-Day-Pic.png",
-      "source": "Soyuzivka",
-      "date_added": "2026-04-11T00:00:00+00:00",
-      "event_category": "arttalk"
-    },
-    {
       "id": "2c954da7-b124-4b5c-9bab-5c37b3efcaf2",
       "event_title": "Fisch Trio",
       "event_date": "2026-05-10T00:00:00+00:00",
@@ -1004,6 +920,18 @@
       "source": "Helping Hands for Ukraine",
       "date_added": "2026-04-11T00:00:00+00:00",
       "event_category": "concert"
+    },
+    {
+      "id": "87720f39-3f58-4229-9cc6-64557a4ed9b0",
+      "event_title": "Mother’s Day Brunch",
+      "event_date": "2026-05-10T00:00:00+00:00",
+      "location": "Soyuzivka Heritage Center, Kerhonkson, NY",
+      "event_description": "Celebrate Mother’s Day in style at Soyuzivka with our exquisite brunch buffet, where a delectable array of dishes awaits along with a complimentary glass of champagne or mimosa—because every mom deserves a toast on her special day! Reservations Accepted - Call (845) 626-5641 or email [email protecte",
+      "ticket_link": "https://soyuzivka.com/calendar-of-events/fathers-day-brunch-copy/",
+      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2026/03/Mothers-Day-Pic.png",
+      "source": "Soyuzivka",
+      "date_added": "2026-04-11T00:00:00+00:00",
+      "event_category": "arttalk"
     },
     {
       "id": "1fae8937-b633-4c26-8f38-9f5daa122a54",
