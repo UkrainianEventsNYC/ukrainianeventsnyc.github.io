@@ -1569,20 +1569,25 @@
     // ── Date helpers ──────────────────────────────────────────────────────
     function formatDate(raw) {
       if (!raw) return { dateStr: '', dayNum: '', monthShort: '' };
+      try {
         const tz = 'America/New_York';
-        let dt, dayNum, monthShort, weekday, fullDate, timeStr;
+        let dt, dayNum, monthShort, weekday, fullDate, timeStr = '';
 
-        dt = new Date(raw.replace('Z', '+00:00'));
+        if (raw.length === 10) {
+          // It's precisely YYYY-MM-DD from the DB. Use local noon to safely bypass timezone edge-cases.
+          const [y, m, d] = raw.split('-').map(Number);
+          dt = new Date(y, m - 1, d, 12, 0, 0);
+        } else {
+          // Legacy or fallback ISO parsing
+          dt = new Date(raw.replace('Z', '+00:00'));
+          timeStr = dt.toLocaleTimeString('en-US', { hour: 'numeric', minute: '2-digit', timeZone: tz });
+          if (timeStr === '12:00 AM' || timeStr === '00:00') timeStr = '';
+        }
+
         dayNum = dt.toLocaleDateString('en-US', { day: 'numeric', timeZone: tz });
         monthShort = dt.toLocaleDateString('en-US', { month: 'short', timeZone: tz });
         weekday = dt.toLocaleDateString('en-US', { weekday: 'short', timeZone: tz });
         fullDate = dt.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric', timeZone: tz });
-        timeStr = dt.toLocaleTimeString('en-US', { hour: 'numeric', minute: '2-digit', timeZone: tz });
-
-        // Hide 12:00 AM / 00:00 time since that is our convention for date-only events
-        if (timeStr === '12:00 AM' || timeStr === '00:00') {
-           timeStr = '';
-        }
 
         const dateStr = weekday + ', ' + fullDate + (timeStr ? ' · ' + timeStr : '');
         return { dateStr, dayNum, monthShort };
