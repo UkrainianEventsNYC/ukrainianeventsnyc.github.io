@@ -1,39 +1,67 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="referrer" content="no-referrer" />
   <title>🇺🇦 NYC Ukrainian Events</title>
-  <meta name="description" content="Continuously updated directory of Ukrainian cultural events in New York City Area — sorted by Next Week, Upcoming, and Next Month." />
-  <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet" />
-  <style>
-    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  <meta name="description"
+    content="Continuously updated directory of Ukrainian cultural events in New York City Area — sorted by Next Week, Upcoming, and Next Month." />
 
-    :root {
-      --blue:       #1a56db;
-      --blue-mid:   #1648c0;
-      --blue-dark:  #0b2a7a;
-      --blue-deep:  #060f2e;
-      --gold:       #ffd500;
-      --gold-dim:   #c9a52b;
-      --gold-glow:  rgba(255,213,0,0.18);
-      --bg:         #080d1a;
-      --surface:    #0e1525;
-      --surface2:   #141d2e;
-      --surface3:   #1a2540;
-      --border:     rgba(255,255,255,0.07);
-      --border-hi:  rgba(255,255,255,0.13);
-      --text:       #e8eef8;
-      --text-dim:   #a0b0cc;
-      --muted:      #5c738a;
-      --radius:     16px;
-      --radius-sm:  10px;
-      --shadow:     0 8px 40px rgba(0,0,0,0.6);
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://ukrainianeventsnyc.github.io/" />
+  <meta property="og:title" content="🇺🇦 NYC Ukrainian Events" />
+  <meta property="og:description"
+    content="Continuously updated directory of Ukrainian cultural events in New York City Area — sorted by Next Week, Upcoming, and Next Month." />
+  <meta property="og:image" content="https://ukrainianeventsnyc.github.io/og-image.png" />
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image" />
+  <meta property="twitter:url" content="https://ukrainianeventsnyc.github.io/" />
+  <meta property="twitter:title" content="🇺🇦 NYC Ukrainian Events" />
+  <meta property="twitter:description"
+    content="Continuously updated directory of Ukrainian cultural events in New York City Area — sorted by Next Week, Upcoming, and Next Month." />
+  <meta property="twitter:image" content="https://ukrainianeventsnyc.github.io/og-image.png" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap"
+    rel="stylesheet" />
+  <style>
+    *,
+    *::before,
+    *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
     }
 
-    html { scroll-behavior: smooth; }
+    :root {
+      --blue: #1a56db;
+      --blue-mid: #1648c0;
+      --blue-dark: #0b2a7a;
+      --blue-deep: #060f2e;
+      --gold: #ffd500;
+      --gold-dim: #c9a52b;
+      --gold-glow: rgba(255, 213, 0, 0.18);
+      --bg: #080d1a;
+      --surface: #0e1525;
+      --surface2: #141d2e;
+      --surface3: #1a2540;
+      --border: rgba(255, 255, 255, 0.07);
+      --border-hi: rgba(255, 255, 255, 0.13);
+      --text: #e8eef8;
+      --text-dim: #a0b0cc;
+      --muted: #5c738a;
+      --radius: 16px;
+      --radius-sm: 10px;
+      --shadow: 0 8px 40px rgba(0, 0, 0, 0.6);
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
     body {
       font-family: 'Inter', sans-serif;
       background: var(--bg);
@@ -45,23 +73,30 @@
     /* ── Background grain ── */
     body::before {
       content: '';
-      position: fixed; inset: 0; z-index: 0;
+      position: fixed;
+      inset: 0;
+      z-index: 0;
       background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='0.04'/%3E%3C/svg%3E");
       pointer-events: none;
     }
 
     /* ── Header ── */
     header {
-      position: relative; z-index: 1;
+      position: relative;
+      z-index: 1;
       background: linear-gradient(160deg, var(--blue-dark) 0%, #091838 40%, var(--bg) 100%);
       border-bottom: 1px solid var(--border-hi);
       padding: 4rem 2rem 3rem;
       text-align: center;
       overflow: hidden;
     }
+
     header::after {
       content: '';
-      position: absolute; bottom: 0; left: 0; right: 0;
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 0;
       height: 1px;
       background: linear-gradient(90deg, transparent, var(--gold), transparent);
     }
@@ -74,6 +109,7 @@
       line-height: 1.1;
       color: #fff;
     }
+
     header h1 em {
       font-style: normal;
       background: linear-gradient(90deg, var(--gold) 0%, #ffe87a 50%, var(--gold) 100%);
@@ -81,6 +117,7 @@
       -webkit-text-fill-color: transparent;
       background-clip: text;
     }
+
     .header-sub {
       margin-top: 0.75rem;
       color: var(--text-dim);
@@ -90,10 +127,13 @@
       margin-left: auto;
       margin-right: auto;
     }
+
     .updated-pill {
-      display: inline-flex; align-items: center; gap: 6px;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
       margin-top: 1.5rem;
-      background: rgba(255,255,255,0.05);
+      background: rgba(255, 255, 255, 0.05);
       border: 1px solid var(--border-hi);
       border-radius: 999px;
       padding: 5px 14px;
@@ -101,14 +141,27 @@
       color: var(--text-dim);
       letter-spacing: 0.01em;
     }
+
     .pulse {
-      width: 7px; height: 7px; border-radius: 50%;
+      width: 7px;
+      height: 7px;
+      border-radius: 50%;
       background: #4ade80;
       animation: pulse 2s ease-in-out infinite;
     }
+
     @keyframes pulse {
-      0%,100% { opacity: 1; transform: scale(1); }
-      50% { opacity: 0.4; transform: scale(0.7); }
+
+      0%,
+      100% {
+        opacity: 1;
+        transform: scale(1);
+      }
+
+      50% {
+        opacity: 0.4;
+        transform: scale(0.7);
+      }
     }
 
 
@@ -120,6 +173,7 @@
       color: var(--muted);
       margin-right: 0.25rem;
     }
+
     .pill {
       background: var(--surface2);
       border: 1px solid var(--border-hi);
@@ -132,55 +186,84 @@
       cursor: pointer;
       transition: all 0.18s ease;
     }
-    .pill:hover { background: var(--surface3); color: var(--text); }
+
+    .pill:hover {
+      background: var(--surface3);
+      color: var(--text);
+    }
+
     .pill.active {
       background: var(--blue);
       border-color: var(--blue);
       color: #fff;
-      box-shadow: 0 0 16px rgba(26,86,219,0.4);
+      box-shadow: 0 0 16px rgba(26, 86, 219, 0.4);
     }
 
     /* ── Main content ── */
     main {
-      position: relative; z-index: 1;
+      position: relative;
+      z-index: 1;
       max-width: 1260px;
       margin: 0 auto;
       padding: 2.5rem 1.5rem 5rem;
     }
 
     /* ── Section ── */
-    .section { margin-bottom: 3.5rem; }
+    .section {
+      margin-bottom: 3.5rem;
+    }
 
     .section-header {
-      display: flex; align-items: center; gap: 1rem;
+      display: flex;
+      align-items: center;
+      gap: 1rem;
       margin-bottom: 1.5rem;
       padding-bottom: 1rem;
       border-bottom: 1px solid var(--border);
     }
+
     .section-icon {
-      width: 42px; height: 42px;
+      width: 42px;
+      height: 42px;
       border-radius: 12px;
-      display: flex; align-items: center; justify-content: center;
+      display: flex;
+      align-items: center;
+      justify-content: center;
       font-size: 1.2rem;
       flex-shrink: 0;
     }
-    .section-icon.week  { background: linear-gradient(135deg, #1e3a8a, #1a56db); box-shadow: 0 0 20px rgba(26,86,219,0.4); }
-    .section-icon.upcoming { background: linear-gradient(135deg, #78350f, #d97706); box-shadow: 0 0 20px rgba(217,119,6,0.3); }
-    .section-icon.month { background: linear-gradient(135deg, #1e3a5f, #0f5fa8); box-shadow: 0 0 20px rgba(15,95,168,0.3); }
+
+    .section-icon.week {
+      background: linear-gradient(135deg, #1e3a8a, #1a56db);
+      box-shadow: 0 0 20px rgba(26, 86, 219, 0.4);
+    }
+
+    .section-icon.upcoming {
+      background: linear-gradient(135deg, #78350f, #d97706);
+      box-shadow: 0 0 20px rgba(217, 119, 6, 0.3);
+    }
+
+    .section-icon.month {
+      background: linear-gradient(135deg, #1e3a5f, #0f5fa8);
+      box-shadow: 0 0 20px rgba(15, 95, 168, 0.3);
+    }
 
     .section-title {
       flex: 1;
     }
+
     .section-title h2 {
       font-size: 1.2rem;
       font-weight: 700;
       color: var(--text);
     }
+
     .section-title p {
       font-size: 0.78rem;
       color: var(--muted);
       margin-top: 2px;
     }
+
     .section-count {
       background: var(--surface2);
       border: 1px solid var(--border-hi);
@@ -209,10 +292,11 @@
       transition: transform 0.22s ease, box-shadow 0.22s ease, border-color 0.22s ease;
       cursor: default;
     }
+
     .card:hover {
       transform: translateY(-5px);
-      box-shadow: var(--shadow), 0 0 0 1px rgba(26,86,219,0.5);
-      border-color: rgba(26,86,219,0.5);
+      box-shadow: var(--shadow), 0 0 0 1px rgba(26, 86, 219, 0.5);
+      border-color: rgba(26, 86, 219, 0.5);
     }
 
     /* Card image */
@@ -224,25 +308,36 @@
       background: var(--surface2);
       flex-shrink: 0;
     }
+
     .card-img {
-      width: 100%; height: 100%;
+      width: 100%;
+      height: 100%;
       object-fit: cover;
       display: block;
       transition: transform 0.4s ease;
     }
-    .card:hover .card-img { transform: scale(1.04); }
+
+    .card:hover .card-img {
+      transform: scale(1.04);
+    }
+
     .card-img-fallback {
-      width: 100%; height: 100%;
-      display: flex; align-items: center; justify-content: center;
+      width: 100%;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
       font-size: 3rem;
       background: linear-gradient(135deg, var(--surface2) 0%, var(--surface3) 100%);
     }
 
     /* Date badge on image */
     .date-badge {
-      position: absolute; bottom: 10px; left: 10px;
+      position: absolute;
+      bottom: 10px;
+      left: 10px;
       text-align: center;
-      background: rgba(8,13,26,0.85);
+      background: rgba(8, 13, 26, 0.85);
       backdrop-filter: blur(8px);
       border: 1px solid var(--border-hi);
       border-radius: 8px;
@@ -252,6 +347,7 @@
       color: #fff;
       line-height: 1.3;
     }
+
     .date-badge .db-day {
       font-size: 1.1rem;
       font-weight: 800;
@@ -263,9 +359,12 @@
     /* Card body */
     .card-body {
       padding: 1.1rem 1.1rem 0;
-      display: flex; flex-direction: column; gap: 0.4rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.4rem;
       flex: 1;
     }
+
     .card-title {
       font-size: 0.95rem;
       font-weight: 700;
@@ -277,14 +376,23 @@
       -webkit-box-orient: vertical;
       overflow: hidden;
     }
-    .card-meta { display: none; } /* User requested we completely omit time/address text globally for all cards */
+
+    .card-meta {
+      display: none;
+    }
+
+    /* User requested we completely omit time/address text globally for all cards */
 
     .card-footer {
       padding: 0.9rem 1.1rem 1.1rem;
       margin-top: auto;
     }
+
     .ticket-btn {
-      display: flex; align-items: center; justify-content: center; gap: 6px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 6px;
       width: 100%;
       background: var(--blue);
       color: #fff;
@@ -294,23 +402,32 @@
       font-size: 0.82rem;
       font-weight: 600;
       transition: background 0.18s, transform 0.12s, box-shadow 0.18s;
-      border: none; cursor: pointer; font-family: inherit;
+      border: none;
+      cursor: pointer;
+      font-family: inherit;
     }
+
     .ticket-btn:hover {
       background: var(--blue-mid);
       transform: scale(1.02);
-      box-shadow: 0 4px 16px rgba(26,86,219,0.5);
+      box-shadow: 0 4px 16px rgba(26, 86, 219, 0.5);
     }
+
     .ticket-btn.no-link {
       background: var(--surface2);
       color: var(--muted);
       cursor: default;
     }
-    .ticket-btn.no-link:hover { transform: none; box-shadow: none; }
+
+    .ticket-btn.no-link:hover {
+      transform: none;
+      box-shadow: none;
+    }
 
     /* ── Collapsible Filter Sections ── */
     .filter-accordion {
-      position: relative; z-index: 1;
+      position: relative;
+      z-index: 1;
       max-width: 1260px;
       margin: 1.5rem auto 0;
       padding: 0 1.5rem;
@@ -319,6 +436,7 @@
       align-items: flex-start;
       gap: 1rem;
     }
+
     /* Left column: filter sections, takes 2/3 of the width */
     .filter-left {
       flex: 0 0 66%;
@@ -326,6 +444,7 @@
       flex-direction: column;
       gap: 0.5rem;
     }
+
     /* Right column: view toggles, takes remaining space, right-aligned */
     .filter-right {
       flex: 1;
@@ -335,6 +454,7 @@
       align-items: flex-start;
       gap: 0.4rem;
     }
+
     .filter-right .pill {
       width: 40px;
       height: 40px;
@@ -344,9 +464,12 @@
       justify-content: center;
       font-size: 1.2rem;
     }
+
     /* Filter toggle looks like a normal pill button */
     .filter-toggle {
-      display: inline-flex; align-items: center; gap: 8px;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
       background: var(--surface2);
       border: 1px solid var(--border-hi);
       border-radius: 20px;
@@ -360,15 +483,31 @@
       text-align: left;
       white-space: nowrap;
     }
-    .filter-toggle:hover { background: var(--surface3); border-color: var(--blue); color: var(--text); }
+
+    .filter-toggle:hover {
+      background: var(--surface3);
+      border-color: var(--blue);
+      color: var(--text);
+    }
+
     .filter-toggle .chevron {
       margin-left: auto;
       transition: transform 0.25s ease;
       font-size: 0.65rem;
       opacity: 0.6;
     }
-    .filter-section.open .filter-toggle { background: var(--surface3); border-color: var(--blue); color: var(--text); }
-    .filter-section.open .filter-toggle .chevron { transform: rotate(180deg); opacity: 1; }
+
+    .filter-section.open .filter-toggle {
+      background: var(--surface3);
+      border-color: var(--blue);
+      color: var(--text);
+    }
+
+    .filter-section.open .filter-toggle .chevron {
+      transform: rotate(180deg);
+      opacity: 1;
+    }
+
     .filter-toggle .active-label {
       background: var(--blue);
       color: #fff;
@@ -377,18 +516,23 @@
       font-size: 0.7rem;
       font-weight: 700;
     }
+
     .filter-content {
       max-height: 0;
       overflow: hidden;
       transition: max-height 0.3s ease, padding 0.3s ease;
       padding: 0 0.25rem;
     }
+
     .filter-section.open .filter-content {
       max-height: 300px;
       padding: 0.75rem 0.25rem;
     }
+
     .filter-pills {
-      display: flex; flex-wrap: wrap; gap: 0.55rem;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.55rem;
     }
 
 
@@ -408,6 +552,7 @@
       margin-top: 1.25rem;
       text-align: center;
     }
+
     .see-more-link {
       color: var(--gold-dim);
       font-size: 0.82rem;
@@ -420,6 +565,7 @@
       transition: all 0.18s ease;
       display: inline-block;
     }
+
     .see-more-link:hover {
       background: var(--surface3);
       color: var(--gold);
@@ -427,35 +573,67 @@
     }
 
     /* ── Loading / Error ── */
-    #loading, #error-state {
-      position: fixed; inset: 0; z-index: 100;
-      display: flex; flex-direction: column; align-items: center; justify-content: center;
+    #loading,
+    #error-state {
+      position: fixed;
+      inset: 0;
+      z-index: 100;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
       gap: 1rem;
       background: var(--bg);
     }
+
     .spinner {
-      width: 48px; height: 48px;
+      width: 48px;
+      height: 48px;
       border: 3px solid var(--border-hi);
       border-top-color: var(--blue);
       border-radius: 50%;
       animation: spin 0.8s linear infinite;
     }
-    @keyframes spin { to { transform: rotate(360deg); } }
-    #error-state { display: none; }
-    #error-state .err-icon { font-size: 2.5rem; }
-    #error-state p { color: var(--text-dim); max-width: 340px; text-align: center; }
+
+    @keyframes spin {
+      to {
+        transform: rotate(360deg);
+      }
+    }
+
+    #error-state {
+      display: none;
+    }
+
+    #error-state .err-icon {
+      font-size: 2.5rem;
+    }
+
+    #error-state p {
+      color: var(--text-dim);
+      max-width: 340px;
+      text-align: center;
+    }
 
     /* ── Footer ── */
     footer {
-      position: relative; z-index: 1;
+      position: relative;
+      z-index: 1;
       border-top: 1px solid var(--border);
       text-align: center;
       padding: 2rem;
       font-size: 0.78rem;
       color: var(--muted);
     }
-    footer a { color: var(--gold-dim); text-decoration: none; }
-    footer a:hover { text-decoration: underline; }
+
+    footer a {
+      color: var(--gold-dim);
+      text-decoration: none;
+    }
+
+    footer a:hover {
+      text-decoration: underline;
+    }
 
     /* ══════════════════════════════════════════════════════════════
        RESPONSIVE DESIGN — 4 Breakpoint System
@@ -468,11 +646,28 @@
 
     /* ── Phone portrait (≤480px) ── */
     @media (max-width: 480px) {
-      header { padding: 2rem 1rem 1.5rem; }
-      header h1 { font-size: 1.75rem; }
-      .header-sub { font-size: 0.82rem; margin-top: 0.4rem; }
-      .updated-pill { margin-top: 0.75rem; font-size: 0.65rem; padding: 4px 10px; }
-      main { padding: 1rem 0.5rem 3rem; }
+      header {
+        padding: 2rem 1rem 1.5rem;
+      }
+
+      header h1 {
+        font-size: 1.75rem;
+      }
+
+      .header-sub {
+        font-size: 0.82rem;
+        margin-top: 0.4rem;
+      }
+
+      .updated-pill {
+        margin-top: 0.75rem;
+        font-size: 0.65rem;
+        padding: 4px 10px;
+      }
+
+      main {
+        padding: 1rem 0.5rem 3rem;
+      }
 
       /* 2-column grid — comfortable cards with readable text */
       main:not(.list-view) .grid {
@@ -480,56 +675,154 @@
         grid-template-columns: repeat(2, 1fr);
         gap: 0.5rem;
       }
-      main:not(.list-view) .card { border-radius: 10px; min-width: 0; }
-      main:not(.list-view) .card-img-wrap { height: 120px; }
+
+      main:not(.list-view) .card {
+        border-radius: 10px;
+        min-width: 0;
+      }
+
+      main:not(.list-view) .card-img-wrap {
+        height: 120px;
+      }
+
       main:not(.list-view) .date-badge {
-        bottom: 6px; left: 6px; padding: 3px 7px; font-size: 0.6rem; border-radius: 6px;
+        bottom: 6px;
+        left: 6px;
+        padding: 3px 7px;
+        font-size: 0.6rem;
+        border-radius: 6px;
       }
-      main:not(.list-view) .date-badge .db-day { font-size: 0.9rem; }
-      main:not(.list-view) .card-body { padding: 0.5rem; gap: 0.15rem; }
+
+      main:not(.list-view) .date-badge .db-day {
+        font-size: 0.9rem;
+      }
+
+      main:not(.list-view) .card-body {
+        padding: 0.5rem;
+        gap: 0.15rem;
+      }
+
       main:not(.list-view) .card-title {
-        font-size: 0.78rem; line-height: 1.25; -webkit-line-clamp: 2; line-clamp: 2;
+        font-size: 0.78rem;
+        line-height: 1.25;
+        -webkit-line-clamp: 2;
+        line-clamp: 2;
       }
-      main:not(.list-view) .card-footer { padding: 0.25rem 0.5rem 0.5rem; }
-      main:not(.list-view) .ticket-btn { padding: 6px 8px; font-size: 0.7rem; border-radius: 6px; }
+
+      main:not(.list-view) .card-footer {
+        padding: 0.25rem 0.5rem 0.5rem;
+      }
+
+      main:not(.list-view) .ticket-btn {
+        padding: 6px 8px;
+        font-size: 0.7rem;
+        border-radius: 6px;
+      }
 
       /* Tabs — icon-only for inactive, text for active */
-      .tabs-container { padding: 0 4px; gap: 3px; }
-      .main-tab {
-        padding: 0.4rem 0.25rem; flex: 1; font-size: 0.72rem;
-        border-radius: 6px 6px 0 0; gap: 3px; min-width: 0;
+      .tabs-container {
+        padding: 0 4px;
+        gap: 3px;
       }
-      .main-tab .tab-icon { font-size: 0.9rem; }
-      .main-tab .tab-text { font-size: 0.68rem; }
-      .main-tab .section-count { display: none !important; }
-      .main-tab:not(.active) .tab-text { display: none; }
-      .main-tab.active { flex: 2.2; }
+
+      .main-tab {
+        padding: 0.4rem 0.25rem;
+        flex: 1;
+        font-size: 0.72rem;
+        border-radius: 6px 6px 0 0;
+        gap: 3px;
+        min-width: 0;
+      }
+
+      .main-tab .tab-icon {
+        font-size: 0.9rem;
+      }
+
+      .main-tab .tab-text {
+        font-size: 0.68rem;
+      }
+
+      .main-tab .section-count {
+        display: none !important;
+      }
+
+      .main-tab:not(.active) .tab-text {
+        display: none;
+      }
+
+      .main-tab.active {
+        flex: 2.2;
+      }
 
       /* Filter bar */
-      .filter-label { font-size: 0.65rem; }
-      .pill { padding: 5px 12px; font-size: 0.72rem; }
+      .filter-label {
+        font-size: 0.65rem;
+      }
+
+      .pill {
+        padding: 5px 12px;
+        font-size: 0.72rem;
+      }
 
       /* List view mobile */
       main.list-view .card {
-        padding: 0.75rem; border: 1px solid var(--border);
-        border-radius: var(--radius-sm); margin-bottom: 0.4rem; background: var(--surface);
+        padding: 0.75rem;
+        border: 1px solid var(--border);
+        border-radius: var(--radius-sm);
+        margin-bottom: 0.4rem;
+        background: var(--surface);
       }
-      main.list-view .card-body { gap: 0.75rem; }
-      main.list-view .card-title { white-space: normal; font-size: 0.88rem; }
-      main.list-view .card-footer { margin: 0; }
-      main.list-view .ticket-btn { padding: 6px 12px; font-size: 0.78rem; }
+
+      main.list-view .card-body {
+        gap: 0.75rem;
+      }
+
+      main.list-view .card-title {
+        white-space: normal;
+        font-size: 0.88rem;
+      }
+
+      main.list-view .card-footer {
+        margin: 0;
+      }
+
+      main.list-view .ticket-btn {
+        padding: 6px 12px;
+        font-size: 0.78rem;
+      }
 
       /* Section header */
-      .section-header { gap: 0.6rem; margin-bottom: 1rem; padding-bottom: 0.6rem; }
-      .section-icon { width: 34px; height: 34px; border-radius: 8px; font-size: 1rem; }
-      .section-title h2 { font-size: 1rem; }
-      .section-title p { font-size: 0.7rem; }
+      .section-header {
+        gap: 0.6rem;
+        margin-bottom: 1rem;
+        padding-bottom: 0.6rem;
+      }
+
+      .section-icon {
+        width: 34px;
+        height: 34px;
+        border-radius: 8px;
+        font-size: 1rem;
+      }
+
+      .section-title h2 {
+        font-size: 1rem;
+      }
+
+      .section-title p {
+        font-size: 0.7rem;
+      }
     }
 
     /* ── Phone landscape & small tablet (481–768px) ── */
     @media (min-width: 481px) and (max-width: 768px) {
-      header { padding: 2.5rem 1.5rem 2rem; }
-      main { padding: 1.5rem 1rem 4rem; }
+      header {
+        padding: 2.5rem 1.5rem 2rem;
+      }
+
+      main {
+        padding: 1.5rem 1rem 4rem;
+      }
 
       /* 2-column grid — nicely sized cards */
       main:not(.list-view) .grid {
@@ -537,20 +830,46 @@
         grid-template-columns: repeat(2, 1fr);
         gap: 0.75rem;
       }
-      main:not(.list-view) .card-img-wrap { height: 160px; }
+
+      main:not(.list-view) .card-img-wrap {
+        height: 160px;
+      }
 
       /* Tabs — show text on all tabs */
-      .tabs-container { padding: 0 6px; gap: 4px; }
-      .main-tab { padding: 0.5rem 0.6rem; font-size: 0.78rem; gap: 5px; }
-      .main-tab .tab-text { font-size: 0.75rem; }
-      .main-tab .tab-icon { font-size: 1rem; }
-      .main-tab .section-count { font-size: 0.7rem; padding: 1px 6px; }
+      .tabs-container {
+        padding: 0 6px;
+        gap: 4px;
+      }
+
+      .main-tab {
+        padding: 0.5rem 0.6rem;
+        font-size: 0.78rem;
+        gap: 5px;
+      }
+
+      .main-tab .tab-text {
+        font-size: 0.75rem;
+      }
+
+      .main-tab .tab-icon {
+        font-size: 1rem;
+      }
+
+      .main-tab .section-count {
+        font-size: 0.7rem;
+        padding: 1px 6px;
+      }
     }
 
     /* ── iPad portrait (769–1024px) ── */
     @media (min-width: 769px) and (max-width: 1024px) {
-      header { padding: 3rem 2rem 2.5rem; }
-      main { padding: 2rem 1.5rem 4rem; }
+      header {
+        padding: 3rem 2rem 2.5rem;
+      }
+
+      main {
+        padding: 2rem 1.5rem 4rem;
+      }
 
       /* 3-column grid */
       main:not(.list-view) .grid {
@@ -558,471 +877,611 @@
         grid-template-columns: repeat(3, 1fr);
         gap: 1rem;
       }
-      main:not(.list-view) .card-img-wrap { height: 175px; }
+
+      main:not(.list-view) .card-img-wrap {
+        height: 175px;
+      }
 
       /* Tabs — all labels visible */
-      .main-tab { padding: 0.6rem 0.8rem; font-size: 0.82rem; }
+      .main-tab {
+        padding: 0.6rem 0.8rem;
+        font-size: 0.82rem;
+      }
     }
 
     /* ── Landscape orientation on phones (short height) ── */
     @media (max-height: 500px) and (orientation: landscape) {
-      header { padding: 1.5rem 1.5rem 1rem; }
-      header h1 { font-size: 1.5rem; }
-      .header-sub { font-size: 0.78rem; margin-top: 0.3rem; }
-      .updated-pill { margin-top: 0.5rem; }
-      main { padding: 1rem 1rem 3rem; }
+      header {
+        padding: 1.5rem 1.5rem 1rem;
+      }
+
+      header h1 {
+        font-size: 1.5rem;
+      }
+
+      .header-sub {
+        font-size: 0.78rem;
+        margin-top: 0.3rem;
+      }
+
+      .updated-pill {
+        margin-top: 0.5rem;
+      }
+
+      main {
+        padding: 1rem 1rem 3rem;
+      }
 
       /* 3 columns in landscape to use the width */
       main:not(.list-view) .grid {
         grid-template-columns: repeat(3, 1fr);
         gap: 0.6rem;
       }
-      main:not(.list-view) .card-img-wrap { height: 110px; }
+
+      main:not(.list-view) .card-img-wrap {
+        height: 110px;
+      }
     }
 
     /* ── Fade-in animation ── */
-    .card { animation: fadeUp 0.35s ease both; }
+    .card {
+      animation: fadeUp 0.35s ease both;
+    }
+
     @keyframes fadeUp {
-      from { opacity: 0; transform: translateY(12px); }
-      to   { opacity: 1; transform: translateY(0); }
+      from {
+        opacity: 0;
+        transform: translateY(12px);
+      }
+
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
     }
 
     /* ── Tabs & View Toggle ── */
     .tabs-container {
-      display: flex; gap: 4px; border-bottom: 2px solid var(--blue); margin-bottom: 1.5rem;
-      align-items: flex-end; padding: 0 10px; overflow-x: auto; scrollbar-width: none;
+      display: flex;
+      gap: 4px;
+      border-bottom: 2px solid var(--blue);
+      margin-bottom: 1.5rem;
+      align-items: flex-end;
+      padding: 0 10px;
+      overflow-x: auto;
+      scrollbar-width: none;
       -webkit-overflow-scrolling: touch;
     }
-    .tabs-container::-webkit-scrollbar { display: none; }
+
+    .tabs-container::-webkit-scrollbar {
+      display: none;
+    }
+
     .main-tab {
       background: var(--surface2);
       border: 1px solid var(--border);
       border-bottom: none;
       color: var(--muted);
-      font-size: 0.85rem; font-weight: 600;
+      font-size: 0.85rem;
+      font-weight: 600;
       padding: 0.75rem 1.2rem;
-      cursor: pointer; position: relative;
+      cursor: pointer;
+      position: relative;
       border-radius: 8px 8px 0 0;
-      display: flex; align-items: center; gap: 8px; justify-content: center;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      justify-content: center;
       transition: background 0.2s, color 0.2s;
       white-space: nowrap;
-      flex: 1; min-width: 0;
+      flex: 1;
+      min-width: 0;
     }
+
     .main-tab:hover {
       background: var(--surface3);
     }
+
     .main-tab.active {
       background: var(--blue);
       color: #fff;
       border-color: var(--blue);
     }
+
     .main-tab .section-count {
-      background: var(--surface); padding: 2px 8px; border-radius: 12px; font-size: 0.8rem; font-weight: 700; color: var(--text);
+      background: var(--surface);
+      padding: 2px 8px;
+      border-radius: 12px;
+      font-size: 0.8rem;
+      font-weight: 700;
+      color: var(--text);
     }
+
     .main-tab.active .section-count {
-      background: rgba(255,255,255,0.2);
+      background: rgba(255, 255, 255, 0.2);
       color: #fff;
     }
-    .tab-icon { font-size: 1.2rem; }
-    
-    /* ── List View Style ── */
-    main.list-view .grid { display: flex; flex-direction: column; gap: 0.5rem; }
-    main.list-view .card { 
-      display: flex; flex-direction: row; align-items: center; justify-content: space-between; 
-      padding: 0.75rem 1rem; border: none; border-bottom: 1px solid var(--border); 
-      border-radius: 0; background: transparent; 
+
+    .tab-icon {
+      font-size: 1.2rem;
     }
-    main.list-view .card:hover { background: var(--surface2); transform: none; box-shadow: none; border-bottom-color: var(--blue); }
-    main.list-view .card-img-wrap { display: none; }
-    main.list-view .card-body { padding: 0.25rem 0; display: flex; flex-direction: row; align-items: center; gap: 1.5rem; flex: 1; min-width: 0; }
-    main.list-view .card-title { font-size: 1.1rem; flex: 1; margin: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-weight: 600; }
-    main.list-view .card-meta { display: none; }
-    main.list-view .list-view-date { display: flex; flex-direction: column; align-items: center; justify-content: center; width: 50px; flex-shrink: 0; line-height: 1.1; }
-    main.list-view .list-view-date .mon { font-size: 0.75rem; font-weight: 700; text-transform: uppercase; color: var(--gold-dim); }
-    main.list-view .list-view-date .day { font-size: 1.35rem; font-weight: 800; color: var(--text); }
-    .list-view-date { display: none; }
-    
-    main.list-view .card-footer { padding: 0; margin: 0 0 0 1.5rem; flex-shrink: 0; }
-    main.list-view .ticket-btn { padding: 8px 16px; font-size: 0.85rem; }
+
+    /* ── List View Style ── */
+    main.list-view .grid {
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+    }
+
+    main.list-view .card {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0.75rem 1rem;
+      border: none;
+      border-bottom: 1px solid var(--border);
+      border-radius: 0;
+      background: transparent;
+    }
+
+    main.list-view .card:hover {
+      background: var(--surface2);
+      transform: none;
+      box-shadow: none;
+      border-bottom-color: var(--blue);
+    }
+
+    main.list-view .card-img-wrap {
+      display: none;
+    }
+
+    main.list-view .card-body {
+      padding: 0.25rem 0;
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      gap: 1.5rem;
+      flex: 1;
+      min-width: 0;
+    }
+
+    main.list-view .card-title {
+      font-size: 1.1rem;
+      flex: 1;
+      margin: 0;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      font-weight: 600;
+    }
+
+    main.list-view .card-meta {
+      display: none;
+    }
+
+    main.list-view .list-view-date {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      width: 50px;
+      flex-shrink: 0;
+      line-height: 1.1;
+    }
+
+    main.list-view .list-view-date .mon {
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      color: var(--gold-dim);
+    }
+
+    main.list-view .list-view-date .day {
+      font-size: 1.35rem;
+      font-weight: 800;
+      color: var(--text);
+    }
+
+    .list-view-date {
+      display: none;
+    }
+
+    main.list-view .card-footer {
+      padding: 0;
+      margin: 0 0 0 1.5rem;
+      flex-shrink: 0;
+    }
+
+    main.list-view .ticket-btn {
+      padding: 8px 16px;
+      font-size: 0.85rem;
+    }
   </style>
 
   <!-- Analytics — Do not remove -->
-  
+
   <!-- Umami Analytics -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="55287310-b60b-4d2c-b165-fd1386acbd88"></script>
 
   <!-- Microsoft Clarity -->
   <script type="text/javascript">
-      (function(c,l,a,r,i,t,y){
-          c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-          t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
-          y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
-      })(window, document, "clarity", "script", "w82ndgvkmx");
+    (function (c, l, a, r, i, t, y) {
+      c[a] = c[a] || function () { (c[a].q = c[a].q || []).push(arguments) };
+      t = l.createElement(r); t.async = 1; t.src = "https://www.clarity.ms/tag/" + i;
+      y = l.getElementsByTagName(r)[0]; y.parentNode.insertBefore(t, y);
+    })(window, document, "clarity", "script", "w82ndgvkmx");
   </script>
 </head>
+
 <body>
 
-<div id="loading">
-  <div class="spinner"></div>
-  <p style="color:var(--text-dim);font-size:0.88rem">Loading events…</p>
-</div>
-
-<div id="error-state">
-  <div class="err-icon">⚠️</div>
-  <p>Could not load events. Please try again later or refresh the page.</p>
-</div>
-
-<div id="app" style="display:none">
-
-  <header>
-    <h1>🇺🇦 <em>NYC</em> Ukrainian Events</h1>
-    <p class="header-sub">Continuously updated directory of Ukrainian cultural events in New York City Area</p>
-    <div class="updated-pill">
-      <span class="pulse"></span>
-      <span id="updated-text">Auto-updated daily</span>
-    </div>
-  </header>
-
-  <div class="filter-accordion">
-    <!-- Left: Category + Source filters (2/3 width) -->
-    <div class="filter-left">
-      <!-- Category Filter -->
-      <div class="filter-section" id="filter-category">
-        <button class="filter-toggle" onclick="toggleFilter('filter-category')">
-          🏷️ Category <span class="active-label" id="cat-active-label">All</span>
-          <span class="chevron">▼</span>
-        </button>
-        <div class="filter-content">
-          <div class="filter-pills">
-            <button class="pill active" id="cat-all" onclick="setCategoryFilter('all')">All</button>
-            <button class="pill" id="cat-concert" onclick="setCategoryFilter('concert')">Concert</button>
-            <button class="pill" id="cat-movie" onclick="setCategoryFilter('movie')">Film</button>
-            <button class="pill" id="cat-performance" onclick="setCategoryFilter('performance')">Performance</button>
-            <button class="pill" id="cat-arttalk" onclick="setCategoryFilter('arttalk')">Art/Talk</button>
-            <button class="pill" id="cat-standup" onclick="setCategoryFilter('standup')">Stand up</button>
-            <button class="pill" id="cat-workshop" onclick="setCategoryFilter('workshop')">Workshop</button>
-            <button class="pill" id="cat-other" onclick="setCategoryFilter('other')">Other</button>
-          </div>
-        </div>
-      </div>
-
-      <!-- Source Filter -->
-      <div class="filter-section" id="filter-source" style="display:none;">
-        <button class="filter-toggle" onclick="toggleFilter('filter-source')">
-          🌐 Source <span class="active-label" id="source-active-label">All</span>
-          <span class="chevron">▼</span>
-        </button>
-        <div class="filter-content">
-          <div class="filter-pills">
-            <button class="pill active" id="source-all" onclick="setSourceFilter('all')">All</button>
-            <span id="source-pills"></span>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <!-- Right: View toggles, right-aligned, icon-only -->
-    <div class="filter-right">
-      <button class="pill active" id="view-grid" title="Grid View" onclick="setViewMode('grid')">▦</button>
-      <button class="pill" id="view-list" title="List View" onclick="setViewMode('list')">☰</button>
-    </div>
+  <div id="loading">
+    <div class="spinner"></div>
+    <p style="color:var(--text-dim);font-size:0.88rem">Loading events…</p>
   </div>
 
-  <main id="main-content">
-    <!-- TIMELINE (TABS SECTION) -->
-    <section class="section" id="section-timeline">
-      <div class="tabs-container">
-        <button class="main-tab" id="tab-upcoming" onclick="setTimelineTab('upcoming')" style="display:none;">
-          <span class="tab-icon">📣</span><span class="tab-text">Announced</span><span class="section-count" id="count-upcoming">0</span>
-        </button>
-        <button class="main-tab active" id="tab-this_week" onclick="setTimelineTab('this_week')">
-          <span class="tab-icon">⚡</span><span class="tab-text">This Week</span><span class="section-count" id="count-this_week">0</span>
-        </button>
-        <button class="main-tab" id="tab-next_week" onclick="setTimelineTab('next_week')">
-          <span class="tab-icon">📋</span><span class="tab-text">Next Week</span><span class="section-count" id="count-next_week">0</span>
-        </button>
-        <button class="main-tab" id="tab-month" onclick="setTimelineTab('month')">
-          <span class="tab-icon">⏰</span><span class="tab-text">Next Month</span><span class="section-count" id="count-month">0</span>
-        </button>
-        <button class="main-tab" id="tab-all_events" onclick="setTimelineTab('all_events')">
-          <span class="tab-icon">📅</span><span class="tab-text">All Events</span><span class="section-count" id="count-all_events">0</span>
-        </button>
+  <div id="error-state">
+    <div class="err-icon">⚠️</div>
+    <p>Could not load events. Please try again later or refresh the page.</p>
+  </div>
+
+  <div id="app" style="display:none">
+
+    <header>
+      <h1>🇺🇦 <em>NYC</em> Ukrainian Events</h1>
+      <p class="header-sub">Continuously updated directory of Ukrainian cultural events in New York City Area</p>
+      <div class="updated-pill">
+        <span class="pulse"></span>
+        <span id="updated-text">Auto-updated daily</span>
       </div>
-      
-      <div id="content-upcoming" style="display:none;">
-        <div class="grid" id="grid-upcoming"></div>
-        <div class="see-more-bar" id="more-upcoming"></div>
+    </header>
+
+    <div class="filter-accordion">
+      <!-- Left: Category + Source filters (2/3 width) -->
+      <div class="filter-left">
+        <!-- Category Filter -->
+        <div class="filter-section" id="filter-category">
+          <button class="filter-toggle" onclick="toggleFilter('filter-category')">
+            🏷️ Category <span class="active-label" id="cat-active-label">All</span>
+            <span class="chevron">▼</span>
+          </button>
+          <div class="filter-content">
+            <div class="filter-pills">
+              <button class="pill active" id="cat-all" onclick="setCategoryFilter('all')">All</button>
+              <button class="pill" id="cat-concert" onclick="setCategoryFilter('concert')">Concert</button>
+              <button class="pill" id="cat-movie" onclick="setCategoryFilter('movie')">Film</button>
+              <button class="pill" id="cat-performance" onclick="setCategoryFilter('performance')">Performance</button>
+              <button class="pill" id="cat-arttalk" onclick="setCategoryFilter('arttalk')">Art/Talk</button>
+              <button class="pill" id="cat-standup" onclick="setCategoryFilter('standup')">Stand up</button>
+              <button class="pill" id="cat-workshop" onclick="setCategoryFilter('workshop')">Workshop</button>
+              <button class="pill" id="cat-other" onclick="setCategoryFilter('other')">Other</button>
+            </div>
+          </div>
+        </div>
+
+        <!-- Source Filter -->
+        <div class="filter-section" id="filter-source" style="display:none;">
+          <button class="filter-toggle" onclick="toggleFilter('filter-source')">
+            🌐 Source <span class="active-label" id="source-active-label">All</span>
+            <span class="chevron">▼</span>
+          </button>
+          <div class="filter-content">
+            <div class="filter-pills">
+              <button class="pill active" id="source-all" onclick="setSourceFilter('all')">All</button>
+              <span id="source-pills"></span>
+            </div>
+          </div>
+        </div>
       </div>
 
-      <div id="content-this_week">
-        <div class="grid" id="grid-this_week"></div>
-        <div class="see-more-bar" id="more-this_week"></div>
+      <!-- Right: View toggles, right-aligned, icon-only -->
+      <div class="filter-right">
+        <button class="pill active" id="view-grid" title="Grid View" onclick="setViewMode('grid')">▦</button>
+        <button class="pill" id="view-list" title="List View" onclick="setViewMode('list')">☰</button>
       </div>
+    </div>
 
-      <div id="content-next_week" style="display:none;">
-        <div class="grid" id="grid-next_week"></div>
-        <div class="see-more-bar" id="more-next_week"></div>
-      </div>
-      
-      <div id="content-month" style="display:none;">
-        <div class="grid" id="grid-month"></div>
-        <div class="see-more-bar" id="more-month"></div>
-      </div>
+    <main id="main-content">
+      <!-- TIMELINE (TABS SECTION) -->
+      <section class="section" id="section-timeline">
+        <div class="tabs-container">
+          <button class="main-tab" id="tab-upcoming" onclick="setTimelineTab('upcoming')" style="display:none;">
+            <span class="tab-icon">📣</span><span class="tab-text">Announced</span><span class="section-count"
+              id="count-upcoming">0</span>
+          </button>
+          <button class="main-tab active" id="tab-this_week" onclick="setTimelineTab('this_week')">
+            <span class="tab-icon">⚡</span><span class="tab-text">This Week</span><span class="section-count"
+              id="count-this_week">0</span>
+          </button>
+          <button class="main-tab" id="tab-next_week" onclick="setTimelineTab('next_week')">
+            <span class="tab-icon">📋</span><span class="tab-text">Next Week</span><span class="section-count"
+              id="count-next_week">0</span>
+          </button>
+          <button class="main-tab" id="tab-month" onclick="setTimelineTab('month')">
+            <span class="tab-icon">⏰</span><span class="tab-text">Next Month</span><span class="section-count"
+              id="count-month">0</span>
+          </button>
+          <button class="main-tab" id="tab-all_events" onclick="setTimelineTab('all_events')">
+            <span class="tab-icon">📅</span><span class="tab-text">All Events</span><span class="section-count"
+              id="count-all_events">0</span>
+          </button>
+        </div>
 
-      <div id="content-all_events" style="display:none;">
-        <div class="grid" id="grid-all_events"></div>
-        <div class="see-more-bar" id="more-all_events"></div>
-      </div>
-    </section>
-  </main>
+        <div id="content-upcoming" style="display:none;">
+          <div class="grid" id="grid-upcoming"></div>
+          <div class="see-more-bar" id="more-upcoming"></div>
+        </div>
 
-  <footer>
-    © 2026 Iryna Dobushovska &nbsp;·&nbsp; Developed with AI assistance &nbsp;·&nbsp; Slava Ukraini 🇺🇦
-  </footer>
-</div>
+        <div id="content-this_week">
+          <div class="grid" id="grid-this_week"></div>
+          <div class="see-more-bar" id="more-this_week"></div>
+        </div>
 
-<script>
-  // ── State ─────────────────────────────────────────────────────────────
-  let allData = null;
-  let activeSourceFilter = 'all';
-  let activeCategoryFilter = 'all';
-  let activeViewMode = 'grid';
-  const sectionExpanded = { upcoming: false, this_week: false, next_week: false, month: false, all_events: false };
-  function getInitialCount() {
-    return window.innerWidth <= 768 ? 8 : 9;
-  }
+        <div id="content-next_week" style="display:none;">
+          <div class="grid" id="grid-next_week"></div>
+          <div class="see-more-bar" id="more-next_week"></div>
+        </div>
 
-  function setViewMode(mode) {
-    activeViewMode = mode;
-    document.getElementById('view-grid').classList.toggle('active', mode === 'grid');
-    document.getElementById('view-list').classList.toggle('active', mode === 'list');
-    
-    if (mode === 'list') {
-      document.getElementById('main-content').classList.add('list-view');
-    } else {
-      document.getElementById('main-content').classList.remove('list-view');
-    }
-  }
+        <div id="content-month" style="display:none;">
+          <div class="grid" id="grid-month"></div>
+          <div class="see-more-bar" id="more-month"></div>
+        </div>
 
-  function setTimelineTab(tab) {
-    ['upcoming', 'this_week', 'next_week', 'month', 'all_events'].forEach(t => {
-      document.getElementById('tab-' + t).classList.toggle('active', tab === t);
-      document.getElementById('content-' + t).style.display = (tab === t) ? 'block' : 'none';
-    });
-  }
+        <div id="content-all_events" style="display:none;">
+          <div class="grid" id="grid-all_events"></div>
+          <div class="see-more-bar" id="more-all_events"></div>
+        </div>
+      </section>
+    </main>
 
-  // ── Bootstrap ─────────────────────────────────────────────────────────
-  async function init() {
-    try {
-      const res = await fetch('./events.json?_=' + Date.now());
-      if (!res.ok) throw new Error('HTTP ' + res.status);
-      allData = await res.json();
-      renderPage();
-      document.getElementById('loading').style.display = 'none';
-      document.getElementById('app').style.display = 'block';
-    } catch (err) {
-      console.error('Failed to load events.json:', err);
-      document.getElementById('loading').style.display = 'none';
-      document.getElementById('error-state').style.display = 'flex';
-    }
-  }
+    <footer>
+      © 2026 Iryna Dobushovska &nbsp;·&nbsp; Developed with AI assistance &nbsp;·&nbsp; Slava Ukraini 🇺🇦
+    </footer>
+  </div>
 
-  // ── Render ─────────────────────────────────────────────────────────────
-  function renderPage() {
-    if (allData.generated_at) {
-      const d = new Date(allData.generated_at);
-      const fmt = d.toLocaleDateString('en-US', { month:'long', day:'numeric', year:'numeric' })
-                + ' · ' + d.toLocaleTimeString('en-US', { hour:'2-digit', minute:'2-digit', timeZoneName:'short' });
-      document.getElementById('updated-text').textContent = 'Updated ' + fmt;
-    }
-    buildSourcePills();
-    renderSection('grid-upcoming',    'count-upcoming',    allData.upcoming    || [], 'more-upcoming',    'upcoming');
-    renderSection('grid-this_week',   'count-this_week',   allData.this_week   || [], 'more-this_week',   'this_week');
-    renderSection('grid-next_week',   'count-next_week',   allData.next_week   || [], 'more-next_week',   'next_week');
-    renderSection('grid-month',       'count-month',       allData.next_month  || [], 'more-month',       'month');
-    renderSection('grid-all_events',  'count-all_events',  allData.all_events  || [], 'more-all_events',  'all_events');
-
-  }
-
-  function getEventCategory(e) {
-    // Scrapers infer category at collection time via utils/normalizer.py::infer_category().
-    // Trust the backend value; fall back to frontend inference for legacy rows.
-    if (e.event_category && e.event_category !== 'other' && e.event_category !== 'hidden') {
-      return e.event_category;
-    }
-
-    // Minimal frontend fallback for legacy DB rows without a category
-    const t = ((e.event_title || '') + ' ' + (e.event_description || '')).toLowerCase();
-    if (t.includes('movie') || t.includes('film') || t.includes('screening') || t.includes('cinema')) return 'movie';
-    if (t.includes('stand up') || t.includes('standup') || t.includes('comedy') || t.includes('open mic')) return 'standup';
-    if (t.includes('concert') || t.includes('music') || t.includes('choir') || t.includes('band') || t.includes('boat') || t.includes('cruise')) return 'concert';
-    if (t.includes('workshop') || t.includes('class') || t.includes('craft') || t.includes('decorating')) return 'workshop';
-    if (t.includes('performance') || t.includes('theater') || t.includes('theatre') || t.includes('dance') || t.includes('ballet') || t.includes('cabaret') || t.includes('showcase') || t.includes('drama')) return 'performance';
-    if (t.includes('talk') || t.includes('poetry') || t.includes('exhibition') || t.includes('art') || t.includes('dinner') || t.includes('book') || t.includes('lecture')) return 'arttalk';
-    return 'other';
-  }
-
-  function renderSection(gridId, countId, events, moreBarId, sectionKey) {
-    const grid    = document.getElementById(gridId);
-    const countEl = document.getElementById(countId);
-    const moreBar = moreBarId ? document.getElementById(moreBarId) : null;
-    
-    const filtered = events.filter(e => {
-      const cat = getEventCategory(e);
-      const sourceMatch = activeSourceFilter === 'all' || (e.source || '') === activeSourceFilter;
-      const catMatch = activeCategoryFilter === 'all' || cat === activeCategoryFilter;
-      return sourceMatch && catMatch;
-    });
-
-    countEl.textContent = filtered.length;
-
-    if (filtered.length === 0) {
-      grid.innerHTML = '<div class="empty-section">No events in this section right now.</div>';
-      if (moreBar) moreBar.innerHTML = '';
-      return;
+  <script>
+    // ── State ─────────────────────────────────────────────────────────────
+    let allData = null;
+    let activeSourceFilter = 'all';
+    let activeCategoryFilter = 'all';
+    let activeViewMode = 'grid';
+    const sectionExpanded = { upcoming: false, this_week: false, next_week: false, month: false, all_events: false };
+    function getInitialCount() {
+      return window.innerWidth <= 768 ? 8 : 9;
     }
 
-    const expanded  = sectionExpanded[sectionKey];
-    const initialCount = getInitialCount();
-    const visible   = expanded ? filtered : filtered.slice(0, initialCount);
-    const remaining = filtered.length - initialCount;
+    function setViewMode(mode) {
+      activeViewMode = mode;
+      document.getElementById('view-grid').classList.toggle('active', mode === 'grid');
+      document.getElementById('view-list').classList.toggle('active', mode === 'list');
 
-    grid.innerHTML = visible.map((e, i) => buildCard(e, i)).join('');
-
-    if (moreBar) {
-      if (filtered.length > initialCount) {
-        const label = expanded ? '↑ See less' : `See ${remaining} more →`;
-        moreBar.innerHTML =
-          `<a class="see-more-link" href="#" onclick="toggleSection('${sectionKey}', event)">${label}</a>`;
+      if (mode === 'list') {
+        document.getElementById('main-content').classList.add('list-view');
       } else {
-        moreBar.innerHTML = '';
+        document.getElementById('main-content').classList.remove('list-view');
       }
     }
-  }
 
-  function toggleSection(sectionKey, e) {
-    e.preventDefault();
-    sectionExpanded[sectionKey] = !sectionExpanded[sectionKey];
-    renderSection('grid-upcoming',    'count-upcoming',    allData.upcoming    || [], 'more-upcoming',    'upcoming');
-    renderSection('grid-this_week',   'count-this_week',   allData.this_week   || [], 'more-this_week',   'this_week');
-    renderSection('grid-next_week',   'count-next_week',   allData.next_week   || [], 'more-next_week',   'next_week');
-    renderSection('grid-month',       'count-month',       allData.next_month  || [], 'more-month',       'month');
-    renderSection('grid-all_events',  'count-all_events',  allData.all_events  || [], 'more-all_events',  'all_events');
-  }
+    function setTimelineTab(tab) {
+      ['upcoming', 'this_week', 'next_week', 'month', 'all_events'].forEach(t => {
+        document.getElementById('tab-' + t).classList.toggle('active', tab === t);
+        document.getElementById('content-' + t).style.display = (tab === t) ? 'block' : 'none';
+      });
+    }
 
-  // ── Source pills ─────────────────────────────────────────────────────
-  function buildSourcePills() {
-    const allEvents = [
-      ...(allData.upcoming    || []),
-      ...(allData.this_week   || []),
-      ...(allData.next_week   || []),
-      ...(allData.next_month  || []),
-      ...(allData.all_events  || []),
-    ];
-    const sources = [...new Set(allEvents.map(e => e.source).filter(Boolean))].sort();
-    const container = document.getElementById('source-pills');
-    container.innerHTML = sources.map(s =>
-      `<button class="pill" id="source-${CSS.escape(s)}" onclick="setSourceFilter('${esc(s)}')">${esc(s)}</button>`
-    ).join('');
-  }
+    // ── Bootstrap ─────────────────────────────────────────────────────────
+    async function init() {
+      try {
+        const res = await fetch('./events.json?_=' + Date.now());
+        if (!res.ok) throw new Error('HTTP ' + res.status);
+        allData = await res.json();
+        renderPage();
+        document.getElementById('loading').style.display = 'none';
+        document.getElementById('app').style.display = 'block';
+      } catch (err) {
+        console.error('Failed to load events.json:', err);
+        document.getElementById('loading').style.display = 'none';
+        document.getElementById('error-state').style.display = 'flex';
+      }
+    }
 
-  function setSourceFilter(source) {
-    activeSourceFilter = source;
-    sectionExpanded.upcoming    = false;
-    sectionExpanded.this_week   = false;
-    sectionExpanded.next_week   = false;
-    sectionExpanded.month       = false;
-    sectionExpanded.all_events  = false;
-    
-    // Update active class on source pills only
-    document.querySelectorAll('[id^="source-"]').forEach(p => p.classList.remove('active'));
-    const pill = document.getElementById(source === 'all' ? 'source-all' : 'source-' + CSS.escape(source));
-    if (pill) pill.classList.add('active');
-    // Update label and auto-collapse
-    document.getElementById('source-active-label').textContent = source === 'all' ? 'All' : source;
-    collapseFilter('filter-source');
-    renderAllSections();
-  }
+    // ── Render ─────────────────────────────────────────────────────────────
+    function renderPage() {
+      if (allData.generated_at) {
+        const d = new Date(allData.generated_at);
+        const fmt = d.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })
+          + ' · ' + d.toLocaleTimeString('en-US', { hour: '2-digit', minute: '2-digit', timeZoneName: 'short' });
+        document.getElementById('updated-text').textContent = 'Updated ' + fmt;
+      }
+      buildSourcePills();
+      renderSection('grid-upcoming', 'count-upcoming', allData.upcoming || [], 'more-upcoming', 'upcoming');
+      renderSection('grid-this_week', 'count-this_week', allData.this_week || [], 'more-this_week', 'this_week');
+      renderSection('grid-next_week', 'count-next_week', allData.next_week || [], 'more-next_week', 'next_week');
+      renderSection('grid-month', 'count-month', allData.next_month || [], 'more-month', 'month');
+      renderSection('grid-all_events', 'count-all_events', allData.all_events || [], 'more-all_events', 'all_events');
 
-  function setCategoryFilter(category) {
-    activeCategoryFilter = category;
-    sectionExpanded.upcoming    = false;
-    sectionExpanded.this_week   = false;
-    sectionExpanded.next_week   = false;
-    sectionExpanded.month       = false;
-    sectionExpanded.all_events  = false;
-    
-    // Update active class on category pills only
-    document.querySelectorAll('[id^="cat-"]').forEach(p => p.classList.remove('active'));
-    const pill = document.getElementById('cat-' + category);
-    if (pill) pill.classList.add('active');
-    // Update label and auto-collapse
-    const labels = {all:'All',concert:'Concert',movie:'Film',performance:'Performance',arttalk:'Art/Talk',standup:'Stand up',workshop:'Workshop',other:'Other'};
-    document.getElementById('cat-active-label').textContent = labels[category] || category;
-    collapseFilter('filter-category');
-    renderAllSections();
-  }
+    }
 
-  // ── Collapsible filter helpers ──────────────────────────────────────
-  function toggleFilter(id) {
-    document.getElementById(id).classList.toggle('open');
-  }
-  function collapseFilter(id) {
-    document.getElementById(id).classList.remove('open');
-  }
+    function getEventCategory(e) {
+      // Scrapers infer category at collection time via utils/normalizer.py::infer_category().
+      // Trust the backend value; fall back to frontend inference for legacy rows.
+      if (e.event_category && e.event_category !== 'other' && e.event_category !== 'hidden') {
+        return e.event_category;
+      }
 
-  function renderAllSections() {
-    renderSection('grid-upcoming',    'count-upcoming',    allData.upcoming    || [], 'more-upcoming',    'upcoming');
-    renderSection('grid-this_week',   'count-this_week',   allData.this_week   || [], 'more-this_week',   'this_week');
-    renderSection('grid-next_week',   'count-next_week',   allData.next_week   || [], 'more-next_week',   'next_week');
-    renderSection('grid-month',       'count-month',       allData.next_month  || [], 'more-month',       'month');
-    renderSection('grid-all_events',  'count-all_events',  allData.all_events  || [], 'more-all_events',  'all_events');
-  }
+      // Minimal frontend fallback for legacy DB rows without a category
+      const t = ((e.event_title || '') + ' ' + (e.event_description || '')).toLowerCase();
+      if (t.includes('movie') || t.includes('film') || t.includes('screening') || t.includes('cinema')) return 'movie';
+      if (t.includes('stand up') || t.includes('standup') || t.includes('comedy') || t.includes('open mic')) return 'standup';
+      if (t.includes('concert') || t.includes('music') || t.includes('choir') || t.includes('band') || t.includes('boat') || t.includes('cruise')) return 'concert';
+      if (t.includes('workshop') || t.includes('class') || t.includes('craft') || t.includes('decorating')) return 'workshop';
+      if (t.includes('performance') || t.includes('theater') || t.includes('theatre') || t.includes('dance') || t.includes('ballet') || t.includes('cabaret') || t.includes('showcase') || t.includes('drama')) return 'performance';
+      if (t.includes('talk') || t.includes('poetry') || t.includes('exhibition') || t.includes('art') || t.includes('dinner') || t.includes('book') || t.includes('lecture')) return 'arttalk';
+      return 'other';
+    }
+
+    function renderSection(gridId, countId, events, moreBarId, sectionKey) {
+      const grid = document.getElementById(gridId);
+      const countEl = document.getElementById(countId);
+      const moreBar = moreBarId ? document.getElementById(moreBarId) : null;
+
+      const filtered = events.filter(e => {
+        const cat = getEventCategory(e);
+        const sourceMatch = activeSourceFilter === 'all' || (e.source || '') === activeSourceFilter;
+        const catMatch = activeCategoryFilter === 'all' || cat === activeCategoryFilter;
+        return sourceMatch && catMatch;
+      });
+
+      countEl.textContent = filtered.length;
+
+      if (filtered.length === 0) {
+        grid.innerHTML = '<div class="empty-section">No events in this section right now.</div>';
+        if (moreBar) moreBar.innerHTML = '';
+        return;
+      }
+
+      const expanded = sectionExpanded[sectionKey];
+      const initialCount = getInitialCount();
+      const visible = expanded ? filtered : filtered.slice(0, initialCount);
+      const remaining = filtered.length - initialCount;
+
+      grid.innerHTML = visible.map((e, i) => buildCard(e, i)).join('');
+
+      if (moreBar) {
+        if (filtered.length > initialCount) {
+          const label = expanded ? '↑ See less' : `See ${remaining} more →`;
+          moreBar.innerHTML =
+            `<a class="see-more-link" href="#" onclick="toggleSection('${sectionKey}', event)">${label}</a>`;
+        } else {
+          moreBar.innerHTML = '';
+        }
+      }
+    }
+
+    function toggleSection(sectionKey, e) {
+      e.preventDefault();
+      sectionExpanded[sectionKey] = !sectionExpanded[sectionKey];
+      renderSection('grid-upcoming', 'count-upcoming', allData.upcoming || [], 'more-upcoming', 'upcoming');
+      renderSection('grid-this_week', 'count-this_week', allData.this_week || [], 'more-this_week', 'this_week');
+      renderSection('grid-next_week', 'count-next_week', allData.next_week || [], 'more-next_week', 'next_week');
+      renderSection('grid-month', 'count-month', allData.next_month || [], 'more-month', 'month');
+      renderSection('grid-all_events', 'count-all_events', allData.all_events || [], 'more-all_events', 'all_events');
+    }
+
+    // ── Source pills ─────────────────────────────────────────────────────
+    function buildSourcePills() {
+      const allEvents = [
+        ...(allData.upcoming || []),
+        ...(allData.this_week || []),
+        ...(allData.next_week || []),
+        ...(allData.next_month || []),
+        ...(allData.all_events || []),
+      ];
+      const sources = [...new Set(allEvents.map(e => e.source).filter(Boolean))].sort();
+      const container = document.getElementById('source-pills');
+      container.innerHTML = sources.map(s =>
+        `<button class="pill" id="source-${CSS.escape(s)}" onclick="setSourceFilter('${esc(s)}')">${esc(s)}</button>`
+      ).join('');
+    }
+
+    function setSourceFilter(source) {
+      activeSourceFilter = source;
+      sectionExpanded.upcoming = false;
+      sectionExpanded.this_week = false;
+      sectionExpanded.next_week = false;
+      sectionExpanded.month = false;
+      sectionExpanded.all_events = false;
+
+      // Update active class on source pills only
+      document.querySelectorAll('[id^="source-"]').forEach(p => p.classList.remove('active'));
+      const pill = document.getElementById(source === 'all' ? 'source-all' : 'source-' + CSS.escape(source));
+      if (pill) pill.classList.add('active');
+      // Update label and auto-collapse
+      document.getElementById('source-active-label').textContent = source === 'all' ? 'All' : source;
+      collapseFilter('filter-source');
+      renderAllSections();
+    }
+
+    function setCategoryFilter(category) {
+      activeCategoryFilter = category;
+      sectionExpanded.upcoming = false;
+      sectionExpanded.this_week = false;
+      sectionExpanded.next_week = false;
+      sectionExpanded.month = false;
+      sectionExpanded.all_events = false;
+
+      // Update active class on category pills only
+      document.querySelectorAll('[id^="cat-"]').forEach(p => p.classList.remove('active'));
+      const pill = document.getElementById('cat-' + category);
+      if (pill) pill.classList.add('active');
+      // Update label and auto-collapse
+      const labels = { all: 'All', concert: 'Concert', movie: 'Film', performance: 'Performance', arttalk: 'Art/Talk', standup: 'Stand up', workshop: 'Workshop', other: 'Other' };
+      document.getElementById('cat-active-label').textContent = labels[category] || category;
+      collapseFilter('filter-category');
+      renderAllSections();
+    }
+
+    // ── Collapsible filter helpers ──────────────────────────────────────
+    function toggleFilter(id) {
+      document.getElementById(id).classList.toggle('open');
+    }
+    function collapseFilter(id) {
+      document.getElementById(id).classList.remove('open');
+    }
+
+    function renderAllSections() {
+      renderSection('grid-upcoming', 'count-upcoming', allData.upcoming || [], 'more-upcoming', 'upcoming');
+      renderSection('grid-this_week', 'count-this_week', allData.this_week || [], 'more-this_week', 'this_week');
+      renderSection('grid-next_week', 'count-next_week', allData.next_week || [], 'more-next_week', 'next_week');
+      renderSection('grid-month', 'count-month', allData.next_month || [], 'more-month', 'month');
+      renderSection('grid-all_events', 'count-all_events', allData.all_events || [], 'more-all_events', 'all_events');
+    }
 
 
-  // ── Card builder ─────────────────────────────────────────────────────
-  function buildCard(event, index) {
-    const title       = esc(event.event_title || 'Untitled Event');
-    const source      = esc(event.source || '');
-    const location    = esc(event.location || '');
-    const description = esc(event.event_description || '');
-    const link        = event.ticket_link || '';
-    const cover       = event.cover_image_url || '';
+    // ── Card builder ─────────────────────────────────────────────────────
+    function buildCard(event, index) {
+      const title = esc(event.event_title || 'Untitled Event');
+      const source = esc(event.source || '');
+      const location = esc(event.location || '');
+      const description = esc(event.event_description || '');
+      const link = event.ticket_link || '';
+      const cover = event.cover_image_url || '';
 
-    const { dateStr, dayNum, monthShort } = formatDate(event.event_date);
+      const { dateStr, dayNum, monthShort } = formatDate(event.event_date);
 
-    const imgHtml = cover
-      ? `<img class="card-img" src="${cover}" alt="${title}" loading="lazy"
+      const imgHtml = cover
+        ? `<img class="card-img" src="${cover}" alt="${title}" loading="lazy"
              onerror="this.style.display='none';this.nextElementSibling.style.display='flex'"
          /><div class="card-img-fallback" style="display:none">🇺🇦</div>`
-      : `<div class="card-img-fallback">🇺🇦</div>`;
+        : `<div class="card-img-fallback">🇺🇦</div>`;
 
-    const dateBadge = dayNum
-      ? `<div class="date-badge">
+      const dateBadge = dayNum
+        ? `<div class="date-badge">
            <span class="db-day">${dayNum}</span>
            ${monthShort}
          </div>`
-      : '';
+        : '';
 
 
-    const locationHtml = location
-      ? `<div class="card-meta-row"><span class="icon">📍</span><span>${location}</span></div>`
-      : '';
+      const locationHtml = location
+        ? `<div class="card-meta-row"><span class="icon">📍</span><span>${location}</span></div>`
+        : '';
 
-    const timeHtml = dateStr
-      ? `<div class="card-meta-row"><span class="icon">📅</span><span>${dateStr}</span></div>`
-      : '';
+      const timeHtml = dateStr
+        ? `<div class="card-meta-row"><span class="icon">📅</span><span>${dateStr}</span></div>`
+        : '';
 
 
-    const btnHtml = link
-      ? `<a class="ticket-btn" href="${link}" target="_blank" rel="noopener">Tickets / Info</a>`
-      : `<button class="ticket-btn no-link" disabled>No link available</button>`;
+      const btnHtml = link
+        ? `<a class="ticket-btn" href="${link}" target="_blank" rel="noopener">Tickets / Info</a>`
+        : `<button class="ticket-btn no-link" disabled>No link available</button>`;
 
-    const listDateHtml = dayNum 
-      ? `<div class="list-view-date"><span class="mon">${monthShort}</span><span class="day">${dayNum}</span></div>`
-      : `<div class="list-view-date"><span class="day">—</span></div>`;
+      const listDateHtml = dayNum
+        ? `<div class="list-view-date"><span class="mon">${monthShort}</span><span class="day">${dayNum}</span></div>`
+        : `<div class="list-view-date"><span class="day">—</span></div>`;
 
-    return `
+      return `
       <div class="card" data-source="${source}" style="animation-delay:${index * 0.04}s">
         <div class="card-img-wrap">
           ${imgHtml}
@@ -1038,61 +1497,62 @@
         </div>
         <div class="card-footer">${btnHtml}</div>
       </div>`;
-  }
-
-  // ── Date helpers ──────────────────────────────────────────────────────
-  function formatDate(raw) {
-    if (!raw) return { dateStr: '', dayNum: '', monthShort: '' };
-    try {
-      const tz = 'America/New_York';
-
-      // Detect date-only values — scrapers that didn't know the time store midnight UTC
-      // (e.g. "2026-04-16T00:00:00+00:00"). Converting to ET shifts them to the previous
-      // evening, showing the wrong day. For these, use the raw date portion directly.
-      const isDateOnly = /T00:00(:\d{2})?(\+00:00|Z)?$/.test(raw);
-
-      let dt, dayNum, monthShort, weekday, fullDate, timeStr;
-
-      if (isDateOnly) {
-        // Parse just the YYYY-MM-DD portion as a local noon — no UTC shift ever occurs
-        const [y, m, d] = raw.slice(0, 10).split('-').map(Number);
-        dt = new Date(y, m - 1, d, 12, 0, 0);  // local noon, no timezone math
-        dayNum     = dt.toLocaleDateString('en-US', { day: 'numeric' });
-        monthShort = dt.toLocaleDateString('en-US', { month: 'short' });
-        weekday    = dt.toLocaleDateString('en-US', { weekday: 'short' });
-        fullDate   = dt.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' });
-        timeStr    = '';  // no time to show for date-only events
-      } else {
-        dt = new Date(raw.replace('Z', '+00:00'));
-        dayNum     = dt.toLocaleDateString('en-US', { day: 'numeric', timeZone: tz });
-        monthShort = dt.toLocaleDateString('en-US', { month: 'short', timeZone: tz });
-        weekday    = dt.toLocaleDateString('en-US', { weekday: 'short', timeZone: tz });
-        fullDate   = dt.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric', timeZone: tz });
-        timeStr    = dt.toLocaleTimeString('en-US', { hour: 'numeric', minute: '2-digit', timeZone: tz });
-      }
-
-      const dateStr = weekday + ', ' + fullDate + (timeStr ? ' · ' + timeStr : '');
-      return { dateStr, dayNum, monthShort };
-    } catch {
-      return { dateStr: raw.slice(0, 10), dayNum: '', monthShort: '' };
     }
-  }
 
-  function nextMonthDate() {
-    const d = new Date();
-    return new Date(d.getFullYear(), d.getMonth() + 1, 1);
-  }
+    // ── Date helpers ──────────────────────────────────────────────────────
+    function formatDate(raw) {
+      if (!raw) return { dateStr: '', dayNum: '', monthShort: '' };
+      try {
+        const tz = 'America/New_York';
 
-  // ── HTML escape ───────────────────────────────────────────────────────
-  function esc(str) {
-    return String(str)
-      .replace(/&/g, '&amp;')
-      .replace(/</g, '&lt;')
-      .replace(/>/g, '&gt;')
-      .replace(/"/g, '&quot;');
-  }
+        // Detect date-only values — scrapers that didn't know the time store midnight UTC
+        // (e.g. "2026-04-16T00:00:00+00:00"). Converting to ET shifts them to the previous
+        // evening, showing the wrong day. For these, use the raw date portion directly.
+        const isDateOnly = /T00:00(:\d{2})?(\+00:00|Z)?$/.test(raw);
 
-  init();
-</script>
+        let dt, dayNum, monthShort, weekday, fullDate, timeStr;
+
+        if (isDateOnly) {
+          // Parse just the YYYY-MM-DD portion as a local noon — no UTC shift ever occurs
+          const [y, m, d] = raw.slice(0, 10).split('-').map(Number);
+          dt = new Date(y, m - 1, d, 12, 0, 0);  // local noon, no timezone math
+          dayNum = dt.toLocaleDateString('en-US', { day: 'numeric' });
+          monthShort = dt.toLocaleDateString('en-US', { month: 'short' });
+          weekday = dt.toLocaleDateString('en-US', { weekday: 'short' });
+          fullDate = dt.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' });
+          timeStr = '';  // no time to show for date-only events
+        } else {
+          dt = new Date(raw.replace('Z', '+00:00'));
+          dayNum = dt.toLocaleDateString('en-US', { day: 'numeric', timeZone: tz });
+          monthShort = dt.toLocaleDateString('en-US', { month: 'short', timeZone: tz });
+          weekday = dt.toLocaleDateString('en-US', { weekday: 'short', timeZone: tz });
+          fullDate = dt.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric', timeZone: tz });
+          timeStr = dt.toLocaleTimeString('en-US', { hour: 'numeric', minute: '2-digit', timeZone: tz });
+        }
+
+        const dateStr = weekday + ', ' + fullDate + (timeStr ? ' · ' + timeStr : '');
+        return { dateStr, dayNum, monthShort };
+      } catch {
+        return { dateStr: raw.slice(0, 10), dayNum: '', monthShort: '' };
+      }
+    }
+
+    function nextMonthDate() {
+      const d = new Date();
+      return new Date(d.getFullYear(), d.getMonth() + 1, 1);
+    }
+
+    // ── HTML escape ───────────────────────────────────────────────────────
+    function esc(str) {
+      return String(str)
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;');
+    }
+
+    init();
+  </script>
 </body>
+
 </html>
