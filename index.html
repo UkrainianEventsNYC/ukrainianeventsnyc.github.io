@@ -424,6 +424,51 @@
       box-shadow: none;
     }
 
+    /* ── Search Bar ── */
+    .search-bar-container {
+      max-width: 1260px;
+      margin: 1.5rem auto 0;
+      padding: 0 1.5rem;
+    }
+    
+    .search-wrap {
+      position: relative;
+      width: 100%;
+    }
+    
+    .search-icon {
+      position: absolute;
+      left: 14px;
+      top: 50%;
+      transform: translateY(-50%);
+      color: var(--muted);
+      font-size: 1rem;
+      pointer-events: none;
+    }
+
+    .search-input {
+      width: 100%;
+      padding: 0.85rem 1.2rem 0.85rem 2.8rem;
+      border-radius: 12px;
+      border: 1px solid var(--border-hi);
+      background: var(--surface2);
+      color: var(--text);
+      font-family: inherit;
+      font-size: 0.95rem;
+      transition: border-color 0.2s, background 0.2s, box-shadow 0.2s;
+    }
+
+    .search-input:focus {
+      outline: none;
+      border-color: var(--blue);
+      background: var(--surface3);
+      box-shadow: 0 0 0 2px rgba(26, 86, 219, 0.3);
+    }
+    
+    .search-input::placeholder {
+      color: var(--muted);
+    }
+
     /* ── Collapsible Filter Sections ── */
     .filter-accordion {
       position: relative;
@@ -1137,6 +1182,13 @@
       </div>
     </header>
 
+    <div class="search-bar-container">
+      <div class="search-wrap">
+        <span class="search-icon">🔍</span>
+        <input type="text" class="search-input" placeholder="Search events..." oninput="handleSearchInput(this.value)" />
+      </div>
+    </div>
+
     <div class="filter-accordion">
       <!-- Left: Category + Source filters (2/3 width) -->
       <div class="filter-left">
@@ -1149,10 +1201,11 @@
           <div class="filter-content">
             <div class="filter-pills">
               <button class="pill active" id="cat-all" onclick="setCategoryFilter('all')">All</button>
+              <button class="pill" id="cat-arttalk" onclick="setCategoryFilter('arttalk')">Art/Talk</button>
               <button class="pill" id="cat-concert" onclick="setCategoryFilter('concert')">Concert</button>
+              <button class="pill" id="cat-festival" onclick="setCategoryFilter('festival')">Festival</button>
               <button class="pill" id="cat-movie" onclick="setCategoryFilter('movie')">Film</button>
               <button class="pill" id="cat-performance" onclick="setCategoryFilter('performance')">Performance</button>
-              <button class="pill" id="cat-arttalk" onclick="setCategoryFilter('arttalk')">Art/Talk</button>
               <button class="pill" id="cat-standup" onclick="setCategoryFilter('standup')">Stand up</button>
               <button class="pill" id="cat-workshop" onclick="setCategoryFilter('workshop')">Workshop</button>
               <button class="pill" id="cat-other" onclick="setCategoryFilter('other')">Other</button>
@@ -1186,10 +1239,7 @@
       <!-- TIMELINE (TABS SECTION) -->
       <section class="section" id="section-timeline">
         <div class="tabs-container">
-          <button class="main-tab" id="tab-upcoming" onclick="setTimelineTab('upcoming')" style="display:none;">
-            <span class="tab-icon">📣</span><span class="tab-text">Announced</span><span class="section-count"
-              id="count-upcoming">0</span>
-          </button>
+
           <button class="main-tab active" id="tab-this_week" onclick="setTimelineTab('this_week')">
             <span class="tab-icon">⚡</span><span class="tab-text">This Week</span><span class="section-count"
               id="count-this_week">0</span>
@@ -1208,10 +1258,7 @@
           </button>
         </div>
 
-        <div id="content-upcoming" style="display:none;">
-          <div class="grid" id="grid-upcoming"></div>
-          <div class="see-more-bar" id="more-upcoming"></div>
-        </div>
+
 
         <div id="content-this_week">
           <div class="grid" id="grid-this_week"></div>
@@ -1245,8 +1292,9 @@
     let allData = null;
     let activeSourceFilter = 'all';
     let activeCategoryFilter = 'all';
+    let activeSearchQuery = '';
     let activeViewMode = 'grid';
-    const sectionExpanded = { upcoming: false, this_week: false, next_week: false, month: false, all_events: false };
+    const sectionExpanded = { this_week: false, next_week: false, month: false, all_events: false };
     function getInitialCount() {
       return window.innerWidth <= 768 ? 8 : 9;
     }
@@ -1264,7 +1312,7 @@
     }
 
     function setTimelineTab(tab) {
-      ['upcoming', 'this_week', 'next_week', 'month', 'all_events'].forEach(t => {
+      ['this_week', 'next_week', 'month', 'all_events'].forEach(t => {
         document.getElementById('tab-' + t).classList.toggle('active', tab === t);
         document.getElementById('content-' + t).style.display = (tab === t) ? 'block' : 'none';
       });
@@ -1295,7 +1343,7 @@
         document.getElementById('updated-text').textContent = 'Updated ' + fmt;
       }
       buildSourcePills();
-      renderSection('grid-upcoming', 'count-upcoming', allData.upcoming || [], 'more-upcoming', 'upcoming');
+
       renderSection('grid-this_week', 'count-this_week', allData.this_week || [], 'more-this_week', 'this_week');
       renderSection('grid-next_week', 'count-next_week', allData.next_week || [], 'more-next_week', 'next_week');
       renderSection('grid-month', 'count-month', allData.next_month || [], 'more-month', 'month');
@@ -1330,7 +1378,12 @@
         const cat = getEventCategory(e);
         const sourceMatch = activeSourceFilter === 'all' || (e.source || '') === activeSourceFilter;
         const catMatch = activeCategoryFilter === 'all' || cat === activeCategoryFilter;
-        return sourceMatch && catMatch;
+        let searchMatch = true;
+        if (activeSearchQuery) {
+          const t = ((e.event_title || '') + ' ' + (e.event_description || '')).toLowerCase();
+          searchMatch = t.includes(activeSearchQuery);
+        }
+        return sourceMatch && catMatch && searchMatch;
       });
 
       countEl.textContent = filtered.length;
@@ -1362,7 +1415,7 @@
     function toggleSection(sectionKey, e) {
       e.preventDefault();
       sectionExpanded[sectionKey] = !sectionExpanded[sectionKey];
-      renderSection('grid-upcoming', 'count-upcoming', allData.upcoming || [], 'more-upcoming', 'upcoming');
+
       renderSection('grid-this_week', 'count-this_week', allData.this_week || [], 'more-this_week', 'this_week');
       renderSection('grid-next_week', 'count-next_week', allData.next_week || [], 'more-next_week', 'next_week');
       renderSection('grid-month', 'count-month', allData.next_month || [], 'more-month', 'month');
@@ -1372,7 +1425,7 @@
     // ── Source pills ─────────────────────────────────────────────────────
     function buildSourcePills() {
       const allEvents = [
-        ...(allData.upcoming || []),
+
         ...(allData.this_week || []),
         ...(allData.next_week || []),
         ...(allData.next_month || []),
@@ -1387,7 +1440,7 @@
 
     function setSourceFilter(source) {
       activeSourceFilter = source;
-      sectionExpanded.upcoming = false;
+
       sectionExpanded.this_week = false;
       sectionExpanded.next_week = false;
       sectionExpanded.month = false;
@@ -1416,7 +1469,7 @@
       const pill = document.getElementById('cat-' + category);
       if (pill) pill.classList.add('active');
       // Update label and auto-collapse
-      const labels = { all: 'All', concert: 'Concert', movie: 'Film', performance: 'Performance', arttalk: 'Art/Talk', standup: 'Stand up', workshop: 'Workshop', other: 'Other' };
+      const labels = { all: 'All', concert: 'Concert', movie: 'Film', performance: 'Performance', arttalk: 'Art/Talk', standup: 'Stand up', workshop: 'Workshop', festival: 'Festival', other: 'Other' };
       document.getElementById('cat-active-label').textContent = labels[category] || category;
       collapseFilter('filter-category');
       renderAllSections();
@@ -1428,6 +1481,20 @@
     }
     function collapseFilter(id) {
       document.getElementById(id).classList.remove('open');
+    }
+
+    let searchTimeout = null;
+    function handleSearchInput(value) {
+      if (searchTimeout) clearTimeout(searchTimeout);
+      searchTimeout = setTimeout(() => {
+        activeSearchQuery = (value || '').toLowerCase().trim();
+        sectionExpanded.upcoming = false;
+        sectionExpanded.this_week = false;
+        sectionExpanded.next_week = false;
+        sectionExpanded.month = false;
+        sectionExpanded.all_events = false;
+        renderAllSections();
+      }, 150);
     }
 
     function renderAllSections() {
@@ -1502,32 +1569,19 @@
     // ── Date helpers ──────────────────────────────────────────────────────
     function formatDate(raw) {
       if (!raw) return { dateStr: '', dayNum: '', monthShort: '' };
-      try {
         const tz = 'America/New_York';
-
-        // Detect date-only values — scrapers that didn't know the time store midnight UTC
-        // (e.g. "2026-04-16T00:00:00+00:00"). Converting to ET shifts them to the previous
-        // evening, showing the wrong day. For these, use the raw date portion directly.
-        const isDateOnly = /T00:00(:\d{2})?(\+00:00|Z)?$/.test(raw);
-
         let dt, dayNum, monthShort, weekday, fullDate, timeStr;
 
-        if (isDateOnly) {
-          // Parse just the YYYY-MM-DD portion as a local noon — no UTC shift ever occurs
-          const [y, m, d] = raw.slice(0, 10).split('-').map(Number);
-          dt = new Date(y, m - 1, d, 12, 0, 0);  // local noon, no timezone math
-          dayNum = dt.toLocaleDateString('en-US', { day: 'numeric' });
-          monthShort = dt.toLocaleDateString('en-US', { month: 'short' });
-          weekday = dt.toLocaleDateString('en-US', { weekday: 'short' });
-          fullDate = dt.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' });
-          timeStr = '';  // no time to show for date-only events
-        } else {
-          dt = new Date(raw.replace('Z', '+00:00'));
-          dayNum = dt.toLocaleDateString('en-US', { day: 'numeric', timeZone: tz });
-          monthShort = dt.toLocaleDateString('en-US', { month: 'short', timeZone: tz });
-          weekday = dt.toLocaleDateString('en-US', { weekday: 'short', timeZone: tz });
-          fullDate = dt.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric', timeZone: tz });
-          timeStr = dt.toLocaleTimeString('en-US', { hour: 'numeric', minute: '2-digit', timeZone: tz });
+        dt = new Date(raw.replace('Z', '+00:00'));
+        dayNum = dt.toLocaleDateString('en-US', { day: 'numeric', timeZone: tz });
+        monthShort = dt.toLocaleDateString('en-US', { month: 'short', timeZone: tz });
+        weekday = dt.toLocaleDateString('en-US', { weekday: 'short', timeZone: tz });
+        fullDate = dt.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric', timeZone: tz });
+        timeStr = dt.toLocaleTimeString('en-US', { hour: 'numeric', minute: '2-digit', timeZone: tz });
+
+        // Hide 12:00 AM / 00:00 time since that is our convention for date-only events
+        if (timeStr === '12:00 AM' || timeStr === '00:00') {
+           timeStr = '';
         }
 
         const dateStr = weekday + ', ' + fullDate + (timeStr ? ' · ' + timeStr : '');
