@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-08T05:04:24.418611-04:00",
+  "generated_at": "2026-04-08T12:38:38.463910-04:00",
   "this_week": [
     {
       "id": "16ef2519-6db7-4115-bba3-7c4b12372cbc",
@@ -100,7 +100,7 @@
       "event_category": "arttalk"
     },
     {
-      "id": "d893de03-17a2-4f30-87b8-158c9a29e61c",
+      "id": "f410e3a1-330b-499d-a13a-19438057897e",
       "event_title": "Volunteer Weekend",
       "event_date": "2026-04-17T00:00:00+00:00",
       "location": "Soyuzivka Heritage Center, Kerhonkson, NY",
@@ -108,8 +108,8 @@
       "ticket_link": "https://soyuzivka.com/calendar-of-events/volunteer-weekend/",
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/SuzyQ-Volunteer1.png",
       "source": "Soyuzivka",
-      "date_added": "2026-03-21T00:00:00+00:00",
-      "event_category": "workshop"
+      "date_added": "2026-04-08T16:38:36.169479+00:00",
+      "event_category": "other"
     },
     {
       "id": "e3002a4a-dcee-4d73-b91b-bbd10c68530a",
@@ -150,7 +150,19 @@
   ],
   "upcoming": [
     {
-      "id": "25a0e2b6-9ef6-425b-8e83-6ae2e252aac5",
+      "id": "f410e3a1-330b-499d-a13a-19438057897e",
+      "event_title": "Volunteer Weekend",
+      "event_date": "2026-04-17T00:00:00+00:00",
+      "location": "Soyuzivka Heritage Center, Kerhonkson, NY",
+      "event_description": "Join us in making a difference! Soyuzivka is a place that has been loved by all for decades, why not give back and make a difference? Volunteering is a powerful way to support the place many of us hold dear. Build connections with others who share your passion and make a lasting difference. You can",
+      "ticket_link": "https://soyuzivka.com/calendar-of-events/volunteer-weekend/",
+      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/SuzyQ-Volunteer1.png",
+      "source": "Soyuzivka",
+      "date_added": "2026-04-08T16:38:36.169479+00:00",
+      "event_category": "other"
+    },
+    {
+      "id": "059e6086-ab8c-4468-8bfa-e84b399b87e2",
       "event_title": "Viktor movie screening at the ReelAbilities Film Festival",
       "event_date": "2026-04-25T04:00:00+00:00",
       "location": "New York, NY",
@@ -158,8 +170,8 @@
       "ticket_link": "https://www.razomforukraine.org/events/viktor-movie-screening-at-the-reelabilities-film-festival/",
       "cover_image_url": "https://www.razomforukraine.org/wp-content/uploads/2026/04/Facebook-cover-3.png",
       "source": "Razom For Ukraine",
-      "date_added": "2026-04-04T00:00:00+00:00",
-      "event_category": "movie"
+      "date_added": "2026-04-08T16:38:37.928609+00:00",
+      "event_category": null
     },
     {
       "id": "1de42729-b4e6-4e80-8e8a-fc33fb17ff76",
@@ -210,19 +222,19 @@
       "event_category": "standup"
     },
     {
-      "id": "24b97a58-5eec-4370-9034-485c45d5cdf0",
+      "id": "2ef7703d-b96b-484c-9e65-0c1261dbfd62",
       "event_title": "Ukrainian Drama Showcase",
-      "event_date": "2026-05-07T22:00:00+00:00",
-      "location": "The Clemente Soto Vélez Cultural & Educational CenterNew York, NYMultiple dates",
-      "event_description": "Dive into six powerful stories at Razom for Ukraine's inaugural staged reading festival of Ukrainian theater.",
-      "ticket_link": "https://www.eventbrite.com/e/ukrainian-drama-showcase-tickets-1985937061210",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1181214341%252F2328834903653%252F1%252Foriginal.20260401-165906%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.919%26fp-y%3D0.463%26s%3D2e697c0511f6d0264d129d6ec7944d1e&w=1880&q=75",
-      "source": "Eventbrite",
-      "date_added": "2026-04-11T00:00:00+00:00",
-      "event_category": "performance"
+      "event_date": "2026-05-07T04:00:00+00:00",
+      "location": "The Clemente Soto Vélez Cultural & Educational Center 107 Suffolk St, New York, NY , 10002",
+      "event_description": null,
+      "ticket_link": "https://www.razomforukraine.org/events/ukrainian-drama-showcase/",
+      "cover_image_url": "https://www.razomforukraine.org/wp-content/uploads/2026/04/Group-3-7.png",
+      "source": "Razom For Ukraine",
+      "date_added": "2026-04-08T16:38:38.030816+00:00",
+      "event_category": null
     },
     {
-      "id": "3db058b0-5eca-4115-aff9-d1902452b3ee",
+      "id": "104b50cd-eebe-48ce-9f39-2a6baed7886f",
       "event_title": "Across the Oceans: United in Support of Kyiv-Mohyla Academy-New York",
       "event_date": "2026-05-09T22:00:00+00:00",
       "location": "Ukrainian Institute of AmericaNew York, NYSaturday, May 9 from 6 pm to 9:30 pm",
@@ -230,8 +242,8 @@
       "ticket_link": "https://www.eventbrite.com/e/across-the-oceans-united-in-support-of-kyiv-mohyla-academy-new-york-tickets-1984716832473",
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1179326041%252F865995669873%252F1%252Foriginal.20260308-174605%3Fw%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26s%3D82853ed14ed58ced42c57e6aec7da2be&w=1880&q=75",
       "source": "Eventbrite",
-      "date_added": "2026-04-18T00:00:00+00:00",
-      "event_category": "arttalk"
+      "date_added": "2026-04-08T16:38:38.172717+00:00",
+      "event_category": "other"
     },
     {
       "id": "2c954da7-b124-4b5c-9bab-5c37b3efcaf2",
@@ -294,7 +306,7 @@
       "event_category": "concert"
     },
     {
-      "id": "8b92c9ec-2344-494c-aa04-52c722da188b",
+      "id": "33efee54-82db-4971-a45d-fd2830c6c489",
       "event_title": "Memorial Day Weekend Spring Concert Series TBD",
       "event_date": "2026-05-22T00:00:00+00:00",
       "location": "Soyuzivka Heritage Center, Kerhonkson, NY",
@@ -302,7 +314,7 @@
       "ticket_link": "https://soyuzivka.com/calendar-of-events/memorial-day-weekend-with-stoneflies-and-torn-boots/",
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/05/TornBoots2.png",
       "source": "Soyuzivka",
-      "date_added": "2026-04-25T00:00:00+00:00",
+      "date_added": "2026-04-08T16:38:37.012733+00:00",
       "event_category": "concert"
     },
     {
@@ -318,7 +330,7 @@
       "event_category": "arttalk"
     },
     {
-      "id": "8a8fddda-8bb8-4c8b-a71c-9d198e18e4f7",
+      "id": "38da57f5-d31e-49e9-9207-a6564a156367",
       "event_title": "Pysanky Workshop",
       "event_date": "2026-06-03T00:00:00+00:00",
       "location": "Soyuzivka Heritage Center, Kerhonkson, NY",
@@ -326,7 +338,7 @@
       "ticket_link": "https://soyuzivka.com/calendar-of-events/pysanky-workshops/",
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/PysankyWorkshop.png",
       "source": "Soyuzivka",
-      "date_added": "2026-05-09T00:00:00+00:00",
+      "date_added": "2026-04-08T16:38:37.151411+00:00",
       "event_category": "workshop"
     },
     {
@@ -366,7 +378,7 @@
       "event_category": "arttalk"
     },
     {
-      "id": "8a8f9584-0738-4433-a512-fb08513a8218",
+      "id": "196d6129-0b19-4b93-b1db-983b91d26824",
       "event_title": "July 4th Celebration",
       "event_date": "2026-07-03T00:00:00+00:00",
       "location": "Soyuzivka Heritage Center, Kerhonkson, NY",
@@ -374,31 +386,31 @@
       "ticket_link": "https://soyuzivka.com/calendar-of-events/july-4th-celebration/",
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/July4th.png",
       "source": "Soyuzivka",
-      "date_added": "2026-06-06T00:00:00+00:00",
-      "event_category": "concert"
+      "date_added": "2026-04-08T16:38:37.261886+00:00",
+      "event_category": "other"
     },
     {
-      "id": "807a9295-604f-47e2-99a3-0bd20f5e8f15",
+      "id": "af20df63-89f5-4a0e-b33b-0d4ef3247da5",
       "event_title": "Vasyl Baidak - New York City",
-      "event_date": "2026-07-04T05:00:00+00:00",
+      "event_date": "2026-07-04T00:00:00+00:00",
       "location": "Manhattan",
       "event_description": "кращі приколи, новий матеріал, аукціон, ооооо, так! НАРЕШТІ побачимось із вами в США і Канаді. хто мене знає, то сенсу розписувати щось вам немає, ви, гадаю, і так прийдете, бо тут і посміятись, і задонатити, ну топ. а от хто не знає — спробую вас переконати прийти. «хеллоооооу! мене звуть Байдак Ва",
       "ticket_link": "https://waylight.me/ucrazy/event/16319-cd91c",
       "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1773094064_-1200630.jpg",
       "source": "Waylight",
-      "date_added": "2026-04-08T07:22:06.17+00:00",
+      "date_added": "2026-04-08T16:38:37.819726+00:00",
       "event_category": "standup"
     },
     {
-      "id": "8c4823b4-edf7-45bd-91c6-16ed16367ff2",
-      "event_title": "Ukrainian Festival",
+      "id": "5642b913-9817-403b-ab3e-16933909db7e",
+      "event_title": "Ukraine Fest 2026",
       "event_date": "2026-07-10T00:00:00+00:00",
       "location": "Soyuzivka Heritage Center, Kerhonkson, NY",
-      "event_description": "GOT PLANS FOR THE SUMMER OF 2026?? Make sure it includes joining us at our annual Ukrainian Festival! Mark your calendar and SAVE the DATE: July 10-12, 2026 for the Soyuzivka Heritage Center Summer Festival! Celebrate Ukraine's history, culture, and freedom! More details coming to come... У тебе є л",
+      "event_description": "2026 Ukrainian Summer Festival at Soyuzivka YOUR WEEKEND IS PACKED WITH ENTERTAINMENT FOR THE ENTIRE FAMILY! The weekend unfolds with a lively, music-filled celebration with Ukrainian entertainers from Friday night through Sunday afternoon. It begins with an energetic kickoff on Friday evening, buil",
       "ticket_link": "https://soyuzivka.com/calendar-of-events/ukrainian-festival/",
-      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/UkrFestival.png",
+      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/SQ-TicketBud-2026.jpg",
       "source": "Soyuzivka",
-      "date_added": "2026-06-13T00:00:00+00:00",
+      "date_added": "2026-04-08T16:38:37.368473+00:00",
       "event_category": "concert"
     },
     {
@@ -426,7 +438,7 @@
       "event_category": "concert"
     },
     {
-      "id": "b7b21252-b40d-474b-8bc0-3289e979e640",
+      "id": "1649b32e-f7ae-466a-b2ec-c1fd620a8363",
       "event_title": "Labor Day Weekend",
       "event_date": "2026-09-04T00:00:00+00:00",
       "location": "Soyuzivka Heritage Center, Kerhonkson, NY",
@@ -434,7 +446,7 @@
       "ticket_link": "https://soyuzivka.com/calendar-of-events/labor-day-weekend/",
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/LaborDay.png",
       "source": "Soyuzivka",
-      "date_added": "2026-08-08T00:00:00+00:00",
+      "date_added": "2026-04-08T16:38:37.48093+00:00",
       "event_category": "concert"
     },
     {
@@ -450,7 +462,7 @@
       "event_category": "concert"
     },
     {
-      "id": "edc0a04e-a4b2-490c-9f3d-e897e464d80d",
+      "id": "9ca66a48-e278-4d10-826f-6c86d0cf369a",
       "event_title": "Fall Fest",
       "event_date": "2026-10-02T00:00:00+00:00",
       "location": "Soyuzivka Heritage Center, Kerhonkson, NY",
@@ -458,8 +470,8 @@
       "ticket_link": "https://soyuzivka.com/calendar-of-events/fall-fest/",
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/10/Fall-Fest.jpg",
       "source": "Soyuzivka",
-      "date_added": "2026-09-05T00:00:00+00:00",
-      "event_category": "concert"
+      "date_added": "2026-04-08T16:38:37.591948+00:00",
+      "event_category": "other"
     },
     {
       "id": "6b985070-611a-40c8-8106-a456cca3361b",
@@ -498,7 +510,7 @@
       "event_category": "arttalk"
     },
     {
-      "id": "9ee928bb-9941-47e7-b696-b8e7bfbf82a7",
+      "id": "648f40cb-c907-4ad7-bf07-a2f071942428",
       "event_title": "New Year’s Eve Weekend",
       "event_date": "2026-12-31T00:00:00+00:00",
       "location": "Soyuzivka Heritage Center, Kerhonkson, NY",
@@ -506,8 +518,8 @@
       "ticket_link": "https://soyuzivka.com/calendar-of-events/new-years-eve/",
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/NewYears.png",
       "source": "Soyuzivka",
-      "date_added": "2026-12-04T00:00:00+00:00",
-      "event_category": "concert"
+      "date_added": "2026-04-08T16:38:37.712628+00:00",
+      "event_category": "arttalk"
     }
   ],
   "next_month": [
@@ -524,19 +536,19 @@
       "event_category": "standup"
     },
     {
-      "id": "24b97a58-5eec-4370-9034-485c45d5cdf0",
+      "id": "2ef7703d-b96b-484c-9e65-0c1261dbfd62",
       "event_title": "Ukrainian Drama Showcase",
-      "event_date": "2026-05-07T22:00:00+00:00",
-      "location": "The Clemente Soto Vélez Cultural & Educational CenterNew York, NYMultiple dates",
-      "event_description": "Dive into six powerful stories at Razom for Ukraine's inaugural staged reading festival of Ukrainian theater.",
-      "ticket_link": "https://www.eventbrite.com/e/ukrainian-drama-showcase-tickets-1985937061210",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1181214341%252F2328834903653%252F1%252Foriginal.20260401-165906%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.919%26fp-y%3D0.463%26s%3D2e697c0511f6d0264d129d6ec7944d1e&w=1880&q=75",
-      "source": "Eventbrite",
-      "date_added": "2026-04-11T00:00:00+00:00",
-      "event_category": "performance"
+      "event_date": "2026-05-07T04:00:00+00:00",
+      "location": "The Clemente Soto Vélez Cultural & Educational Center 107 Suffolk St, New York, NY , 10002",
+      "event_description": null,
+      "ticket_link": "https://www.razomforukraine.org/events/ukrainian-drama-showcase/",
+      "cover_image_url": "https://www.razomforukraine.org/wp-content/uploads/2026/04/Group-3-7.png",
+      "source": "Razom For Ukraine",
+      "date_added": "2026-04-08T16:38:38.030816+00:00",
+      "event_category": null
     },
     {
-      "id": "3db058b0-5eca-4115-aff9-d1902452b3ee",
+      "id": "104b50cd-eebe-48ce-9f39-2a6baed7886f",
       "event_title": "Across the Oceans: United in Support of Kyiv-Mohyla Academy-New York",
       "event_date": "2026-05-09T22:00:00+00:00",
       "location": "Ukrainian Institute of AmericaNew York, NYSaturday, May 9 from 6 pm to 9:30 pm",
@@ -544,8 +556,8 @@
       "ticket_link": "https://www.eventbrite.com/e/across-the-oceans-united-in-support-of-kyiv-mohyla-academy-new-york-tickets-1984716832473",
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1179326041%252F865995669873%252F1%252Foriginal.20260308-174605%3Fw%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26s%3D82853ed14ed58ced42c57e6aec7da2be&w=1880&q=75",
       "source": "Eventbrite",
-      "date_added": "2026-04-18T00:00:00+00:00",
-      "event_category": "arttalk"
+      "date_added": "2026-04-08T16:38:38.172717+00:00",
+      "event_category": "other"
     },
     {
       "id": "2c954da7-b124-4b5c-9bab-5c37b3efcaf2",
@@ -608,7 +620,7 @@
       "event_category": "concert"
     },
     {
-      "id": "8b92c9ec-2344-494c-aa04-52c722da188b",
+      "id": "33efee54-82db-4971-a45d-fd2830c6c489",
       "event_title": "Memorial Day Weekend Spring Concert Series TBD",
       "event_date": "2026-05-22T00:00:00+00:00",
       "location": "Soyuzivka Heritage Center, Kerhonkson, NY",
@@ -616,7 +628,7 @@
       "ticket_link": "https://soyuzivka.com/calendar-of-events/memorial-day-weekend-with-stoneflies-and-torn-boots/",
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/05/TornBoots2.png",
       "source": "Soyuzivka",
-      "date_added": "2026-04-25T00:00:00+00:00",
+      "date_added": "2026-04-08T16:38:37.012733+00:00",
       "event_category": "concert"
     },
     {
@@ -730,7 +742,7 @@
       "event_category": "arttalk"
     },
     {
-      "id": "d893de03-17a2-4f30-87b8-158c9a29e61c",
+      "id": "f410e3a1-330b-499d-a13a-19438057897e",
       "event_title": "Volunteer Weekend",
       "event_date": "2026-04-17T00:00:00+00:00",
       "location": "Soyuzivka Heritage Center, Kerhonkson, NY",
@@ -738,8 +750,8 @@
       "ticket_link": "https://soyuzivka.com/calendar-of-events/volunteer-weekend/",
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/SuzyQ-Volunteer1.png",
       "source": "Soyuzivka",
-      "date_added": "2026-03-21T00:00:00+00:00",
-      "event_category": "workshop"
+      "date_added": "2026-04-08T16:38:36.169479+00:00",
+      "event_category": "other"
     },
     {
       "id": "e3002a4a-dcee-4d73-b91b-bbd10c68530a",
@@ -826,7 +838,7 @@
       "event_category": "concert"
     },
     {
-      "id": "25a0e2b6-9ef6-425b-8e83-6ae2e252aac5",
+      "id": "059e6086-ab8c-4468-8bfa-e84b399b87e2",
       "event_title": "Viktor movie screening at the ReelAbilities Film Festival",
       "event_date": "2026-04-25T04:00:00+00:00",
       "location": "New York, NY",
@@ -834,8 +846,8 @@
       "ticket_link": "https://www.razomforukraine.org/events/viktor-movie-screening-at-the-reelabilities-film-festival/",
       "cover_image_url": "https://www.razomforukraine.org/wp-content/uploads/2026/04/Facebook-cover-3.png",
       "source": "Razom For Ukraine",
-      "date_added": "2026-04-04T00:00:00+00:00",
-      "event_category": "movie"
+      "date_added": "2026-04-08T16:38:37.928609+00:00",
+      "event_category": null
     },
     {
       "id": "1de42729-b4e6-4e80-8e8a-fc33fb17ff76",
@@ -886,19 +898,19 @@
       "event_category": "standup"
     },
     {
-      "id": "24b97a58-5eec-4370-9034-485c45d5cdf0",
+      "id": "2ef7703d-b96b-484c-9e65-0c1261dbfd62",
       "event_title": "Ukrainian Drama Showcase",
-      "event_date": "2026-05-07T22:00:00+00:00",
-      "location": "The Clemente Soto Vélez Cultural & Educational CenterNew York, NYMultiple dates",
-      "event_description": "Dive into six powerful stories at Razom for Ukraine's inaugural staged reading festival of Ukrainian theater.",
-      "ticket_link": "https://www.eventbrite.com/e/ukrainian-drama-showcase-tickets-1985937061210",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1181214341%252F2328834903653%252F1%252Foriginal.20260401-165906%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.919%26fp-y%3D0.463%26s%3D2e697c0511f6d0264d129d6ec7944d1e&w=1880&q=75",
-      "source": "Eventbrite",
-      "date_added": "2026-04-11T00:00:00+00:00",
-      "event_category": "performance"
+      "event_date": "2026-05-07T04:00:00+00:00",
+      "location": "The Clemente Soto Vélez Cultural & Educational Center 107 Suffolk St, New York, NY , 10002",
+      "event_description": null,
+      "ticket_link": "https://www.razomforukraine.org/events/ukrainian-drama-showcase/",
+      "cover_image_url": "https://www.razomforukraine.org/wp-content/uploads/2026/04/Group-3-7.png",
+      "source": "Razom For Ukraine",
+      "date_added": "2026-04-08T16:38:38.030816+00:00",
+      "event_category": null
     },
     {
-      "id": "3db058b0-5eca-4115-aff9-d1902452b3ee",
+      "id": "104b50cd-eebe-48ce-9f39-2a6baed7886f",
       "event_title": "Across the Oceans: United in Support of Kyiv-Mohyla Academy-New York",
       "event_date": "2026-05-09T22:00:00+00:00",
       "location": "Ukrainian Institute of AmericaNew York, NYSaturday, May 9 from 6 pm to 9:30 pm",
@@ -906,8 +918,8 @@
       "ticket_link": "https://www.eventbrite.com/e/across-the-oceans-united-in-support-of-kyiv-mohyla-academy-new-york-tickets-1984716832473",
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1179326041%252F865995669873%252F1%252Foriginal.20260308-174605%3Fw%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26s%3D82853ed14ed58ced42c57e6aec7da2be&w=1880&q=75",
       "source": "Eventbrite",
-      "date_added": "2026-04-18T00:00:00+00:00",
-      "event_category": "arttalk"
+      "date_added": "2026-04-08T16:38:38.172717+00:00",
+      "event_category": "other"
     },
     {
       "id": "2c954da7-b124-4b5c-9bab-5c37b3efcaf2",
@@ -970,7 +982,7 @@
       "event_category": "concert"
     },
     {
-      "id": "8b92c9ec-2344-494c-aa04-52c722da188b",
+      "id": "33efee54-82db-4971-a45d-fd2830c6c489",
       "event_title": "Memorial Day Weekend Spring Concert Series TBD",
       "event_date": "2026-05-22T00:00:00+00:00",
       "location": "Soyuzivka Heritage Center, Kerhonkson, NY",
@@ -978,7 +990,7 @@
       "ticket_link": "https://soyuzivka.com/calendar-of-events/memorial-day-weekend-with-stoneflies-and-torn-boots/",
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/05/TornBoots2.png",
       "source": "Soyuzivka",
-      "date_added": "2026-04-25T00:00:00+00:00",
+      "date_added": "2026-04-08T16:38:37.012733+00:00",
       "event_category": "concert"
     },
     {
@@ -994,7 +1006,7 @@
       "event_category": "arttalk"
     },
     {
-      "id": "8a8fddda-8bb8-4c8b-a71c-9d198e18e4f7",
+      "id": "38da57f5-d31e-49e9-9207-a6564a156367",
       "event_title": "Pysanky Workshop",
       "event_date": "2026-06-03T00:00:00+00:00",
       "location": "Soyuzivka Heritage Center, Kerhonkson, NY",
@@ -1002,7 +1014,7 @@
       "ticket_link": "https://soyuzivka.com/calendar-of-events/pysanky-workshops/",
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/PysankyWorkshop.png",
       "source": "Soyuzivka",
-      "date_added": "2026-05-09T00:00:00+00:00",
+      "date_added": "2026-04-08T16:38:37.151411+00:00",
       "event_category": "workshop"
     },
     {
@@ -1042,7 +1054,7 @@
       "event_category": "arttalk"
     },
     {
-      "id": "8a8f9584-0738-4433-a512-fb08513a8218",
+      "id": "196d6129-0b19-4b93-b1db-983b91d26824",
       "event_title": "July 4th Celebration",
       "event_date": "2026-07-03T00:00:00+00:00",
       "location": "Soyuzivka Heritage Center, Kerhonkson, NY",
@@ -1050,31 +1062,31 @@
       "ticket_link": "https://soyuzivka.com/calendar-of-events/july-4th-celebration/",
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/July4th.png",
       "source": "Soyuzivka",
-      "date_added": "2026-06-06T00:00:00+00:00",
-      "event_category": "concert"
+      "date_added": "2026-04-08T16:38:37.261886+00:00",
+      "event_category": "other"
     },
     {
-      "id": "807a9295-604f-47e2-99a3-0bd20f5e8f15",
+      "id": "af20df63-89f5-4a0e-b33b-0d4ef3247da5",
       "event_title": "Vasyl Baidak - New York City",
-      "event_date": "2026-07-04T05:00:00+00:00",
+      "event_date": "2026-07-04T00:00:00+00:00",
       "location": "Manhattan",
       "event_description": "кращі приколи, новий матеріал, аукціон, ооооо, так! НАРЕШТІ побачимось із вами в США і Канаді. хто мене знає, то сенсу розписувати щось вам немає, ви, гадаю, і так прийдете, бо тут і посміятись, і задонатити, ну топ. а от хто не знає — спробую вас переконати прийти. «хеллоооооу! мене звуть Байдак Ва",
       "ticket_link": "https://waylight.me/ucrazy/event/16319-cd91c",
       "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1773094064_-1200630.jpg",
       "source": "Waylight",
-      "date_added": "2026-04-08T07:22:06.17+00:00",
+      "date_added": "2026-04-08T16:38:37.819726+00:00",
       "event_category": "standup"
     },
     {
-      "id": "8c4823b4-edf7-45bd-91c6-16ed16367ff2",
-      "event_title": "Ukrainian Festival",
+      "id": "5642b913-9817-403b-ab3e-16933909db7e",
+      "event_title": "Ukraine Fest 2026",
       "event_date": "2026-07-10T00:00:00+00:00",
       "location": "Soyuzivka Heritage Center, Kerhonkson, NY",
-      "event_description": "GOT PLANS FOR THE SUMMER OF 2026?? Make sure it includes joining us at our annual Ukrainian Festival! Mark your calendar and SAVE the DATE: July 10-12, 2026 for the Soyuzivka Heritage Center Summer Festival! Celebrate Ukraine's history, culture, and freedom! More details coming to come... У тебе є л",
+      "event_description": "2026 Ukrainian Summer Festival at Soyuzivka YOUR WEEKEND IS PACKED WITH ENTERTAINMENT FOR THE ENTIRE FAMILY! The weekend unfolds with a lively, music-filled celebration with Ukrainian entertainers from Friday night through Sunday afternoon. It begins with an energetic kickoff on Friday evening, buil",
       "ticket_link": "https://soyuzivka.com/calendar-of-events/ukrainian-festival/",
-      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/UkrFestival.png",
+      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/SQ-TicketBud-2026.jpg",
       "source": "Soyuzivka",
-      "date_added": "2026-06-13T00:00:00+00:00",
+      "date_added": "2026-04-08T16:38:37.368473+00:00",
       "event_category": "concert"
     },
     {
@@ -1102,7 +1114,7 @@
       "event_category": "concert"
     },
     {
-      "id": "b7b21252-b40d-474b-8bc0-3289e979e640",
+      "id": "1649b32e-f7ae-466a-b2ec-c1fd620a8363",
       "event_title": "Labor Day Weekend",
       "event_date": "2026-09-04T00:00:00+00:00",
       "location": "Soyuzivka Heritage Center, Kerhonkson, NY",
@@ -1110,7 +1122,7 @@
       "ticket_link": "https://soyuzivka.com/calendar-of-events/labor-day-weekend/",
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/LaborDay.png",
       "source": "Soyuzivka",
-      "date_added": "2026-08-08T00:00:00+00:00",
+      "date_added": "2026-04-08T16:38:37.48093+00:00",
       "event_category": "concert"
     },
     {
@@ -1126,7 +1138,7 @@
       "event_category": "concert"
     },
     {
-      "id": "edc0a04e-a4b2-490c-9f3d-e897e464d80d",
+      "id": "9ca66a48-e278-4d10-826f-6c86d0cf369a",
       "event_title": "Fall Fest",
       "event_date": "2026-10-02T00:00:00+00:00",
       "location": "Soyuzivka Heritage Center, Kerhonkson, NY",
@@ -1134,8 +1146,8 @@
       "ticket_link": "https://soyuzivka.com/calendar-of-events/fall-fest/",
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/10/Fall-Fest.jpg",
       "source": "Soyuzivka",
-      "date_added": "2026-09-05T00:00:00+00:00",
-      "event_category": "concert"
+      "date_added": "2026-04-08T16:38:37.591948+00:00",
+      "event_category": "other"
     },
     {
       "id": "6b985070-611a-40c8-8106-a456cca3361b",
@@ -1174,7 +1186,7 @@
       "event_category": "arttalk"
     },
     {
-      "id": "9ee928bb-9941-47e7-b696-b8e7bfbf82a7",
+      "id": "648f40cb-c907-4ad7-bf07-a2f071942428",
       "event_title": "New Year’s Eve Weekend",
       "event_date": "2026-12-31T00:00:00+00:00",
       "location": "Soyuzivka Heritage Center, Kerhonkson, NY",
@@ -1182,8 +1194,8 @@
       "ticket_link": "https://soyuzivka.com/calendar-of-events/new-years-eve/",
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/NewYears.png",
       "source": "Soyuzivka",
-      "date_added": "2026-12-04T00:00:00+00:00",
-      "event_category": "concert"
+      "date_added": "2026-04-08T16:38:37.712628+00:00",
+      "event_category": "arttalk"
     }
   ]
 }
