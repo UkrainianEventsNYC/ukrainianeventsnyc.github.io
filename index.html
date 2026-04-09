@@ -1444,7 +1444,6 @@
 
     function setCategoryFilter(category) {
       activeCategoryFilter = category;
-      sectionExpanded.upcoming = false;
       sectionExpanded.this_week = false;
       sectionExpanded.next_week = false;
       sectionExpanded.month = false;
@@ -1474,7 +1473,6 @@
       if (searchTimeout) clearTimeout(searchTimeout);
       searchTimeout = setTimeout(() => {
         activeSearchQuery = (value || '').toLowerCase().trim();
-        sectionExpanded.upcoming = false;
         sectionExpanded.this_week = false;
         sectionExpanded.next_week = false;
         sectionExpanded.month = false;
@@ -1484,7 +1482,6 @@
     }
 
     function renderAllSections() {
-      renderSection('grid-upcoming', 'count-upcoming', allData.upcoming || [], 'more-upcoming', 'upcoming');
       renderSection('grid-this_week', 'count-this_week', allData.this_week || [], 'more-this_week', 'this_week');
       renderSection('grid-next_week', 'count-next_week', allData.next_week || [], 'more-next_week', 'next_week');
       renderSection('grid-month', 'count-month', allData.next_month || [], 'more-month', 'month');
