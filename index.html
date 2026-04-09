@@ -565,13 +565,15 @@
     .filter-content {
       max-height: 0;
       overflow: hidden;
-      transition: max-height 0.3s ease, padding 0.3s ease;
+      transition: max-height 0.3s ease, padding 0.3s ease, opacity 0.2s ease;
       padding: 0 0.25rem;
+      opacity: 0;
     }
 
     .filter-section.open .filter-content {
       max-height: 300px;
       padding: 0.75rem 0.25rem;
+      opacity: 1;
     }
 
     .filter-pills {
@@ -1205,7 +1207,7 @@
               <button class="pill" id="cat-concert" onclick="setCategoryFilter('concert')">Concert</button>
               <button class="pill" id="cat-festival" onclick="setCategoryFilter('festival')">Festival</button>
               <button class="pill" id="cat-movie" onclick="setCategoryFilter('movie')">Film</button>
-              <button class="pill" id="cat-performance" onclick="setCategoryFilter('performance')">Performance</button>
+
               <button class="pill" id="cat-standup" onclick="setCategoryFilter('standup')">Stand up</button>
               <button class="pill" id="cat-workshop" onclick="setCategoryFilter('workshop')">Workshop</button>
               <button class="pill" id="cat-other" onclick="setCategoryFilter('other')">Other</button>
@@ -1454,7 +1456,7 @@
       const pill = document.getElementById('cat-' + category);
       if (pill) pill.classList.add('active');
       // Update label and auto-collapse
-      const labels = { all: 'All', concert: 'Concert', movie: 'Film', performance: 'Performance', arttalk: 'Art/Talk', standup: 'Stand up', workshop: 'Workshop', festival: 'Festival', other: 'Other' };
+      const labels = { all: 'All', concert: 'Concert', movie: 'Film', arttalk: 'Art/Talk', standup: 'Stand up', workshop: 'Workshop', festival: 'Festival', other: 'Other' };
       document.getElementById('cat-active-label').textContent = labels[category] || category;
       collapseFilter('filter-category');
       renderAllSections();

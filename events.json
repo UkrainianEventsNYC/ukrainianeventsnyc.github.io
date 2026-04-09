@@ -1,18 +1,6 @@
 {
-  "generated_at": "2026-04-08T23:49:08.533963-04:00",
+  "generated_at": "2026-04-09T00:32:34.727076-04:00",
   "this_week": [
-    {
-      "id": "17717c63-53b0-4e67-ae4a-d7cb833ec5df",
-      "event_title": "New York/ Премʼєра фільму \"Коли ти розлучишся?\"/When will you get divorced?",
-      "event_date": "2026-04-11",
-      "end_date": "2026-04-11",
-      "location": "Cinema VillageNew York, NYSaturday, Apr 11 from 2 pm to 3:30 pm",
-      "event_description": "Кохання знайде тебе у кінотеатрах Америки",
-      "ticket_link": "https://www.eventbrite.com/e/new-york-when-will-you-get-divorced-tickets-1985212495013",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1179688422%252F294391790611%252F1%252Foriginal.20260312-143148%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.896%26fp-y%3D0.487%26s%3Db2b76ff67ee90fb2f3bf7b6570423ba5&w=1880&q=75",
-      "source": "Eventbrite",
-      "event_category": "movie"
-    },
     {
       "id": "13be7705-f4ce-4a99-a686-e63e2314d2d8",
       "event_title": "WILD BRUSH STUDIO WITH LESYA VERBA",
@@ -38,16 +26,16 @@
       "event_category": "movie"
     },
     {
-      "id": "f8fd81c5-4a24-4d35-a326-8953f7f67d11",
-      "event_title": "VERKA SERDUCHKA & BAND - New York",
-      "event_date": "2026-04-12",
-      "end_date": "2026-04-12",
-      "location": "Kings Theatre, Brooklyn, NY",
-      "event_description": "Get Ready, America!     VERKA SERDUCHKA, the Queen of Your Heart (and Eurovision), Is Coming!     Buckle up your glitter boots, because the one, the only, the absolutely fabulous VERKA SERDUCHKA is heading your way!  She's not just a superstar, she's a cosmic phenomenon!  Seriously, everyone from your grumpy uncle to your neighbor's cat adores VERKA. Her hits? They're not just songs - they're the official anthems of every epic birthday bash, every unforgettable wedding, and every single \"thank goodness it's Friday\" dance party!     You ABSOLUTELY Cannot Miss This!  Ukraine will win!    Королева Євробачення ВЄРКА СЕРДЮЧКА їде до Америки!   ВЄРКУ СЕРДЮЧКУ люблять усі – дорослі й діти, жінки й чоловіки, котики й зайчики! А її хіти давно стали гімнами днів народжень, весіль і просто веселих п'ятниць!  Кожен її концерт — це ковток води в пустелі! Келих холодного ігристого після страшного похмілля! Довгоочікувана відпустка після квартального звіту!  Вона запалює так, що сяйво видно з космосу!  Кожен глядач на кілька годин відчує себе найщасливішою людиною у цьому світі!     Приходь, адже концерт Вєрки Сердючки пропустити неможливо!  Україна переможе!",
-      "ticket_link": "https://us.atgtickets.com/events/verka-serduchka/kings-theatre-brooklyn/",
-      "cover_image_url": "https://api.bomond.com/public/56/2834/141700/serduchka_432x432%20%282%29.webp",
-      "source": "Bomond",
-      "event_category": "concert"
+      "id": "17717c63-53b0-4e67-ae4a-d7cb833ec5df",
+      "event_title": "New York/ Премʼєра фільму \"Коли ти розлучишся?\"/When will you get divorced?",
+      "event_date": "2026-04-11",
+      "end_date": "2026-04-11",
+      "location": "Cinema VillageNew York, NYSaturday, Apr 11 from 2 pm to 3:30 pm",
+      "event_description": "Кохання знайде тебе у кінотеатрах Америки",
+      "ticket_link": "https://www.eventbrite.com/e/new-york-when-will-you-get-divorced-tickets-1985212495013",
+      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1179688422%252F294391790611%252F1%252Foriginal.20260312-143148%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.896%26fp-y%3D0.487%26s%3Db2b76ff67ee90fb2f3bf7b6570423ba5&w=1880&q=75",
+      "source": "Eventbrite",
+      "event_category": "movie"
     },
     {
       "id": "19cad087-c401-4921-ae32-64951ded72fb",
@@ -59,6 +47,18 @@
       "ticket_link": "https://www.razomforukraine.org/events/introductions-at-all-souls/",
       "cover_image_url": "https://www.razomforukraine.org/wp-content/uploads/2026/03/image.webp",
       "source": "Razom For Ukraine",
+      "event_category": "concert"
+    },
+    {
+      "id": "f8fd81c5-4a24-4d35-a326-8953f7f67d11",
+      "event_title": "VERKA SERDUCHKA & BAND - New York",
+      "event_date": "2026-04-12",
+      "end_date": "2026-04-12",
+      "location": "Kings Theatre, Brooklyn, NY",
+      "event_description": "Get Ready, America!     VERKA SERDUCHKA, the Queen of Your Heart (and Eurovision), Is Coming!     Buckle up your glitter boots, because the one, the only, the absolutely fabulous VERKA SERDUCHKA is heading your way!  She's not just a superstar, she's a cosmic phenomenon!  Seriously, everyone from your grumpy uncle to your neighbor's cat adores VERKA. Her hits? They're not just songs - they're the official anthems of every epic birthday bash, every unforgettable wedding, and every single \"thank goodness it's Friday\" dance party!     You ABSOLUTELY Cannot Miss This!  Ukraine will win!    Королева Євробачення ВЄРКА СЕРДЮЧКА їде до Америки!   ВЄРКУ СЕРДЮЧКУ люблять усі – дорослі й діти, жінки й чоловіки, котики й зайчики! А її хіти давно стали гімнами днів народжень, весіль і просто веселих п'ятниць!  Кожен її концерт — це ковток води в пустелі! Келих холодного ігристого після страшного похмілля! Довгоочікувана відпустка після квартального звіту!  Вона запалює так, що сяйво видно з космосу!  Кожен глядач на кілька годин відчує себе найщасливішою людиною у цьому світі!     Приходь, адже концерт Вєрки Сердючки пропустити неможливо!  Україна переможе!",
+      "ticket_link": "https://us.atgtickets.com/events/verka-serduchka/kings-theatre-brooklyn/",
+      "cover_image_url": "https://api.bomond.com/public/56/2834/141700/serduchka_432x432%20%282%29.webp",
+      "source": "Bomond",
       "event_category": "concert"
     },
     {
@@ -162,16 +162,16 @@
       "event_category": "other"
     },
     {
-      "id": "e51d622a-e3a5-4c84-94c7-2d7d17fa968e",
-      "event_title": "KOLA - New York",
+      "id": "5bf97f96-4932-418d-a052-b5ced514c9e1",
+      "event_title": "Mother’s Day Brunch",
       "event_date": "2026-05-10",
       "end_date": "2026-05-10",
-      "location": "NEW YORK - TBA, New York, NY",
-      "event_description": "Сильна та ніжна, чиї пісні знають та підспівують усі - Українська співачка KOLA - Перший сольний тур Північною Америкою!",
-      "ticket_link": "https://bomond.com/events/kola-new-york",
-      "cover_image_url": "https://api.bomond.com/public/68/3429/171460/432_432.webp",
-      "source": "Bomond",
-      "event_category": "concert"
+      "location": "Soyuzivka Heritage Center, Kerhonkson, NY",
+      "event_description": "Celebrate Mother’s Day in style at Soyuzivka with our exquisite brunch buffet, where a delectable array of dishes awaits along with a complimentary glass of champagne or mimosa—because every mom deserves a toast on her special day! Reservations Accepted - Call (845) 626-5641 or email [email protecte",
+      "ticket_link": "https://soyuzivka.com/calendar-of-events/fathers-day-brunch-copy/",
+      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2026/03/Mothers-Day-Pic.png",
+      "source": "Soyuzivka",
+      "event_category": "other"
     },
     {
       "id": "cd780c38-7d18-43fe-9e8e-c3d86adbc5ff",
@@ -186,18 +186,6 @@
       "event_category": "concert"
     },
     {
-      "id": "5bf97f96-4932-418d-a052-b5ced514c9e1",
-      "event_title": "Mother’s Day Brunch",
-      "event_date": "2026-05-10",
-      "end_date": "2026-05-10",
-      "location": "Soyuzivka Heritage Center, Kerhonkson, NY",
-      "event_description": "Celebrate Mother’s Day in style at Soyuzivka with our exquisite brunch buffet, where a delectable array of dishes awaits along with a complimentary glass of champagne or mimosa—because every mom deserves a toast on her special day! Reservations Accepted - Call (845) 626-5641 or email [email protecte",
-      "ticket_link": "https://soyuzivka.com/calendar-of-events/fathers-day-brunch-copy/",
-      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2026/03/Mothers-Day-Pic.png",
-      "source": "Soyuzivka",
-      "event_category": "other"
-    },
-    {
       "id": "bc4014ca-7f8a-461b-bb68-37651c8d872e",
       "event_title": "Fisch Trio",
       "event_date": "2026-05-10",
@@ -207,6 +195,18 @@
       "ticket_link": "https://www.helpinghandsukraine.org/fisch-trio-mothers-day-jazz/",
       "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2026/03/634329812_10238196600551959_4115646380688254202_n.jpg",
       "source": "Helping Hands for Ukraine",
+      "event_category": "concert"
+    },
+    {
+      "id": "e51d622a-e3a5-4c84-94c7-2d7d17fa968e",
+      "event_title": "KOLA - New York",
+      "event_date": "2026-05-10",
+      "end_date": "2026-05-10",
+      "location": "NEW YORK - TBA, New York, NY",
+      "event_description": "Сильна та ніжна, чиї пісні знають та підспівують усі - Українська співачка KOLA - Перший сольний тур Північною Америкою!",
+      "ticket_link": "https://bomond.com/events/kola-new-york",
+      "cover_image_url": "https://api.bomond.com/public/68/3429/171460/432_432.webp",
+      "source": "Bomond",
       "event_category": "concert"
     },
     {
@@ -248,18 +248,6 @@
   ],
   "all_events": [
     {
-      "id": "17717c63-53b0-4e67-ae4a-d7cb833ec5df",
-      "event_title": "New York/ Премʼєра фільму \"Коли ти розлучишся?\"/When will you get divorced?",
-      "event_date": "2026-04-11",
-      "end_date": "2026-04-11",
-      "location": "Cinema VillageNew York, NYSaturday, Apr 11 from 2 pm to 3:30 pm",
-      "event_description": "Кохання знайде тебе у кінотеатрах Америки",
-      "ticket_link": "https://www.eventbrite.com/e/new-york-when-will-you-get-divorced-tickets-1985212495013",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1179688422%252F294391790611%252F1%252Foriginal.20260312-143148%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.896%26fp-y%3D0.487%26s%3Db2b76ff67ee90fb2f3bf7b6570423ba5&w=1880&q=75",
-      "source": "Eventbrite",
-      "event_category": "movie"
-    },
-    {
       "id": "13be7705-f4ce-4a99-a686-e63e2314d2d8",
       "event_title": "WILD BRUSH STUDIO WITH LESYA VERBA",
       "event_date": "2026-04-11",
@@ -284,16 +272,16 @@
       "event_category": "movie"
     },
     {
-      "id": "f8fd81c5-4a24-4d35-a326-8953f7f67d11",
-      "event_title": "VERKA SERDUCHKA & BAND - New York",
-      "event_date": "2026-04-12",
-      "end_date": "2026-04-12",
-      "location": "Kings Theatre, Brooklyn, NY",
-      "event_description": "Get Ready, America!     VERKA SERDUCHKA, the Queen of Your Heart (and Eurovision), Is Coming!     Buckle up your glitter boots, because the one, the only, the absolutely fabulous VERKA SERDUCHKA is heading your way!  She's not just a superstar, she's a cosmic phenomenon!  Seriously, everyone from your grumpy uncle to your neighbor's cat adores VERKA. Her hits? They're not just songs - they're the official anthems of every epic birthday bash, every unforgettable wedding, and every single \"thank goodness it's Friday\" dance party!     You ABSOLUTELY Cannot Miss This!  Ukraine will win!    Королева Євробачення ВЄРКА СЕРДЮЧКА їде до Америки!   ВЄРКУ СЕРДЮЧКУ люблять усі – дорослі й діти, жінки й чоловіки, котики й зайчики! А її хіти давно стали гімнами днів народжень, весіль і просто веселих п'ятниць!  Кожен її концерт — це ковток води в пустелі! Келих холодного ігристого після страшного похмілля! Довгоочікувана відпустка після квартального звіту!  Вона запалює так, що сяйво видно з космосу!  Кожен глядач на кілька годин відчує себе найщасливішою людиною у цьому світі!     Приходь, адже концерт Вєрки Сердючки пропустити неможливо!  Україна переможе!",
-      "ticket_link": "https://us.atgtickets.com/events/verka-serduchka/kings-theatre-brooklyn/",
-      "cover_image_url": "https://api.bomond.com/public/56/2834/141700/serduchka_432x432%20%282%29.webp",
-      "source": "Bomond",
-      "event_category": "concert"
+      "id": "17717c63-53b0-4e67-ae4a-d7cb833ec5df",
+      "event_title": "New York/ Премʼєра фільму \"Коли ти розлучишся?\"/When will you get divorced?",
+      "event_date": "2026-04-11",
+      "end_date": "2026-04-11",
+      "location": "Cinema VillageNew York, NYSaturday, Apr 11 from 2 pm to 3:30 pm",
+      "event_description": "Кохання знайде тебе у кінотеатрах Америки",
+      "ticket_link": "https://www.eventbrite.com/e/new-york-when-will-you-get-divorced-tickets-1985212495013",
+      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1179688422%252F294391790611%252F1%252Foriginal.20260312-143148%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.896%26fp-y%3D0.487%26s%3Db2b76ff67ee90fb2f3bf7b6570423ba5&w=1880&q=75",
+      "source": "Eventbrite",
+      "event_category": "movie"
     },
     {
       "id": "19cad087-c401-4921-ae32-64951ded72fb",
@@ -305,6 +293,18 @@
       "ticket_link": "https://www.razomforukraine.org/events/introductions-at-all-souls/",
       "cover_image_url": "https://www.razomforukraine.org/wp-content/uploads/2026/03/image.webp",
       "source": "Razom For Ukraine",
+      "event_category": "concert"
+    },
+    {
+      "id": "f8fd81c5-4a24-4d35-a326-8953f7f67d11",
+      "event_title": "VERKA SERDUCHKA & BAND - New York",
+      "event_date": "2026-04-12",
+      "end_date": "2026-04-12",
+      "location": "Kings Theatre, Brooklyn, NY",
+      "event_description": "Get Ready, America!     VERKA SERDUCHKA, the Queen of Your Heart (and Eurovision), Is Coming!     Buckle up your glitter boots, because the one, the only, the absolutely fabulous VERKA SERDUCHKA is heading your way!  She's not just a superstar, she's a cosmic phenomenon!  Seriously, everyone from your grumpy uncle to your neighbor's cat adores VERKA. Her hits? They're not just songs - they're the official anthems of every epic birthday bash, every unforgettable wedding, and every single \"thank goodness it's Friday\" dance party!     You ABSOLUTELY Cannot Miss This!  Ukraine will win!    Королева Євробачення ВЄРКА СЕРДЮЧКА їде до Америки!   ВЄРКУ СЕРДЮЧКУ люблять усі – дорослі й діти, жінки й чоловіки, котики й зайчики! А її хіти давно стали гімнами днів народжень, весіль і просто веселих п'ятниць!  Кожен її концерт — це ковток води в пустелі! Келих холодного ігристого після страшного похмілля! Довгоочікувана відпустка після квартального звіту!  Вона запалює так, що сяйво видно з космосу!  Кожен глядач на кілька годин відчує себе найщасливішою людиною у цьому світі!     Приходь, адже концерт Вєрки Сердючки пропустити неможливо!  Україна переможе!",
+      "ticket_link": "https://us.atgtickets.com/events/verka-serduchka/kings-theatre-brooklyn/",
+      "cover_image_url": "https://api.bomond.com/public/56/2834/141700/serduchka_432x432%20%282%29.webp",
+      "source": "Bomond",
       "event_category": "concert"
     },
     {
@@ -392,18 +392,6 @@
       "event_category": "movie"
     },
     {
-      "id": "994d6242-42b6-4fd5-b214-a1e356c01d4d",
-      "event_title": "Dima Prokopov Live in New York",
-      "event_date": "2026-04-24",
-      "end_date": "2026-04-24",
-      "location": "New York",
-      "event_description": "Live performance by Dima Prokopov in Brooklyn — a Ukrainian music night in the heart of New York.",
-      "ticket_link": "https://ukrainian.us/events/prokopov-ny",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/HYEvKyLi0mJi92ocbWd3EpyjsHILgBxE-source.png?v=0.1&s=e0b574e217810f6ca7e82c13e06f0c15",
-      "source": "Ukrainian USA",
-      "event_category": "concert"
-    },
-    {
       "id": "68cd3991-b64b-461b-9124-d40ac876e911",
       "event_title": "CHICO & QATOSHI | WHIPPANY",
       "event_date": "2026-04-24",
@@ -412,6 +400,18 @@
       "event_description": null,
       "ticket_link": "https://ukrainian.us/events/chico-qatoshi-whippany",
       "cover_image_url": "https://ukrainian.us/storage/event/1/E9vX1XF2MQiJb8_UlgaGmayZ7C9QM7a_-source.png?v=0.1&s=b63eb6c815afb4759c5bf0fe6f6c3cfc",
+      "source": "Ukrainian USA",
+      "event_category": "concert"
+    },
+    {
+      "id": "994d6242-42b6-4fd5-b214-a1e356c01d4d",
+      "event_title": "Dima Prokopov Live in New York",
+      "event_date": "2026-04-24",
+      "end_date": "2026-04-24",
+      "location": "New York",
+      "event_description": "Live performance by Dima Prokopov in Brooklyn — a Ukrainian music night in the heart of New York.",
+      "ticket_link": "https://ukrainian.us/events/prokopov-ny",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/HYEvKyLi0mJi92ocbWd3EpyjsHILgBxE-source.png?v=0.1&s=e0b574e217810f6ca7e82c13e06f0c15",
       "source": "Ukrainian USA",
       "event_category": "concert"
     },
@@ -500,16 +500,16 @@
       "event_category": "other"
     },
     {
-      "id": "e51d622a-e3a5-4c84-94c7-2d7d17fa968e",
-      "event_title": "KOLA - New York",
+      "id": "5bf97f96-4932-418d-a052-b5ced514c9e1",
+      "event_title": "Mother’s Day Brunch",
       "event_date": "2026-05-10",
       "end_date": "2026-05-10",
-      "location": "NEW YORK - TBA, New York, NY",
-      "event_description": "Сильна та ніжна, чиї пісні знають та підспівують усі - Українська співачка KOLA - Перший сольний тур Північною Америкою!",
-      "ticket_link": "https://bomond.com/events/kola-new-york",
-      "cover_image_url": "https://api.bomond.com/public/68/3429/171460/432_432.webp",
-      "source": "Bomond",
-      "event_category": "concert"
+      "location": "Soyuzivka Heritage Center, Kerhonkson, NY",
+      "event_description": "Celebrate Mother’s Day in style at Soyuzivka with our exquisite brunch buffet, where a delectable array of dishes awaits along with a complimentary glass of champagne or mimosa—because every mom deserves a toast on her special day! Reservations Accepted - Call (845) 626-5641 or email [email protecte",
+      "ticket_link": "https://soyuzivka.com/calendar-of-events/fathers-day-brunch-copy/",
+      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2026/03/Mothers-Day-Pic.png",
+      "source": "Soyuzivka",
+      "event_category": "other"
     },
     {
       "id": "cd780c38-7d18-43fe-9e8e-c3d86adbc5ff",
@@ -524,18 +524,6 @@
       "event_category": "concert"
     },
     {
-      "id": "5bf97f96-4932-418d-a052-b5ced514c9e1",
-      "event_title": "Mother’s Day Brunch",
-      "event_date": "2026-05-10",
-      "end_date": "2026-05-10",
-      "location": "Soyuzivka Heritage Center, Kerhonkson, NY",
-      "event_description": "Celebrate Mother’s Day in style at Soyuzivka with our exquisite brunch buffet, where a delectable array of dishes awaits along with a complimentary glass of champagne or mimosa—because every mom deserves a toast on her special day! Reservations Accepted - Call (845) 626-5641 or email [email protecte",
-      "ticket_link": "https://soyuzivka.com/calendar-of-events/fathers-day-brunch-copy/",
-      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2026/03/Mothers-Day-Pic.png",
-      "source": "Soyuzivka",
-      "event_category": "other"
-    },
-    {
       "id": "bc4014ca-7f8a-461b-bb68-37651c8d872e",
       "event_title": "Fisch Trio",
       "event_date": "2026-05-10",
@@ -545,6 +533,18 @@
       "ticket_link": "https://www.helpinghandsukraine.org/fisch-trio-mothers-day-jazz/",
       "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2026/03/634329812_10238196600551959_4115646380688254202_n.jpg",
       "source": "Helping Hands for Ukraine",
+      "event_category": "concert"
+    },
+    {
+      "id": "e51d622a-e3a5-4c84-94c7-2d7d17fa968e",
+      "event_title": "KOLA - New York",
+      "event_date": "2026-05-10",
+      "end_date": "2026-05-10",
+      "location": "NEW YORK - TBA, New York, NY",
+      "event_description": "Сильна та ніжна, чиї пісні знають та підспівують усі - Українська співачка KOLA - Перший сольний тур Північною Америкою!",
+      "ticket_link": "https://bomond.com/events/kola-new-york",
+      "cover_image_url": "https://api.bomond.com/public/68/3429/171460/432_432.webp",
+      "source": "Bomond",
       "event_category": "concert"
     },
     {
@@ -632,18 +632,6 @@
       "event_category": "other"
     },
     {
-      "id": "c87b6b2f-4c3d-4236-9d50-b187ad5101df",
-      "event_title": "Vasyl Baidak - New York City",
-      "event_date": "2026-07-03",
-      "end_date": "2026-07-03",
-      "location": "Manhattan",
-      "event_description": "кращі приколи, новий матеріал, аукціон, ооооо, так! НАРЕШТІ побачимось із вами в США і Канаді. хто мене знає, то сенсу розписувати щось вам немає, ви, гадаю, і так прийдете, бо тут і посміятись, і задонатити, ну топ. а от хто не знає — спробую вас переконати прийти. «хеллоооооу! мене звуть Байдак Ва",
-      "ticket_link": "https://waylight.me/ucrazy/event/16319-cd91c",
-      "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1773094064_-1200630.jpg",
-      "source": "Waylight",
-      "event_category": "standup"
-    },
-    {
       "id": "d0ff2077-0c30-46dd-a7da-132667e16d37",
       "event_title": "July 4th Celebration",
       "event_date": "2026-07-03",
@@ -654,6 +642,18 @@
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/July4th.png",
       "source": "Soyuzivka",
       "event_category": "festival"
+    },
+    {
+      "id": "c87b6b2f-4c3d-4236-9d50-b187ad5101df",
+      "event_title": "Vasyl Baidak - New York City",
+      "event_date": "2026-07-03",
+      "end_date": "2026-07-03",
+      "location": "Manhattan",
+      "event_description": "кращі приколи, новий матеріал, аукціон, ооооо, так! НАРЕШТІ побачимось із вами в США і Канаді. хто мене знає, то сенсу розписувати щось вам немає, ви, гадаю, і так прийдете, бо тут і посміятись, і задонатити, ну топ. а от хто не знає — спробую вас переконати прийти. «хеллоооооу! мене звуть Байдак Ва",
+      "ticket_link": "https://waylight.me/ucrazy/event/16319-cd91c",
+      "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1773094064_-1200630.jpg",
+      "source": "Waylight",
+      "event_category": "standup"
     },
     {
       "id": "20660505-fb61-4af0-906a-1b427d985910",
