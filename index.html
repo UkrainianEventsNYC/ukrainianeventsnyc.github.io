@@ -1352,21 +1352,7 @@
     }
 
     function getEventCategory(e) {
-      // Scrapers infer category at collection time via utils/normalizer.py::infer_category().
-      // Trust the backend value; fall back to frontend inference for legacy rows.
-      if (e.event_category && e.event_category !== 'other' && e.event_category !== 'hidden') {
-        return e.event_category;
-      }
-
-      // Minimal frontend fallback for legacy DB rows without a category
-      const t = ((e.event_title || '') + ' ' + (e.event_description || '')).toLowerCase();
-      if (t.includes('movie') || t.includes('film') || t.includes('screening') || t.includes('cinema')) return 'movie';
-      if (t.includes('stand up') || t.includes('standup') || t.includes('comedy') || t.includes('open mic')) return 'standup';
-      if (t.includes('concert') || t.includes('music') || t.includes('choir') || t.includes('band') || t.includes('boat') || t.includes('cruise')) return 'concert';
-      if (t.includes('workshop') || t.includes('class') || t.includes('craft') || t.includes('decorating')) return 'workshop';
-      if (t.includes('performance') || t.includes('theater') || t.includes('theatre') || t.includes('dance') || t.includes('ballet') || t.includes('cabaret') || t.includes('showcase') || t.includes('drama')) return 'performance';
-      if (t.includes('talk') || t.includes('poetry') || t.includes('exhibition') || t.includes('art') || t.includes('dinner') || t.includes('book') || t.includes('lecture')) return 'arttalk';
-      return 'other';
+      return e.event_category || 'other';
     }
 
     function renderSection(gridId, countId, events, moreBarId, sectionKey) {
@@ -1517,26 +1503,45 @@
 
       const { dateStr, dayNum, monthShort } = formatDate(event.event_date);
 
+      // Detect multi-day events
+      const isMultiDay = event.end_date && event.end_date !== event.event_date;
+      const endParts = isMultiDay ? formatDate(event.end_date) : null;
+
       const imgHtml = cover
         ? `<img class="card-img" src="${cover}" alt="${title}" loading="lazy"
              onerror="this.style.display='none';this.nextElementSibling.style.display='flex'"
          /><div class="card-img-fallback" style="display:none">🇺🇦</div>`
         : `<div class="card-img-fallback">🇺🇦</div>`;
 
-      const dateBadge = dayNum
-        ? `<div class="date-badge">
-           <span class="db-day">${dayNum}</span>
-           ${monthShort}
-         </div>`
-        : '';
+      let dateBadge = '';
+      if (dayNum) {
+        if (isMultiDay && endParts && endParts.dayNum) {
+          const rangeMonth = monthShort === endParts.monthShort
+            ? monthShort
+            : `${monthShort}–${endParts.monthShort}`;
+          dateBadge = `<div class="date-badge">
+             <span class="db-day">${dayNum}–${endParts.dayNum}</span>
+             ${rangeMonth}
+           </div>`;
+        } else {
+          dateBadge = `<div class="date-badge">
+             <span class="db-day">${dayNum}</span>
+             ${monthShort}
+           </div>`;
+        }
+      }
 
 
       const locationHtml = location
         ? `<div class="card-meta-row"><span class="icon">📍</span><span>${location}</span></div>`
         : '';
 
-      const timeHtml = dateStr
-        ? `<div class="card-meta-row"><span class="icon">📅</span><span>${dateStr}</span></div>`
+      let timeDisplay = dateStr;
+      if (isMultiDay && endParts && endParts.dateStr) {
+        timeDisplay = `${dateStr} — ${endParts.dateStr}`;
+      }
+      const timeHtml = timeDisplay
+        ? `<div class="card-meta-row"><span class="icon">📅</span><span>${timeDisplay}</span></div>`
         : '';
 
 
@@ -1544,9 +1549,19 @@
         ? `<a class="ticket-btn" href="${link}" target="_blank" rel="noopener">Tickets / Info</a>`
         : `<button class="ticket-btn no-link" disabled>No link available</button>`;
 
-      const listDateHtml = dayNum
-        ? `<div class="list-view-date"><span class="mon">${monthShort}</span><span class="day">${dayNum}</span></div>`
-        : `<div class="list-view-date"><span class="day">—</span></div>`;
+      let listDateHtml;
+      if (dayNum) {
+        if (isMultiDay && endParts && endParts.dayNum) {
+          const rangeMonth = monthShort === endParts.monthShort
+            ? monthShort
+            : `${monthShort}–${endParts.monthShort}`;
+          listDateHtml = `<div class="list-view-date"><span class="mon">${rangeMonth}</span><span class="day">${dayNum}–${endParts.dayNum}</span></div>`;
+        } else {
+          listDateHtml = `<div class="list-view-date"><span class="mon">${monthShort}</span><span class="day">${dayNum}</span></div>`;
+        }
+      } else {
+        listDateHtml = `<div class="list-view-date"><span class="day">—</span></div>`;
+      }
 
       return `
       <div class="card" data-source="${source}" style="animation-delay:${index * 0.04}s">
