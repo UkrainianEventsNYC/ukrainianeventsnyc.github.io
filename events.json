@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T00:32:34.727076-04:00",
+  "generated_at": "2026-04-09T00:50:26.837031-04:00",
   "this_week": [
     {
       "id": "13be7705-f4ce-4a99-a686-e63e2314d2d8",
@@ -60,7 +60,9 @@
       "cover_image_url": "https://api.bomond.com/public/56/2834/141700/serduchka_432x432%20%282%29.webp",
       "source": "Bomond",
       "event_category": "concert"
-    },
+    }
+  ],
+  "next_week": [
     {
       "id": "6e59df9e-dec3-4e62-ac70-a97c628cbf64",
       "event_title": "Book Launch: Mrs. Orwell by Andrea Chalupa in conversation with Nomiki Konst",
@@ -72,9 +74,7 @@
       "cover_image_url": "https://www.razomforukraine.org/wp-content/uploads/2026/03/Group-4076283-2.png",
       "source": "Razom For Ukraine",
       "event_category": "arttalk"
-    }
-  ],
-  "next_week": [
+    },
     {
       "id": "18d5beca-62be-4194-9c6d-f4cced5f4429",
       "event_title": "Ukrainian Museum Members Appreciation Night",
@@ -125,6 +125,18 @@
     }
   ],
   "next_month": [
+    {
+      "id": "646d4535-c286-481b-b656-fa7d2a6760d0",
+      "event_title": "Concert Commemorating the 40th Anniversary of the Chornobyl Catastrophe",
+      "event_date": "2026-05-01",
+      "end_date": "2026-05-01",
+      "location": "Carnegie Hall, New York, NY",
+      "event_description": "The Young Performers Foundation, under the patronage of the Permanent Mission of Ukraine to the United Nations, presents a musical tribute commemorating the 40th anniversary of the Chornobyl catastrophe. Violinist Solomiya Ivakhiv and pianists Steven Beck and Pavlo Gintov perform a deeply expressive",
+      "ticket_link": "https://www.carnegiehall.org/calendar/2026/05/01/concert-commemorating-the-40th-anniversary-of-the-chornobyl-catastrophe-0700pm",
+      "cover_image_url": "https://carnegiehall.imgix.net/-/media/CarnegieHall/Images/Events/2025-2026-Rentals/2026-05-01-Concert-Commemorating-the-40th-Anniversary-of-the-Chornobyl-Catastrophe-1.jpg?fit=crop&crop=faces",
+      "source": "Carnegie Hall",
+      "event_category": "concert"
+    },
     {
       "id": "7efe00f4-9272-4a1d-bed7-85b102dd4727",
       "event_title": "Женя Галич - New York City",
