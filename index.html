@@ -1513,7 +1513,10 @@
         : `<div class="card-img-fallback">🇺🇦</div>`;
 
       let dateBadge = '';
-      if (dayNum) {
+      // Hide badge for long-range events (>14 days, e.g. ongoing courses)
+      const isLongRange = isMultiDay && event.event_date && event.end_date &&
+        ((new Date(event.end_date + 'T12:00:00') - new Date(event.event_date + 'T12:00:00')) / 86400000) > 14;
+      if (dayNum && !isLongRange) {
         if (isMultiDay && endParts && endParts.dayNum) {
           const rangeMonth = monthShort === endParts.monthShort
             ? monthShort
@@ -1536,7 +1539,9 @@
         : '';
 
       let timeDisplay = dateStr;
-      if (isMultiDay && endParts && endParts.dateStr) {
+      if (isLongRange) {
+        timeDisplay = 'Ongoing';
+      } else if (isMultiDay && endParts && endParts.dateStr) {
         timeDisplay = `${dateStr} — ${endParts.dateStr}`;
       }
       const timeHtml = timeDisplay
@@ -1549,7 +1554,9 @@
         : `<button class="ticket-btn no-link" disabled>No link available</button>`;
 
       let listDateHtml;
-      if (dayNum) {
+      if (isLongRange) {
+        listDateHtml = `<div class="list-view-date"><span class="mon">Ongoing</span><span class="day">—</span></div>`;
+      } else if (dayNum) {
         if (isMultiDay && endParts && endParts.dayNum) {
           const rangeMonth = monthShort === endParts.monthShort
             ? monthShort
