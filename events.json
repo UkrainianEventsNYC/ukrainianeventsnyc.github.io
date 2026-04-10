@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T05:11:08.897972-04:00",
+  "generated_at": "2026-04-10T03:39:42.978221-04:00",
   "this_week": [
     {
       "id": "13be7705-f4ce-4a99-a686-e63e2314d2d8",
@@ -186,15 +186,27 @@
       "event_category": "other"
     },
     {
-      "id": "bc4014ca-7f8a-461b-bb68-37651c8d872e",
-      "event_title": "Fisch Trio",
+      "id": "cd780c38-7d18-43fe-9e8e-c3d86adbc5ff",
+      "event_title": "NEW YORK  DZIDZIO Charitable Concert by Revived Soldiers Ukraine",
       "event_date": "2026-05-10",
       "end_date": "2026-05-10",
-      "location": "Forte Piano Recital Hall: 159 Rte 4, Paramus, NJ",
-      "event_description": "Mother’s Day Jazz Join us for a very special celebration on Mother’s day!Beautiful jazz compositions by Duke Ellington and other masters performed by a very talented trio! Dima Fisch – violinYuri Bakhtin – guitarValentin Korniyenko – bass Fisch Trio combines a transparent and aesthetic violin sound",
-      "ticket_link": "https://www.helpinghandsukraine.org/fisch-trio-mothers-day-jazz/",
-      "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2026/03/634329812_10238196600551959_4115646380688254202_n.jpg",
-      "source": "Helping Hands for Ukraine",
+      "location": "Melrose BallroomQueens, NYSunday, May 10 from 6 pm to 10 pm",
+      "event_description": "Благодійний тур гурту DZIDZIO у США з Revived Soldiers Ukraine — вже у травні! Clevelend, Detroit, New York, Chicago та Connecticut",
+      "ticket_link": "https://www.eventbrite.com/e/new-york-dzidzio-charitable-concert-by-revived-soldiers-ukraine-tickets-1983499401103",
+      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1177898873%252F86171180225%252F1%252Foriginal.20260219-020128%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Dd785c170d59a9e3618f8dbcb3d15e570&w=1880&q=75",
+      "source": "Eventbrite",
+      "event_category": "concert"
+    },
+    {
+      "id": "e51d622a-e3a5-4c84-94c7-2d7d17fa968e",
+      "event_title": "KOLA - New York",
+      "event_date": "2026-05-10",
+      "end_date": "2026-05-10",
+      "location": "NEW YORK - TBA, New York, NY",
+      "event_description": "Сильна та ніжна, чиї пісні знають та підспівують усі - Українська співачка KOLA - Перший сольний тур Північною Америкою!",
+      "ticket_link": "https://bomond.com/events/kola-new-york",
+      "cover_image_url": "https://api.bomond.com/public/68/3429/171460/432_432.webp",
+      "source": "Bomond",
       "event_category": "concert"
     },
     {
@@ -222,27 +234,27 @@
       "event_category": "arttalk"
     },
     {
-      "id": "cd780c38-7d18-43fe-9e8e-c3d86adbc5ff",
-      "event_title": "NEW YORK  DZIDZIO Charitable Concert by Revived Soldiers Ukraine",
+      "id": "bc4014ca-7f8a-461b-bb68-37651c8d872e",
+      "event_title": "Fisch Trio",
       "event_date": "2026-05-10",
       "end_date": "2026-05-10",
-      "location": "Melrose BallroomQueens, NYSunday, May 10 from 6 pm to 10 pm",
-      "event_description": "Благодійний тур гурту DZIDZIO у США з Revived Soldiers Ukraine — вже у травні! Clevelend, Detroit, New York, Chicago та Connecticut",
-      "ticket_link": "https://www.eventbrite.com/e/new-york-dzidzio-charitable-concert-by-revived-soldiers-ukraine-tickets-1983499401103",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1177898873%252F86171180225%252F1%252Foriginal.20260219-020128%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Dd785c170d59a9e3618f8dbcb3d15e570&w=1880&q=75",
-      "source": "Eventbrite",
+      "location": "Forte Piano Recital Hall: 159 Rte 4, Paramus, NJ",
+      "event_description": "Mother’s Day Jazz Join us for a very special celebration on Mother’s day!Beautiful jazz compositions by Duke Ellington and other masters performed by a very talented trio! Dima Fisch – violinYuri Bakhtin – guitarValentin Korniyenko – bass Fisch Trio combines a transparent and aesthetic violin sound",
+      "ticket_link": "https://www.helpinghandsukraine.org/fisch-trio-mothers-day-jazz/",
+      "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2026/03/634329812_10238196600551959_4115646380688254202_n.jpg",
+      "source": "Helping Hands for Ukraine",
       "event_category": "concert"
     },
     {
-      "id": "e51d622a-e3a5-4c84-94c7-2d7d17fa968e",
-      "event_title": "KOLA - New York",
-      "event_date": "2026-05-10",
-      "end_date": "2026-05-10",
-      "location": "NEW YORK - TBA, New York, NY",
-      "event_description": "Сильна та ніжна, чиї пісні знають та підспівують усі - Українська співачка KOLA - Перший сольний тур Північною Америкою!",
-      "ticket_link": "https://bomond.com/events/kola-new-york",
-      "cover_image_url": "https://api.bomond.com/public/68/3429/171460/432_432.webp",
-      "source": "Bomond",
+      "id": "a435b1ca-81fd-423b-9878-69da4069e76c",
+      "event_title": "FIЇNKA *NEW YORK* USA Tour 2026",
+      "event_date": "2026-05-16",
+      "end_date": "2026-05-17",
+      "location": "Melrose Ballroom, New York",
+      "event_description": "Запрошуємо вас на особливий вечір з Фіїнкою — українською співачкою, яка через музику передає атмосферу Карпат і гуцульський колорит. Її творчість — це гар�",
+      "ticket_link": "https://events.ticketleap.com/tickets/eneida-art-inc/fi-nka-new-york-north-american-tour-2026",
+      "cover_image_url": "https://tlt-events.s3.amazonaws.com/140436/2102345/75d9e61c89b01203a3394752de673216a73a3ad1d3f66a4af08e4fff33c0c4a0/ba6e5901-6744-46a6-99df-34129950bd11.jpg",
+      "source": "TicketLeap",
       "event_category": "concert"
     },
     {
@@ -404,16 +416,16 @@
       "event_category": "other"
     },
     {
-      "id": "4993da0c-cf25-4401-8fa7-aadc2c4ba105",
-      "event_title": "Afternoon Event w/ Yevgenia Nayberg: Chernobyl, Life, and Other Disasters",
-      "event_date": "2026-04-23",
-      "end_date": "2026-04-23",
-      "location": "Books Are Magic SmithBrooklyn, NYThursday, Apr 23 from 4 pm to 5 pm",
-      "event_description": "\"A strong and beautifully rendered addition to graphic memoir and nonfiction middle grade collections.\" —School Library Journal",
-      "ticket_link": "https://www.eventbrite.com/e/afternoon-event-w-yevgenia-nayberg-chernobyl-life-and-other-disasters-tickets-1984999914178",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1179629620%252F213734307976%252F1%252Foriginal.20260311-202827%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D1.0%26fp-y%3D0.483%26s%3D6bccfae807e05f8d6e6aac337b6951f5&w=1880&q=75",
-      "source": "Eventbrite",
-      "event_category": "arttalk"
+      "id": "01dfd4c5-437d-498e-9fc7-25be510b3e61",
+      "event_title": "Razom Co-Pilot Conversation: Frontline Medicine in Ukraine",
+      "event_date": "2026-04-20",
+      "end_date": "2026-04-20",
+      "location": "Razom Flatiron Office 54 W 21st St, New York, NY, New York",
+      "event_description": null,
+      "ticket_link": "https://www.razomforukraine.org/events/razom-co-pilot-conversation-frontline-medicine-in-ukraine/",
+      "cover_image_url": "https://www.razomforukraine.org/wp-content/uploads/2026/04/Event-cover.png",
+      "source": "Razom For Ukraine",
+      "event_category": null
     },
     {
       "id": "1825102d-de26-4c9b-9e06-e9609625ed94",
@@ -428,16 +440,16 @@
       "event_category": "movie"
     },
     {
-      "id": "68cd3991-b64b-461b-9124-d40ac876e911",
-      "event_title": "CHICO & QATOSHI | WHIPPANY",
-      "event_date": "2026-04-24",
-      "end_date": "2026-04-24",
-      "location": "New Jersey",
-      "event_description": null,
-      "ticket_link": "https://ukrainian.us/events/chico-qatoshi-whippany",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/E9vX1XF2MQiJb8_UlgaGmayZ7C9QM7a_-source.png?v=0.1&s=b63eb6c815afb4759c5bf0fe6f6c3cfc",
-      "source": "Ukrainian USA",
-      "event_category": "concert"
+      "id": "4993da0c-cf25-4401-8fa7-aadc2c4ba105",
+      "event_title": "Afternoon Event w/ Yevgenia Nayberg: Chernobyl, Life, and Other Disasters",
+      "event_date": "2026-04-23",
+      "end_date": "2026-04-23",
+      "location": "Books Are Magic SmithBrooklyn, NYThursday, Apr 23 from 4 pm to 5 pm",
+      "event_description": "\"A strong and beautifully rendered addition to graphic memoir and nonfiction middle grade collections.\" —School Library Journal",
+      "ticket_link": "https://www.eventbrite.com/e/afternoon-event-w-yevgenia-nayberg-chernobyl-life-and-other-disasters-tickets-1984999914178",
+      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1179629620%252F213734307976%252F1%252Foriginal.20260311-202827%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D1.0%26fp-y%3D0.483%26s%3D6bccfae807e05f8d6e6aac337b6951f5&w=1880&q=75",
+      "source": "Eventbrite",
+      "event_category": "arttalk"
     },
     {
       "id": "994d6242-42b6-4fd5-b214-a1e356c01d4d",
@@ -448,6 +460,18 @@
       "event_description": "Live performance by Dima Prokopov in Brooklyn — a Ukrainian music night in the heart of New York.",
       "ticket_link": "https://ukrainian.us/events/prokopov-ny",
       "cover_image_url": "https://ukrainian.us/storage/event/1/HYEvKyLi0mJi92ocbWd3EpyjsHILgBxE-source.png?v=0.1&s=e0b574e217810f6ca7e82c13e06f0c15",
+      "source": "Ukrainian USA",
+      "event_category": "concert"
+    },
+    {
+      "id": "68cd3991-b64b-461b-9124-d40ac876e911",
+      "event_title": "CHICO & QATOSHI | WHIPPANY",
+      "event_date": "2026-04-24",
+      "end_date": "2026-04-24",
+      "location": "New Jersey",
+      "event_description": null,
+      "ticket_link": "https://ukrainian.us/events/chico-qatoshi-whippany",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/E9vX1XF2MQiJb8_UlgaGmayZ7C9QM7a_-source.png?v=0.1&s=b63eb6c815afb4759c5bf0fe6f6c3cfc",
       "source": "Ukrainian USA",
       "event_category": "concert"
     },
@@ -536,15 +560,27 @@
       "event_category": "other"
     },
     {
-      "id": "bc4014ca-7f8a-461b-bb68-37651c8d872e",
-      "event_title": "Fisch Trio",
+      "id": "cd780c38-7d18-43fe-9e8e-c3d86adbc5ff",
+      "event_title": "NEW YORK  DZIDZIO Charitable Concert by Revived Soldiers Ukraine",
       "event_date": "2026-05-10",
       "end_date": "2026-05-10",
-      "location": "Forte Piano Recital Hall: 159 Rte 4, Paramus, NJ",
-      "event_description": "Mother’s Day Jazz Join us for a very special celebration on Mother’s day!Beautiful jazz compositions by Duke Ellington and other masters performed by a very talented trio! Dima Fisch – violinYuri Bakhtin – guitarValentin Korniyenko – bass Fisch Trio combines a transparent and aesthetic violin sound",
-      "ticket_link": "https://www.helpinghandsukraine.org/fisch-trio-mothers-day-jazz/",
-      "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2026/03/634329812_10238196600551959_4115646380688254202_n.jpg",
-      "source": "Helping Hands for Ukraine",
+      "location": "Melrose BallroomQueens, NYSunday, May 10 from 6 pm to 10 pm",
+      "event_description": "Благодійний тур гурту DZIDZIO у США з Revived Soldiers Ukraine — вже у травні! Clevelend, Detroit, New York, Chicago та Connecticut",
+      "ticket_link": "https://www.eventbrite.com/e/new-york-dzidzio-charitable-concert-by-revived-soldiers-ukraine-tickets-1983499401103",
+      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1177898873%252F86171180225%252F1%252Foriginal.20260219-020128%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Dd785c170d59a9e3618f8dbcb3d15e570&w=1880&q=75",
+      "source": "Eventbrite",
+      "event_category": "concert"
+    },
+    {
+      "id": "e51d622a-e3a5-4c84-94c7-2d7d17fa968e",
+      "event_title": "KOLA - New York",
+      "event_date": "2026-05-10",
+      "end_date": "2026-05-10",
+      "location": "NEW YORK - TBA, New York, NY",
+      "event_description": "Сильна та ніжна, чиї пісні знають та підспівують усі - Українська співачка KOLA - Перший сольний тур Північною Америкою!",
+      "ticket_link": "https://bomond.com/events/kola-new-york",
+      "cover_image_url": "https://api.bomond.com/public/68/3429/171460/432_432.webp",
+      "source": "Bomond",
       "event_category": "concert"
     },
     {
@@ -572,27 +608,27 @@
       "event_category": "arttalk"
     },
     {
-      "id": "cd780c38-7d18-43fe-9e8e-c3d86adbc5ff",
-      "event_title": "NEW YORK  DZIDZIO Charitable Concert by Revived Soldiers Ukraine",
+      "id": "bc4014ca-7f8a-461b-bb68-37651c8d872e",
+      "event_title": "Fisch Trio",
       "event_date": "2026-05-10",
       "end_date": "2026-05-10",
-      "location": "Melrose BallroomQueens, NYSunday, May 10 from 6 pm to 10 pm",
-      "event_description": "Благодійний тур гурту DZIDZIO у США з Revived Soldiers Ukraine — вже у травні! Clevelend, Detroit, New York, Chicago та Connecticut",
-      "ticket_link": "https://www.eventbrite.com/e/new-york-dzidzio-charitable-concert-by-revived-soldiers-ukraine-tickets-1983499401103",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1177898873%252F86171180225%252F1%252Foriginal.20260219-020128%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Dd785c170d59a9e3618f8dbcb3d15e570&w=1880&q=75",
-      "source": "Eventbrite",
+      "location": "Forte Piano Recital Hall: 159 Rte 4, Paramus, NJ",
+      "event_description": "Mother’s Day Jazz Join us for a very special celebration on Mother’s day!Beautiful jazz compositions by Duke Ellington and other masters performed by a very talented trio! Dima Fisch – violinYuri Bakhtin – guitarValentin Korniyenko – bass Fisch Trio combines a transparent and aesthetic violin sound",
+      "ticket_link": "https://www.helpinghandsukraine.org/fisch-trio-mothers-day-jazz/",
+      "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2026/03/634329812_10238196600551959_4115646380688254202_n.jpg",
+      "source": "Helping Hands for Ukraine",
       "event_category": "concert"
     },
     {
-      "id": "e51d622a-e3a5-4c84-94c7-2d7d17fa968e",
-      "event_title": "KOLA - New York",
-      "event_date": "2026-05-10",
-      "end_date": "2026-05-10",
-      "location": "NEW YORK - TBA, New York, NY",
-      "event_description": "Сильна та ніжна, чиї пісні знають та підспівують усі - Українська співачка KOLA - Перший сольний тур Північною Америкою!",
-      "ticket_link": "https://bomond.com/events/kola-new-york",
-      "cover_image_url": "https://api.bomond.com/public/68/3429/171460/432_432.webp",
-      "source": "Bomond",
+      "id": "a435b1ca-81fd-423b-9878-69da4069e76c",
+      "event_title": "FIЇNKA *NEW YORK* USA Tour 2026",
+      "event_date": "2026-05-16",
+      "end_date": "2026-05-17",
+      "location": "Melrose Ballroom, New York",
+      "event_description": "Запрошуємо вас на особливий вечір з Фіїнкою — українською співачкою, яка через музику передає атмосферу Карпат і гуцульський колорит. Її творчість — це гар�",
+      "ticket_link": "https://events.ticketleap.com/tickets/eneida-art-inc/fi-nka-new-york-north-american-tour-2026",
+      "cover_image_url": "https://tlt-events.s3.amazonaws.com/140436/2102345/75d9e61c89b01203a3394752de673216a73a3ad1d3f66a4af08e4fff33c0c4a0/ba6e5901-6744-46a6-99df-34129950bd11.jpg",
+      "source": "TicketLeap",
       "event_category": "concert"
     },
     {
@@ -668,18 +704,6 @@
       "event_category": "other"
     },
     {
-      "id": "c87b6b2f-4c3d-4236-9d50-b187ad5101df",
-      "event_title": "Vasyl Baidak - New York City",
-      "event_date": "2026-07-03",
-      "end_date": "2026-07-03",
-      "location": "Manhattan",
-      "event_description": "кращі приколи, новий матеріал, аукціон, ооооо, так! НАРЕШТІ побачимось із вами в США і Канаді. хто мене знає, то сенсу розписувати щось вам немає, ви, гадаю, і так прийдете, бо тут і посміятись, і задонатити, ну топ. а от хто не знає — спробую вас переконати прийти. «хеллоооооу! мене звуть Байдак Ва",
-      "ticket_link": "https://waylight.me/ucrazy/event/16319-cd91c",
-      "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1773094064_-1200630.jpg",
-      "source": "Waylight",
-      "event_category": "standup"
-    },
-    {
       "id": "d0ff2077-0c30-46dd-a7da-132667e16d37",
       "event_title": "July 4th Celebration",
       "event_date": "2026-07-03",
@@ -690,6 +714,18 @@
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/July4th.png",
       "source": "Soyuzivka",
       "event_category": "festival"
+    },
+    {
+      "id": "c87b6b2f-4c3d-4236-9d50-b187ad5101df",
+      "event_title": "Vasyl Baidak - New York City",
+      "event_date": "2026-07-03",
+      "end_date": "2026-07-03",
+      "location": "Manhattan",
+      "event_description": "кращі приколи, новий матеріал, аукціон, ооооо, так! НАРЕШТІ побачимось із вами в США і Канаді. хто мене знає, то сенсу розписувати щось вам немає, ви, гадаю, і так прийдете, бо тут і посміятись, і задонатити, ну топ. а от хто не знає — спробую вас переконати прийти. «хеллоооооу! мене звуть Байдак Ва",
+      "ticket_link": "https://waylight.me/ucrazy/event/16319-cd91c",
+      "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1773094064_-1200630.jpg",
+      "source": "Waylight",
+      "event_category": "standup"
     },
     {
       "id": "20660505-fb61-4af0-906a-1b427d985910",
