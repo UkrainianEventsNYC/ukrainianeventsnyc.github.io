@@ -1144,6 +1144,74 @@
       padding: 8px 16px;
       font-size: 0.85rem;
     }
+
+    /* ── Modal & Footer ── */
+    .footer-link {
+      color: var(--text-dim);
+      text-decoration: none;
+      transition: color 0.2s;
+      font-weight: 500;
+    }
+    .footer-link:hover {
+      color: var(--text);
+      text-decoration: underline;
+    }
+    .modal-overlay {
+      position: fixed;
+      inset: 0;
+      background: rgba(8, 13, 26, 0.85);
+      z-index: 1000;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 1.5rem;
+      backdrop-filter: blur(4px);
+      -webkit-backdrop-filter: blur(4px);
+    }
+    .modal-content {
+      background: var(--surface);
+      border: 1px solid var(--border-hi);
+      border-radius: var(--radius);
+      padding: 2.5rem;
+      max-width: 600px;
+      width: 100%;
+      max-height: 85vh;
+      overflow-y: auto;
+      position: relative;
+      box-shadow: var(--shadow);
+    }
+    .modal-close {
+      position: absolute;
+      top: 1rem;
+      right: 1.25rem;
+      background: transparent;
+      border: none;
+      color: var(--muted);
+      font-size: 1.8rem;
+      cursor: pointer;
+      line-height: 1;
+      padding: 0;
+      transition: color 0.15s;
+    }
+    .modal-close:hover {
+      color: var(--text);
+    }
+    .modal-content h2 {
+      margin-bottom: 1.5rem;
+      font-size: 1.5rem;
+      color: #fff;
+    }
+    .modal-content h3 {
+      font-size: 1.05rem;
+      color: var(--gold);
+      margin-top: 1.5rem;
+      margin-bottom: 0.5rem;
+    }
+    .modal-content p {
+      font-size: 0.95rem;
+      line-height: 1.6;
+      color: var(--text-dim);
+    }
   </style>
 
   <!-- Analytics — Do not remove -->
@@ -1285,11 +1353,44 @@
     </main>
 
     <footer>
-      © 2026 Iryna Dobushovska &nbsp;·&nbsp; Developed with AI assistance &nbsp;·&nbsp; Slava Ukraini 🇺🇦
+      <div>
+        <a href="#" onclick="toggleAboutModal(); return false;" class="footer-link">About & Disclaimer</a>
+      </div>
+      <div style="margin-top: 0.75rem;">
+        © 2026 Iryna Dobushovska &nbsp;·&nbsp; Developed with AI assistance &nbsp;·&nbsp; Slava Ukraini 🇺🇦
+      </div>
     </footer>
   </div>
 
+  <!-- About & Disclaimer Modal -->
+  <div id="about-modal" class="modal-overlay" style="display:none;" onclick="if(event.target===this) toggleAboutModal()">
+    <div class="modal-content">
+      <button class="modal-close" onclick="toggleAboutModal()">×</button>
+      <h2>About & Disclaimer</h2>
+      
+      <h3>Our Mission</h3>
+      <p>This website is a volunteer, community-driven project created to help people easily find and promote Ukrainian events. Our goal is to bring everything together in one centralized place, so you don't have to search across the entire internet to find out what is happening in the community.</p>
+      
+      <h3>Privacy & User Data</h3>
+      <p>We respect your privacy. This website does not require an account or login, and we absolutely do not collect, store, track, or share any personal user data.</p>
+      
+      <h3>Event Ownership & Copyright</h3>
+      <p>This site acts purely as an event aggregator (search tool). We do not organize these events, nor do we claim any ownership or copyright over the event names, descriptions, or promotional images. All intellectual property and copyrights belong entirely to the original event organizers and creators.</p>
+      
+      <h3>Tickets & External Links</h3>
+      <p>We do not sell tickets. Every event listed on our site contains a link that will redirect you directly to the official organizer’s website or their chosen ticketing platform. All ticket purchases, registrations, and event inquiries should be handled directly through the original organizers.</p>
+    </div>
+  </div>
+
   <script>
+    function toggleAboutModal() {
+      const modal = document.getElementById('about-modal');
+      const isHidden = modal.style.display === 'none' || modal.style.display === '';
+      modal.style.display = isHidden ? 'flex' : 'none';
+      if(isHidden) document.body.style.overflow = 'hidden';
+      else document.body.style.overflow = '';
+    }
+
     // ── State ─────────────────────────────────────────────────────────────
     let allData = null;
     let activeSourceFilter = 'all';
