@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T04:50:01.871556-04:00",
+  "generated_at": "2026-04-12T13:57:32.884347-04:00",
   "this_week": [
     {
       "id": "27af4ed9-fbad-4ea1-a73e-01f8f80bce91",
@@ -14,18 +14,6 @@
       "event_category": "workshop"
     },
     {
-      "id": "f8fd81c5-4a24-4d35-a326-8953f7f67d11",
-      "event_title": "VERKA SERDUCHKA & BAND - New York",
-      "event_date": "2026-04-12",
-      "end_date": "2026-04-12",
-      "location": "Kings Theatre, Brooklyn, NY",
-      "event_description": "Get Ready, America!     VERKA SERDUCHKA, the Queen of Your Heart (and Eurovision), Is Coming!     Buckle up your glitter boots, because the one, the only, the absolutely fabulous VERKA SERDUCHKA is heading your way!  She's not just a superstar, she's a cosmic phenomenon!  Seriously, everyone from your grumpy uncle to your neighbor's cat adores VERKA. Her hits? They're not just songs - they're the official anthems of every epic birthday bash, every unforgettable wedding, and every single \"thank goodness it's Friday\" dance party!     You ABSOLUTELY Cannot Miss This!  Ukraine will win!    Королева Євробачення ВЄРКА СЕРДЮЧКА їде до Америки!   ВЄРКУ СЕРДЮЧКУ люблять усі – дорослі й діти, жінки й чоловіки, котики й зайчики! А її хіти давно стали гімнами днів народжень, весіль і просто веселих п'ятниць!  Кожен її концерт — це ковток води в пустелі! Келих холодного ігристого після страшного похмілля! Довгоочікувана відпустка після квартального звіту!  Вона запалює так, що сяйво видно з космосу!  Кожен глядач на кілька годин відчує себе найщасливішою людиною у цьому світі!     Приходь, адже концерт Вєрки Сердючки пропустити неможливо!  Україна переможе!",
-      "ticket_link": "https://us.atgtickets.com/events/verka-serduchka/kings-theatre-brooklyn/",
-      "cover_image_url": "https://api.bomond.com/public/56/2834/141700/serduchka_432x432%20%282%29.webp",
-      "source": "Bomond",
-      "event_category": "concert"
-    },
-    {
       "id": "19cad087-c401-4921-ae32-64951ded72fb",
       "event_title": "INTRODUCTIONS at All Souls",
       "event_date": "2026-04-12",
@@ -35,6 +23,18 @@
       "ticket_link": "https://www.razomforukraine.org/events/introductions-at-all-souls/",
       "cover_image_url": "https://www.razomforukraine.org/wp-content/uploads/2026/03/image.webp",
       "source": "Razom For Ukraine",
+      "event_category": "concert"
+    },
+    {
+      "id": "f8fd81c5-4a24-4d35-a326-8953f7f67d11",
+      "event_title": "VERKA SERDUCHKA & BAND - New York",
+      "event_date": "2026-04-12",
+      "end_date": "2026-04-12",
+      "location": "Kings Theatre, Brooklyn, NY",
+      "event_description": "Get Ready, America!     VERKA SERDUCHKA, the Queen of Your Heart (and Eurovision), Is Coming!     Buckle up your glitter boots, because the one, the only, the absolutely fabulous VERKA SERDUCHKA is heading your way!  She's not just a superstar, she's a cosmic phenomenon!  Seriously, everyone from your grumpy uncle to your neighbor's cat adores VERKA. Her hits? They're not just songs - they're the official anthems of every epic birthday bash, every unforgettable wedding, and every single \"thank goodness it's Friday\" dance party!     You ABSOLUTELY Cannot Miss This!  Ukraine will win!    Королева Євробачення ВЄРКА СЕРДЮЧКА їде до Америки!   ВЄРКУ СЕРДЮЧКУ люблять усі – дорослі й діти, жінки й чоловіки, котики й зайчики! А її хіти давно стали гімнами днів народжень, весіль і просто веселих п'ятниць!  Кожен її концерт — це ковток води в пустелі! Келих холодного ігристого після страшного похмілля! Довгоочікувана відпустка після квартального звіту!  Вона запалює так, що сяйво видно з космосу!  Кожен глядач на кілька годин відчує себе найщасливішою людиною у цьому світі!     Приходь, адже концерт Вєрки Сердючки пропустити неможливо!  Україна переможе!",
+      "ticket_link": "https://us.atgtickets.com/events/verka-serduchka/kings-theatre-brooklyn/",
+      "cover_image_url": "https://api.bomond.com/public/56/2834/141700/serduchka_432x432%20%282%29.webp",
+      "source": "Bomond",
       "event_category": "concert"
     }
   ],
@@ -76,15 +76,15 @@
       "event_category": "other"
     },
     {
-      "id": "85b9c35a-b3e3-4d3c-bc10-1cdfc8665447",
-      "event_title": "New York: Valeriia Vovk on Solo Tour - USA",
+      "id": "d5a51a8f-f6c4-44ca-8336-d1e4ffa6ef63",
+      "event_title": "Homin Choir",
       "event_date": "2026-04-17",
       "end_date": "2026-04-17",
-      "location": "Ukrainian National Home",
-      "event_description": "Нью-Йорк, я вперше запрошую вас на свій сольний концерт авторських пісень! Цього разу — тільки я і фортепіано 🥰 Минулого року я двічі подорожувала США з програмою з пісень Володимира Івасюка та української ретро-класики разом із Софією Лешишак. Завдяки вам нам вдалося зібрати $50,000 для українських",
-      "ticket_link": "https://waylight.me/Mriya/event/caaca-30796",
-      "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1772261744_14.png",
-      "source": "Waylight",
+      "location": "New York",
+      "event_description": null,
+      "ticket_link": "https://mticket.com/en/new-york/homin-choir-in-new-york-1602.html",
+      "cover_image_url": "https://usa.mticket.com/uploads/resize/shows/logo/630x891_show_P1clnW1iyAFWX3JcF0GGzhXdpMf_Nr6y.webp",
+      "source": "mticket",
       "event_category": "concert"
     },
     {
@@ -100,15 +100,27 @@
       "event_category": "festival"
     },
     {
-      "id": "d5a51a8f-f6c4-44ca-8336-d1e4ffa6ef63",
-      "event_title": "Homin Choir",
+      "id": "85b9c35a-b3e3-4d3c-bc10-1cdfc8665447",
+      "event_title": "New York: Valeriia Vovk on Solo Tour - USA",
       "event_date": "2026-04-17",
       "end_date": "2026-04-17",
-      "location": "New York",
-      "event_description": null,
-      "ticket_link": "https://mticket.com/en/new-york/homin-choir-in-new-york-1602.html",
-      "cover_image_url": "https://usa.mticket.com/uploads/resize/shows/logo/630x891_show_P1clnW1iyAFWX3JcF0GGzhXdpMf_Nr6y.webp",
-      "source": "mticket",
+      "location": "Ukrainian National Home",
+      "event_description": "Нью-Йорк, я вперше запрошую вас на свій сольний концерт авторських пісень! Цього разу — тільки я і фортепіано 🥰 Минулого року я двічі подорожувала США з програмою з пісень Володимира Івасюка та української ретро-класики разом із Софією Лешишак. Завдяки вам нам вдалося зібрати $50,000 для українських",
+      "ticket_link": "https://waylight.me/Mriya/event/caaca-30796",
+      "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1772261744_14.png",
+      "source": "Waylight",
+      "event_category": "concert"
+    },
+    {
+      "id": "9ed8b0ae-89d8-470c-9aa0-88617f7ddffe",
+      "event_title": "NORA POLINNIA: NEW YORK ROCK N ROLL",
+      "event_date": "2026-04-18",
+      "end_date": "2026-04-18",
+      "location": "The Church of the Holy Apostles, New York, NY",
+      "event_description": "We invite you to mass.     ...Enter the old religion of rock ’n’ roll...    at the Church of the Holy Apostles, with Ukrainian musician Nora Polinnia.          NORA POLINNIA     Supported by    ASTRA  HT DUO           Presented by FREE OF PROPAGANDA    Free of Propaganda is a social art movement that unites student creatives with legendary artists for the prevention of global conflict        An immersive night with:    - Live concert   - Dance extravaganza   - Art installation   - Ritual    Limited tickets     DRESS CODE / Dress as a Priestess or Priest of Rock n Roll          Evening Program:     5:30PM - Arrival of Guests:  Candles, bread, wine, music.   6PM - Visual Artists:   The audience takes in the presented art and converse with the artists being displayed at the event.  7:30PM - The Mass Begins:  The multidisciplinary concert by young emerging artists begins, breaking the 4th wall and initiating the guests into the rock n roll of the new age.    9PM - Finale:  The concert concludes. The guests socialize, pray and observe the art.   9:15PM - Object Exchange Ritual:  Pass on an object that burdens you. Receive an object that symbolizes lightness in return.  10PM - The Night Concludes.",
+      "ticket_link": "https://bomond.com/events/nora-polinnia-new-york-rock-n-roll",
+      "cover_image_url": "https://api.bomond.com/public/78/3935/196790/nora432x432.webp",
+      "source": "Bomond",
       "event_category": "concert"
     },
     {
@@ -198,16 +210,16 @@
       "event_category": "other"
     },
     {
-      "id": "e51d622a-e3a5-4c84-94c7-2d7d17fa968e",
-      "event_title": "KOLA - New York",
+      "id": "95254e3d-1c14-4b7c-964d-b7cff42029c6",
+      "event_title": "KOLO",
       "event_date": "2026-05-10",
       "end_date": "2026-05-10",
-      "location": "NEW YORK - TBA, New York, NY",
-      "event_description": "Сильна та ніжна, чиї пісні знають та підспівують усі - Українська співачка KOLA - Перший сольний тур Північною Америкою!",
-      "ticket_link": "https://bomond.com/events/kola-new-york",
-      "cover_image_url": "https://api.bomond.com/public/68/3429/171460/432_432.webp",
-      "source": "Bomond",
-      "event_category": "concert"
+      "location": "Honey's, New York City",
+      "event_description": "KOLO",
+      "ticket_link": "https://ra.co/events/2416532",
+      "cover_image_url": "https://images.ra.co/0e9ae5adab81578b021ae78e33cc3bbb527f3c53.png",
+      "source": "Resident Advisor (KOLO NYC)",
+      "event_category": "other"
     },
     {
       "id": "bc4014ca-7f8a-461b-bb68-37651c8d872e",
@@ -243,6 +255,18 @@
       "ticket_link": "https://www.eventbrite.com/e/new-york-dzidzio-charitable-concert-by-revived-soldiers-ukraine-tickets-1983499401103",
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1177898873%252F86171180225%252F1%252Foriginal.20260219-020128%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Dd785c170d59a9e3618f8dbcb3d15e570&w=1880&q=75",
       "source": "Eventbrite",
+      "event_category": "concert"
+    },
+    {
+      "id": "e51d622a-e3a5-4c84-94c7-2d7d17fa968e",
+      "event_title": "KOLA - New York",
+      "event_date": "2026-05-10",
+      "end_date": "2026-05-10",
+      "location": "NEW YORK - TBA, New York, NY",
+      "event_description": "Сильна та ніжна, чиї пісні знають та підспівують усі - Українська співачка KOLA - Перший сольний тур Північною Америкою!",
+      "ticket_link": "https://bomond.com/events/kola-new-york",
+      "cover_image_url": "https://api.bomond.com/public/68/3429/171460/432_432.webp",
+      "source": "Bomond",
       "event_category": "concert"
     },
     {
@@ -296,18 +320,6 @@
       "event_category": "workshop"
     },
     {
-      "id": "f8fd81c5-4a24-4d35-a326-8953f7f67d11",
-      "event_title": "VERKA SERDUCHKA & BAND - New York",
-      "event_date": "2026-04-12",
-      "end_date": "2026-04-12",
-      "location": "Kings Theatre, Brooklyn, NY",
-      "event_description": "Get Ready, America!     VERKA SERDUCHKA, the Queen of Your Heart (and Eurovision), Is Coming!     Buckle up your glitter boots, because the one, the only, the absolutely fabulous VERKA SERDUCHKA is heading your way!  She's not just a superstar, she's a cosmic phenomenon!  Seriously, everyone from your grumpy uncle to your neighbor's cat adores VERKA. Her hits? They're not just songs - they're the official anthems of every epic birthday bash, every unforgettable wedding, and every single \"thank goodness it's Friday\" dance party!     You ABSOLUTELY Cannot Miss This!  Ukraine will win!    Королева Євробачення ВЄРКА СЕРДЮЧКА їде до Америки!   ВЄРКУ СЕРДЮЧКУ люблять усі – дорослі й діти, жінки й чоловіки, котики й зайчики! А її хіти давно стали гімнами днів народжень, весіль і просто веселих п'ятниць!  Кожен її концерт — це ковток води в пустелі! Келих холодного ігристого після страшного похмілля! Довгоочікувана відпустка після квартального звіту!  Вона запалює так, що сяйво видно з космосу!  Кожен глядач на кілька годин відчує себе найщасливішою людиною у цьому світі!     Приходь, адже концерт Вєрки Сердючки пропустити неможливо!  Україна переможе!",
-      "ticket_link": "https://us.atgtickets.com/events/verka-serduchka/kings-theatre-brooklyn/",
-      "cover_image_url": "https://api.bomond.com/public/56/2834/141700/serduchka_432x432%20%282%29.webp",
-      "source": "Bomond",
-      "event_category": "concert"
-    },
-    {
       "id": "19cad087-c401-4921-ae32-64951ded72fb",
       "event_title": "INTRODUCTIONS at All Souls",
       "event_date": "2026-04-12",
@@ -317,6 +329,18 @@
       "ticket_link": "https://www.razomforukraine.org/events/introductions-at-all-souls/",
       "cover_image_url": "https://www.razomforukraine.org/wp-content/uploads/2026/03/image.webp",
       "source": "Razom For Ukraine",
+      "event_category": "concert"
+    },
+    {
+      "id": "f8fd81c5-4a24-4d35-a326-8953f7f67d11",
+      "event_title": "VERKA SERDUCHKA & BAND - New York",
+      "event_date": "2026-04-12",
+      "end_date": "2026-04-12",
+      "location": "Kings Theatre, Brooklyn, NY",
+      "event_description": "Get Ready, America!     VERKA SERDUCHKA, the Queen of Your Heart (and Eurovision), Is Coming!     Buckle up your glitter boots, because the one, the only, the absolutely fabulous VERKA SERDUCHKA is heading your way!  She's not just a superstar, she's a cosmic phenomenon!  Seriously, everyone from your grumpy uncle to your neighbor's cat adores VERKA. Her hits? They're not just songs - they're the official anthems of every epic birthday bash, every unforgettable wedding, and every single \"thank goodness it's Friday\" dance party!     You ABSOLUTELY Cannot Miss This!  Ukraine will win!    Королева Євробачення ВЄРКА СЕРДЮЧКА їде до Америки!   ВЄРКУ СЕРДЮЧКУ люблять усі – дорослі й діти, жінки й чоловіки, котики й зайчики! А її хіти давно стали гімнами днів народжень, весіль і просто веселих п'ятниць!  Кожен її концерт — це ковток води в пустелі! Келих холодного ігристого після страшного похмілля! Довгоочікувана відпустка після квартального звіту!  Вона запалює так, що сяйво видно з космосу!  Кожен глядач на кілька годин відчує себе найщасливішою людиною у цьому світі!     Приходь, адже концерт Вєрки Сердючки пропустити неможливо!  Україна переможе!",
+      "ticket_link": "https://us.atgtickets.com/events/verka-serduchka/kings-theatre-brooklyn/",
+      "cover_image_url": "https://api.bomond.com/public/56/2834/141700/serduchka_432x432%20%282%29.webp",
+      "source": "Bomond",
       "event_category": "concert"
     },
     {
@@ -344,15 +368,15 @@
       "event_category": "other"
     },
     {
-      "id": "85b9c35a-b3e3-4d3c-bc10-1cdfc8665447",
-      "event_title": "New York: Valeriia Vovk on Solo Tour - USA",
+      "id": "d5a51a8f-f6c4-44ca-8336-d1e4ffa6ef63",
+      "event_title": "Homin Choir",
       "event_date": "2026-04-17",
       "end_date": "2026-04-17",
-      "location": "Ukrainian National Home",
-      "event_description": "Нью-Йорк, я вперше запрошую вас на свій сольний концерт авторських пісень! Цього разу — тільки я і фортепіано 🥰 Минулого року я двічі подорожувала США з програмою з пісень Володимира Івасюка та української ретро-класики разом із Софією Лешишак. Завдяки вам нам вдалося зібрати $50,000 для українських",
-      "ticket_link": "https://waylight.me/Mriya/event/caaca-30796",
-      "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1772261744_14.png",
-      "source": "Waylight",
+      "location": "New York",
+      "event_description": null,
+      "ticket_link": "https://mticket.com/en/new-york/homin-choir-in-new-york-1602.html",
+      "cover_image_url": "https://usa.mticket.com/uploads/resize/shows/logo/630x891_show_P1clnW1iyAFWX3JcF0GGzhXdpMf_Nr6y.webp",
+      "source": "mticket",
       "event_category": "concert"
     },
     {
@@ -368,15 +392,27 @@
       "event_category": "festival"
     },
     {
-      "id": "d5a51a8f-f6c4-44ca-8336-d1e4ffa6ef63",
-      "event_title": "Homin Choir",
+      "id": "85b9c35a-b3e3-4d3c-bc10-1cdfc8665447",
+      "event_title": "New York: Valeriia Vovk on Solo Tour - USA",
       "event_date": "2026-04-17",
       "end_date": "2026-04-17",
-      "location": "New York",
-      "event_description": null,
-      "ticket_link": "https://mticket.com/en/new-york/homin-choir-in-new-york-1602.html",
-      "cover_image_url": "https://usa.mticket.com/uploads/resize/shows/logo/630x891_show_P1clnW1iyAFWX3JcF0GGzhXdpMf_Nr6y.webp",
-      "source": "mticket",
+      "location": "Ukrainian National Home",
+      "event_description": "Нью-Йорк, я вперше запрошую вас на свій сольний концерт авторських пісень! Цього разу — тільки я і фортепіано 🥰 Минулого року я двічі подорожувала США з програмою з пісень Володимира Івасюка та української ретро-класики разом із Софією Лешишак. Завдяки вам нам вдалося зібрати $50,000 для українських",
+      "ticket_link": "https://waylight.me/Mriya/event/caaca-30796",
+      "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1772261744_14.png",
+      "source": "Waylight",
+      "event_category": "concert"
+    },
+    {
+      "id": "9ed8b0ae-89d8-470c-9aa0-88617f7ddffe",
+      "event_title": "NORA POLINNIA: NEW YORK ROCK N ROLL",
+      "event_date": "2026-04-18",
+      "end_date": "2026-04-18",
+      "location": "The Church of the Holy Apostles, New York, NY",
+      "event_description": "We invite you to mass.     ...Enter the old religion of rock ’n’ roll...    at the Church of the Holy Apostles, with Ukrainian musician Nora Polinnia.          NORA POLINNIA     Supported by    ASTRA  HT DUO           Presented by FREE OF PROPAGANDA    Free of Propaganda is a social art movement that unites student creatives with legendary artists for the prevention of global conflict        An immersive night with:    - Live concert   - Dance extravaganza   - Art installation   - Ritual    Limited tickets     DRESS CODE / Dress as a Priestess or Priest of Rock n Roll          Evening Program:     5:30PM - Arrival of Guests:  Candles, bread, wine, music.   6PM - Visual Artists:   The audience takes in the presented art and converse with the artists being displayed at the event.  7:30PM - The Mass Begins:  The multidisciplinary concert by young emerging artists begins, breaking the 4th wall and initiating the guests into the rock n roll of the new age.    9PM - Finale:  The concert concludes. The guests socialize, pray and observe the art.   9:15PM - Object Exchange Ritual:  Pass on an object that burdens you. Receive an object that symbolizes lightness in return.  10PM - The Night Concludes.",
+      "ticket_link": "https://bomond.com/events/nora-polinnia-new-york-rock-n-roll",
+      "cover_image_url": "https://api.bomond.com/public/78/3935/196790/nora432x432.webp",
+      "source": "Bomond",
       "event_category": "concert"
     },
     {
@@ -416,18 +452,6 @@
       "event_category": "other"
     },
     {
-      "id": "4993da0c-cf25-4401-8fa7-aadc2c4ba105",
-      "event_title": "Afternoon Event w/ Yevgenia Nayberg: Chernobyl, Life, and Other Disasters",
-      "event_date": "2026-04-23",
-      "end_date": "2026-04-23",
-      "location": "Books Are Magic SmithBrooklyn, NYThursday, Apr 23 from 4 pm to 5 pm",
-      "event_description": "\"A strong and beautifully rendered addition to graphic memoir and nonfiction middle grade collections.\" —School Library Journal",
-      "ticket_link": "https://www.eventbrite.com/e/afternoon-event-w-yevgenia-nayberg-chernobyl-life-and-other-disasters-tickets-1984999914178",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1179629620%252F213734307976%252F1%252Foriginal.20260311-202827%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D1.0%26fp-y%3D0.483%26s%3D6bccfae807e05f8d6e6aac337b6951f5&w=1880&q=75",
-      "source": "Eventbrite",
-      "event_category": "arttalk"
-    },
-    {
       "id": "1825102d-de26-4c9b-9e06-e9609625ed94",
       "event_title": "Brooklyn, NY/Премʼєра фільму \"На Драйві \"/“On Drive”",
       "event_date": "2026-04-23",
@@ -440,16 +464,16 @@
       "event_category": "movie"
     },
     {
-      "id": "994d6242-42b6-4fd5-b214-a1e356c01d4d",
-      "event_title": "Dima Prokopov Live in New York",
-      "event_date": "2026-04-24",
-      "end_date": "2026-04-24",
-      "location": "New York",
-      "event_description": "Live performance by Dima Prokopov in Brooklyn — a Ukrainian music night in the heart of New York.",
-      "ticket_link": "https://ukrainian.us/events/prokopov-ny",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/HYEvKyLi0mJi92ocbWd3EpyjsHILgBxE-source.png?v=0.1&s=e0b574e217810f6ca7e82c13e06f0c15",
-      "source": "Ukrainian USA",
-      "event_category": "concert"
+      "id": "4993da0c-cf25-4401-8fa7-aadc2c4ba105",
+      "event_title": "Afternoon Event w/ Yevgenia Nayberg: Chernobyl, Life, and Other Disasters",
+      "event_date": "2026-04-23",
+      "end_date": "2026-04-23",
+      "location": "Books Are Magic SmithBrooklyn, NYThursday, Apr 23 from 4 pm to 5 pm",
+      "event_description": "\"A strong and beautifully rendered addition to graphic memoir and nonfiction middle grade collections.\" —School Library Journal",
+      "ticket_link": "https://www.eventbrite.com/e/afternoon-event-w-yevgenia-nayberg-chernobyl-life-and-other-disasters-tickets-1984999914178",
+      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1179629620%252F213734307976%252F1%252Foriginal.20260311-202827%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D1.0%26fp-y%3D0.483%26s%3D6bccfae807e05f8d6e6aac337b6951f5&w=1880&q=75",
+      "source": "Eventbrite",
+      "event_category": "arttalk"
     },
     {
       "id": "68cd3991-b64b-461b-9124-d40ac876e911",
@@ -464,16 +488,16 @@
       "event_category": "concert"
     },
     {
-      "id": "aff162b7-f2e4-4a75-9c67-5f81b0447d29",
-      "event_title": "Viktor movie screening at the ReelAbilities Film Festival",
-      "event_date": "2026-04-25",
-      "end_date": "2026-04-27",
-      "location": "New York, NY",
-      "event_description": null,
-      "ticket_link": "https://www.razomforukraine.org/events/viktor-movie-screening-at-the-reelabilities-film-festival/",
-      "cover_image_url": "https://www.razomforukraine.org/wp-content/uploads/2026/04/Facebook-cover-3.png",
-      "source": "Razom For Ukraine",
-      "event_category": "movie"
+      "id": "994d6242-42b6-4fd5-b214-a1e356c01d4d",
+      "event_title": "Dima Prokopov Live in New York",
+      "event_date": "2026-04-24",
+      "end_date": "2026-04-24",
+      "location": "New York",
+      "event_description": "Live performance by Dima Prokopov in Brooklyn — a Ukrainian music night in the heart of New York.",
+      "ticket_link": "https://ukrainian.us/events/prokopov-ny",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/HYEvKyLi0mJi92ocbWd3EpyjsHILgBxE-source.png?v=0.1&s=e0b574e217810f6ca7e82c13e06f0c15",
+      "source": "Ukrainian USA",
+      "event_category": "concert"
     },
     {
       "id": "8de4cd45-95d6-4075-9ba4-48685c8c1634",
@@ -486,6 +510,18 @@
       "cover_image_url": "https://ukrainian.us/storage/event/1/3t_lasiJh4H6In3rh7cilHoECPMCNNmK-source.png?v=0.1&s=31e3adf765cc25bd3841728abf5e5858",
       "source": "Ukrainian USA",
       "event_category": "concert"
+    },
+    {
+      "id": "aff162b7-f2e4-4a75-9c67-5f81b0447d29",
+      "event_title": "Viktor movie screening at the ReelAbilities Film Festival",
+      "event_date": "2026-04-25",
+      "end_date": "2026-04-27",
+      "location": "New York, NY",
+      "event_description": null,
+      "ticket_link": "https://www.razomforukraine.org/events/viktor-movie-screening-at-the-reelabilities-film-festival/",
+      "cover_image_url": "https://www.razomforukraine.org/wp-content/uploads/2026/04/Facebook-cover-3.png",
+      "source": "Razom For Ukraine",
+      "event_category": "movie"
     },
     {
       "id": "661921ea-443f-4c30-92a2-43f478c475bb",
@@ -572,16 +608,16 @@
       "event_category": "other"
     },
     {
-      "id": "e51d622a-e3a5-4c84-94c7-2d7d17fa968e",
-      "event_title": "KOLA - New York",
+      "id": "95254e3d-1c14-4b7c-964d-b7cff42029c6",
+      "event_title": "KOLO",
       "event_date": "2026-05-10",
       "end_date": "2026-05-10",
-      "location": "NEW YORK - TBA, New York, NY",
-      "event_description": "Сильна та ніжна, чиї пісні знають та підспівують усі - Українська співачка KOLA - Перший сольний тур Північною Америкою!",
-      "ticket_link": "https://bomond.com/events/kola-new-york",
-      "cover_image_url": "https://api.bomond.com/public/68/3429/171460/432_432.webp",
-      "source": "Bomond",
-      "event_category": "concert"
+      "location": "Honey's, New York City",
+      "event_description": "KOLO",
+      "ticket_link": "https://ra.co/events/2416532",
+      "cover_image_url": "https://images.ra.co/0e9ae5adab81578b021ae78e33cc3bbb527f3c53.png",
+      "source": "Resident Advisor (KOLO NYC)",
+      "event_category": "other"
     },
     {
       "id": "bc4014ca-7f8a-461b-bb68-37651c8d872e",
@@ -617,6 +653,18 @@
       "ticket_link": "https://www.eventbrite.com/e/new-york-dzidzio-charitable-concert-by-revived-soldiers-ukraine-tickets-1983499401103",
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1177898873%252F86171180225%252F1%252Foriginal.20260219-020128%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Dd785c170d59a9e3618f8dbcb3d15e570&w=1880&q=75",
       "source": "Eventbrite",
+      "event_category": "concert"
+    },
+    {
+      "id": "e51d622a-e3a5-4c84-94c7-2d7d17fa968e",
+      "event_title": "KOLA - New York",
+      "event_date": "2026-05-10",
+      "end_date": "2026-05-10",
+      "location": "NEW YORK - TBA, New York, NY",
+      "event_description": "Сильна та ніжна, чиї пісні знають та підспівують усі - Українська співачка KOLA - Перший сольний тур Північною Америкою!",
+      "ticket_link": "https://bomond.com/events/kola-new-york",
+      "cover_image_url": "https://api.bomond.com/public/68/3429/171460/432_432.webp",
+      "source": "Bomond",
       "event_category": "concert"
     },
     {
@@ -704,18 +752,6 @@
       "event_category": "other"
     },
     {
-      "id": "d0ff2077-0c30-46dd-a7da-132667e16d37",
-      "event_title": "July 4th Celebration",
-      "event_date": "2026-07-03",
-      "end_date": "2026-07-05",
-      "location": "Soyuzivka Heritage Center, Kerhonkson, NY",
-      "event_description": "Celebrate Independence Day Ukrainian style with family and friends. Zabava with Volya on July 4th",
-      "ticket_link": "https://soyuzivka.com/calendar-of-events/july-4th-celebration/",
-      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/July4th.png",
-      "source": "Soyuzivka",
-      "event_category": "festival"
-    },
-    {
       "id": "c87b6b2f-4c3d-4236-9d50-b187ad5101df",
       "event_title": "Vasyl Baidak - New York City",
       "event_date": "2026-07-03",
@@ -726,6 +762,18 @@
       "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1773094064_-1200630.jpg",
       "source": "Waylight",
       "event_category": "standup"
+    },
+    {
+      "id": "d0ff2077-0c30-46dd-a7da-132667e16d37",
+      "event_title": "July 4th Celebration",
+      "event_date": "2026-07-03",
+      "end_date": "2026-07-05",
+      "location": "Soyuzivka Heritage Center, Kerhonkson, NY",
+      "event_description": "Celebrate Independence Day Ukrainian style with family and friends. Zabava with Volya on July 4th",
+      "ticket_link": "https://soyuzivka.com/calendar-of-events/july-4th-celebration/",
+      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/July4th.png",
+      "source": "Soyuzivka",
+      "event_category": "festival"
     },
     {
       "id": "20660505-fb61-4af0-906a-1b427d985910",
