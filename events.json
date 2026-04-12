@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-11T14:38:32.071972-04:00",
+  "generated_at": "2026-04-12T01:10:15.358503-04:00",
   "this_week": [
     {
       "id": "27af4ed9-fbad-4ea1-a73e-01f8f80bce91",
@@ -14,40 +14,16 @@
       "event_category": "workshop"
     },
     {
-      "id": "13be7705-f4ce-4a99-a686-e63e2314d2d8",
-      "event_title": "WILD BRUSH STUDIO WITH LESYA VERBA",
-      "event_date": "2026-04-11",
-      "end_date": "2026-04-11",
-      "location": "New York",
-      "event_description": "WILD BRUSH STUDIO is not a traditional art class.",
-      "ticket_link": "https://ukrainian.us/events/artclasses",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/hc_V99QD4g5JAbTaAOpXO2foxPdXR4Cz-source.png?v=0.1&s=d6bdbe4e5c4aeba611e94d7157aaa883",
-      "source": "Ukrainian USA",
-      "event_category": "workshop"
-    },
-    {
-      "id": "17717c63-53b0-4e67-ae4a-d7cb833ec5df",
-      "event_title": "New York/ Премʼєра фільму \"Коли ти розлучишся?\"/When will you get divorced?",
-      "event_date": "2026-04-11",
-      "end_date": "2026-04-11",
-      "location": "Cinema VillageNew York, NYSaturday, Apr 11 from 2 pm to 3:30 pm",
-      "event_description": "Кохання знайде тебе у кінотеатрах Америки",
-      "ticket_link": "https://www.eventbrite.com/e/new-york-when-will-you-get-divorced-tickets-1985212495013",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1179688422%252F294391790611%252F1%252Foriginal.20260312-143148%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.896%26fp-y%3D0.487%26s%3Db2b76ff67ee90fb2f3bf7b6570423ba5&w=1880&q=75",
-      "source": "Eventbrite",
-      "event_category": "movie"
-    },
-    {
-      "id": "d60971b6-96da-45c1-baa4-78ba9995dfa0",
-      "event_title": "Change My Mind [NYC Premiere]",
-      "event_date": "2026-04-11",
-      "end_date": "2026-04-11",
-      "location": "Bohemian National HallNew York, NYSaturday, Apr 11 from 7 pm to 9 pm",
-      "event_description": "A documentary road trip confronts three Czech Putin sympathizers with the reality of war in Ukraine. New York premiere screening.",
-      "ticket_link": "https://www.eventbrite.com/e/change-my-mind-nyc-premiere-tickets-1985003343435",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1179634212%252F169569148912%252F1%252Foriginal.20260311-211535%3Fw%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26s%3Da0d7f13f2ba237b9321498fe581bf781&w=1880&q=75",
-      "source": "Eventbrite",
-      "event_category": "movie"
+      "id": "f8fd81c5-4a24-4d35-a326-8953f7f67d11",
+      "event_title": "VERKA SERDUCHKA & BAND - New York",
+      "event_date": "2026-04-12",
+      "end_date": "2026-04-12",
+      "location": "Kings Theatre, Brooklyn, NY",
+      "event_description": "Get Ready, America!     VERKA SERDUCHKA, the Queen of Your Heart (and Eurovision), Is Coming!     Buckle up your glitter boots, because the one, the only, the absolutely fabulous VERKA SERDUCHKA is heading your way!  She's not just a superstar, she's a cosmic phenomenon!  Seriously, everyone from your grumpy uncle to your neighbor's cat adores VERKA. Her hits? They're not just songs - they're the official anthems of every epic birthday bash, every unforgettable wedding, and every single \"thank goodness it's Friday\" dance party!     You ABSOLUTELY Cannot Miss This!  Ukraine will win!    Королева Євробачення ВЄРКА СЕРДЮЧКА їде до Америки!   ВЄРКУ СЕРДЮЧКУ люблять усі – дорослі й діти, жінки й чоловіки, котики й зайчики! А її хіти давно стали гімнами днів народжень, весіль і просто веселих п'ятниць!  Кожен її концерт — це ковток води в пустелі! Келих холодного ігристого після страшного похмілля! Довгоочікувана відпустка після квартального звіту!  Вона запалює так, що сяйво видно з космосу!  Кожен глядач на кілька годин відчує себе найщасливішою людиною у цьому світі!     Приходь, адже концерт Вєрки Сердючки пропустити неможливо!  Україна переможе!",
+      "ticket_link": "https://us.atgtickets.com/events/verka-serduchka/kings-theatre-brooklyn/",
+      "cover_image_url": "https://api.bomond.com/public/56/2834/141700/serduchka_432x432%20%282%29.webp",
+      "source": "Bomond",
+      "event_category": "concert"
     },
     {
       "id": "19cad087-c401-4921-ae32-64951ded72fb",
@@ -59,18 +35,6 @@
       "ticket_link": "https://www.razomforukraine.org/events/introductions-at-all-souls/",
       "cover_image_url": "https://www.razomforukraine.org/wp-content/uploads/2026/03/image.webp",
       "source": "Razom For Ukraine",
-      "event_category": "concert"
-    },
-    {
-      "id": "f8fd81c5-4a24-4d35-a326-8953f7f67d11",
-      "event_title": "VERKA SERDUCHKA & BAND - New York",
-      "event_date": "2026-04-12",
-      "end_date": "2026-04-12",
-      "location": "Kings Theatre, Brooklyn, NY",
-      "event_description": "Get Ready, America!     VERKA SERDUCHKA, the Queen of Your Heart (and Eurovision), Is Coming!     Buckle up your glitter boots, because the one, the only, the absolutely fabulous VERKA SERDUCHKA is heading your way!  She's not just a superstar, she's a cosmic phenomenon!  Seriously, everyone from your grumpy uncle to your neighbor's cat adores VERKA. Her hits? They're not just songs - they're the official anthems of every epic birthday bash, every unforgettable wedding, and every single \"thank goodness it's Friday\" dance party!     You ABSOLUTELY Cannot Miss This!  Ukraine will win!    Королева Євробачення ВЄРКА СЕРДЮЧКА їде до Америки!   ВЄРКУ СЕРДЮЧКУ люблять усі – дорослі й діти, жінки й чоловіки, котики й зайчики! А її хіти давно стали гімнами днів народжень, весіль і просто веселих п'ятниць!  Кожен її концерт — це ковток води в пустелі! Келих холодного ігристого після страшного похмілля! Довгоочікувана відпустка після квартального звіту!  Вона запалює так, що сяйво видно з космосу!  Кожен глядач на кілька годин відчує себе найщасливішою людиною у цьому світі!     Приходь, адже концерт Вєрки Сердючки пропустити неможливо!  Україна переможе!",
-      "ticket_link": "https://us.atgtickets.com/events/verka-serduchka/kings-theatre-brooklyn/",
-      "cover_image_url": "https://api.bomond.com/public/56/2834/141700/serduchka_432x432%20%282%29.webp",
-      "source": "Bomond",
       "event_category": "concert"
     }
   ],
@@ -112,6 +76,18 @@
       "event_category": "other"
     },
     {
+      "id": "85b9c35a-b3e3-4d3c-bc10-1cdfc8665447",
+      "event_title": "New York: Valeriia Vovk on Solo Tour - USA",
+      "event_date": "2026-04-17",
+      "end_date": "2026-04-17",
+      "location": "Ukrainian National Home",
+      "event_description": "Нью-Йорк, я вперше запрошую вас на свій сольний концерт авторських пісень! Цього разу — тільки я і фортепіано 🥰 Минулого року я двічі подорожувала США з програмою з пісень Володимира Івасюка та української ретро-класики разом із Софією Лешишак. Завдяки вам нам вдалося зібрати $50,000 для українських",
+      "ticket_link": "https://waylight.me/Mriya/event/caaca-30796",
+      "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1772261744_14.png",
+      "source": "Waylight",
+      "event_category": "concert"
+    },
+    {
       "id": "9650300a-7f70-4fdf-9256-4ccd319f0a10",
       "event_title": "Volunteer Weekend",
       "event_date": "2026-04-17",
@@ -133,18 +109,6 @@
       "ticket_link": "https://mticket.com/en/new-york/homin-choir-in-new-york-1602.html",
       "cover_image_url": "https://usa.mticket.com/uploads/resize/shows/logo/630x891_show_P1clnW1iyAFWX3JcF0GGzhXdpMf_Nr6y.webp",
       "source": "mticket",
-      "event_category": "concert"
-    },
-    {
-      "id": "85b9c35a-b3e3-4d3c-bc10-1cdfc8665447",
-      "event_title": "New York: Valeriia Vovk on Solo Tour - USA",
-      "event_date": "2026-04-17",
-      "end_date": "2026-04-17",
-      "location": "Ukrainian National Home",
-      "event_description": "Нью-Йорк, я вперше запрошую вас на свій сольний концерт авторських пісень! Цього разу — тільки я і фортепіано 🥰 Минулого року я двічі подорожувала США з програмою з пісень Володимира Івасюка та української ретро-класики разом із Софією Лешишак. Завдяки вам нам вдалося зібрати $50,000 для українських",
-      "ticket_link": "https://waylight.me/Mriya/event/caaca-30796",
-      "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1772261744_14.png",
-      "source": "Waylight",
       "event_category": "concert"
     },
     {
@@ -222,28 +186,16 @@
       "event_category": "other"
     },
     {
-      "id": "8507be15-50f4-4657-a4f9-d3b4731a952c",
-      "event_title": "Voice of the Ukrainian Diaspora",
+      "id": "5bf97f96-4932-418d-a052-b5ced514c9e1",
+      "event_title": "Mother’s Day Brunch",
       "event_date": "2026-05-10",
       "end_date": "2026-05-10",
-      "location": "140 2nd AveNew York, NYSunday, May 10 from 5 pm to 7 pm",
-      "event_description": "Voice of the Ukrainian Diaspora – живе спілкування і підтримка наших людей за кордоном!",
-      "ticket_link": "https://www.eventbrite.com/e/voice-of-the-ukrainian-diaspora-tickets-1985816161596",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1180787456%252F2996288818158%252F1%252Foriginal.20260326-200013%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D878929400151e51f65767e2b14f999ee&w=1880&q=75",
-      "source": "Eventbrite",
-      "event_category": "arttalk"
-    },
-    {
-      "id": "bc4014ca-7f8a-461b-bb68-37651c8d872e",
-      "event_title": "Fisch Trio",
-      "event_date": "2026-05-10",
-      "end_date": "2026-05-10",
-      "location": "Forte Piano Recital Hall: 159 Rte 4, Paramus, NJ",
-      "event_description": "Mother’s Day Jazz Join us for a very special celebration on Mother’s day!Beautiful jazz compositions by Duke Ellington and other masters performed by a very talented trio! Dima Fisch – violinYuri Bakhtin – guitarValentin Korniyenko – bass Fisch Trio combines a transparent and aesthetic violin sound",
-      "ticket_link": "https://www.helpinghandsukraine.org/fisch-trio-mothers-day-jazz/",
-      "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2026/03/634329812_10238196600551959_4115646380688254202_n.jpg",
-      "source": "Helping Hands for Ukraine",
-      "event_category": "concert"
+      "location": "Soyuzivka Heritage Center, Kerhonkson, NY",
+      "event_description": "Celebrate Mother’s Day in style at Soyuzivka with our exquisite brunch buffet, where a delectable array of dishes awaits along with a complimentary glass of champagne or mimosa—because every mom deserves a toast on her special day! Reservations Accepted - Call (845) 626-5641 or email [email protecte",
+      "ticket_link": "https://soyuzivka.com/calendar-of-events/fathers-day-brunch-copy/",
+      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2026/03/Mothers-Day-Pic.png",
+      "source": "Soyuzivka",
+      "event_category": "other"
     },
     {
       "id": "e51d622a-e3a5-4c84-94c7-2d7d17fa968e",
@@ -258,16 +210,28 @@
       "event_category": "concert"
     },
     {
-      "id": "5bf97f96-4932-418d-a052-b5ced514c9e1",
-      "event_title": "Mother’s Day Brunch",
+      "id": "bc4014ca-7f8a-461b-bb68-37651c8d872e",
+      "event_title": "Fisch Trio",
       "event_date": "2026-05-10",
       "end_date": "2026-05-10",
-      "location": "Soyuzivka Heritage Center, Kerhonkson, NY",
-      "event_description": "Celebrate Mother’s Day in style at Soyuzivka with our exquisite brunch buffet, where a delectable array of dishes awaits along with a complimentary glass of champagne or mimosa—because every mom deserves a toast on her special day! Reservations Accepted - Call (845) 626-5641 or email [email protecte",
-      "ticket_link": "https://soyuzivka.com/calendar-of-events/fathers-day-brunch-copy/",
-      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2026/03/Mothers-Day-Pic.png",
-      "source": "Soyuzivka",
-      "event_category": "other"
+      "location": "Forte Piano Recital Hall: 159 Rte 4, Paramus, NJ",
+      "event_description": "Mother’s Day Jazz Join us for a very special celebration on Mother’s day!Beautiful jazz compositions by Duke Ellington and other masters performed by a very talented trio! Dima Fisch – violinYuri Bakhtin – guitarValentin Korniyenko – bass Fisch Trio combines a transparent and aesthetic violin sound",
+      "ticket_link": "https://www.helpinghandsukraine.org/fisch-trio-mothers-day-jazz/",
+      "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2026/03/634329812_10238196600551959_4115646380688254202_n.jpg",
+      "source": "Helping Hands for Ukraine",
+      "event_category": "concert"
+    },
+    {
+      "id": "8507be15-50f4-4657-a4f9-d3b4731a952c",
+      "event_title": "Voice of the Ukrainian Diaspora",
+      "event_date": "2026-05-10",
+      "end_date": "2026-05-10",
+      "location": "140 2nd AveNew York, NYSunday, May 10 from 5 pm to 7 pm",
+      "event_description": "Voice of the Ukrainian Diaspora – живе спілкування і підтримка наших людей за кордоном!",
+      "ticket_link": "https://www.eventbrite.com/e/voice-of-the-ukrainian-diaspora-tickets-1985816161596",
+      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1180787456%252F2996288818158%252F1%252Foriginal.20260326-200013%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D878929400151e51f65767e2b14f999ee&w=1880&q=75",
+      "source": "Eventbrite",
+      "event_category": "arttalk"
     },
     {
       "id": "cd780c38-7d18-43fe-9e8e-c3d86adbc5ff",
@@ -332,40 +296,16 @@
       "event_category": "workshop"
     },
     {
-      "id": "13be7705-f4ce-4a99-a686-e63e2314d2d8",
-      "event_title": "WILD BRUSH STUDIO WITH LESYA VERBA",
-      "event_date": "2026-04-11",
-      "end_date": "2026-04-11",
-      "location": "New York",
-      "event_description": "WILD BRUSH STUDIO is not a traditional art class.",
-      "ticket_link": "https://ukrainian.us/events/artclasses",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/hc_V99QD4g5JAbTaAOpXO2foxPdXR4Cz-source.png?v=0.1&s=d6bdbe4e5c4aeba611e94d7157aaa883",
-      "source": "Ukrainian USA",
-      "event_category": "workshop"
-    },
-    {
-      "id": "17717c63-53b0-4e67-ae4a-d7cb833ec5df",
-      "event_title": "New York/ Премʼєра фільму \"Коли ти розлучишся?\"/When will you get divorced?",
-      "event_date": "2026-04-11",
-      "end_date": "2026-04-11",
-      "location": "Cinema VillageNew York, NYSaturday, Apr 11 from 2 pm to 3:30 pm",
-      "event_description": "Кохання знайде тебе у кінотеатрах Америки",
-      "ticket_link": "https://www.eventbrite.com/e/new-york-when-will-you-get-divorced-tickets-1985212495013",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1179688422%252F294391790611%252F1%252Foriginal.20260312-143148%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.896%26fp-y%3D0.487%26s%3Db2b76ff67ee90fb2f3bf7b6570423ba5&w=1880&q=75",
-      "source": "Eventbrite",
-      "event_category": "movie"
-    },
-    {
-      "id": "d60971b6-96da-45c1-baa4-78ba9995dfa0",
-      "event_title": "Change My Mind [NYC Premiere]",
-      "event_date": "2026-04-11",
-      "end_date": "2026-04-11",
-      "location": "Bohemian National HallNew York, NYSaturday, Apr 11 from 7 pm to 9 pm",
-      "event_description": "A documentary road trip confronts three Czech Putin sympathizers with the reality of war in Ukraine. New York premiere screening.",
-      "ticket_link": "https://www.eventbrite.com/e/change-my-mind-nyc-premiere-tickets-1985003343435",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1179634212%252F169569148912%252F1%252Foriginal.20260311-211535%3Fw%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26s%3Da0d7f13f2ba237b9321498fe581bf781&w=1880&q=75",
-      "source": "Eventbrite",
-      "event_category": "movie"
+      "id": "f8fd81c5-4a24-4d35-a326-8953f7f67d11",
+      "event_title": "VERKA SERDUCHKA & BAND - New York",
+      "event_date": "2026-04-12",
+      "end_date": "2026-04-12",
+      "location": "Kings Theatre, Brooklyn, NY",
+      "event_description": "Get Ready, America!     VERKA SERDUCHKA, the Queen of Your Heart (and Eurovision), Is Coming!     Buckle up your glitter boots, because the one, the only, the absolutely fabulous VERKA SERDUCHKA is heading your way!  She's not just a superstar, she's a cosmic phenomenon!  Seriously, everyone from your grumpy uncle to your neighbor's cat adores VERKA. Her hits? They're not just songs - they're the official anthems of every epic birthday bash, every unforgettable wedding, and every single \"thank goodness it's Friday\" dance party!     You ABSOLUTELY Cannot Miss This!  Ukraine will win!    Королева Євробачення ВЄРКА СЕРДЮЧКА їде до Америки!   ВЄРКУ СЕРДЮЧКУ люблять усі – дорослі й діти, жінки й чоловіки, котики й зайчики! А її хіти давно стали гімнами днів народжень, весіль і просто веселих п'ятниць!  Кожен її концерт — це ковток води в пустелі! Келих холодного ігристого після страшного похмілля! Довгоочікувана відпустка після квартального звіту!  Вона запалює так, що сяйво видно з космосу!  Кожен глядач на кілька годин відчує себе найщасливішою людиною у цьому світі!     Приходь, адже концерт Вєрки Сердючки пропустити неможливо!  Україна переможе!",
+      "ticket_link": "https://us.atgtickets.com/events/verka-serduchka/kings-theatre-brooklyn/",
+      "cover_image_url": "https://api.bomond.com/public/56/2834/141700/serduchka_432x432%20%282%29.webp",
+      "source": "Bomond",
+      "event_category": "concert"
     },
     {
       "id": "19cad087-c401-4921-ae32-64951ded72fb",
@@ -377,18 +317,6 @@
       "ticket_link": "https://www.razomforukraine.org/events/introductions-at-all-souls/",
       "cover_image_url": "https://www.razomforukraine.org/wp-content/uploads/2026/03/image.webp",
       "source": "Razom For Ukraine",
-      "event_category": "concert"
-    },
-    {
-      "id": "f8fd81c5-4a24-4d35-a326-8953f7f67d11",
-      "event_title": "VERKA SERDUCHKA & BAND - New York",
-      "event_date": "2026-04-12",
-      "end_date": "2026-04-12",
-      "location": "Kings Theatre, Brooklyn, NY",
-      "event_description": "Get Ready, America!     VERKA SERDUCHKA, the Queen of Your Heart (and Eurovision), Is Coming!     Buckle up your glitter boots, because the one, the only, the absolutely fabulous VERKA SERDUCHKA is heading your way!  She's not just a superstar, she's a cosmic phenomenon!  Seriously, everyone from your grumpy uncle to your neighbor's cat adores VERKA. Her hits? They're not just songs - they're the official anthems of every epic birthday bash, every unforgettable wedding, and every single \"thank goodness it's Friday\" dance party!     You ABSOLUTELY Cannot Miss This!  Ukraine will win!    Королева Євробачення ВЄРКА СЕРДЮЧКА їде до Америки!   ВЄРКУ СЕРДЮЧКУ люблять усі – дорослі й діти, жінки й чоловіки, котики й зайчики! А її хіти давно стали гімнами днів народжень, весіль і просто веселих п'ятниць!  Кожен її концерт — це ковток води в пустелі! Келих холодного ігристого після страшного похмілля! Довгоочікувана відпустка після квартального звіту!  Вона запалює так, що сяйво видно з космосу!  Кожен глядач на кілька годин відчує себе найщасливішою людиною у цьому світі!     Приходь, адже концерт Вєрки Сердючки пропустити неможливо!  Україна переможе!",
-      "ticket_link": "https://us.atgtickets.com/events/verka-serduchka/kings-theatre-brooklyn/",
-      "cover_image_url": "https://api.bomond.com/public/56/2834/141700/serduchka_432x432%20%282%29.webp",
-      "source": "Bomond",
       "event_category": "concert"
     },
     {
@@ -416,6 +344,18 @@
       "event_category": "other"
     },
     {
+      "id": "85b9c35a-b3e3-4d3c-bc10-1cdfc8665447",
+      "event_title": "New York: Valeriia Vovk on Solo Tour - USA",
+      "event_date": "2026-04-17",
+      "end_date": "2026-04-17",
+      "location": "Ukrainian National Home",
+      "event_description": "Нью-Йорк, я вперше запрошую вас на свій сольний концерт авторських пісень! Цього разу — тільки я і фортепіано 🥰 Минулого року я двічі подорожувала США з програмою з пісень Володимира Івасюка та української ретро-класики разом із Софією Лешишак. Завдяки вам нам вдалося зібрати $50,000 для українських",
+      "ticket_link": "https://waylight.me/Mriya/event/caaca-30796",
+      "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1772261744_14.png",
+      "source": "Waylight",
+      "event_category": "concert"
+    },
+    {
       "id": "9650300a-7f70-4fdf-9256-4ccd319f0a10",
       "event_title": "Volunteer Weekend",
       "event_date": "2026-04-17",
@@ -440,18 +380,6 @@
       "event_category": "concert"
     },
     {
-      "id": "85b9c35a-b3e3-4d3c-bc10-1cdfc8665447",
-      "event_title": "New York: Valeriia Vovk on Solo Tour - USA",
-      "event_date": "2026-04-17",
-      "end_date": "2026-04-17",
-      "location": "Ukrainian National Home",
-      "event_description": "Нью-Йорк, я вперше запрошую вас на свій сольний концерт авторських пісень! Цього разу — тільки я і фортепіано 🥰 Минулого року я двічі подорожувала США з програмою з пісень Володимира Івасюка та української ретро-класики разом із Софією Лешишак. Завдяки вам нам вдалося зібрати $50,000 для українських",
-      "ticket_link": "https://waylight.me/Mriya/event/caaca-30796",
-      "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1772261744_14.png",
-      "source": "Waylight",
-      "event_category": "concert"
-    },
-    {
       "id": "2edd6432-bc4e-49db-bf96-d91b0e26782a",
       "event_title": "Woman’s Identity Dinner with OLIA FREIMUT in New York",
       "event_date": "2026-04-19",
@@ -473,7 +401,19 @@
       "ticket_link": "https://www.razomforukraine.org/events/razom-co-pilot-conversation-frontline-medicine-in-ukraine/",
       "cover_image_url": "https://www.razomforukraine.org/wp-content/uploads/2026/04/Event-cover.png",
       "source": "Razom For Ukraine",
-      "event_category": null
+      "event_category": "other"
+    },
+    {
+      "id": "05a45ed4-a091-4880-9188-4a6863d119c7",
+      "event_title": "Ecocide in Ukraine: The Environmental Cost of Russia's War",
+      "event_date": "2026-04-22",
+      "end_date": "2026-04-22",
+      "location": "Online",
+      "event_description": "1737 Cambridge Street Cambridge , MA 02138 United States",
+      "ticket_link": "https://www.huri.harvard.edu/event/darya-tsymbalyuk-ecocide-ukraine-environmental-cost-russias-war",
+      "cover_image_url": "/sites/g/files/omnuum4931/files/styles/hwp_5_4__480x385/public/2026-03/2026.04.22%20Tsymbalyuk-4-1920x1536-web-thumbnail.png?itok=lvBJxPvL",
+      "source": "Harvard Ukrainian Research Institute",
+      "event_category": "other"
     },
     {
       "id": "4993da0c-cf25-4401-8fa7-aadc2c4ba105",
@@ -500,18 +440,6 @@
       "event_category": "movie"
     },
     {
-      "id": "68cd3991-b64b-461b-9124-d40ac876e911",
-      "event_title": "CHICO & QATOSHI | WHIPPANY",
-      "event_date": "2026-04-24",
-      "end_date": "2026-04-24",
-      "location": "New Jersey",
-      "event_description": null,
-      "ticket_link": "https://ukrainian.us/events/chico-qatoshi-whippany",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/E9vX1XF2MQiJb8_UlgaGmayZ7C9QM7a_-source.png?v=0.1&s=b63eb6c815afb4759c5bf0fe6f6c3cfc",
-      "source": "Ukrainian USA",
-      "event_category": "concert"
-    },
-    {
       "id": "994d6242-42b6-4fd5-b214-a1e356c01d4d",
       "event_title": "Dima Prokopov Live in New York",
       "event_date": "2026-04-24",
@@ -524,14 +452,14 @@
       "event_category": "concert"
     },
     {
-      "id": "8de4cd45-95d6-4075-9ba4-48685c8c1634",
-      "event_title": "CHICO & QATOSHI | NEW YORK",
-      "event_date": "2026-04-25",
-      "end_date": "2026-04-25",
-      "location": "New York",
-      "event_description": "What everyone has been waiting for — is finally happening!",
-      "ticket_link": "https://ukrainian.us/events/chico-qatoshi-new-york",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/3t_lasiJh4H6In3rh7cilHoECPMCNNmK-source.png?v=0.1&s=31e3adf765cc25bd3841728abf5e5858",
+      "id": "68cd3991-b64b-461b-9124-d40ac876e911",
+      "event_title": "CHICO & QATOSHI | WHIPPANY",
+      "event_date": "2026-04-24",
+      "end_date": "2026-04-24",
+      "location": "New Jersey",
+      "event_description": null,
+      "ticket_link": "https://ukrainian.us/events/chico-qatoshi-whippany",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/E9vX1XF2MQiJb8_UlgaGmayZ7C9QM7a_-source.png?v=0.1&s=b63eb6c815afb4759c5bf0fe6f6c3cfc",
       "source": "Ukrainian USA",
       "event_category": "concert"
     },
@@ -546,6 +474,18 @@
       "cover_image_url": "https://www.razomforukraine.org/wp-content/uploads/2026/04/Facebook-cover-3.png",
       "source": "Razom For Ukraine",
       "event_category": "movie"
+    },
+    {
+      "id": "8de4cd45-95d6-4075-9ba4-48685c8c1634",
+      "event_title": "CHICO & QATOSHI | NEW YORK",
+      "event_date": "2026-04-25",
+      "end_date": "2026-04-25",
+      "location": "New York",
+      "event_description": "What everyone has been waiting for — is finally happening!",
+      "ticket_link": "https://ukrainian.us/events/chico-qatoshi-new-york",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/3t_lasiJh4H6In3rh7cilHoECPMCNNmK-source.png?v=0.1&s=31e3adf765cc25bd3841728abf5e5858",
+      "source": "Ukrainian USA",
+      "event_category": "concert"
     },
     {
       "id": "661921ea-443f-4c30-92a2-43f478c475bb",
@@ -620,28 +560,16 @@
       "event_category": "other"
     },
     {
-      "id": "8507be15-50f4-4657-a4f9-d3b4731a952c",
-      "event_title": "Voice of the Ukrainian Diaspora",
+      "id": "5bf97f96-4932-418d-a052-b5ced514c9e1",
+      "event_title": "Mother’s Day Brunch",
       "event_date": "2026-05-10",
       "end_date": "2026-05-10",
-      "location": "140 2nd AveNew York, NYSunday, May 10 from 5 pm to 7 pm",
-      "event_description": "Voice of the Ukrainian Diaspora – живе спілкування і підтримка наших людей за кордоном!",
-      "ticket_link": "https://www.eventbrite.com/e/voice-of-the-ukrainian-diaspora-tickets-1985816161596",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1180787456%252F2996288818158%252F1%252Foriginal.20260326-200013%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D878929400151e51f65767e2b14f999ee&w=1880&q=75",
-      "source": "Eventbrite",
-      "event_category": "arttalk"
-    },
-    {
-      "id": "bc4014ca-7f8a-461b-bb68-37651c8d872e",
-      "event_title": "Fisch Trio",
-      "event_date": "2026-05-10",
-      "end_date": "2026-05-10",
-      "location": "Forte Piano Recital Hall: 159 Rte 4, Paramus, NJ",
-      "event_description": "Mother’s Day Jazz Join us for a very special celebration on Mother’s day!Beautiful jazz compositions by Duke Ellington and other masters performed by a very talented trio! Dima Fisch – violinYuri Bakhtin – guitarValentin Korniyenko – bass Fisch Trio combines a transparent and aesthetic violin sound",
-      "ticket_link": "https://www.helpinghandsukraine.org/fisch-trio-mothers-day-jazz/",
-      "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2026/03/634329812_10238196600551959_4115646380688254202_n.jpg",
-      "source": "Helping Hands for Ukraine",
-      "event_category": "concert"
+      "location": "Soyuzivka Heritage Center, Kerhonkson, NY",
+      "event_description": "Celebrate Mother’s Day in style at Soyuzivka with our exquisite brunch buffet, where a delectable array of dishes awaits along with a complimentary glass of champagne or mimosa—because every mom deserves a toast on her special day! Reservations Accepted - Call (845) 626-5641 or email [email protecte",
+      "ticket_link": "https://soyuzivka.com/calendar-of-events/fathers-day-brunch-copy/",
+      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2026/03/Mothers-Day-Pic.png",
+      "source": "Soyuzivka",
+      "event_category": "other"
     },
     {
       "id": "e51d622a-e3a5-4c84-94c7-2d7d17fa968e",
@@ -656,16 +584,28 @@
       "event_category": "concert"
     },
     {
-      "id": "5bf97f96-4932-418d-a052-b5ced514c9e1",
-      "event_title": "Mother’s Day Brunch",
+      "id": "bc4014ca-7f8a-461b-bb68-37651c8d872e",
+      "event_title": "Fisch Trio",
       "event_date": "2026-05-10",
       "end_date": "2026-05-10",
-      "location": "Soyuzivka Heritage Center, Kerhonkson, NY",
-      "event_description": "Celebrate Mother’s Day in style at Soyuzivka with our exquisite brunch buffet, where a delectable array of dishes awaits along with a complimentary glass of champagne or mimosa—because every mom deserves a toast on her special day! Reservations Accepted - Call (845) 626-5641 or email [email protecte",
-      "ticket_link": "https://soyuzivka.com/calendar-of-events/fathers-day-brunch-copy/",
-      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2026/03/Mothers-Day-Pic.png",
-      "source": "Soyuzivka",
-      "event_category": "other"
+      "location": "Forte Piano Recital Hall: 159 Rte 4, Paramus, NJ",
+      "event_description": "Mother’s Day Jazz Join us for a very special celebration on Mother’s day!Beautiful jazz compositions by Duke Ellington and other masters performed by a very talented trio! Dima Fisch – violinYuri Bakhtin – guitarValentin Korniyenko – bass Fisch Trio combines a transparent and aesthetic violin sound",
+      "ticket_link": "https://www.helpinghandsukraine.org/fisch-trio-mothers-day-jazz/",
+      "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2026/03/634329812_10238196600551959_4115646380688254202_n.jpg",
+      "source": "Helping Hands for Ukraine",
+      "event_category": "concert"
+    },
+    {
+      "id": "8507be15-50f4-4657-a4f9-d3b4731a952c",
+      "event_title": "Voice of the Ukrainian Diaspora",
+      "event_date": "2026-05-10",
+      "end_date": "2026-05-10",
+      "location": "140 2nd AveNew York, NYSunday, May 10 from 5 pm to 7 pm",
+      "event_description": "Voice of the Ukrainian Diaspora – живе спілкування і підтримка наших людей за кордоном!",
+      "ticket_link": "https://www.eventbrite.com/e/voice-of-the-ukrainian-diaspora-tickets-1985816161596",
+      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1180787456%252F2996288818158%252F1%252Foriginal.20260326-200013%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D878929400151e51f65767e2b14f999ee&w=1880&q=75",
+      "source": "Eventbrite",
+      "event_category": "arttalk"
     },
     {
       "id": "cd780c38-7d18-43fe-9e8e-c3d86adbc5ff",
@@ -764,18 +704,6 @@
       "event_category": "other"
     },
     {
-      "id": "c87b6b2f-4c3d-4236-9d50-b187ad5101df",
-      "event_title": "Vasyl Baidak - New York City",
-      "event_date": "2026-07-03",
-      "end_date": "2026-07-03",
-      "location": "Manhattan",
-      "event_description": "кращі приколи, новий матеріал, аукціон, ооооо, так! НАРЕШТІ побачимось із вами в США і Канаді. хто мене знає, то сенсу розписувати щось вам немає, ви, гадаю, і так прийдете, бо тут і посміятись, і задонатити, ну топ. а от хто не знає — спробую вас переконати прийти. «хеллоооооу! мене звуть Байдак Ва",
-      "ticket_link": "https://waylight.me/ucrazy/event/16319-cd91c",
-      "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1773094064_-1200630.jpg",
-      "source": "Waylight",
-      "event_category": "standup"
-    },
-    {
       "id": "d0ff2077-0c30-46dd-a7da-132667e16d37",
       "event_title": "July 4th Celebration",
       "event_date": "2026-07-03",
@@ -786,6 +714,18 @@
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/July4th.png",
       "source": "Soyuzivka",
       "event_category": "festival"
+    },
+    {
+      "id": "c87b6b2f-4c3d-4236-9d50-b187ad5101df",
+      "event_title": "Vasyl Baidak - New York City",
+      "event_date": "2026-07-03",
+      "end_date": "2026-07-03",
+      "location": "Manhattan",
+      "event_description": "кращі приколи, новий матеріал, аукціон, ооооо, так! НАРЕШТІ побачимось із вами в США і Канаді. хто мене знає, то сенсу розписувати щось вам немає, ви, гадаю, і так прийдете, бо тут і посміятись, і задонатити, ну топ. а от хто не знає — спробую вас переконати прийти. «хеллоооооу! мене звуть Байдак Ва",
+      "ticket_link": "https://waylight.me/ucrazy/event/16319-cd91c",
+      "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1773094064_-1200630.jpg",
+      "source": "Waylight",
+      "event_category": "standup"
     },
     {
       "id": "20660505-fb61-4af0-906a-1b427d985910",
