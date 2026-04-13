@@ -1145,6 +1145,93 @@
       font-size: 0.85rem;
     }
 
+    /* ── Submit Event Button ── */
+    .submit-event-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      margin-top: 1.25rem;
+      padding: 0.55rem 1.2rem;
+      background: transparent;
+      border: 1.5px solid rgba(255,255,255,0.25);
+      border-radius: 20px;
+      color: rgba(255,255,255,0.75);
+      font-size: 0.85rem;
+      font-weight: 600;
+      cursor: pointer;
+      font-family: inherit;
+      transition: background 0.2s, border-color 0.2s, color 0.2s;
+      letter-spacing: 0.01em;
+    }
+    .submit-event-btn:hover {
+      background: rgba(255,255,255,0.08);
+      border-color: rgba(255,255,255,0.45);
+      color: #fff;
+    }
+
+    /* ── Submit Form inside modal ── */
+    .submit-form label {
+      display: block;
+      font-size: 0.82rem;
+      font-weight: 600;
+      color: var(--text-dim);
+      margin-bottom: 0.4rem;
+      margin-top: 1.25rem;
+    }
+    .submit-form input,
+    .submit-form textarea {
+      width: 100%;
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-sm);
+      color: var(--text);
+      font-family: inherit;
+      font-size: 0.92rem;
+      padding: 0.6rem 0.8rem;
+      box-sizing: border-box;
+      transition: border-color 0.2s;
+      resize: vertical;
+    }
+    .submit-form input:focus,
+    .submit-form textarea:focus {
+      outline: none;
+      border-color: var(--blue);
+    }
+    .submit-form textarea {
+      min-height: 140px;
+    }
+    .char-counter {
+      text-align: right;
+      font-size: 0.78rem;
+      color: var(--muted);
+      margin-top: 0.3rem;
+    }
+    .char-counter.over {
+      color: #e75;
+    }
+    .submit-btn {
+      display: block;
+      width: 100%;
+      margin-top: 1.5rem;
+      padding: 0.75rem 1.5rem;
+      background: var(--blue);
+      border: none;
+      border-radius: var(--radius-sm);
+      color: #fff;
+      font-size: 1rem;
+      font-weight: 700;
+      cursor: pointer;
+      font-family: inherit;
+      transition: background 0.2s, opacity 0.2s;
+    }
+    .submit-btn:hover:not(:disabled) {
+      background: #2d6fe0;
+    }
+    .submit-btn:disabled {
+      opacity: 0.5;
+      cursor: default;
+    }
+
     /* ── Modal & Footer ── */
     .footer-link {
       color: var(--text-dim);
@@ -1250,6 +1337,7 @@
         <span class="pulse"></span>
         <span id="updated-text">Auto-updated daily</span>
       </div>
+      <button class="submit-event-btn" onclick="toggleSubmitModal()" id="submit-event-btn">📩 Submit an Event</button>
     </header>
 
     <div class="search-bar-container">
@@ -1382,6 +1470,32 @@
     </div>
   </div>
 
+  <!-- Submit Event Modal -->
+  <div id="submit-modal" class="modal-overlay" style="display:none;" onclick="if(event.target===this) toggleSubmitModal()">
+    <div class="modal-content">
+      <button class="modal-close" onclick="toggleSubmitModal()">×</button>
+      <h2>📩 Submit a Missing Event</h2>
+      <p>Know of a Ukrainian event in NYC that's not listed here? Share the details below and we'll review it.</p>
+
+      <p style="font-size:0.82rem;color:var(--muted);margin-top:0.25rem;">Clicking <strong style="color:var(--text)">Send</strong> will open your email client with the details pre-filled.</p>
+
+      <form class="submit-form" id="submit-event-form" onsubmit="handleSubmitEvent(event)">
+        <label for="submit-note">Event details <span style="color:#e75;">*</span></label>
+        <textarea
+          id="submit-note"
+          name="note"
+          maxlength="1000"
+          placeholder="Please add information about the missing event here. Include event name, date, location, and a link if you have one."
+          oninput="updateCharCount(this)"
+          required
+        ></textarea>
+        <div class="char-counter" id="submit-char-count">0 / 1000</div>
+
+        <button class="submit-btn" id="submit-form-btn" type="submit">Send</button>
+      </form>
+    </div>
+  </div>
+
   <script>
     function toggleAboutModal() {
       const modal = document.getElementById('about-modal');
@@ -1389,6 +1503,39 @@
       modal.style.display = isHidden ? 'flex' : 'none';
       if(isHidden) document.body.style.overflow = 'hidden';
       else document.body.style.overflow = '';
+    }
+
+    function toggleSubmitModal() {
+      const modal = document.getElementById('submit-modal');
+      const isHidden = modal.style.display === 'none' || modal.style.display === '';
+      modal.style.display = isHidden ? 'flex' : 'none';
+      if (isHidden) document.body.style.overflow = 'hidden';
+      else document.body.style.overflow = '';
+    }
+
+    function updateCharCount(textarea) {
+      const count = textarea.value.length;
+      const counter = document.getElementById('submit-char-count');
+      counter.textContent = count + ' / 1000';
+      counter.classList.toggle('over', count >= 1000);
+    }
+
+    function handleSubmitEvent(e) {
+      e.preventDefault();
+      const note = document.getElementById('submit-note').value.trim();
+      if (!note) return;
+
+      const subject = encodeURIComponent('Missing Event Submission');
+      const body    = encodeURIComponent(note);
+      window.location.href =
+        'mailto:nycukreventsproject@yahoo.com?subject=' + subject + '&body=' + body;
+
+      // Reset form after a short delay to let the mail client open
+      setTimeout(() => {
+        document.getElementById('submit-event-form').reset();
+        document.getElementById('submit-char-count').textContent = '0 / 1000';
+        toggleSubmitModal();
+      }, 800);
     }
 
     // ── State ─────────────────────────────────────────────────────────────

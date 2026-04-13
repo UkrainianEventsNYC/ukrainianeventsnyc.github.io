@@ -1,44 +1,6 @@
 {
-  "generated_at": "2026-04-12T13:57:32.884347-04:00",
+  "generated_at": "2026-04-13T00:08:47.606995-04:00",
   "this_week": [
-    {
-      "id": "27af4ed9-fbad-4ea1-a73e-01f8f80bce91",
-      "event_title": "Famine as Genocide: The Holodomor in Ukraine — Free Online Course",
-      "event_date": "2026-04-10",
-      "end_date": "2026-06-01",
-      "location": "Online (University of Alberta)",
-      "event_description": "A wide-ranging exploration of the 1932-33 famine in Ukraine. Learners will gain a deep understanding of the Holodomor in the context of other 20th century famines, genocide studies, survivor experience, and knowledge dissemination.",
-      "ticket_link": "https://www.ualberta.ca/en/admissions-programs/online-courses/famine-as-genocide-the-holodomor-in-ukraine.html",
-      "cover_image_url": "https://www.ualberta.ca/media-library/ualberta/admissions-and-programs/courses/holodomor-mooc-wheat.jpg",
-      "source": "UAlberta",
-      "event_category": "workshop"
-    },
-    {
-      "id": "19cad087-c401-4921-ae32-64951ded72fb",
-      "event_title": "INTRODUCTIONS at All Souls",
-      "event_date": "2026-04-12",
-      "end_date": "2026-04-12",
-      "location": "All Souls NYC 1157 Lexington Avenue, New York, NY, 10075",
-      "event_description": null,
-      "ticket_link": "https://www.razomforukraine.org/events/introductions-at-all-souls/",
-      "cover_image_url": "https://www.razomforukraine.org/wp-content/uploads/2026/03/image.webp",
-      "source": "Razom For Ukraine",
-      "event_category": "concert"
-    },
-    {
-      "id": "f8fd81c5-4a24-4d35-a326-8953f7f67d11",
-      "event_title": "VERKA SERDUCHKA & BAND - New York",
-      "event_date": "2026-04-12",
-      "end_date": "2026-04-12",
-      "location": "Kings Theatre, Brooklyn, NY",
-      "event_description": "Get Ready, America!     VERKA SERDUCHKA, the Queen of Your Heart (and Eurovision), Is Coming!     Buckle up your glitter boots, because the one, the only, the absolutely fabulous VERKA SERDUCHKA is heading your way!  She's not just a superstar, she's a cosmic phenomenon!  Seriously, everyone from your grumpy uncle to your neighbor's cat adores VERKA. Her hits? They're not just songs - they're the official anthems of every epic birthday bash, every unforgettable wedding, and every single \"thank goodness it's Friday\" dance party!     You ABSOLUTELY Cannot Miss This!  Ukraine will win!    Королева Євробачення ВЄРКА СЕРДЮЧКА їде до Америки!   ВЄРКУ СЕРДЮЧКУ люблять усі – дорослі й діти, жінки й чоловіки, котики й зайчики! А її хіти давно стали гімнами днів народжень, весіль і просто веселих п'ятниць!  Кожен її концерт — це ковток води в пустелі! Келих холодного ігристого після страшного похмілля! Довгоочікувана відпустка після квартального звіту!  Вона запалює так, що сяйво видно з космосу!  Кожен глядач на кілька годин відчує себе найщасливішою людиною у цьому світі!     Приходь, адже концерт Вєрки Сердючки пропустити неможливо!  Україна переможе!",
-      "ticket_link": "https://us.atgtickets.com/events/verka-serduchka/kings-theatre-brooklyn/",
-      "cover_image_url": "https://api.bomond.com/public/56/2834/141700/serduchka_432x432%20%282%29.webp",
-      "source": "Bomond",
-      "event_category": "concert"
-    }
-  ],
-  "next_week": [
     {
       "id": "27af4ed9-fbad-4ea1-a73e-01f8f80bce91",
       "event_title": "Famine as Genocide: The Holodomor in Ukraine — Free Online Course",
@@ -112,6 +74,18 @@
       "event_category": "concert"
     },
     {
+      "id": "2c53d43f-6895-4eaa-82ae-de6410c532e7",
+      "event_title": "YAGÓDY",
+      "event_date": "2026-04-18",
+      "end_date": "2026-04-18",
+      "location": "New York, NY",
+      "event_description": "Experience YAGÓDY live at Drom on April 18—hypnotic Ukrainian folk, ritual vocals, primal percussion, and electrifying stage energy.",
+      "ticket_link": "https://dromnyc.com/event/yagody/",
+      "cover_image_url": "https://dromnyc.com/wp-content/uploads/2026/01/YAG-Bio-2026-scaled-1.jpg",
+      "source": "Drom NYC",
+      "event_category": null
+    },
+    {
       "id": "9ed8b0ae-89d8-470c-9aa0-88617f7ddffe",
       "event_title": "NORA POLINNIA: NEW YORK ROCK N ROLL",
       "event_date": "2026-04-18",
@@ -133,6 +107,140 @@
       "ticket_link": "https://urclife.org/events/olia-freimut-new-york",
       "cover_image_url": "https://urclife.org/wp-content/uploads/2026/03/%D0%A4%D1%80%D0%B5%D0%B8%CC%86%D0%BC%D1%83%D1%82-NY-19-1080%D1%851080-1.jpg",
       "source": "URC Life",
+      "event_category": "other"
+    }
+  ],
+  "next_week": [
+    {
+      "id": "27af4ed9-fbad-4ea1-a73e-01f8f80bce91",
+      "event_title": "Famine as Genocide: The Holodomor in Ukraine — Free Online Course",
+      "event_date": "2026-04-10",
+      "end_date": "2026-06-01",
+      "location": "Online (University of Alberta)",
+      "event_description": "A wide-ranging exploration of the 1932-33 famine in Ukraine. Learners will gain a deep understanding of the Holodomor in the context of other 20th century famines, genocide studies, survivor experience, and knowledge dissemination.",
+      "ticket_link": "https://www.ualberta.ca/en/admissions-programs/online-courses/famine-as-genocide-the-holodomor-in-ukraine.html",
+      "cover_image_url": "https://www.ualberta.ca/media-library/ualberta/admissions-and-programs/courses/holodomor-mooc-wheat.jpg",
+      "source": "UAlberta",
+      "event_category": "workshop"
+    },
+    {
+      "id": "01dfd4c5-437d-498e-9fc7-25be510b3e61",
+      "event_title": "Razom Co-Pilot Conversation: Frontline Medicine in Ukraine",
+      "event_date": "2026-04-20",
+      "end_date": "2026-04-20",
+      "location": "Razom Flatiron Office 54 W 21st St, New York, NY, New York",
+      "event_description": null,
+      "ticket_link": "https://www.razomforukraine.org/events/razom-co-pilot-conversation-frontline-medicine-in-ukraine/",
+      "cover_image_url": "https://www.razomforukraine.org/wp-content/uploads/2026/04/Event-cover.png",
+      "source": "Razom For Ukraine",
+      "event_category": "other"
+    },
+    {
+      "id": "05a45ed4-a091-4880-9188-4a6863d119c7",
+      "event_title": "Ecocide in Ukraine: The Environmental Cost of Russia's War",
+      "event_date": "2026-04-22",
+      "end_date": "2026-04-22",
+      "location": "Online",
+      "event_description": "1737 Cambridge Street Cambridge , MA 02138 United States",
+      "ticket_link": "https://www.huri.harvard.edu/event/darya-tsymbalyuk-ecocide-ukraine-environmental-cost-russias-war",
+      "cover_image_url": "/sites/g/files/omnuum4931/files/styles/hwp_1_1__360x360_scale/public/2026-03/Tsymbalyuk.ideas-1_page-0001.jpg?itok=H-LsHuxQ",
+      "source": "Harvard Ukrainian Research Institute",
+      "event_category": "other"
+    },
+    {
+      "id": "4993da0c-cf25-4401-8fa7-aadc2c4ba105",
+      "event_title": "Afternoon Event w/ Yevgenia Nayberg: Chernobyl, Life, and Other Disasters",
+      "event_date": "2026-04-23",
+      "end_date": "2026-04-23",
+      "location": "Books Are Magic SmithBrooklyn, NYThursday, Apr 23 from 4 pm to 5 pm",
+      "event_description": "\"A strong and beautifully rendered addition to graphic memoir and nonfiction middle grade collections.\" —School Library Journal",
+      "ticket_link": "https://www.eventbrite.com/e/afternoon-event-w-yevgenia-nayberg-chernobyl-life-and-other-disasters-tickets-1984999914178",
+      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1179629620%252F213734307976%252F1%252Foriginal.20260311-202827%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D1.0%26fp-y%3D0.483%26s%3D6bccfae807e05f8d6e6aac337b6951f5&w=1880&q=75",
+      "source": "Eventbrite",
+      "event_category": "arttalk"
+    },
+    {
+      "id": "1825102d-de26-4c9b-9e06-e9609625ed94",
+      "event_title": "Brooklyn, NY/Премʼєра фільму \"На Драйві \"/“On Drive”",
+      "event_date": "2026-04-23",
+      "end_date": "2026-04-23",
+      "location": "Alpine CinemaBrooklyn, NYThursday, Apr 23 from 7 pm to 9 pm",
+      "event_description": "When the world around freezes - they press the gas. “ON DRIVE” is a film about youth with no brakes.",
+      "ticket_link": "https://www.eventbrite.com/e/brooklyn-ny-on-drive-tickets-1985993901220",
+      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1180716526%252F294391790611%252F1%252Foriginal.20260326-004213%3Fw%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26s%3Ddee521dbf08edd4e9b840130ceabeeb7&w=1880&q=75",
+      "source": "Eventbrite",
+      "event_category": "movie"
+    },
+    {
+      "id": "994d6242-42b6-4fd5-b214-a1e356c01d4d",
+      "event_title": "Dima Prokopov Live in New York",
+      "event_date": "2026-04-24",
+      "end_date": "2026-04-24",
+      "location": "New York",
+      "event_description": "Live performance by Dima Prokopov in Brooklyn — a Ukrainian music night in the heart of New York.",
+      "ticket_link": "https://ukrainian.us/events/prokopov-ny",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/HYEvKyLi0mJi92ocbWd3EpyjsHILgBxE-source.png?v=0.1&s=e0b574e217810f6ca7e82c13e06f0c15",
+      "source": "Ukrainian USA",
+      "event_category": "concert"
+    },
+    {
+      "id": "68cd3991-b64b-461b-9124-d40ac876e911",
+      "event_title": "CHICO & QATOSHI | WHIPPANY",
+      "event_date": "2026-04-24",
+      "end_date": "2026-04-24",
+      "location": "New Jersey",
+      "event_description": null,
+      "ticket_link": "https://ukrainian.us/events/chico-qatoshi-whippany",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/E9vX1XF2MQiJb8_UlgaGmayZ7C9QM7a_-source.png?v=0.1&s=b63eb6c815afb4759c5bf0fe6f6c3cfc",
+      "source": "Ukrainian USA",
+      "event_category": "concert"
+    },
+    {
+      "id": "8de4cd45-95d6-4075-9ba4-48685c8c1634",
+      "event_title": "CHICO & QATOSHI | NEW YORK",
+      "event_date": "2026-04-25",
+      "end_date": "2026-04-25",
+      "location": "New York",
+      "event_description": "What everyone has been waiting for — is finally happening!",
+      "ticket_link": "https://ukrainian.us/events/chico-qatoshi-new-york",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/3t_lasiJh4H6In3rh7cilHoECPMCNNmK-source.png?v=0.1&s=31e3adf765cc25bd3841728abf5e5858",
+      "source": "Ukrainian USA",
+      "event_category": "concert"
+    },
+    {
+      "id": "aff162b7-f2e4-4a75-9c67-5f81b0447d29",
+      "event_title": "Viktor movie screening at the ReelAbilities Film Festival",
+      "event_date": "2026-04-25",
+      "end_date": "2026-04-27",
+      "location": "New York, NY",
+      "event_description": null,
+      "ticket_link": "https://www.razomforukraine.org/events/viktor-movie-screening-at-the-reelabilities-film-festival/",
+      "cover_image_url": "https://www.razomforukraine.org/wp-content/uploads/2026/04/Facebook-cover-3.png",
+      "source": "Razom For Ukraine",
+      "event_category": "movie"
+    },
+    {
+      "id": "661921ea-443f-4c30-92a2-43f478c475bb",
+      "event_title": "CHICO & QATOSHI | YONKERS",
+      "event_date": "2026-04-26",
+      "end_date": "2026-04-26",
+      "location": "New York",
+      "event_description": null,
+      "ticket_link": "https://ukrainian.us/events/chico-qatoshi-yonkers",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/klKly9UHR30DODFSEv7NDX7rlI2N145G-source.png?v=0.1&s=cb7e924c6abca0eb89697354e30cd890",
+      "source": "Ukrainian USA",
+      "event_category": "concert"
+    },
+    {
+      "id": "b18b2738-fb70-496a-82d6-0427f3aad8a0",
+      "event_title": "NATURE IN DANGER: The Destruction Of Nature In Ukraine During The War",
+      "event_date": "2026-04-26",
+      "end_date": "2026-04-26",
+      "location": "Online eventSunday, April 26 • 5:30 PM - 7:30 PM UTC",
+      "event_description": "Presented by Ukrainian Jersey City and Penn State University",
+      "ticket_link": "https://www.eventbrite.com/e/nature-in-danger-the-destruction-of-nature-in-ukraine-during-the-war-tickets-1852660169439",
+      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1172387313%252F810782514423%252F1%252Foriginal.20251205-144909%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D09be0c67999e6b19fcaa763005ce894d&w=1880&q=75",
+      "source": "Eventbrite",
       "event_category": "other"
     }
   ],
@@ -160,6 +268,18 @@
       "cover_image_url": "https://carnegiehall.imgix.net/-/media/CarnegieHall/Images/Events/2025-2026-Rentals/2026-05-01-Concert-Commemorating-the-40th-Anniversary-of-the-Chornobyl-Catastrophe-1.jpg?fit=crop&crop=faces",
       "source": "Carnegie Hall",
       "event_category": "concert"
+    },
+    {
+      "id": "617b8095-087b-434b-a6c2-c3ee221cae72",
+      "event_title": "Songs & Dances of the Crimean Tatars",
+      "event_date": "2026-05-02",
+      "end_date": "2026-05-02",
+      "location": "Playwrights DowntownNew York, NYSaturday, May 2 • 12 PM - 2 PM",
+      "event_description": "Put on your dancing shoes and join us for an afternoon of song and dance with the New York Crimean Tatar Ensemble!",
+      "ticket_link": "https://www.eventbrite.com/e/songs-dances-of-the-crimean-tatars-tickets-1986915622112",
+      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1181617174%252F502975386231%252F1%252Foriginal.20260407-174858%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.078%26fp-y%3D0.967%26s%3D6d782c18786c4f35e95fbe0f39a967a8&w=1880&q=75",
+      "source": "Eventbrite",
+      "event_category": "performance"
     },
     {
       "id": "7efe00f4-9272-4a1d-bed7-85b102dd4727",
@@ -198,6 +318,18 @@
       "event_category": "other"
     },
     {
+      "id": "e51d622a-e3a5-4c84-94c7-2d7d17fa968e",
+      "event_title": "KOLA - New York",
+      "event_date": "2026-05-10",
+      "end_date": "2026-05-10",
+      "location": "NEW YORK - TBA, New York, NY",
+      "event_description": "Сильна та ніжна, чиї пісні знають та підспівують усі - Українська співачка KOLA - Перший сольний тур Північною Америкою!",
+      "ticket_link": "https://bomond.com/events/kola-new-york",
+      "cover_image_url": "https://api.bomond.com/public/68/3429/171460/432_432.webp",
+      "source": "Bomond",
+      "event_category": "concert"
+    },
+    {
       "id": "5bf97f96-4932-418d-a052-b5ced514c9e1",
       "event_title": "Mother’s Day Brunch",
       "event_date": "2026-05-10",
@@ -208,30 +340,6 @@
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2026/03/Mothers-Day-Pic.png",
       "source": "Soyuzivka",
       "event_category": "other"
-    },
-    {
-      "id": "95254e3d-1c14-4b7c-964d-b7cff42029c6",
-      "event_title": "KOLO",
-      "event_date": "2026-05-10",
-      "end_date": "2026-05-10",
-      "location": "Honey's, New York City",
-      "event_description": "KOLO",
-      "ticket_link": "https://ra.co/events/2416532",
-      "cover_image_url": "https://images.ra.co/0e9ae5adab81578b021ae78e33cc3bbb527f3c53.png",
-      "source": "Resident Advisor (KOLO NYC)",
-      "event_category": "other"
-    },
-    {
-      "id": "bc4014ca-7f8a-461b-bb68-37651c8d872e",
-      "event_title": "Fisch Trio",
-      "event_date": "2026-05-10",
-      "end_date": "2026-05-10",
-      "location": "Forte Piano Recital Hall: 159 Rte 4, Paramus, NJ",
-      "event_description": "Mother’s Day Jazz Join us for a very special celebration on Mother’s day!Beautiful jazz compositions by Duke Ellington and other masters performed by a very talented trio! Dima Fisch – violinYuri Bakhtin – guitarValentin Korniyenko – bass Fisch Trio combines a transparent and aesthetic violin sound",
-      "ticket_link": "https://www.helpinghandsukraine.org/fisch-trio-mothers-day-jazz/",
-      "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2026/03/634329812_10238196600551959_4115646380688254202_n.jpg",
-      "source": "Helping Hands for Ukraine",
-      "event_category": "concert"
     },
     {
       "id": "8507be15-50f4-4657-a4f9-d3b4731a952c",
@@ -246,6 +354,30 @@
       "event_category": "arttalk"
     },
     {
+      "id": "bc4014ca-7f8a-461b-bb68-37651c8d872e",
+      "event_title": "Fisch Trio",
+      "event_date": "2026-05-10",
+      "end_date": "2026-05-10",
+      "location": "Forte Piano Recital Hall: 159 Rte 4, Paramus, NJ",
+      "event_description": "Mother’s Day Jazz Join us for a very special celebration on Mother’s day!Beautiful jazz compositions by Duke Ellington and other masters performed by a very talented trio! Dima Fisch – violinYuri Bakhtin – guitarValentin Korniyenko – bass Fisch Trio combines a transparent and aesthetic violin sound",
+      "ticket_link": "https://www.helpinghandsukraine.org/fisch-trio-mothers-day-jazz/",
+      "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2026/03/634329812_10238196600551959_4115646380688254202_n.jpg",
+      "source": "Helping Hands for Ukraine",
+      "event_category": "concert"
+    },
+    {
+      "id": "95254e3d-1c14-4b7c-964d-b7cff42029c6",
+      "event_title": "KOLO",
+      "event_date": "2026-05-10",
+      "end_date": "2026-05-10",
+      "location": "Honey's, New York City",
+      "event_description": "KOLO",
+      "ticket_link": "https://ra.co/events/2416532",
+      "cover_image_url": "https://images.ra.co/0e9ae5adab81578b021ae78e33cc3bbb527f3c53.png",
+      "source": "Resident Advisor (KOLO NYC)",
+      "event_category": "other"
+    },
+    {
       "id": "cd780c38-7d18-43fe-9e8e-c3d86adbc5ff",
       "event_title": "NEW YORK  DZIDZIO Charitable Concert by Revived Soldiers Ukraine",
       "event_date": "2026-05-10",
@@ -255,18 +387,6 @@
       "ticket_link": "https://www.eventbrite.com/e/new-york-dzidzio-charitable-concert-by-revived-soldiers-ukraine-tickets-1983499401103",
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1177898873%252F86171180225%252F1%252Foriginal.20260219-020128%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Dd785c170d59a9e3618f8dbcb3d15e570&w=1880&q=75",
       "source": "Eventbrite",
-      "event_category": "concert"
-    },
-    {
-      "id": "e51d622a-e3a5-4c84-94c7-2d7d17fa968e",
-      "event_title": "KOLA - New York",
-      "event_date": "2026-05-10",
-      "end_date": "2026-05-10",
-      "location": "NEW YORK - TBA, New York, NY",
-      "event_description": "Сильна та ніжна, чиї пісні знають та підспівують усі - Українська співачка KOLA - Перший сольний тур Північною Америкою!",
-      "ticket_link": "https://bomond.com/events/kola-new-york",
-      "cover_image_url": "https://api.bomond.com/public/68/3429/171460/432_432.webp",
-      "source": "Bomond",
       "event_category": "concert"
     },
     {
@@ -320,30 +440,6 @@
       "event_category": "workshop"
     },
     {
-      "id": "19cad087-c401-4921-ae32-64951ded72fb",
-      "event_title": "INTRODUCTIONS at All Souls",
-      "event_date": "2026-04-12",
-      "end_date": "2026-04-12",
-      "location": "All Souls NYC 1157 Lexington Avenue, New York, NY, 10075",
-      "event_description": null,
-      "ticket_link": "https://www.razomforukraine.org/events/introductions-at-all-souls/",
-      "cover_image_url": "https://www.razomforukraine.org/wp-content/uploads/2026/03/image.webp",
-      "source": "Razom For Ukraine",
-      "event_category": "concert"
-    },
-    {
-      "id": "f8fd81c5-4a24-4d35-a326-8953f7f67d11",
-      "event_title": "VERKA SERDUCHKA & BAND - New York",
-      "event_date": "2026-04-12",
-      "end_date": "2026-04-12",
-      "location": "Kings Theatre, Brooklyn, NY",
-      "event_description": "Get Ready, America!     VERKA SERDUCHKA, the Queen of Your Heart (and Eurovision), Is Coming!     Buckle up your glitter boots, because the one, the only, the absolutely fabulous VERKA SERDUCHKA is heading your way!  She's not just a superstar, she's a cosmic phenomenon!  Seriously, everyone from your grumpy uncle to your neighbor's cat adores VERKA. Her hits? They're not just songs - they're the official anthems of every epic birthday bash, every unforgettable wedding, and every single \"thank goodness it's Friday\" dance party!     You ABSOLUTELY Cannot Miss This!  Ukraine will win!    Королева Євробачення ВЄРКА СЕРДЮЧКА їде до Америки!   ВЄРКУ СЕРДЮЧКУ люблять усі – дорослі й діти, жінки й чоловіки, котики й зайчики! А її хіти давно стали гімнами днів народжень, весіль і просто веселих п'ятниць!  Кожен її концерт — це ковток води в пустелі! Келих холодного ігристого після страшного похмілля! Довгоочікувана відпустка після квартального звіту!  Вона запалює так, що сяйво видно з космосу!  Кожен глядач на кілька годин відчує себе найщасливішою людиною у цьому світі!     Приходь, адже концерт Вєрки Сердючки пропустити неможливо!  Україна переможе!",
-      "ticket_link": "https://us.atgtickets.com/events/verka-serduchka/kings-theatre-brooklyn/",
-      "cover_image_url": "https://api.bomond.com/public/56/2834/141700/serduchka_432x432%20%282%29.webp",
-      "source": "Bomond",
-      "event_category": "concert"
-    },
-    {
       "id": "6e59df9e-dec3-4e62-ac70-a97c628cbf64",
       "event_title": "Book Launch: Mrs. Orwell by Andrea Chalupa in conversation with Nomiki Konst",
       "event_date": "2026-04-13",
@@ -404,6 +500,18 @@
       "event_category": "concert"
     },
     {
+      "id": "2c53d43f-6895-4eaa-82ae-de6410c532e7",
+      "event_title": "YAGÓDY",
+      "event_date": "2026-04-18",
+      "end_date": "2026-04-18",
+      "location": "New York, NY",
+      "event_description": "Experience YAGÓDY live at Drom on April 18—hypnotic Ukrainian folk, ritual vocals, primal percussion, and electrifying stage energy.",
+      "ticket_link": "https://dromnyc.com/event/yagody/",
+      "cover_image_url": "https://dromnyc.com/wp-content/uploads/2026/01/YAG-Bio-2026-scaled-1.jpg",
+      "source": "Drom NYC",
+      "event_category": null
+    },
+    {
       "id": "9ed8b0ae-89d8-470c-9aa0-88617f7ddffe",
       "event_title": "NORA POLINNIA: NEW YORK ROCK N ROLL",
       "event_date": "2026-04-18",
@@ -452,18 +560,6 @@
       "event_category": "other"
     },
     {
-      "id": "1825102d-de26-4c9b-9e06-e9609625ed94",
-      "event_title": "Brooklyn, NY/Премʼєра фільму \"На Драйві \"/“On Drive”",
-      "event_date": "2026-04-23",
-      "end_date": "2026-04-23",
-      "location": "Alpine CinemaBrooklyn, NYThursday, Apr 23 from 7 pm to 9 pm",
-      "event_description": "When the world around freezes - they press the gas. “ON DRIVE” is a film about youth with no brakes.",
-      "ticket_link": "https://www.eventbrite.com/e/brooklyn-ny-on-drive-tickets-1985993901220",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1180716526%252F294391790611%252F1%252Foriginal.20260326-004213%3Fw%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26s%3Ddee521dbf08edd4e9b840130ceabeeb7&w=1880&q=75",
-      "source": "Eventbrite",
-      "event_category": "movie"
-    },
-    {
       "id": "4993da0c-cf25-4401-8fa7-aadc2c4ba105",
       "event_title": "Afternoon Event w/ Yevgenia Nayberg: Chernobyl, Life, and Other Disasters",
       "event_date": "2026-04-23",
@@ -476,16 +572,16 @@
       "event_category": "arttalk"
     },
     {
-      "id": "68cd3991-b64b-461b-9124-d40ac876e911",
-      "event_title": "CHICO & QATOSHI | WHIPPANY",
-      "event_date": "2026-04-24",
-      "end_date": "2026-04-24",
-      "location": "New Jersey",
-      "event_description": null,
-      "ticket_link": "https://ukrainian.us/events/chico-qatoshi-whippany",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/E9vX1XF2MQiJb8_UlgaGmayZ7C9QM7a_-source.png?v=0.1&s=b63eb6c815afb4759c5bf0fe6f6c3cfc",
-      "source": "Ukrainian USA",
-      "event_category": "concert"
+      "id": "1825102d-de26-4c9b-9e06-e9609625ed94",
+      "event_title": "Brooklyn, NY/Премʼєра фільму \"На Драйві \"/“On Drive”",
+      "event_date": "2026-04-23",
+      "end_date": "2026-04-23",
+      "location": "Alpine CinemaBrooklyn, NYThursday, Apr 23 from 7 pm to 9 pm",
+      "event_description": "When the world around freezes - they press the gas. “ON DRIVE” is a film about youth with no brakes.",
+      "ticket_link": "https://www.eventbrite.com/e/brooklyn-ny-on-drive-tickets-1985993901220",
+      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1180716526%252F294391790611%252F1%252Foriginal.20260326-004213%3Fw%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26s%3Ddee521dbf08edd4e9b840130ceabeeb7&w=1880&q=75",
+      "source": "Eventbrite",
+      "event_category": "movie"
     },
     {
       "id": "994d6242-42b6-4fd5-b214-a1e356c01d4d",
@@ -496,6 +592,18 @@
       "event_description": "Live performance by Dima Prokopov in Brooklyn — a Ukrainian music night in the heart of New York.",
       "ticket_link": "https://ukrainian.us/events/prokopov-ny",
       "cover_image_url": "https://ukrainian.us/storage/event/1/HYEvKyLi0mJi92ocbWd3EpyjsHILgBxE-source.png?v=0.1&s=e0b574e217810f6ca7e82c13e06f0c15",
+      "source": "Ukrainian USA",
+      "event_category": "concert"
+    },
+    {
+      "id": "68cd3991-b64b-461b-9124-d40ac876e911",
+      "event_title": "CHICO & QATOSHI | WHIPPANY",
+      "event_date": "2026-04-24",
+      "end_date": "2026-04-24",
+      "location": "New Jersey",
+      "event_description": null,
+      "ticket_link": "https://ukrainian.us/events/chico-qatoshi-whippany",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/E9vX1XF2MQiJb8_UlgaGmayZ7C9QM7a_-source.png?v=0.1&s=b63eb6c815afb4759c5bf0fe6f6c3cfc",
       "source": "Ukrainian USA",
       "event_category": "concert"
     },
@@ -560,6 +668,18 @@
       "event_category": "concert"
     },
     {
+      "id": "617b8095-087b-434b-a6c2-c3ee221cae72",
+      "event_title": "Songs & Dances of the Crimean Tatars",
+      "event_date": "2026-05-02",
+      "end_date": "2026-05-02",
+      "location": "Playwrights DowntownNew York, NYSaturday, May 2 • 12 PM - 2 PM",
+      "event_description": "Put on your dancing shoes and join us for an afternoon of song and dance with the New York Crimean Tatar Ensemble!",
+      "ticket_link": "https://www.eventbrite.com/e/songs-dances-of-the-crimean-tatars-tickets-1986915622112",
+      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1181617174%252F502975386231%252F1%252Foriginal.20260407-174858%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.078%26fp-y%3D0.967%26s%3D6d782c18786c4f35e95fbe0f39a967a8&w=1880&q=75",
+      "source": "Eventbrite",
+      "event_category": "performance"
+    },
+    {
       "id": "7efe00f4-9272-4a1d-bed7-85b102dd4727",
       "event_title": "Женя Галич - New York City",
       "event_date": "2026-05-03",
@@ -596,6 +716,18 @@
       "event_category": "other"
     },
     {
+      "id": "e51d622a-e3a5-4c84-94c7-2d7d17fa968e",
+      "event_title": "KOLA - New York",
+      "event_date": "2026-05-10",
+      "end_date": "2026-05-10",
+      "location": "NEW YORK - TBA, New York, NY",
+      "event_description": "Сильна та ніжна, чиї пісні знають та підспівують усі - Українська співачка KOLA - Перший сольний тур Північною Америкою!",
+      "ticket_link": "https://bomond.com/events/kola-new-york",
+      "cover_image_url": "https://api.bomond.com/public/68/3429/171460/432_432.webp",
+      "source": "Bomond",
+      "event_category": "concert"
+    },
+    {
       "id": "5bf97f96-4932-418d-a052-b5ced514c9e1",
       "event_title": "Mother’s Day Brunch",
       "event_date": "2026-05-10",
@@ -606,30 +738,6 @@
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2026/03/Mothers-Day-Pic.png",
       "source": "Soyuzivka",
       "event_category": "other"
-    },
-    {
-      "id": "95254e3d-1c14-4b7c-964d-b7cff42029c6",
-      "event_title": "KOLO",
-      "event_date": "2026-05-10",
-      "end_date": "2026-05-10",
-      "location": "Honey's, New York City",
-      "event_description": "KOLO",
-      "ticket_link": "https://ra.co/events/2416532",
-      "cover_image_url": "https://images.ra.co/0e9ae5adab81578b021ae78e33cc3bbb527f3c53.png",
-      "source": "Resident Advisor (KOLO NYC)",
-      "event_category": "other"
-    },
-    {
-      "id": "bc4014ca-7f8a-461b-bb68-37651c8d872e",
-      "event_title": "Fisch Trio",
-      "event_date": "2026-05-10",
-      "end_date": "2026-05-10",
-      "location": "Forte Piano Recital Hall: 159 Rte 4, Paramus, NJ",
-      "event_description": "Mother’s Day Jazz Join us for a very special celebration on Mother’s day!Beautiful jazz compositions by Duke Ellington and other masters performed by a very talented trio! Dima Fisch – violinYuri Bakhtin – guitarValentin Korniyenko – bass Fisch Trio combines a transparent and aesthetic violin sound",
-      "ticket_link": "https://www.helpinghandsukraine.org/fisch-trio-mothers-day-jazz/",
-      "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2026/03/634329812_10238196600551959_4115646380688254202_n.jpg",
-      "source": "Helping Hands for Ukraine",
-      "event_category": "concert"
     },
     {
       "id": "8507be15-50f4-4657-a4f9-d3b4731a952c",
@@ -644,6 +752,30 @@
       "event_category": "arttalk"
     },
     {
+      "id": "bc4014ca-7f8a-461b-bb68-37651c8d872e",
+      "event_title": "Fisch Trio",
+      "event_date": "2026-05-10",
+      "end_date": "2026-05-10",
+      "location": "Forte Piano Recital Hall: 159 Rte 4, Paramus, NJ",
+      "event_description": "Mother’s Day Jazz Join us for a very special celebration on Mother’s day!Beautiful jazz compositions by Duke Ellington and other masters performed by a very talented trio! Dima Fisch – violinYuri Bakhtin – guitarValentin Korniyenko – bass Fisch Trio combines a transparent and aesthetic violin sound",
+      "ticket_link": "https://www.helpinghandsukraine.org/fisch-trio-mothers-day-jazz/",
+      "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2026/03/634329812_10238196600551959_4115646380688254202_n.jpg",
+      "source": "Helping Hands for Ukraine",
+      "event_category": "concert"
+    },
+    {
+      "id": "95254e3d-1c14-4b7c-964d-b7cff42029c6",
+      "event_title": "KOLO",
+      "event_date": "2026-05-10",
+      "end_date": "2026-05-10",
+      "location": "Honey's, New York City",
+      "event_description": "KOLO",
+      "ticket_link": "https://ra.co/events/2416532",
+      "cover_image_url": "https://images.ra.co/0e9ae5adab81578b021ae78e33cc3bbb527f3c53.png",
+      "source": "Resident Advisor (KOLO NYC)",
+      "event_category": "other"
+    },
+    {
       "id": "cd780c38-7d18-43fe-9e8e-c3d86adbc5ff",
       "event_title": "NEW YORK  DZIDZIO Charitable Concert by Revived Soldiers Ukraine",
       "event_date": "2026-05-10",
@@ -653,18 +785,6 @@
       "ticket_link": "https://www.eventbrite.com/e/new-york-dzidzio-charitable-concert-by-revived-soldiers-ukraine-tickets-1983499401103",
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1177898873%252F86171180225%252F1%252Foriginal.20260219-020128%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Dd785c170d59a9e3618f8dbcb3d15e570&w=1880&q=75",
       "source": "Eventbrite",
-      "event_category": "concert"
-    },
-    {
-      "id": "e51d622a-e3a5-4c84-94c7-2d7d17fa968e",
-      "event_title": "KOLA - New York",
-      "event_date": "2026-05-10",
-      "end_date": "2026-05-10",
-      "location": "NEW YORK - TBA, New York, NY",
-      "event_description": "Сильна та ніжна, чиї пісні знають та підспівують усі - Українська співачка KOLA - Перший сольний тур Північною Америкою!",
-      "ticket_link": "https://bomond.com/events/kola-new-york",
-      "cover_image_url": "https://api.bomond.com/public/68/3429/171460/432_432.webp",
-      "source": "Bomond",
       "event_category": "concert"
     },
     {
