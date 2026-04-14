@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-14T16:21:26.453699-04:00",
+  "generated_at": "2026-04-14T16:38:35.196821-04:00",
   "this_week": [
     {
       "id": "27af4ed9-fbad-4ea1-a73e-01f8f80bce91",
@@ -42,16 +42,6 @@
       "event_category": "concert"
     },
     {
-      "id": "85b9c35a-b3e3-4d3c-bc10-1cdfc8665447",
-      "event_title": "New York: Valeriia Vovk on Solo Tour - USA",
-      "event_date": "2026-04-17",
-      "end_date": "2026-04-17",
-      "ticket_link": "https://waylight.me/Mriya/event/caaca-30796",
-      "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1772261744_14.png",
-      "source": "Waylight",
-      "event_category": "concert"
-    },
-    {
       "id": "9650300a-7f70-4fdf-9256-4ccd319f0a10",
       "event_title": "Volunteer Weekend",
       "event_date": "2026-04-17",
@@ -62,6 +52,16 @@
       "event_category": "festival"
     },
     {
+      "id": "85b9c35a-b3e3-4d3c-bc10-1cdfc8665447",
+      "event_title": "New York: Valeriia Vovk on Solo Tour - USA",
+      "event_date": "2026-04-17",
+      "end_date": "2026-04-17",
+      "ticket_link": "https://waylight.me/Mriya/event/caaca-30796",
+      "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1772261744_14.png",
+      "source": "Waylight",
+      "event_category": "concert"
+    },
+    {
       "id": "9ed8b0ae-89d8-470c-9aa0-88617f7ddffe",
       "event_title": "NORA POLINNIA: NEW YORK ROCK N ROLL",
       "event_date": "2026-04-18",
@@ -69,6 +69,16 @@
       "ticket_link": "https://bomond.com/events/nora-polinnia-new-york-rock-n-roll",
       "cover_image_url": "https://api.bomond.com/public/78/3935/196790/nora432x432.webp",
       "source": "Bomond",
+      "event_category": "concert"
+    },
+    {
+      "id": "2f7875f6-8ac5-4a1f-8352-49d4eebe3f85",
+      "event_title": "Homin Choir",
+      "event_date": "2026-04-18",
+      "end_date": "2026-04-18",
+      "ticket_link": "https://mticket.com/en/new-york/homin-choir-in-new-york-1602.html",
+      "cover_image_url": "https://usa.mticket.com/uploads/resize/shows/logo/630x891_show_P1clnW1iyAFWX3JcF0GGzhXdpMf_Nr6y.webp",
+      "source": "mticket",
       "event_category": "concert"
     },
     {
@@ -82,16 +92,6 @@
       "event_category": "concert"
     },
     {
-      "id": "ff67cdcd-4795-46d7-868b-ae0b626dc272",
-      "event_title": "PlaygroundPlayful, guided, acting experience for non-actors",
-      "event_date": "2026-04-19",
-      "end_date": "2026-04-19",
-      "ticket_link": "https://actor-school.webflow.io/workshops/playground-april-15-19-copy",
-      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
-      "source": "Tisto NYC",
-      "event_category": null
-    },
-    {
       "id": "2edd6432-bc4e-49db-bf96-d91b0e26782a",
       "event_title": "Woman’s Identity Dinner with OLIA FREIMUT in New York",
       "event_date": "2026-04-19",
@@ -100,6 +100,16 @@
       "cover_image_url": "https://urclife.org/wp-content/uploads/2026/03/%D0%A4%D1%80%D0%B5%D0%B8%CC%86%D0%BC%D1%83%D1%82-NY-19-1080%D1%851080-1.jpg",
       "source": "URC Life",
       "event_category": "other"
+    },
+    {
+      "id": "ff67cdcd-4795-46d7-868b-ae0b626dc272",
+      "event_title": "PlaygroundPlayful, guided, acting experience for non-actors",
+      "event_date": "2026-04-19",
+      "end_date": "2026-04-19",
+      "ticket_link": "https://actor-school.webflow.io/workshops/playground-april-15-19-copy",
+      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
+      "source": "Tisto NYC",
+      "event_category": null
     }
   ],
   "this_month": [
@@ -144,16 +154,6 @@
       "event_category": "concert"
     },
     {
-      "id": "85b9c35a-b3e3-4d3c-bc10-1cdfc8665447",
-      "event_title": "New York: Valeriia Vovk on Solo Tour - USA",
-      "event_date": "2026-04-17",
-      "end_date": "2026-04-17",
-      "ticket_link": "https://waylight.me/Mriya/event/caaca-30796",
-      "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1772261744_14.png",
-      "source": "Waylight",
-      "event_category": "concert"
-    },
-    {
       "id": "9650300a-7f70-4fdf-9256-4ccd319f0a10",
       "event_title": "Volunteer Weekend",
       "event_date": "2026-04-17",
@@ -164,6 +164,16 @@
       "event_category": "festival"
     },
     {
+      "id": "85b9c35a-b3e3-4d3c-bc10-1cdfc8665447",
+      "event_title": "New York: Valeriia Vovk on Solo Tour - USA",
+      "event_date": "2026-04-17",
+      "end_date": "2026-04-17",
+      "ticket_link": "https://waylight.me/Mriya/event/caaca-30796",
+      "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1772261744_14.png",
+      "source": "Waylight",
+      "event_category": "concert"
+    },
+    {
       "id": "9ed8b0ae-89d8-470c-9aa0-88617f7ddffe",
       "event_title": "NORA POLINNIA: NEW YORK ROCK N ROLL",
       "event_date": "2026-04-18",
@@ -171,6 +181,16 @@
       "ticket_link": "https://bomond.com/events/nora-polinnia-new-york-rock-n-roll",
       "cover_image_url": "https://api.bomond.com/public/78/3935/196790/nora432x432.webp",
       "source": "Bomond",
+      "event_category": "concert"
+    },
+    {
+      "id": "2f7875f6-8ac5-4a1f-8352-49d4eebe3f85",
+      "event_title": "Homin Choir",
+      "event_date": "2026-04-18",
+      "end_date": "2026-04-18",
+      "ticket_link": "https://mticket.com/en/new-york/homin-choir-in-new-york-1602.html",
+      "cover_image_url": "https://usa.mticket.com/uploads/resize/shows/logo/630x891_show_P1clnW1iyAFWX3JcF0GGzhXdpMf_Nr6y.webp",
+      "source": "mticket",
       "event_category": "concert"
     },
     {
@@ -184,16 +204,6 @@
       "event_category": "concert"
     },
     {
-      "id": "ff67cdcd-4795-46d7-868b-ae0b626dc272",
-      "event_title": "PlaygroundPlayful, guided, acting experience for non-actors",
-      "event_date": "2026-04-19",
-      "end_date": "2026-04-19",
-      "ticket_link": "https://actor-school.webflow.io/workshops/playground-april-15-19-copy",
-      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
-      "source": "Tisto NYC",
-      "event_category": null
-    },
-    {
       "id": "2edd6432-bc4e-49db-bf96-d91b0e26782a",
       "event_title": "Woman’s Identity Dinner with OLIA FREIMUT in New York",
       "event_date": "2026-04-19",
@@ -202,6 +212,16 @@
       "cover_image_url": "https://urclife.org/wp-content/uploads/2026/03/%D0%A4%D1%80%D0%B5%D0%B8%CC%86%D0%BC%D1%83%D1%82-NY-19-1080%D1%851080-1.jpg",
       "source": "URC Life",
       "event_category": "other"
+    },
+    {
+      "id": "ff67cdcd-4795-46d7-868b-ae0b626dc272",
+      "event_title": "PlaygroundPlayful, guided, acting experience for non-actors",
+      "event_date": "2026-04-19",
+      "end_date": "2026-04-19",
+      "ticket_link": "https://actor-school.webflow.io/workshops/playground-april-15-19-copy",
+      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
+      "source": "Tisto NYC",
+      "event_category": null
     },
     {
       "id": "01dfd4c5-437d-498e-9fc7-25be510b3e61",
@@ -224,16 +244,6 @@
       "event_category": "other"
     },
     {
-      "id": "1825102d-de26-4c9b-9e06-e9609625ed94",
-      "event_title": "Brooklyn, NY/Премʼєра фільму \"На Драйві \"/“On Drive”",
-      "event_date": "2026-04-23",
-      "end_date": "2026-04-23",
-      "ticket_link": "https://www.eventbrite.com/e/brooklyn-ny-on-drive-tickets-1985993901220",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1180716526%252F294391790611%252F1%252Foriginal.20260326-004213%3Fw%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26s%3Ddee521dbf08edd4e9b840130ceabeeb7&w=1880&q=75",
-      "source": "Eventbrite",
-      "event_category": "movie"
-    },
-    {
       "id": "4993da0c-cf25-4401-8fa7-aadc2c4ba105",
       "event_title": "Afternoon Event w/ Yevgenia Nayberg: Chernobyl, Life, and Other Disasters",
       "event_date": "2026-04-23",
@@ -242,6 +252,16 @@
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1179629620%252F213734307976%252F1%252Foriginal.20260311-202827%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D1.0%26fp-y%3D0.483%26s%3D6bccfae807e05f8d6e6aac337b6951f5&w=1880&q=75",
       "source": "Eventbrite",
       "event_category": "arttalk"
+    },
+    {
+      "id": "1825102d-de26-4c9b-9e06-e9609625ed94",
+      "event_title": "Brooklyn, NY/Премʼєра фільму \"На Драйві \"/“On Drive”",
+      "event_date": "2026-04-23",
+      "end_date": "2026-04-23",
+      "ticket_link": "https://www.eventbrite.com/e/brooklyn-ny-on-drive-tickets-1985993901220",
+      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1180716526%252F294391790611%252F1%252Foriginal.20260326-004213%3Fw%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26s%3Ddee521dbf08edd4e9b840130ceabeeb7&w=1880&q=75",
+      "source": "Eventbrite",
+      "event_category": "movie"
     },
     {
       "id": "68cd3991-b64b-461b-9124-d40ac876e911",
@@ -274,16 +294,6 @@
       "event_category": "concert"
     },
     {
-      "id": "ddba5286-6b18-4305-adad-02bc81c00e9e",
-      "event_title": "Chornobyl as a Gateway to the Uncanny: Representing the Disaster First World Documentaries",
-      "event_date": "2026-04-25",
-      "end_date": "2026-04-25",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/chornobyl-as-a-gateway-to-the-uncanny-representing-the-disaster-first-world-documentaries",
-      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1772638510/organizations/4/2/a/f/42af6bbe-f5f0-4411-9e3d-d306365878ee/c84b61ad-77a4-4277-a00d-959008acf8af.jpg",
-      "source": "UNWLA Branch 65",
-      "event_category": "other"
-    },
-    {
       "id": "aff162b7-f2e4-4a75-9c67-5f81b0447d29",
       "event_title": "Viktor movie screening at the ReelAbilities Film Festival",
       "event_date": "2026-04-25",
@@ -294,14 +304,14 @@
       "event_category": "movie"
     },
     {
-      "id": "661921ea-443f-4c30-92a2-43f478c475bb",
-      "event_title": "CHICO & QATOSHI | YONKERS",
-      "event_date": "2026-04-26",
-      "end_date": "2026-04-26",
-      "ticket_link": "https://ukrainian.us/events/chico-qatoshi-yonkers",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/klKly9UHR30DODFSEv7NDX7rlI2N145G-source.png?v=0.1&s=cb7e924c6abca0eb89697354e30cd890",
-      "source": "Ukrainian USA",
-      "event_category": "concert"
+      "id": "ddba5286-6b18-4305-adad-02bc81c00e9e",
+      "event_title": "Chornobyl as a Gateway to the Uncanny: Representing the Disaster First World Documentaries",
+      "event_date": "2026-04-25",
+      "end_date": "2026-04-25",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/chornobyl-as-a-gateway-to-the-uncanny-representing-the-disaster-first-world-documentaries",
+      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1772638510/organizations/4/2/a/f/42af6bbe-f5f0-4411-9e3d-d306365878ee/c84b61ad-77a4-4277-a00d-959008acf8af.jpg",
+      "source": "UNWLA Branch 65",
+      "event_category": "other"
     },
     {
       "id": "b18b2738-fb70-496a-82d6-0427f3aad8a0",
@@ -312,6 +322,16 @@
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1172387313%252F810782514423%252F1%252Foriginal.20251205-144909%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D09be0c67999e6b19fcaa763005ce894d&w=1880&q=75",
       "source": "Eventbrite",
       "event_category": "other"
+    },
+    {
+      "id": "661921ea-443f-4c30-92a2-43f478c475bb",
+      "event_title": "CHICO & QATOSHI | YONKERS",
+      "event_date": "2026-04-26",
+      "end_date": "2026-04-26",
+      "ticket_link": "https://ukrainian.us/events/chico-qatoshi-yonkers",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/klKly9UHR30DODFSEv7NDX7rlI2N145G-source.png?v=0.1&s=cb7e924c6abca0eb89697354e30cd890",
+      "source": "Ukrainian USA",
+      "event_category": "concert"
     }
   ],
   "next_month": [
@@ -376,36 +396,6 @@
       "event_category": "other"
     },
     {
-      "id": "e51d622a-e3a5-4c84-94c7-2d7d17fa968e",
-      "event_title": "KOLA - New York",
-      "event_date": "2026-05-10",
-      "end_date": "2026-05-10",
-      "ticket_link": "https://bomond.com/events/kola-new-york",
-      "cover_image_url": "https://api.bomond.com/public/68/3429/171460/432_432.webp",
-      "source": "Bomond",
-      "event_category": "concert"
-    },
-    {
-      "id": "cd780c38-7d18-43fe-9e8e-c3d86adbc5ff",
-      "event_title": "NEW YORK  DZIDZIO Charitable Concert by Revived Soldiers Ukraine",
-      "event_date": "2026-05-10",
-      "end_date": "2026-05-10",
-      "ticket_link": "https://www.eventbrite.com/e/new-york-dzidzio-charitable-concert-by-revived-soldiers-ukraine-tickets-1983499401103",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1177898873%252F86171180225%252F1%252Foriginal.20260219-020128%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Dd785c170d59a9e3618f8dbcb3d15e570&w=1880&q=75",
-      "source": "Eventbrite",
-      "event_category": "concert"
-    },
-    {
-      "id": "95254e3d-1c14-4b7c-964d-b7cff42029c6",
-      "event_title": "KOLO",
-      "event_date": "2026-05-10",
-      "end_date": "2026-05-10",
-      "ticket_link": "https://ra.co/events/2416532",
-      "cover_image_url": "https://images.ra.co/0e9ae5adab81578b021ae78e33cc3bbb527f3c53.png",
-      "source": "Resident Advisor (KOLO NYC)",
-      "event_category": "concert"
-    },
-    {
       "id": "bc4014ca-7f8a-461b-bb68-37651c8d872e",
       "event_title": "Fisch Trio",
       "event_date": "2026-05-10",
@@ -426,6 +416,16 @@
       "event_category": "other"
     },
     {
+      "id": "e51d622a-e3a5-4c84-94c7-2d7d17fa968e",
+      "event_title": "KOLA - New York",
+      "event_date": "2026-05-10",
+      "end_date": "2026-05-10",
+      "ticket_link": "https://bomond.com/events/kola-new-york",
+      "cover_image_url": "https://api.bomond.com/public/68/3429/171460/432_432.webp",
+      "source": "Bomond",
+      "event_category": "concert"
+    },
+    {
       "id": "8507be15-50f4-4657-a4f9-d3b4731a952c",
       "event_title": "Voice of the Ukrainian Diaspora",
       "event_date": "2026-05-10",
@@ -434,6 +434,26 @@
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1180787456%252F2996288818158%252F1%252Foriginal.20260326-200013%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D878929400151e51f65767e2b14f999ee&w=1880&q=75",
       "source": "Eventbrite",
       "event_category": "arttalk"
+    },
+    {
+      "id": "cd780c38-7d18-43fe-9e8e-c3d86adbc5ff",
+      "event_title": "NEW YORK  DZIDZIO Charitable Concert by Revived Soldiers Ukraine",
+      "event_date": "2026-05-10",
+      "end_date": "2026-05-10",
+      "ticket_link": "https://www.eventbrite.com/e/new-york-dzidzio-charitable-concert-by-revived-soldiers-ukraine-tickets-1983499401103",
+      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1177898873%252F86171180225%252F1%252Foriginal.20260219-020128%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Dd785c170d59a9e3618f8dbcb3d15e570&w=1880&q=75",
+      "source": "Eventbrite",
+      "event_category": "concert"
+    },
+    {
+      "id": "95254e3d-1c14-4b7c-964d-b7cff42029c6",
+      "event_title": "KOLO",
+      "event_date": "2026-05-10",
+      "end_date": "2026-05-10",
+      "ticket_link": "https://ra.co/events/2416532",
+      "cover_image_url": "https://images.ra.co/0e9ae5adab81578b021ae78e33cc3bbb527f3c53.png",
+      "source": "Resident Advisor (KOLO NYC)",
+      "event_category": "concert"
     },
     {
       "id": "a435b1ca-81fd-423b-9878-69da4069e76c",
@@ -508,16 +528,6 @@
       "event_category": "concert"
     },
     {
-      "id": "85b9c35a-b3e3-4d3c-bc10-1cdfc8665447",
-      "event_title": "New York: Valeriia Vovk on Solo Tour - USA",
-      "event_date": "2026-04-17",
-      "end_date": "2026-04-17",
-      "ticket_link": "https://waylight.me/Mriya/event/caaca-30796",
-      "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1772261744_14.png",
-      "source": "Waylight",
-      "event_category": "concert"
-    },
-    {
       "id": "9650300a-7f70-4fdf-9256-4ccd319f0a10",
       "event_title": "Volunteer Weekend",
       "event_date": "2026-04-17",
@@ -528,6 +538,16 @@
       "event_category": "festival"
     },
     {
+      "id": "85b9c35a-b3e3-4d3c-bc10-1cdfc8665447",
+      "event_title": "New York: Valeriia Vovk on Solo Tour - USA",
+      "event_date": "2026-04-17",
+      "end_date": "2026-04-17",
+      "ticket_link": "https://waylight.me/Mriya/event/caaca-30796",
+      "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1772261744_14.png",
+      "source": "Waylight",
+      "event_category": "concert"
+    },
+    {
       "id": "9ed8b0ae-89d8-470c-9aa0-88617f7ddffe",
       "event_title": "NORA POLINNIA: NEW YORK ROCK N ROLL",
       "event_date": "2026-04-18",
@@ -535,6 +555,16 @@
       "ticket_link": "https://bomond.com/events/nora-polinnia-new-york-rock-n-roll",
       "cover_image_url": "https://api.bomond.com/public/78/3935/196790/nora432x432.webp",
       "source": "Bomond",
+      "event_category": "concert"
+    },
+    {
+      "id": "2f7875f6-8ac5-4a1f-8352-49d4eebe3f85",
+      "event_title": "Homin Choir",
+      "event_date": "2026-04-18",
+      "end_date": "2026-04-18",
+      "ticket_link": "https://mticket.com/en/new-york/homin-choir-in-new-york-1602.html",
+      "cover_image_url": "https://usa.mticket.com/uploads/resize/shows/logo/630x891_show_P1clnW1iyAFWX3JcF0GGzhXdpMf_Nr6y.webp",
+      "source": "mticket",
       "event_category": "concert"
     },
     {
@@ -548,16 +578,6 @@
       "event_category": "concert"
     },
     {
-      "id": "ff67cdcd-4795-46d7-868b-ae0b626dc272",
-      "event_title": "PlaygroundPlayful, guided, acting experience for non-actors",
-      "event_date": "2026-04-19",
-      "end_date": "2026-04-19",
-      "ticket_link": "https://actor-school.webflow.io/workshops/playground-april-15-19-copy",
-      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
-      "source": "Tisto NYC",
-      "event_category": null
-    },
-    {
       "id": "2edd6432-bc4e-49db-bf96-d91b0e26782a",
       "event_title": "Woman’s Identity Dinner with OLIA FREIMUT in New York",
       "event_date": "2026-04-19",
@@ -566,6 +586,16 @@
       "cover_image_url": "https://urclife.org/wp-content/uploads/2026/03/%D0%A4%D1%80%D0%B5%D0%B8%CC%86%D0%BC%D1%83%D1%82-NY-19-1080%D1%851080-1.jpg",
       "source": "URC Life",
       "event_category": "other"
+    },
+    {
+      "id": "ff67cdcd-4795-46d7-868b-ae0b626dc272",
+      "event_title": "PlaygroundPlayful, guided, acting experience for non-actors",
+      "event_date": "2026-04-19",
+      "end_date": "2026-04-19",
+      "ticket_link": "https://actor-school.webflow.io/workshops/playground-april-15-19-copy",
+      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
+      "source": "Tisto NYC",
+      "event_category": null
     },
     {
       "id": "01dfd4c5-437d-498e-9fc7-25be510b3e61",
@@ -588,16 +618,6 @@
       "event_category": "other"
     },
     {
-      "id": "1825102d-de26-4c9b-9e06-e9609625ed94",
-      "event_title": "Brooklyn, NY/Премʼєра фільму \"На Драйві \"/“On Drive”",
-      "event_date": "2026-04-23",
-      "end_date": "2026-04-23",
-      "ticket_link": "https://www.eventbrite.com/e/brooklyn-ny-on-drive-tickets-1985993901220",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1180716526%252F294391790611%252F1%252Foriginal.20260326-004213%3Fw%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26s%3Ddee521dbf08edd4e9b840130ceabeeb7&w=1880&q=75",
-      "source": "Eventbrite",
-      "event_category": "movie"
-    },
-    {
       "id": "4993da0c-cf25-4401-8fa7-aadc2c4ba105",
       "event_title": "Afternoon Event w/ Yevgenia Nayberg: Chernobyl, Life, and Other Disasters",
       "event_date": "2026-04-23",
@@ -606,6 +626,16 @@
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1179629620%252F213734307976%252F1%252Foriginal.20260311-202827%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D1.0%26fp-y%3D0.483%26s%3D6bccfae807e05f8d6e6aac337b6951f5&w=1880&q=75",
       "source": "Eventbrite",
       "event_category": "arttalk"
+    },
+    {
+      "id": "1825102d-de26-4c9b-9e06-e9609625ed94",
+      "event_title": "Brooklyn, NY/Премʼєра фільму \"На Драйві \"/“On Drive”",
+      "event_date": "2026-04-23",
+      "end_date": "2026-04-23",
+      "ticket_link": "https://www.eventbrite.com/e/brooklyn-ny-on-drive-tickets-1985993901220",
+      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1180716526%252F294391790611%252F1%252Foriginal.20260326-004213%3Fw%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26s%3Ddee521dbf08edd4e9b840130ceabeeb7&w=1880&q=75",
+      "source": "Eventbrite",
+      "event_category": "movie"
     },
     {
       "id": "68cd3991-b64b-461b-9124-d40ac876e911",
@@ -638,16 +668,6 @@
       "event_category": "concert"
     },
     {
-      "id": "ddba5286-6b18-4305-adad-02bc81c00e9e",
-      "event_title": "Chornobyl as a Gateway to the Uncanny: Representing the Disaster First World Documentaries",
-      "event_date": "2026-04-25",
-      "end_date": "2026-04-25",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/chornobyl-as-a-gateway-to-the-uncanny-representing-the-disaster-first-world-documentaries",
-      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1772638510/organizations/4/2/a/f/42af6bbe-f5f0-4411-9e3d-d306365878ee/c84b61ad-77a4-4277-a00d-959008acf8af.jpg",
-      "source": "UNWLA Branch 65",
-      "event_category": "other"
-    },
-    {
       "id": "aff162b7-f2e4-4a75-9c67-5f81b0447d29",
       "event_title": "Viktor movie screening at the ReelAbilities Film Festival",
       "event_date": "2026-04-25",
@@ -658,14 +678,14 @@
       "event_category": "movie"
     },
     {
-      "id": "661921ea-443f-4c30-92a2-43f478c475bb",
-      "event_title": "CHICO & QATOSHI | YONKERS",
-      "event_date": "2026-04-26",
-      "end_date": "2026-04-26",
-      "ticket_link": "https://ukrainian.us/events/chico-qatoshi-yonkers",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/klKly9UHR30DODFSEv7NDX7rlI2N145G-source.png?v=0.1&s=cb7e924c6abca0eb89697354e30cd890",
-      "source": "Ukrainian USA",
-      "event_category": "concert"
+      "id": "ddba5286-6b18-4305-adad-02bc81c00e9e",
+      "event_title": "Chornobyl as a Gateway to the Uncanny: Representing the Disaster First World Documentaries",
+      "event_date": "2026-04-25",
+      "end_date": "2026-04-25",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/chornobyl-as-a-gateway-to-the-uncanny-representing-the-disaster-first-world-documentaries",
+      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1772638510/organizations/4/2/a/f/42af6bbe-f5f0-4411-9e3d-d306365878ee/c84b61ad-77a4-4277-a00d-959008acf8af.jpg",
+      "source": "UNWLA Branch 65",
+      "event_category": "other"
     },
     {
       "id": "b18b2738-fb70-496a-82d6-0427f3aad8a0",
@@ -676,6 +696,16 @@
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1172387313%252F810782514423%252F1%252Foriginal.20251205-144909%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D09be0c67999e6b19fcaa763005ce894d&w=1880&q=75",
       "source": "Eventbrite",
       "event_category": "other"
+    },
+    {
+      "id": "661921ea-443f-4c30-92a2-43f478c475bb",
+      "event_title": "CHICO & QATOSHI | YONKERS",
+      "event_date": "2026-04-26",
+      "end_date": "2026-04-26",
+      "ticket_link": "https://ukrainian.us/events/chico-qatoshi-yonkers",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/klKly9UHR30DODFSEv7NDX7rlI2N145G-source.png?v=0.1&s=cb7e924c6abca0eb89697354e30cd890",
+      "source": "Ukrainian USA",
+      "event_category": "concert"
     },
     {
       "id": "646d4535-c286-481b-b656-fa7d2a6760d0",
@@ -728,36 +758,6 @@
       "event_category": "other"
     },
     {
-      "id": "e51d622a-e3a5-4c84-94c7-2d7d17fa968e",
-      "event_title": "KOLA - New York",
-      "event_date": "2026-05-10",
-      "end_date": "2026-05-10",
-      "ticket_link": "https://bomond.com/events/kola-new-york",
-      "cover_image_url": "https://api.bomond.com/public/68/3429/171460/432_432.webp",
-      "source": "Bomond",
-      "event_category": "concert"
-    },
-    {
-      "id": "cd780c38-7d18-43fe-9e8e-c3d86adbc5ff",
-      "event_title": "NEW YORK  DZIDZIO Charitable Concert by Revived Soldiers Ukraine",
-      "event_date": "2026-05-10",
-      "end_date": "2026-05-10",
-      "ticket_link": "https://www.eventbrite.com/e/new-york-dzidzio-charitable-concert-by-revived-soldiers-ukraine-tickets-1983499401103",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1177898873%252F86171180225%252F1%252Foriginal.20260219-020128%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Dd785c170d59a9e3618f8dbcb3d15e570&w=1880&q=75",
-      "source": "Eventbrite",
-      "event_category": "concert"
-    },
-    {
-      "id": "95254e3d-1c14-4b7c-964d-b7cff42029c6",
-      "event_title": "KOLO",
-      "event_date": "2026-05-10",
-      "end_date": "2026-05-10",
-      "ticket_link": "https://ra.co/events/2416532",
-      "cover_image_url": "https://images.ra.co/0e9ae5adab81578b021ae78e33cc3bbb527f3c53.png",
-      "source": "Resident Advisor (KOLO NYC)",
-      "event_category": "concert"
-    },
-    {
       "id": "bc4014ca-7f8a-461b-bb68-37651c8d872e",
       "event_title": "Fisch Trio",
       "event_date": "2026-05-10",
@@ -778,6 +778,16 @@
       "event_category": "other"
     },
     {
+      "id": "e51d622a-e3a5-4c84-94c7-2d7d17fa968e",
+      "event_title": "KOLA - New York",
+      "event_date": "2026-05-10",
+      "end_date": "2026-05-10",
+      "ticket_link": "https://bomond.com/events/kola-new-york",
+      "cover_image_url": "https://api.bomond.com/public/68/3429/171460/432_432.webp",
+      "source": "Bomond",
+      "event_category": "concert"
+    },
+    {
       "id": "8507be15-50f4-4657-a4f9-d3b4731a952c",
       "event_title": "Voice of the Ukrainian Diaspora",
       "event_date": "2026-05-10",
@@ -786,6 +796,26 @@
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1180787456%252F2996288818158%252F1%252Foriginal.20260326-200013%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D878929400151e51f65767e2b14f999ee&w=1880&q=75",
       "source": "Eventbrite",
       "event_category": "arttalk"
+    },
+    {
+      "id": "cd780c38-7d18-43fe-9e8e-c3d86adbc5ff",
+      "event_title": "NEW YORK  DZIDZIO Charitable Concert by Revived Soldiers Ukraine",
+      "event_date": "2026-05-10",
+      "end_date": "2026-05-10",
+      "ticket_link": "https://www.eventbrite.com/e/new-york-dzidzio-charitable-concert-by-revived-soldiers-ukraine-tickets-1983499401103",
+      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1177898873%252F86171180225%252F1%252Foriginal.20260219-020128%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Dd785c170d59a9e3618f8dbcb3d15e570&w=1880&q=75",
+      "source": "Eventbrite",
+      "event_category": "concert"
+    },
+    {
+      "id": "95254e3d-1c14-4b7c-964d-b7cff42029c6",
+      "event_title": "KOLO",
+      "event_date": "2026-05-10",
+      "end_date": "2026-05-10",
+      "ticket_link": "https://ra.co/events/2416532",
+      "cover_image_url": "https://images.ra.co/0e9ae5adab81578b021ae78e33cc3bbb527f3c53.png",
+      "source": "Resident Advisor (KOLO NYC)",
+      "event_category": "concert"
     },
     {
       "id": "a435b1ca-81fd-423b-9878-69da4069e76c",
@@ -858,16 +888,6 @@
       "event_category": "other"
     },
     {
-      "id": "c87b6b2f-4c3d-4236-9d50-b187ad5101df",
-      "event_title": "Vasyl Baidak - New York City",
-      "event_date": "2026-07-03",
-      "end_date": "2026-07-03",
-      "ticket_link": "https://waylight.me/ucrazy/event/16319-cd91c",
-      "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1773094064_-1200630.jpg",
-      "source": "Waylight",
-      "event_category": "standup"
-    },
-    {
       "id": "d0ff2077-0c30-46dd-a7da-132667e16d37",
       "event_title": "July 4th Celebration",
       "event_date": "2026-07-03",
@@ -876,6 +896,16 @@
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/July4th.png",
       "source": "Soyuzivka",
       "event_category": "festival"
+    },
+    {
+      "id": "c87b6b2f-4c3d-4236-9d50-b187ad5101df",
+      "event_title": "Vasyl Baidak - New York City",
+      "event_date": "2026-07-03",
+      "end_date": "2026-07-03",
+      "ticket_link": "https://waylight.me/ucrazy/event/16319-cd91c",
+      "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1773094064_-1200630.jpg",
+      "source": "Waylight",
+      "event_category": "standup"
     },
     {
       "id": "20660505-fb61-4af0-906a-1b427d985910",
