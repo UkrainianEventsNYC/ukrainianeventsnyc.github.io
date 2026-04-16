@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-15T05:23:14.447636-04:00",
+  "generated_at": "2026-04-16T05:24:29.659820-04:00",
   "this_week": [
     {
       "id": "27af4ed9-fbad-4ea1-a73e-01f8f80bce91",
@@ -12,14 +12,14 @@
       "event_category": "workshop"
     },
     {
-      "id": "9398eae7-92eb-4050-bdfb-3e0469bff970",
-      "event_title": "PlaygroundPlayful, guided, acting experience for non-actors",
-      "event_date": "2026-04-15",
-      "end_date": "2026-04-15",
-      "ticket_link": "https://actor-school.webflow.io/workshops/playground-april-15-19",
-      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
-      "source": "Tisto NYC",
-      "event_category": null
+      "id": "18d5beca-62be-4194-9c6d-f4cced5f4429",
+      "event_title": "Ukrainian Museum Members Appreciation Night",
+      "event_date": "2026-04-16",
+      "end_date": "2026-04-16",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/members-appreciation-night",
+      "cover_image_url": "https://www.theukrainianmuseum.org/wp-content/uploads/MembershipNight2.png",
+      "source": "Ukrainian Museum",
+      "event_category": "other"
     },
     {
       "id": "ccfc88ca-cf20-4b81-84c9-2dd1b771f58b",
@@ -30,16 +30,6 @@
       "cover_image_url": "https://partiful.imgix.net/external/user/VU2JRlMjxShnFKbLqUUVhUUAlGz2/EipQG4xOFTiP3V8xZTfMa?w=1000&h=1250&fit=clip",
       "source": "J'relo Community",
       "event_category": "concert"
-    },
-    {
-      "id": "18d5beca-62be-4194-9c6d-f4cced5f4429",
-      "event_title": "Ukrainian Museum Members Appreciation Night",
-      "event_date": "2026-04-16",
-      "end_date": "2026-04-16",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/members-appreciation-night",
-      "cover_image_url": "https://www.theukrainianmuseum.org/wp-content/uploads/MembershipNight2.png",
-      "source": "Ukrainian Museum",
-      "event_category": "other"
     },
     {
       "id": "85b9c35a-b3e3-4d3c-bc10-1cdfc8665447",
@@ -62,16 +52,6 @@
       "event_category": "festival"
     },
     {
-      "id": "2c53d43f-6895-4eaa-82ae-de6410c532e7",
-      "event_title": "YAGÓDY",
-      "event_date": "2026-04-18",
-      "end_date": "2026-04-18",
-      "ticket_link": "https://dromnyc.com/event/yagody/",
-      "cover_image_url": "https://dromnyc.com/wp-content/uploads/2026/01/YAG-Bio-2026-scaled-1.jpg",
-      "source": "Drom NYC",
-      "event_category": "concert"
-    },
-    {
       "id": "9ed8b0ae-89d8-470c-9aa0-88617f7ddffe",
       "event_title": "NORA POLINNIA: NEW YORK ROCK N ROLL",
       "event_date": "2026-04-18",
@@ -92,14 +72,14 @@
       "event_category": "concert"
     },
     {
-      "id": "ff67cdcd-4795-46d7-868b-ae0b626dc272",
-      "event_title": "PlaygroundPlayful, guided, acting experience for non-actors",
-      "event_date": "2026-04-19",
-      "end_date": "2026-04-19",
-      "ticket_link": "https://actor-school.webflow.io/workshops/playground-april-15-19-copy",
-      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
-      "source": "Tisto NYC",
-      "event_category": null
+      "id": "2c53d43f-6895-4eaa-82ae-de6410c532e7",
+      "event_title": "YAGÓDY",
+      "event_date": "2026-04-18",
+      "end_date": "2026-04-18",
+      "ticket_link": "https://dromnyc.com/event/yagody/",
+      "cover_image_url": "https://dromnyc.com/wp-content/uploads/2026/01/YAG-Bio-2026-scaled-1.jpg",
+      "source": "Drom NYC",
+      "event_category": "concert"
     },
     {
       "id": "2edd6432-bc4e-49db-bf96-d91b0e26782a",
@@ -110,6 +90,16 @@
       "cover_image_url": "https://urclife.org/wp-content/uploads/2026/03/%D0%A4%D1%80%D0%B5%D0%B8%CC%86%D0%BC%D1%83%D1%82-NY-19-1080%D1%851080-1.jpg",
       "source": "URC Life",
       "event_category": "other"
+    },
+    {
+      "id": "ff67cdcd-4795-46d7-868b-ae0b626dc272",
+      "event_title": "PlaygroundPlayful, guided, acting experience for non-actors",
+      "event_date": "2026-04-19",
+      "end_date": "2026-04-19",
+      "ticket_link": "https://actor-school.webflow.io/workshops/playground-april-15-19-copy",
+      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
+      "source": "Tisto NYC",
+      "event_category": null
     }
   ],
   "this_month": [
@@ -124,14 +114,14 @@
       "event_category": "workshop"
     },
     {
-      "id": "9398eae7-92eb-4050-bdfb-3e0469bff970",
-      "event_title": "PlaygroundPlayful, guided, acting experience for non-actors",
-      "event_date": "2026-04-15",
-      "end_date": "2026-04-15",
-      "ticket_link": "https://actor-school.webflow.io/workshops/playground-april-15-19",
-      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
-      "source": "Tisto NYC",
-      "event_category": null
+      "id": "18d5beca-62be-4194-9c6d-f4cced5f4429",
+      "event_title": "Ukrainian Museum Members Appreciation Night",
+      "event_date": "2026-04-16",
+      "end_date": "2026-04-16",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/members-appreciation-night",
+      "cover_image_url": "https://www.theukrainianmuseum.org/wp-content/uploads/MembershipNight2.png",
+      "source": "Ukrainian Museum",
+      "event_category": "other"
     },
     {
       "id": "ccfc88ca-cf20-4b81-84c9-2dd1b771f58b",
@@ -142,16 +132,6 @@
       "cover_image_url": "https://partiful.imgix.net/external/user/VU2JRlMjxShnFKbLqUUVhUUAlGz2/EipQG4xOFTiP3V8xZTfMa?w=1000&h=1250&fit=clip",
       "source": "J'relo Community",
       "event_category": "concert"
-    },
-    {
-      "id": "18d5beca-62be-4194-9c6d-f4cced5f4429",
-      "event_title": "Ukrainian Museum Members Appreciation Night",
-      "event_date": "2026-04-16",
-      "end_date": "2026-04-16",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/members-appreciation-night",
-      "cover_image_url": "https://www.theukrainianmuseum.org/wp-content/uploads/MembershipNight2.png",
-      "source": "Ukrainian Museum",
-      "event_category": "other"
     },
     {
       "id": "85b9c35a-b3e3-4d3c-bc10-1cdfc8665447",
@@ -174,16 +154,6 @@
       "event_category": "festival"
     },
     {
-      "id": "2c53d43f-6895-4eaa-82ae-de6410c532e7",
-      "event_title": "YAGÓDY",
-      "event_date": "2026-04-18",
-      "end_date": "2026-04-18",
-      "ticket_link": "https://dromnyc.com/event/yagody/",
-      "cover_image_url": "https://dromnyc.com/wp-content/uploads/2026/01/YAG-Bio-2026-scaled-1.jpg",
-      "source": "Drom NYC",
-      "event_category": "concert"
-    },
-    {
       "id": "9ed8b0ae-89d8-470c-9aa0-88617f7ddffe",
       "event_title": "NORA POLINNIA: NEW YORK ROCK N ROLL",
       "event_date": "2026-04-18",
@@ -204,14 +174,14 @@
       "event_category": "concert"
     },
     {
-      "id": "ff67cdcd-4795-46d7-868b-ae0b626dc272",
-      "event_title": "PlaygroundPlayful, guided, acting experience for non-actors",
-      "event_date": "2026-04-19",
-      "end_date": "2026-04-19",
-      "ticket_link": "https://actor-school.webflow.io/workshops/playground-april-15-19-copy",
-      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
-      "source": "Tisto NYC",
-      "event_category": null
+      "id": "2c53d43f-6895-4eaa-82ae-de6410c532e7",
+      "event_title": "YAGÓDY",
+      "event_date": "2026-04-18",
+      "end_date": "2026-04-18",
+      "ticket_link": "https://dromnyc.com/event/yagody/",
+      "cover_image_url": "https://dromnyc.com/wp-content/uploads/2026/01/YAG-Bio-2026-scaled-1.jpg",
+      "source": "Drom NYC",
+      "event_category": "concert"
     },
     {
       "id": "2edd6432-bc4e-49db-bf96-d91b0e26782a",
@@ -222,6 +192,16 @@
       "cover_image_url": "https://urclife.org/wp-content/uploads/2026/03/%D0%A4%D1%80%D0%B5%D0%B8%CC%86%D0%BC%D1%83%D1%82-NY-19-1080%D1%851080-1.jpg",
       "source": "URC Life",
       "event_category": "other"
+    },
+    {
+      "id": "ff67cdcd-4795-46d7-868b-ae0b626dc272",
+      "event_title": "PlaygroundPlayful, guided, acting experience for non-actors",
+      "event_date": "2026-04-19",
+      "end_date": "2026-04-19",
+      "ticket_link": "https://actor-school.webflow.io/workshops/playground-april-15-19-copy",
+      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
+      "source": "Tisto NYC",
+      "event_category": null
     },
     {
       "id": "01dfd4c5-437d-498e-9fc7-25be510b3e61",
@@ -264,22 +244,22 @@
       "event_category": "movie"
     },
     {
-      "id": "994d6242-42b6-4fd5-b214-a1e356c01d4d",
-      "event_title": "Dima Prokopov Live in New York",
-      "event_date": "2026-04-24",
-      "end_date": "2026-04-24",
-      "ticket_link": "https://ukrainian.us/events/prokopov-ny",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/HYEvKyLi0mJi92ocbWd3EpyjsHILgBxE-source.png?v=0.1&s=e0b574e217810f6ca7e82c13e06f0c15",
-      "source": "Ukrainian USA",
-      "event_category": "concert"
-    },
-    {
       "id": "68cd3991-b64b-461b-9124-d40ac876e911",
       "event_title": "CHICO & QATOSHI | WHIPPANY",
       "event_date": "2026-04-24",
       "end_date": "2026-04-24",
       "ticket_link": "https://ukrainian.us/events/chico-qatoshi-whippany",
       "cover_image_url": "https://ukrainian.us/storage/event/1/E9vX1XF2MQiJb8_UlgaGmayZ7C9QM7a_-source.png?v=0.1&s=b63eb6c815afb4759c5bf0fe6f6c3cfc",
+      "source": "Ukrainian USA",
+      "event_category": "concert"
+    },
+    {
+      "id": "994d6242-42b6-4fd5-b214-a1e356c01d4d",
+      "event_title": "Dima Prokopov Live in New York",
+      "event_date": "2026-04-24",
+      "end_date": "2026-04-24",
+      "ticket_link": "https://ukrainian.us/events/prokopov-ny",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/HYEvKyLi0mJi92ocbWd3EpyjsHILgBxE-source.png?v=0.1&s=e0b574e217810f6ca7e82c13e06f0c15",
       "source": "Ukrainian USA",
       "event_category": "concert"
     },
@@ -508,14 +488,14 @@
       "event_category": "workshop"
     },
     {
-      "id": "9398eae7-92eb-4050-bdfb-3e0469bff970",
-      "event_title": "PlaygroundPlayful, guided, acting experience for non-actors",
-      "event_date": "2026-04-15",
-      "end_date": "2026-04-15",
-      "ticket_link": "https://actor-school.webflow.io/workshops/playground-april-15-19",
-      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
-      "source": "Tisto NYC",
-      "event_category": null
+      "id": "18d5beca-62be-4194-9c6d-f4cced5f4429",
+      "event_title": "Ukrainian Museum Members Appreciation Night",
+      "event_date": "2026-04-16",
+      "end_date": "2026-04-16",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/members-appreciation-night",
+      "cover_image_url": "https://www.theukrainianmuseum.org/wp-content/uploads/MembershipNight2.png",
+      "source": "Ukrainian Museum",
+      "event_category": "other"
     },
     {
       "id": "ccfc88ca-cf20-4b81-84c9-2dd1b771f58b",
@@ -526,16 +506,6 @@
       "cover_image_url": "https://partiful.imgix.net/external/user/VU2JRlMjxShnFKbLqUUVhUUAlGz2/EipQG4xOFTiP3V8xZTfMa?w=1000&h=1250&fit=clip",
       "source": "J'relo Community",
       "event_category": "concert"
-    },
-    {
-      "id": "18d5beca-62be-4194-9c6d-f4cced5f4429",
-      "event_title": "Ukrainian Museum Members Appreciation Night",
-      "event_date": "2026-04-16",
-      "end_date": "2026-04-16",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/members-appreciation-night",
-      "cover_image_url": "https://www.theukrainianmuseum.org/wp-content/uploads/MembershipNight2.png",
-      "source": "Ukrainian Museum",
-      "event_category": "other"
     },
     {
       "id": "85b9c35a-b3e3-4d3c-bc10-1cdfc8665447",
@@ -558,16 +528,6 @@
       "event_category": "festival"
     },
     {
-      "id": "2c53d43f-6895-4eaa-82ae-de6410c532e7",
-      "event_title": "YAGÓDY",
-      "event_date": "2026-04-18",
-      "end_date": "2026-04-18",
-      "ticket_link": "https://dromnyc.com/event/yagody/",
-      "cover_image_url": "https://dromnyc.com/wp-content/uploads/2026/01/YAG-Bio-2026-scaled-1.jpg",
-      "source": "Drom NYC",
-      "event_category": "concert"
-    },
-    {
       "id": "9ed8b0ae-89d8-470c-9aa0-88617f7ddffe",
       "event_title": "NORA POLINNIA: NEW YORK ROCK N ROLL",
       "event_date": "2026-04-18",
@@ -588,14 +548,14 @@
       "event_category": "concert"
     },
     {
-      "id": "ff67cdcd-4795-46d7-868b-ae0b626dc272",
-      "event_title": "PlaygroundPlayful, guided, acting experience for non-actors",
-      "event_date": "2026-04-19",
-      "end_date": "2026-04-19",
-      "ticket_link": "https://actor-school.webflow.io/workshops/playground-april-15-19-copy",
-      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
-      "source": "Tisto NYC",
-      "event_category": null
+      "id": "2c53d43f-6895-4eaa-82ae-de6410c532e7",
+      "event_title": "YAGÓDY",
+      "event_date": "2026-04-18",
+      "end_date": "2026-04-18",
+      "ticket_link": "https://dromnyc.com/event/yagody/",
+      "cover_image_url": "https://dromnyc.com/wp-content/uploads/2026/01/YAG-Bio-2026-scaled-1.jpg",
+      "source": "Drom NYC",
+      "event_category": "concert"
     },
     {
       "id": "2edd6432-bc4e-49db-bf96-d91b0e26782a",
@@ -606,6 +566,16 @@
       "cover_image_url": "https://urclife.org/wp-content/uploads/2026/03/%D0%A4%D1%80%D0%B5%D0%B8%CC%86%D0%BC%D1%83%D1%82-NY-19-1080%D1%851080-1.jpg",
       "source": "URC Life",
       "event_category": "other"
+    },
+    {
+      "id": "ff67cdcd-4795-46d7-868b-ae0b626dc272",
+      "event_title": "PlaygroundPlayful, guided, acting experience for non-actors",
+      "event_date": "2026-04-19",
+      "end_date": "2026-04-19",
+      "ticket_link": "https://actor-school.webflow.io/workshops/playground-april-15-19-copy",
+      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
+      "source": "Tisto NYC",
+      "event_category": null
     },
     {
       "id": "01dfd4c5-437d-498e-9fc7-25be510b3e61",
@@ -648,22 +618,22 @@
       "event_category": "movie"
     },
     {
-      "id": "994d6242-42b6-4fd5-b214-a1e356c01d4d",
-      "event_title": "Dima Prokopov Live in New York",
-      "event_date": "2026-04-24",
-      "end_date": "2026-04-24",
-      "ticket_link": "https://ukrainian.us/events/prokopov-ny",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/HYEvKyLi0mJi92ocbWd3EpyjsHILgBxE-source.png?v=0.1&s=e0b574e217810f6ca7e82c13e06f0c15",
-      "source": "Ukrainian USA",
-      "event_category": "concert"
-    },
-    {
       "id": "68cd3991-b64b-461b-9124-d40ac876e911",
       "event_title": "CHICO & QATOSHI | WHIPPANY",
       "event_date": "2026-04-24",
       "end_date": "2026-04-24",
       "ticket_link": "https://ukrainian.us/events/chico-qatoshi-whippany",
       "cover_image_url": "https://ukrainian.us/storage/event/1/E9vX1XF2MQiJb8_UlgaGmayZ7C9QM7a_-source.png?v=0.1&s=b63eb6c815afb4759c5bf0fe6f6c3cfc",
+      "source": "Ukrainian USA",
+      "event_category": "concert"
+    },
+    {
+      "id": "994d6242-42b6-4fd5-b214-a1e356c01d4d",
+      "event_title": "Dima Prokopov Live in New York",
+      "event_date": "2026-04-24",
+      "end_date": "2026-04-24",
+      "ticket_link": "https://ukrainian.us/events/prokopov-ny",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/HYEvKyLi0mJi92ocbWd3EpyjsHILgBxE-source.png?v=0.1&s=e0b574e217810f6ca7e82c13e06f0c15",
       "source": "Ukrainian USA",
       "event_category": "concert"
     },
