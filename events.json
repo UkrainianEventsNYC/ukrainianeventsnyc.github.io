@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-16T17:27:25.997311-04:00",
+  "generated_at": "2026-04-17T03:35:46.529801-04:00",
   "this_week": [
     {
       "id": "27af4ed9-fbad-4ea1-a73e-01f8f80bce91",
@@ -12,24 +12,14 @@
       "event_category": "workshop"
     },
     {
-      "id": "18d5beca-62be-4194-9c6d-f4cced5f4429",
-      "event_title": "Ukrainian Museum Members Appreciation Night",
-      "event_date": "2026-04-16",
-      "end_date": "2026-04-16",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/members-appreciation-night",
-      "cover_image_url": "https://www.theukrainianmuseum.org/wp-content/uploads/MembershipNight2.png",
-      "source": "Ukrainian Museum",
+      "id": "a3845a4f-ac34-4222-afcd-9e11ec4f346c",
+      "event_title": "Boundless: Min Xiao-Fen and Julian Kytasty · Lincoln Center",
+      "event_date": "2026-04-17",
+      "end_date": "2026-04-17",
+      "ticket_link": "https://lincolncenter.org/series/lincoln-center-presents/boundless-min-xiao-fen-and-julian-kytasty",
+      "cover_image_url": "https://images.lincolncenter.org/image/upload/v1768512273/exwhm6mrh8pj2clne3wd.jpg",
+      "source": "Lincoln Center",
       "event_category": "other"
-    },
-    {
-      "id": "ccfc88ca-cf20-4b81-84c9-2dd1b771f58b",
-      "event_title": "RSVP to Singing KOLO | Partiful",
-      "event_date": "2026-04-16",
-      "end_date": "2026-04-16",
-      "ticket_link": "https://partiful.com/e/IHH5PfXvytKSXlSHZoyO",
-      "cover_image_url": "https://partiful.imgix.net/external/user/VU2JRlMjxShnFKbLqUUVhUUAlGz2/EipQG4xOFTiP3V8xZTfMa?w=1000&h=1250&fit=clip",
-      "source": "J'relo Community",
-      "event_category": "concert"
     },
     {
       "id": "85b9c35a-b3e3-4d3c-bc10-1cdfc8665447",
@@ -52,6 +42,16 @@
       "event_category": "festival"
     },
     {
+      "id": "2c53d43f-6895-4eaa-82ae-de6410c532e7",
+      "event_title": "YAGÓDY",
+      "event_date": "2026-04-18",
+      "end_date": "2026-04-18",
+      "ticket_link": "https://dromnyc.com/event/yagody/",
+      "cover_image_url": "https://dromnyc.com/wp-content/uploads/2026/01/YAG-Bio-2026-scaled-1.jpg",
+      "source": "Drom NYC",
+      "event_category": "concert"
+    },
+    {
       "id": "9ed8b0ae-89d8-470c-9aa0-88617f7ddffe",
       "event_title": "NORA POLINNIA: NEW YORK ROCK N ROLL",
       "event_date": "2026-04-18",
@@ -72,14 +72,14 @@
       "event_category": "concert"
     },
     {
-      "id": "2c53d43f-6895-4eaa-82ae-de6410c532e7",
-      "event_title": "YAGÓDY",
-      "event_date": "2026-04-18",
-      "end_date": "2026-04-18",
-      "ticket_link": "https://dromnyc.com/event/yagody/",
-      "cover_image_url": "https://dromnyc.com/wp-content/uploads/2026/01/YAG-Bio-2026-scaled-1.jpg",
-      "source": "Drom NYC",
-      "event_category": "concert"
+      "id": "ff67cdcd-4795-46d7-868b-ae0b626dc272",
+      "event_title": "PlaygroundPlayful, guided, acting experience for non-actors",
+      "event_date": "2026-04-19",
+      "end_date": "2026-04-19",
+      "ticket_link": "https://actor-school.webflow.io/workshops/playground-april-15-19-copy",
+      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
+      "source": "Tisto NYC",
+      "event_category": null
     },
     {
       "id": "2edd6432-bc4e-49db-bf96-d91b0e26782a",
@@ -90,16 +90,6 @@
       "cover_image_url": "https://urclife.org/wp-content/uploads/2026/03/%D0%A4%D1%80%D0%B5%D0%B8%CC%86%D0%BC%D1%83%D1%82-NY-19-1080%D1%851080-1.jpg",
       "source": "URC Life",
       "event_category": "other"
-    },
-    {
-      "id": "ff67cdcd-4795-46d7-868b-ae0b626dc272",
-      "event_title": "PlaygroundPlayful, guided, acting experience for non-actors",
-      "event_date": "2026-04-19",
-      "end_date": "2026-04-19",
-      "ticket_link": "https://actor-school.webflow.io/workshops/playground-april-15-19-copy",
-      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
-      "source": "Tisto NYC",
-      "event_category": null
     }
   ],
   "this_month": [
@@ -114,24 +104,14 @@
       "event_category": "workshop"
     },
     {
-      "id": "18d5beca-62be-4194-9c6d-f4cced5f4429",
-      "event_title": "Ukrainian Museum Members Appreciation Night",
-      "event_date": "2026-04-16",
-      "end_date": "2026-04-16",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/members-appreciation-night",
-      "cover_image_url": "https://www.theukrainianmuseum.org/wp-content/uploads/MembershipNight2.png",
-      "source": "Ukrainian Museum",
+      "id": "a3845a4f-ac34-4222-afcd-9e11ec4f346c",
+      "event_title": "Boundless: Min Xiao-Fen and Julian Kytasty · Lincoln Center",
+      "event_date": "2026-04-17",
+      "end_date": "2026-04-17",
+      "ticket_link": "https://lincolncenter.org/series/lincoln-center-presents/boundless-min-xiao-fen-and-julian-kytasty",
+      "cover_image_url": "https://images.lincolncenter.org/image/upload/v1768512273/exwhm6mrh8pj2clne3wd.jpg",
+      "source": "Lincoln Center",
       "event_category": "other"
-    },
-    {
-      "id": "ccfc88ca-cf20-4b81-84c9-2dd1b771f58b",
-      "event_title": "RSVP to Singing KOLO | Partiful",
-      "event_date": "2026-04-16",
-      "end_date": "2026-04-16",
-      "ticket_link": "https://partiful.com/e/IHH5PfXvytKSXlSHZoyO",
-      "cover_image_url": "https://partiful.imgix.net/external/user/VU2JRlMjxShnFKbLqUUVhUUAlGz2/EipQG4xOFTiP3V8xZTfMa?w=1000&h=1250&fit=clip",
-      "source": "J'relo Community",
-      "event_category": "concert"
     },
     {
       "id": "85b9c35a-b3e3-4d3c-bc10-1cdfc8665447",
@@ -154,6 +134,16 @@
       "event_category": "festival"
     },
     {
+      "id": "2c53d43f-6895-4eaa-82ae-de6410c532e7",
+      "event_title": "YAGÓDY",
+      "event_date": "2026-04-18",
+      "end_date": "2026-04-18",
+      "ticket_link": "https://dromnyc.com/event/yagody/",
+      "cover_image_url": "https://dromnyc.com/wp-content/uploads/2026/01/YAG-Bio-2026-scaled-1.jpg",
+      "source": "Drom NYC",
+      "event_category": "concert"
+    },
+    {
       "id": "9ed8b0ae-89d8-470c-9aa0-88617f7ddffe",
       "event_title": "NORA POLINNIA: NEW YORK ROCK N ROLL",
       "event_date": "2026-04-18",
@@ -174,14 +164,14 @@
       "event_category": "concert"
     },
     {
-      "id": "2c53d43f-6895-4eaa-82ae-de6410c532e7",
-      "event_title": "YAGÓDY",
-      "event_date": "2026-04-18",
-      "end_date": "2026-04-18",
-      "ticket_link": "https://dromnyc.com/event/yagody/",
-      "cover_image_url": "https://dromnyc.com/wp-content/uploads/2026/01/YAG-Bio-2026-scaled-1.jpg",
-      "source": "Drom NYC",
-      "event_category": "concert"
+      "id": "ff67cdcd-4795-46d7-868b-ae0b626dc272",
+      "event_title": "PlaygroundPlayful, guided, acting experience for non-actors",
+      "event_date": "2026-04-19",
+      "end_date": "2026-04-19",
+      "ticket_link": "https://actor-school.webflow.io/workshops/playground-april-15-19-copy",
+      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
+      "source": "Tisto NYC",
+      "event_category": null
     },
     {
       "id": "2edd6432-bc4e-49db-bf96-d91b0e26782a",
@@ -192,16 +182,6 @@
       "cover_image_url": "https://urclife.org/wp-content/uploads/2026/03/%D0%A4%D1%80%D0%B5%D0%B8%CC%86%D0%BC%D1%83%D1%82-NY-19-1080%D1%851080-1.jpg",
       "source": "URC Life",
       "event_category": "other"
-    },
-    {
-      "id": "ff67cdcd-4795-46d7-868b-ae0b626dc272",
-      "event_title": "PlaygroundPlayful, guided, acting experience for non-actors",
-      "event_date": "2026-04-19",
-      "end_date": "2026-04-19",
-      "ticket_link": "https://actor-school.webflow.io/workshops/playground-april-15-19-copy",
-      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
-      "source": "Tisto NYC",
-      "event_category": null
     },
     {
       "id": "01dfd4c5-437d-498e-9fc7-25be510b3e61",
@@ -244,22 +224,22 @@
       "event_category": "movie"
     },
     {
-      "id": "68cd3991-b64b-461b-9124-d40ac876e911",
-      "event_title": "CHICO & QATOSHI | WHIPPANY",
-      "event_date": "2026-04-24",
-      "end_date": "2026-04-24",
-      "ticket_link": "https://ukrainian.us/events/chico-qatoshi-whippany",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/E9vX1XF2MQiJb8_UlgaGmayZ7C9QM7a_-source.png?v=0.1&s=b63eb6c815afb4759c5bf0fe6f6c3cfc",
-      "source": "Ukrainian USA",
-      "event_category": "concert"
-    },
-    {
       "id": "994d6242-42b6-4fd5-b214-a1e356c01d4d",
       "event_title": "Dima Prokopov Live in New York",
       "event_date": "2026-04-24",
       "end_date": "2026-04-24",
       "ticket_link": "https://ukrainian.us/events/prokopov-ny",
       "cover_image_url": "https://ukrainian.us/storage/event/1/HYEvKyLi0mJi92ocbWd3EpyjsHILgBxE-source.png?v=0.1&s=e0b574e217810f6ca7e82c13e06f0c15",
+      "source": "Ukrainian USA",
+      "event_category": "concert"
+    },
+    {
+      "id": "68cd3991-b64b-461b-9124-d40ac876e911",
+      "event_title": "CHICO & QATOSHI | WHIPPANY",
+      "event_date": "2026-04-24",
+      "end_date": "2026-04-24",
+      "ticket_link": "https://ukrainian.us/events/chico-qatoshi-whippany",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/E9vX1XF2MQiJb8_UlgaGmayZ7C9QM7a_-source.png?v=0.1&s=b63eb6c815afb4759c5bf0fe6f6c3cfc",
       "source": "Ukrainian USA",
       "event_category": "concert"
     },
@@ -284,16 +264,6 @@
       "event_category": "concert"
     },
     {
-      "id": "8de4cd45-95d6-4075-9ba4-48685c8c1634",
-      "event_title": "CHICO & QATOSHI | NEW YORK",
-      "event_date": "2026-04-25",
-      "end_date": "2026-04-25",
-      "ticket_link": "https://ukrainian.us/events/chico-qatoshi-new-york",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/3t_lasiJh4H6In3rh7cilHoECPMCNNmK-source.png?v=0.1&s=31e3adf765cc25bd3841728abf5e5858",
-      "source": "Ukrainian USA",
-      "event_category": "concert"
-    },
-    {
       "id": "aff162b7-f2e4-4a75-9c67-5f81b0447d29",
       "event_title": "Viktor movie screening at the ReelAbilities Film Festival",
       "event_date": "2026-04-25",
@@ -304,6 +274,16 @@
       "event_category": "movie"
     },
     {
+      "id": "8de4cd45-95d6-4075-9ba4-48685c8c1634",
+      "event_title": "CHICO & QATOSHI | NEW YORK",
+      "event_date": "2026-04-25",
+      "end_date": "2026-04-25",
+      "ticket_link": "https://ukrainian.us/events/chico-qatoshi-new-york",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/3t_lasiJh4H6In3rh7cilHoECPMCNNmK-source.png?v=0.1&s=31e3adf765cc25bd3841728abf5e5858",
+      "source": "Ukrainian USA",
+      "event_category": "concert"
+    },
+    {
       "id": "b18b2738-fb70-496a-82d6-0427f3aad8a0",
       "event_title": "NATURE IN DANGER: The Destruction Of Nature In Ukraine During The War",
       "event_date": "2026-04-26",
@@ -312,6 +292,16 @@
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1172387313%252F810782514423%252F1%252Foriginal.20251205-144909%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D09be0c67999e6b19fcaa763005ce894d&w=1880&q=75",
       "source": "Eventbrite",
       "event_category": "other"
+    },
+    {
+      "id": "114a2a8a-3ea4-4b27-bf46-e58dc02f7bae",
+      "event_title": "NEW YORK - Modern Roots Runway Show",
+      "event_date": "2026-04-26",
+      "end_date": "2026-04-26",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/fashion-show-new-york",
+      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1770343626/organizations/3/3/0/f/330ffbd2-9b80-4ab5-841e-8177134512f4/537c72cf-11a1-43d7-8825-28af7e0bea3a.png",
+      "source": "UNWLA Branch 65",
+      "event_category": "performance"
     },
     {
       "id": "661921ea-443f-4c30-92a2-43f478c475bb",
@@ -386,13 +376,13 @@
       "event_category": "other"
     },
     {
-      "id": "bc4014ca-7f8a-461b-bb68-37651c8d872e",
-      "event_title": "Fisch Trio",
+      "id": "e51d622a-e3a5-4c84-94c7-2d7d17fa968e",
+      "event_title": "KOLA - New York",
       "event_date": "2026-05-10",
       "end_date": "2026-05-10",
-      "ticket_link": "https://www.helpinghandsukraine.org/fisch-trio-mothers-day-jazz/",
-      "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2026/03/634329812_10238196600551959_4115646380688254202_n.jpg",
-      "source": "Helping Hands for Ukraine",
+      "ticket_link": "https://bomond.com/events/kola-new-york",
+      "cover_image_url": "https://api.bomond.com/public/68/3429/171460/432_432.webp",
+      "source": "Bomond",
       "event_category": "concert"
     },
     {
@@ -406,13 +396,13 @@
       "event_category": "other"
     },
     {
-      "id": "e51d622a-e3a5-4c84-94c7-2d7d17fa968e",
-      "event_title": "KOLA - New York",
+      "id": "bc4014ca-7f8a-461b-bb68-37651c8d872e",
+      "event_title": "Fisch Trio",
       "event_date": "2026-05-10",
       "end_date": "2026-05-10",
-      "ticket_link": "https://bomond.com/events/kola-new-york",
-      "cover_image_url": "https://api.bomond.com/public/68/3429/171460/432_432.webp",
-      "source": "Bomond",
+      "ticket_link": "https://www.helpinghandsukraine.org/fisch-trio-mothers-day-jazz/",
+      "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2026/03/634329812_10238196600551959_4115646380688254202_n.jpg",
+      "source": "Helping Hands for Ukraine",
       "event_category": "concert"
     },
     {
@@ -456,6 +446,16 @@
       "event_category": "concert"
     },
     {
+      "id": "cef8eb80-919f-4b4b-83aa-4b6799231dc9",
+      "event_title": "Iryna Bilyk — Concert in New York",
+      "event_date": "2026-05-17",
+      "end_date": "2026-05-17",
+      "ticket_link": "https://eventcartel.com/events/concert/iryna-bilyk-new-york-NY-sky-wise-tickets-14209",
+      "cover_image_url": null,
+      "source": "EventCartel",
+      "event_category": "concert"
+    },
+    {
       "id": "e8731b8f-6cf8-4519-b60d-143788d55a77",
       "event_title": "Grown-Up Girl - New York",
       "event_date": "2026-05-21",
@@ -488,24 +488,14 @@
       "event_category": "workshop"
     },
     {
-      "id": "18d5beca-62be-4194-9c6d-f4cced5f4429",
-      "event_title": "Ukrainian Museum Members Appreciation Night",
-      "event_date": "2026-04-16",
-      "end_date": "2026-04-16",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/members-appreciation-night",
-      "cover_image_url": "https://www.theukrainianmuseum.org/wp-content/uploads/MembershipNight2.png",
-      "source": "Ukrainian Museum",
+      "id": "a3845a4f-ac34-4222-afcd-9e11ec4f346c",
+      "event_title": "Boundless: Min Xiao-Fen and Julian Kytasty · Lincoln Center",
+      "event_date": "2026-04-17",
+      "end_date": "2026-04-17",
+      "ticket_link": "https://lincolncenter.org/series/lincoln-center-presents/boundless-min-xiao-fen-and-julian-kytasty",
+      "cover_image_url": "https://images.lincolncenter.org/image/upload/v1768512273/exwhm6mrh8pj2clne3wd.jpg",
+      "source": "Lincoln Center",
       "event_category": "other"
-    },
-    {
-      "id": "ccfc88ca-cf20-4b81-84c9-2dd1b771f58b",
-      "event_title": "RSVP to Singing KOLO | Partiful",
-      "event_date": "2026-04-16",
-      "end_date": "2026-04-16",
-      "ticket_link": "https://partiful.com/e/IHH5PfXvytKSXlSHZoyO",
-      "cover_image_url": "https://partiful.imgix.net/external/user/VU2JRlMjxShnFKbLqUUVhUUAlGz2/EipQG4xOFTiP3V8xZTfMa?w=1000&h=1250&fit=clip",
-      "source": "J'relo Community",
-      "event_category": "concert"
     },
     {
       "id": "85b9c35a-b3e3-4d3c-bc10-1cdfc8665447",
@@ -528,6 +518,16 @@
       "event_category": "festival"
     },
     {
+      "id": "2c53d43f-6895-4eaa-82ae-de6410c532e7",
+      "event_title": "YAGÓDY",
+      "event_date": "2026-04-18",
+      "end_date": "2026-04-18",
+      "ticket_link": "https://dromnyc.com/event/yagody/",
+      "cover_image_url": "https://dromnyc.com/wp-content/uploads/2026/01/YAG-Bio-2026-scaled-1.jpg",
+      "source": "Drom NYC",
+      "event_category": "concert"
+    },
+    {
       "id": "9ed8b0ae-89d8-470c-9aa0-88617f7ddffe",
       "event_title": "NORA POLINNIA: NEW YORK ROCK N ROLL",
       "event_date": "2026-04-18",
@@ -548,14 +548,14 @@
       "event_category": "concert"
     },
     {
-      "id": "2c53d43f-6895-4eaa-82ae-de6410c532e7",
-      "event_title": "YAGÓDY",
-      "event_date": "2026-04-18",
-      "end_date": "2026-04-18",
-      "ticket_link": "https://dromnyc.com/event/yagody/",
-      "cover_image_url": "https://dromnyc.com/wp-content/uploads/2026/01/YAG-Bio-2026-scaled-1.jpg",
-      "source": "Drom NYC",
-      "event_category": "concert"
+      "id": "ff67cdcd-4795-46d7-868b-ae0b626dc272",
+      "event_title": "PlaygroundPlayful, guided, acting experience for non-actors",
+      "event_date": "2026-04-19",
+      "end_date": "2026-04-19",
+      "ticket_link": "https://actor-school.webflow.io/workshops/playground-april-15-19-copy",
+      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
+      "source": "Tisto NYC",
+      "event_category": null
     },
     {
       "id": "2edd6432-bc4e-49db-bf96-d91b0e26782a",
@@ -566,16 +566,6 @@
       "cover_image_url": "https://urclife.org/wp-content/uploads/2026/03/%D0%A4%D1%80%D0%B5%D0%B8%CC%86%D0%BC%D1%83%D1%82-NY-19-1080%D1%851080-1.jpg",
       "source": "URC Life",
       "event_category": "other"
-    },
-    {
-      "id": "ff67cdcd-4795-46d7-868b-ae0b626dc272",
-      "event_title": "PlaygroundPlayful, guided, acting experience for non-actors",
-      "event_date": "2026-04-19",
-      "end_date": "2026-04-19",
-      "ticket_link": "https://actor-school.webflow.io/workshops/playground-april-15-19-copy",
-      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
-      "source": "Tisto NYC",
-      "event_category": null
     },
     {
       "id": "01dfd4c5-437d-498e-9fc7-25be510b3e61",
@@ -618,22 +608,22 @@
       "event_category": "movie"
     },
     {
-      "id": "68cd3991-b64b-461b-9124-d40ac876e911",
-      "event_title": "CHICO & QATOSHI | WHIPPANY",
-      "event_date": "2026-04-24",
-      "end_date": "2026-04-24",
-      "ticket_link": "https://ukrainian.us/events/chico-qatoshi-whippany",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/E9vX1XF2MQiJb8_UlgaGmayZ7C9QM7a_-source.png?v=0.1&s=b63eb6c815afb4759c5bf0fe6f6c3cfc",
-      "source": "Ukrainian USA",
-      "event_category": "concert"
-    },
-    {
       "id": "994d6242-42b6-4fd5-b214-a1e356c01d4d",
       "event_title": "Dima Prokopov Live in New York",
       "event_date": "2026-04-24",
       "end_date": "2026-04-24",
       "ticket_link": "https://ukrainian.us/events/prokopov-ny",
       "cover_image_url": "https://ukrainian.us/storage/event/1/HYEvKyLi0mJi92ocbWd3EpyjsHILgBxE-source.png?v=0.1&s=e0b574e217810f6ca7e82c13e06f0c15",
+      "source": "Ukrainian USA",
+      "event_category": "concert"
+    },
+    {
+      "id": "68cd3991-b64b-461b-9124-d40ac876e911",
+      "event_title": "CHICO & QATOSHI | WHIPPANY",
+      "event_date": "2026-04-24",
+      "end_date": "2026-04-24",
+      "ticket_link": "https://ukrainian.us/events/chico-qatoshi-whippany",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/E9vX1XF2MQiJb8_UlgaGmayZ7C9QM7a_-source.png?v=0.1&s=b63eb6c815afb4759c5bf0fe6f6c3cfc",
       "source": "Ukrainian USA",
       "event_category": "concert"
     },
@@ -658,16 +648,6 @@
       "event_category": "concert"
     },
     {
-      "id": "8de4cd45-95d6-4075-9ba4-48685c8c1634",
-      "event_title": "CHICO & QATOSHI | NEW YORK",
-      "event_date": "2026-04-25",
-      "end_date": "2026-04-25",
-      "ticket_link": "https://ukrainian.us/events/chico-qatoshi-new-york",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/3t_lasiJh4H6In3rh7cilHoECPMCNNmK-source.png?v=0.1&s=31e3adf765cc25bd3841728abf5e5858",
-      "source": "Ukrainian USA",
-      "event_category": "concert"
-    },
-    {
       "id": "aff162b7-f2e4-4a75-9c67-5f81b0447d29",
       "event_title": "Viktor movie screening at the ReelAbilities Film Festival",
       "event_date": "2026-04-25",
@@ -678,6 +658,16 @@
       "event_category": "movie"
     },
     {
+      "id": "8de4cd45-95d6-4075-9ba4-48685c8c1634",
+      "event_title": "CHICO & QATOSHI | NEW YORK",
+      "event_date": "2026-04-25",
+      "end_date": "2026-04-25",
+      "ticket_link": "https://ukrainian.us/events/chico-qatoshi-new-york",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/3t_lasiJh4H6In3rh7cilHoECPMCNNmK-source.png?v=0.1&s=31e3adf765cc25bd3841728abf5e5858",
+      "source": "Ukrainian USA",
+      "event_category": "concert"
+    },
+    {
       "id": "b18b2738-fb70-496a-82d6-0427f3aad8a0",
       "event_title": "NATURE IN DANGER: The Destruction Of Nature In Ukraine During The War",
       "event_date": "2026-04-26",
@@ -686,6 +676,16 @@
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1172387313%252F810782514423%252F1%252Foriginal.20251205-144909%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D09be0c67999e6b19fcaa763005ce894d&w=1880&q=75",
       "source": "Eventbrite",
       "event_category": "other"
+    },
+    {
+      "id": "114a2a8a-3ea4-4b27-bf46-e58dc02f7bae",
+      "event_title": "NEW YORK - Modern Roots Runway Show",
+      "event_date": "2026-04-26",
+      "end_date": "2026-04-26",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/fashion-show-new-york",
+      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1770343626/organizations/3/3/0/f/330ffbd2-9b80-4ab5-841e-8177134512f4/537c72cf-11a1-43d7-8825-28af7e0bea3a.png",
+      "source": "UNWLA Branch 65",
+      "event_category": "performance"
     },
     {
       "id": "661921ea-443f-4c30-92a2-43f478c475bb",
@@ -748,13 +748,13 @@
       "event_category": "other"
     },
     {
-      "id": "bc4014ca-7f8a-461b-bb68-37651c8d872e",
-      "event_title": "Fisch Trio",
+      "id": "e51d622a-e3a5-4c84-94c7-2d7d17fa968e",
+      "event_title": "KOLA - New York",
       "event_date": "2026-05-10",
       "end_date": "2026-05-10",
-      "ticket_link": "https://www.helpinghandsukraine.org/fisch-trio-mothers-day-jazz/",
-      "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2026/03/634329812_10238196600551959_4115646380688254202_n.jpg",
-      "source": "Helping Hands for Ukraine",
+      "ticket_link": "https://bomond.com/events/kola-new-york",
+      "cover_image_url": "https://api.bomond.com/public/68/3429/171460/432_432.webp",
+      "source": "Bomond",
       "event_category": "concert"
     },
     {
@@ -768,13 +768,13 @@
       "event_category": "other"
     },
     {
-      "id": "e51d622a-e3a5-4c84-94c7-2d7d17fa968e",
-      "event_title": "KOLA - New York",
+      "id": "bc4014ca-7f8a-461b-bb68-37651c8d872e",
+      "event_title": "Fisch Trio",
       "event_date": "2026-05-10",
       "end_date": "2026-05-10",
-      "ticket_link": "https://bomond.com/events/kola-new-york",
-      "cover_image_url": "https://api.bomond.com/public/68/3429/171460/432_432.webp",
-      "source": "Bomond",
+      "ticket_link": "https://www.helpinghandsukraine.org/fisch-trio-mothers-day-jazz/",
+      "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2026/03/634329812_10238196600551959_4115646380688254202_n.jpg",
+      "source": "Helping Hands for Ukraine",
       "event_category": "concert"
     },
     {
@@ -815,6 +815,16 @@
       "ticket_link": "https://events.ticketleap.com/tickets/eneida-art-inc/fi-nka-new-york-north-american-tour-2026",
       "cover_image_url": "https://tlt-events.s3.amazonaws.com/140436/2102345/75d9e61c89b01203a3394752de673216a73a3ad1d3f66a4af08e4fff33c0c4a0/ba6e5901-6744-46a6-99df-34129950bd11.jpg",
       "source": "TicketLeap",
+      "event_category": "concert"
+    },
+    {
+      "id": "cef8eb80-919f-4b4b-83aa-4b6799231dc9",
+      "event_title": "Iryna Bilyk — Concert in New York",
+      "event_date": "2026-05-17",
+      "end_date": "2026-05-17",
+      "ticket_link": "https://eventcartel.com/events/concert/iryna-bilyk-new-york-NY-sky-wise-tickets-14209",
+      "cover_image_url": null,
+      "source": "EventCartel",
       "event_category": "concert"
     },
     {
@@ -878,16 +888,6 @@
       "event_category": "other"
     },
     {
-      "id": "d0ff2077-0c30-46dd-a7da-132667e16d37",
-      "event_title": "July 4th Celebration",
-      "event_date": "2026-07-03",
-      "end_date": "2026-07-05",
-      "ticket_link": "https://soyuzivka.com/calendar-of-events/july-4th-celebration/",
-      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/July4th.png",
-      "source": "Soyuzivka",
-      "event_category": "festival"
-    },
-    {
       "id": "c87b6b2f-4c3d-4236-9d50-b187ad5101df",
       "event_title": "Vasyl Baidak - New York City",
       "event_date": "2026-07-03",
@@ -896,6 +896,16 @@
       "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1773094064_-1200630.jpg",
       "source": "Waylight",
       "event_category": "standup"
+    },
+    {
+      "id": "d0ff2077-0c30-46dd-a7da-132667e16d37",
+      "event_title": "July 4th Celebration",
+      "event_date": "2026-07-03",
+      "end_date": "2026-07-05",
+      "ticket_link": "https://soyuzivka.com/calendar-of-events/july-4th-celebration/",
+      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/July4th.png",
+      "source": "Soyuzivka",
+      "event_category": "festival"
     },
     {
       "id": "20660505-fb61-4af0-906a-1b427d985910",

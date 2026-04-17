@@ -128,11 +128,18 @@
       margin-right: auto;
     }
 
+    .header-actions {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 12px;
+      margin-top: 1.5rem;
+    }
+
     .updated-pill {
       display: inline-flex;
       align-items: center;
       gap: 6px;
-      margin-top: 1.5rem;
       height: 28px;
       box-sizing: border-box;
       background: rgba(255, 255, 255, 0.05);
@@ -708,8 +715,12 @@
         margin-top: 0.4rem;
       }
 
-      .updated-pill {
+      .header-actions {
         margin-top: 0.75rem;
+        gap: 8px;
+      }
+
+      .updated-pill {
         font-size: 0.65rem;
         height: 24px;
         padding: 0 10px;
@@ -1153,7 +1164,6 @@
       display: inline-flex;
       align-items: center;
       gap: 6px;
-      margin-top: 1.25rem;
       height: 28px;
       box-sizing: border-box;
       padding: 0 1.2rem;
@@ -1338,11 +1348,13 @@
     <header>
       <h1>🇺🇦 <em>NYC</em> Ukrainian Events</h1>
       <p class="header-sub">Continuously updated directory of Ukrainian cultural events in New York City Area</p>
-      <div class="updated-pill">
-        <span class="pulse"></span>
-        <span id="updated-text">Auto-updated daily</span>
+      <div class="header-actions">
+        <div class="updated-pill">
+          <span class="pulse"></span>
+          <span id="updated-text">Auto-updated daily</span>
+        </div>
+        <button class="submit-event-btn" onclick="toggleSubmitModal()" id="submit-event-btn">📩 Submit an Event</button>
       </div>
-      <button class="submit-event-btn" onclick="toggleSubmitModal()" id="submit-event-btn">📩 Submit an Event</button>
     </header>
 
     <div class="search-bar-container">
