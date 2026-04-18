@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T02:17:21.159999-04:00",
+  "generated_at": "2026-04-18T03:32:16.223390-04:00",
   "this_week_end": "2026-04-19",
   "this_month_end": "2026-04-30",
   "next_month_end": "2026-05-31",
@@ -25,13 +25,13 @@
       "event_category": "festival"
     },
     {
-      "id": "2c53d43f-6895-4eaa-82ae-de6410c532e7",
-      "event_title": "YAGÓDY",
+      "id": "b1836d25-4de9-4d99-8bdb-5c3b512a788a",
+      "event_title": "New York Rock N Roll | A rock mass",
       "event_date": "2026-04-18",
       "end_date": "2026-04-18",
-      "ticket_link": "https://dromnyc.com/event/yagody/",
-      "cover_image_url": "https://dromnyc.com/wp-content/uploads/2026/01/YAG-Bio-2026-scaled-1.jpg",
-      "source": "Drom NYC",
+      "ticket_link": "https://freeofpropaganda.com/shop/b21c8d68-ae5c-4ff4-8d88-3875914d7f90?pageViewSource=lib_view&referrer=https%3A%2F%2Ffreeofpropaganda.com%2F&show_back_button=true",
+      "cover_image_url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3856548288766352998",
+      "source": "Free of Propaganda",
       "event_category": "concert"
     },
     {
@@ -45,13 +45,13 @@
       "event_category": "concert"
     },
     {
-      "id": "9ed8b0ae-89d8-470c-9aa0-88617f7ddffe",
-      "event_title": "NORA POLINNIA: NEW YORK ROCK N ROLL",
+      "id": "2c53d43f-6895-4eaa-82ae-de6410c532e7",
+      "event_title": "YAGÓDY",
       "event_date": "2026-04-18",
       "end_date": "2026-04-18",
-      "ticket_link": "https://bomond.com/events/nora-polinnia-new-york-rock-n-roll",
-      "cover_image_url": "https://api.bomond.com/public/78/3935/196790/nora432x432.webp",
-      "source": "Bomond",
+      "ticket_link": "https://dromnyc.com/event/yagody/",
+      "cover_image_url": "https://dromnyc.com/wp-content/uploads/2026/01/YAG-Bio-2026-scaled-1.jpg",
+      "source": "Drom NYC",
       "event_category": "concert"
     },
     {
@@ -115,16 +115,6 @@
       "event_category": "arttalk"
     },
     {
-      "id": "c89624cb-ed1a-4db4-99c2-517de1d1ebcf",
-      "event_title": "Photography Workshop",
-      "event_date": "2026-04-24",
-      "end_date": "2026-04-24",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/photography-workshop-2",
-      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1775409275/organizations/7/b/8/1/7b81cdf4-e002-4505-be5c-a3b004a24046/6f10df06-8393-4060-b49e-25b196317c08.png",
-      "source": "Zeffy",
-      "event_category": "workshop"
-    },
-    {
       "id": "841c60cd-b81c-4c5c-8bc9-697a714eab3e",
       "event_title": "NEW JERSEY - Modern Roots Runway Show",
       "event_date": "2026-04-24",
@@ -133,6 +123,16 @@
       "cover_image_url": "https://images.sharvarok.com/post/1045/1771930312701-571280978.jpeg",
       "source": "Zeffy",
       "event_category": "performance"
+    },
+    {
+      "id": "c89624cb-ed1a-4db4-99c2-517de1d1ebcf",
+      "event_title": "Photography Workshop",
+      "event_date": "2026-04-24",
+      "end_date": "2026-04-24",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/photography-workshop-2",
+      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1775409275/organizations/7/b/8/1/7b81cdf4-e002-4505-be5c-a3b004a24046/6f10df06-8393-4060-b49e-25b196317c08.png",
+      "source": "Zeffy",
+      "event_category": "workshop"
     },
     {
       "id": "68cd3991-b64b-461b-9124-d40ac876e911",
@@ -317,16 +317,6 @@
       "event_category": "concert"
     },
     {
-      "id": "95254e3d-1c14-4b7c-964d-b7cff42029c6",
-      "event_title": "KOLO",
-      "event_date": "2026-05-10",
-      "end_date": "2026-05-10",
-      "ticket_link": "https://ra.co/events/2416532",
-      "cover_image_url": "https://images.ra.co/0e9ae5adab81578b021ae78e33cc3bbb527f3c53.png",
-      "source": "Resident Advisor (KOLO NYC)",
-      "event_category": "concert"
-    },
-    {
       "id": "cd780c38-7d18-43fe-9e8e-c3d86adbc5ff",
       "event_title": "NEW YORK  DZIDZIO Charitable Concert by Revived Soldiers Ukraine",
       "event_date": "2026-05-10",
@@ -334,6 +324,16 @@
       "ticket_link": "https://www.eventbrite.com/e/new-york-dzidzio-charitable-concert-by-revived-soldiers-ukraine-tickets-1983499401103",
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1177898873%252F86171180225%252F1%252Foriginal.20260219-020128%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Dd785c170d59a9e3618f8dbcb3d15e570&w=1880&q=75",
       "source": "Eventbrite",
+      "event_category": "concert"
+    },
+    {
+      "id": "95254e3d-1c14-4b7c-964d-b7cff42029c6",
+      "event_title": "KOLO",
+      "event_date": "2026-05-10",
+      "end_date": "2026-05-10",
+      "ticket_link": "https://ra.co/events/2416532",
+      "cover_image_url": "https://images.ra.co/0e9ae5adab81578b021ae78e33cc3bbb527f3c53.png",
+      "source": "Resident Advisor (KOLO NYC)",
       "event_category": "concert"
     },
     {
@@ -419,13 +419,13 @@
       "event_category": "festival"
     },
     {
-      "id": "2c53d43f-6895-4eaa-82ae-de6410c532e7",
-      "event_title": "YAGÓDY",
+      "id": "b1836d25-4de9-4d99-8bdb-5c3b512a788a",
+      "event_title": "New York Rock N Roll | A rock mass",
       "event_date": "2026-04-18",
       "end_date": "2026-04-18",
-      "ticket_link": "https://dromnyc.com/event/yagody/",
-      "cover_image_url": "https://dromnyc.com/wp-content/uploads/2026/01/YAG-Bio-2026-scaled-1.jpg",
-      "source": "Drom NYC",
+      "ticket_link": "https://freeofpropaganda.com/shop/b21c8d68-ae5c-4ff4-8d88-3875914d7f90?pageViewSource=lib_view&referrer=https%3A%2F%2Ffreeofpropaganda.com%2F&show_back_button=true",
+      "cover_image_url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3856548288766352998",
+      "source": "Free of Propaganda",
       "event_category": "concert"
     },
     {
@@ -439,13 +439,13 @@
       "event_category": "concert"
     },
     {
-      "id": "9ed8b0ae-89d8-470c-9aa0-88617f7ddffe",
-      "event_title": "NORA POLINNIA: NEW YORK ROCK N ROLL",
+      "id": "2c53d43f-6895-4eaa-82ae-de6410c532e7",
+      "event_title": "YAGÓDY",
       "event_date": "2026-04-18",
       "end_date": "2026-04-18",
-      "ticket_link": "https://bomond.com/events/nora-polinnia-new-york-rock-n-roll",
-      "cover_image_url": "https://api.bomond.com/public/78/3935/196790/nora432x432.webp",
-      "source": "Bomond",
+      "ticket_link": "https://dromnyc.com/event/yagody/",
+      "cover_image_url": "https://dromnyc.com/wp-content/uploads/2026/01/YAG-Bio-2026-scaled-1.jpg",
+      "source": "Drom NYC",
       "event_category": "concert"
     },
     {
@@ -509,16 +509,6 @@
       "event_category": "arttalk"
     },
     {
-      "id": "c89624cb-ed1a-4db4-99c2-517de1d1ebcf",
-      "event_title": "Photography Workshop",
-      "event_date": "2026-04-24",
-      "end_date": "2026-04-24",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/photography-workshop-2",
-      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1775409275/organizations/7/b/8/1/7b81cdf4-e002-4505-be5c-a3b004a24046/6f10df06-8393-4060-b49e-25b196317c08.png",
-      "source": "Zeffy",
-      "event_category": "workshop"
-    },
-    {
       "id": "841c60cd-b81c-4c5c-8bc9-697a714eab3e",
       "event_title": "NEW JERSEY - Modern Roots Runway Show",
       "event_date": "2026-04-24",
@@ -527,6 +517,16 @@
       "cover_image_url": "https://images.sharvarok.com/post/1045/1771930312701-571280978.jpeg",
       "source": "Zeffy",
       "event_category": "performance"
+    },
+    {
+      "id": "c89624cb-ed1a-4db4-99c2-517de1d1ebcf",
+      "event_title": "Photography Workshop",
+      "event_date": "2026-04-24",
+      "end_date": "2026-04-24",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/photography-workshop-2",
+      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1775409275/organizations/7/b/8/1/7b81cdf4-e002-4505-be5c-a3b004a24046/6f10df06-8393-4060-b49e-25b196317c08.png",
+      "source": "Zeffy",
+      "event_category": "workshop"
     },
     {
       "id": "68cd3991-b64b-461b-9124-d40ac876e911",
@@ -699,16 +699,6 @@
       "event_category": "concert"
     },
     {
-      "id": "95254e3d-1c14-4b7c-964d-b7cff42029c6",
-      "event_title": "KOLO",
-      "event_date": "2026-05-10",
-      "end_date": "2026-05-10",
-      "ticket_link": "https://ra.co/events/2416532",
-      "cover_image_url": "https://images.ra.co/0e9ae5adab81578b021ae78e33cc3bbb527f3c53.png",
-      "source": "Resident Advisor (KOLO NYC)",
-      "event_category": "concert"
-    },
-    {
       "id": "cd780c38-7d18-43fe-9e8e-c3d86adbc5ff",
       "event_title": "NEW YORK  DZIDZIO Charitable Concert by Revived Soldiers Ukraine",
       "event_date": "2026-05-10",
@@ -716,6 +706,16 @@
       "ticket_link": "https://www.eventbrite.com/e/new-york-dzidzio-charitable-concert-by-revived-soldiers-ukraine-tickets-1983499401103",
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1177898873%252F86171180225%252F1%252Foriginal.20260219-020128%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Dd785c170d59a9e3618f8dbcb3d15e570&w=1880&q=75",
       "source": "Eventbrite",
+      "event_category": "concert"
+    },
+    {
+      "id": "95254e3d-1c14-4b7c-964d-b7cff42029c6",
+      "event_title": "KOLO",
+      "event_date": "2026-05-10",
+      "end_date": "2026-05-10",
+      "ticket_link": "https://ra.co/events/2416532",
+      "cover_image_url": "https://images.ra.co/0e9ae5adab81578b021ae78e33cc3bbb527f3c53.png",
+      "source": "Resident Advisor (KOLO NYC)",
       "event_category": "concert"
     },
     {
