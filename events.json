@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T04:48:27.457383-04:00",
+  "generated_at": "2026-04-18T13:22:43.831515-04:00",
   "this_week_end": "2026-04-19",
   "this_month_end": "2026-04-30",
   "next_month_end": "2026-05-31",
@@ -25,23 +25,13 @@
       "event_category": "festival"
     },
     {
-      "id": "b1836d25-4de9-4d99-8bdb-5c3b512a788a",
-      "event_title": "New York Rock N Roll | A rock mass",
+      "id": "8024a01e-0c91-4208-90c5-1d5f049e93b2",
+      "event_title": "NORA POLINNIA: NEW YORK ROCK N ROLL",
       "event_date": "2026-04-18",
       "end_date": "2026-04-18",
-      "ticket_link": "https://freeofpropaganda.com/shop/b21c8d68-ae5c-4ff4-8d88-3875914d7f90?pageViewSource=lib_view&referrer=https%3A%2F%2Ffreeofpropaganda.com%2F&show_back_button=true",
-      "cover_image_url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3856548288766352998",
-      "source": "Free of Propaganda",
-      "event_category": "concert"
-    },
-    {
-      "id": "2f7875f6-8ac5-4a1f-8352-49d4eebe3f85",
-      "event_title": "Homin Choir",
-      "event_date": "2026-04-18",
-      "end_date": "2026-04-18",
-      "ticket_link": "https://mticket.com/en/new-york/homin-choir-in-new-york-1602.html",
-      "cover_image_url": "https://usa.mticket.com/uploads/resize/shows/logo/630x891_show_P1clnW1iyAFWX3JcF0GGzhXdpMf_Nr6y.webp",
-      "source": "mticket",
+      "ticket_link": "https://bomond.com/events/nora-polinnia-new-york-rock-n-roll",
+      "cover_image_url": "https://api.bomond.com/public/78/3935/196790/nora432x432.webp",
+      "source": "Bomond",
       "event_category": "concert"
     },
     {
@@ -52,6 +42,16 @@
       "ticket_link": "https://dromnyc.com/event/yagody/",
       "cover_image_url": "https://dromnyc.com/wp-content/uploads/2026/01/YAG-Bio-2026-scaled-1.jpg",
       "source": "Drom NYC",
+      "event_category": "concert"
+    },
+    {
+      "id": "2f7875f6-8ac5-4a1f-8352-49d4eebe3f85",
+      "event_title": "Homin Choir",
+      "event_date": "2026-04-18",
+      "end_date": "2026-04-18",
+      "ticket_link": "https://mticket.com/en/new-york/homin-choir-in-new-york-1602.html",
+      "cover_image_url": "https://usa.mticket.com/uploads/resize/shows/logo/630x891_show_P1clnW1iyAFWX3JcF0GGzhXdpMf_Nr6y.webp",
+      "source": "mticket",
       "event_category": "concert"
     },
     {
@@ -115,26 +115,6 @@
       "event_category": "arttalk"
     },
     {
-      "id": "841c60cd-b81c-4c5c-8bc9-697a714eab3e",
-      "event_title": "NEW JERSEY - Modern Roots Runway Show",
-      "event_date": "2026-04-24",
-      "end_date": "2026-04-24",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/annual-gala-2338",
-      "cover_image_url": "https://images.sharvarok.com/post/1045/1771930312701-571280978.jpeg",
-      "source": "Zeffy",
-      "event_category": "performance"
-    },
-    {
-      "id": "c89624cb-ed1a-4db4-99c2-517de1d1ebcf",
-      "event_title": "Photography Workshop",
-      "event_date": "2026-04-24",
-      "end_date": "2026-04-24",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/photography-workshop-2",
-      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1775409275/organizations/7/b/8/1/7b81cdf4-e002-4505-be5c-a3b004a24046/6f10df06-8393-4060-b49e-25b196317c08.png",
-      "source": "Zeffy",
-      "event_category": "workshop"
-    },
-    {
       "id": "68cd3991-b64b-461b-9124-d40ac876e911",
       "event_title": "CHICO & QATOSHI | WHIPPANY",
       "event_date": "2026-04-24",
@@ -143,6 +123,16 @@
       "cover_image_url": "https://ukrainian.us/storage/event/1/E9vX1XF2MQiJb8_UlgaGmayZ7C9QM7a_-source.png?v=0.1&s=b63eb6c815afb4759c5bf0fe6f6c3cfc",
       "source": "Ukrainian USA",
       "event_category": "concert"
+    },
+    {
+      "id": "841c60cd-b81c-4c5c-8bc9-697a714eab3e",
+      "event_title": "NEW JERSEY - Modern Roots Runway Show",
+      "event_date": "2026-04-24",
+      "end_date": "2026-04-24",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/annual-gala-2338",
+      "cover_image_url": "https://images.sharvarok.com/post/1045/1771930312701-571280978.jpeg",
+      "source": "Zeffy",
+      "event_category": "performance"
     },
     {
       "id": "994d6242-42b6-4fd5-b214-a1e356c01d4d",
@@ -155,14 +145,24 @@
       "event_category": "concert"
     },
     {
-      "id": "45d42878-dffa-475f-99d0-94f621f8f253",
-      "event_title": "Soho Arts Network (SAN) Downtown Culture Walk x The Ukrainian Museum",
+      "id": "c89624cb-ed1a-4db4-99c2-517de1d1ebcf",
+      "event_title": "Photography Workshop",
+      "event_date": "2026-04-24",
+      "end_date": "2026-04-24",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/photography-workshop-2",
+      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1775409275/organizations/7/b/8/1/7b81cdf4-e002-4505-be5c-a3b004a24046/6f10df06-8393-4060-b49e-25b196317c08.png",
+      "source": "Zeffy",
+      "event_category": "workshop"
+    },
+    {
+      "id": "aff162b7-f2e4-4a75-9c67-5f81b0447d29",
+      "event_title": "Viktor movie screening at the ReelAbilities Film Festival",
       "event_date": "2026-04-25",
-      "end_date": "2026-04-25",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/downtown-culture-walk-at-the-ukrainian-museum",
-      "cover_image_url": "https://www.theukrainianmuseum.org/wp-content/uploads/Ukrainian-Museum-Downtown-Culture-Walk-Banner-scaled.jpg",
-      "source": "Ukrainian Museum",
-      "event_category": "concert"
+      "end_date": "2026-04-27",
+      "ticket_link": "https://www.razomforukraine.org/events/viktor-movie-screening-at-the-reelabilities-film-festival/",
+      "cover_image_url": "https://www.razomforukraine.org/wp-content/uploads/2026/04/Facebook-cover-3.png",
+      "source": "Razom For Ukraine",
+      "event_category": "movie"
     },
     {
       "id": "8de4cd45-95d6-4075-9ba4-48685c8c1634",
@@ -185,24 +185,14 @@
       "event_category": "other"
     },
     {
-      "id": "aff162b7-f2e4-4a75-9c67-5f81b0447d29",
-      "event_title": "Viktor movie screening at the ReelAbilities Film Festival",
+      "id": "45d42878-dffa-475f-99d0-94f621f8f253",
+      "event_title": "Soho Arts Network (SAN) Downtown Culture Walk x The Ukrainian Museum",
       "event_date": "2026-04-25",
-      "end_date": "2026-04-27",
-      "ticket_link": "https://www.razomforukraine.org/events/viktor-movie-screening-at-the-reelabilities-film-festival/",
-      "cover_image_url": "https://www.razomforukraine.org/wp-content/uploads/2026/04/Facebook-cover-3.png",
-      "source": "Razom For Ukraine",
-      "event_category": "movie"
-    },
-    {
-      "id": "114a2a8a-3ea4-4b27-bf46-e58dc02f7bae",
-      "event_title": "NEW YORK - Modern Roots Runway Show",
-      "event_date": "2026-04-26",
-      "end_date": "2026-04-26",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/fashion-show-new-york",
-      "cover_image_url": "https://images.sharvarok.com/post/1045/1771930312701-571280978.jpeg",
-      "source": "Zeffy",
-      "event_category": "performance"
+      "end_date": "2026-04-25",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/downtown-culture-walk-at-the-ukrainian-museum",
+      "cover_image_url": "https://www.theukrainianmuseum.org/wp-content/uploads/Ukrainian-Museum-Downtown-Culture-Walk-Banner-scaled.jpg",
+      "source": "Ukrainian Museum",
+      "event_category": "concert"
     },
     {
       "id": "661921ea-443f-4c30-92a2-43f478c475bb",
@@ -213,6 +203,16 @@
       "cover_image_url": "https://ukrainian.us/storage/event/1/klKly9UHR30DODFSEv7NDX7rlI2N145G-source.png?v=0.1&s=cb7e924c6abca0eb89697354e30cd890",
       "source": "Ukrainian USA",
       "event_category": "concert"
+    },
+    {
+      "id": "114a2a8a-3ea4-4b27-bf46-e58dc02f7bae",
+      "event_title": "NEW YORK - Modern Roots Runway Show",
+      "event_date": "2026-04-26",
+      "end_date": "2026-04-26",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/fashion-show-new-york",
+      "cover_image_url": "https://images.sharvarok.com/post/1045/1771930312701-571280978.jpeg",
+      "source": "Zeffy",
+      "event_category": "performance"
     },
     {
       "id": "b18b2738-fb70-496a-82d6-0427f3aad8a0",
@@ -287,23 +287,13 @@
       "event_category": "other"
     },
     {
-      "id": "8507be15-50f4-4657-a4f9-d3b4731a952c",
-      "event_title": "Voice of the Ukrainian Diaspora",
+      "id": "cd780c38-7d18-43fe-9e8e-c3d86adbc5ff",
+      "event_title": "NEW YORK  DZIDZIO Charitable Concert by Revived Soldiers Ukraine",
       "event_date": "2026-05-10",
       "end_date": "2026-05-10",
-      "ticket_link": "https://www.eventbrite.com/e/voice-of-the-ukrainian-diaspora-tickets-1985816161596",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1180787456%252F2996288818158%252F1%252Foriginal.20260326-200013%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D878929400151e51f65767e2b14f999ee&w=1880&q=75",
+      "ticket_link": "https://www.eventbrite.com/e/new-york-dzidzio-charitable-concert-by-revived-soldiers-ukraine-tickets-1983499401103",
+      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1177898873%252F86171180225%252F1%252Foriginal.20260219-020128%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Dd785c170d59a9e3618f8dbcb3d15e570&w=1880&q=75",
       "source": "Eventbrite",
-      "event_category": "arttalk"
-    },
-    {
-      "id": "e51d622a-e3a5-4c84-94c7-2d7d17fa968e",
-      "event_title": "KOLA - New York",
-      "event_date": "2026-05-10",
-      "end_date": "2026-05-10",
-      "ticket_link": "https://bomond.com/events/kola-new-york",
-      "cover_image_url": "https://api.bomond.com/public/68/3429/171460/432_432.webp",
-      "source": "Bomond",
       "event_category": "concert"
     },
     {
@@ -317,24 +307,24 @@
       "event_category": "concert"
     },
     {
-      "id": "cd780c38-7d18-43fe-9e8e-c3d86adbc5ff",
-      "event_title": "NEW YORK  DZIDZIO Charitable Concert by Revived Soldiers Ukraine",
+      "id": "e51d622a-e3a5-4c84-94c7-2d7d17fa968e",
+      "event_title": "KOLA - New York",
       "event_date": "2026-05-10",
       "end_date": "2026-05-10",
-      "ticket_link": "https://www.eventbrite.com/e/new-york-dzidzio-charitable-concert-by-revived-soldiers-ukraine-tickets-1983499401103",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1177898873%252F86171180225%252F1%252Foriginal.20260219-020128%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Dd785c170d59a9e3618f8dbcb3d15e570&w=1880&q=75",
-      "source": "Eventbrite",
+      "ticket_link": "https://bomond.com/events/kola-new-york",
+      "cover_image_url": "https://api.bomond.com/public/68/3429/171460/432_432.webp",
+      "source": "Bomond",
       "event_category": "concert"
     },
     {
-      "id": "95254e3d-1c14-4b7c-964d-b7cff42029c6",
-      "event_title": "KOLO",
+      "id": "8507be15-50f4-4657-a4f9-d3b4731a952c",
+      "event_title": "Voice of the Ukrainian Diaspora",
       "event_date": "2026-05-10",
       "end_date": "2026-05-10",
-      "ticket_link": "https://ra.co/events/2416532",
-      "cover_image_url": "https://images.ra.co/0e9ae5adab81578b021ae78e33cc3bbb527f3c53.png",
-      "source": "Resident Advisor (KOLO NYC)",
-      "event_category": "concert"
+      "ticket_link": "https://www.eventbrite.com/e/voice-of-the-ukrainian-diaspora-tickets-1985816161596",
+      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1180787456%252F2996288818158%252F1%252Foriginal.20260326-200013%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D878929400151e51f65767e2b14f999ee&w=1880&q=75",
+      "source": "Eventbrite",
+      "event_category": "arttalk"
     },
     {
       "id": "5bf97f96-4932-418d-a052-b5ced514c9e1",
@@ -345,6 +335,16 @@
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2026/03/Mothers-Day-Pic.png",
       "source": "Soyuzivka",
       "event_category": "other"
+    },
+    {
+      "id": "95254e3d-1c14-4b7c-964d-b7cff42029c6",
+      "event_title": "KOLO",
+      "event_date": "2026-05-10",
+      "end_date": "2026-05-10",
+      "ticket_link": "https://ra.co/events/2416532",
+      "cover_image_url": "https://images.ra.co/0e9ae5adab81578b021ae78e33cc3bbb527f3c53.png",
+      "source": "Resident Advisor (KOLO NYC)",
+      "event_category": "concert"
     },
     {
       "id": "a435b1ca-81fd-423b-9878-69da4069e76c",
@@ -419,23 +419,13 @@
       "event_category": "festival"
     },
     {
-      "id": "b1836d25-4de9-4d99-8bdb-5c3b512a788a",
-      "event_title": "New York Rock N Roll | A rock mass",
+      "id": "8024a01e-0c91-4208-90c5-1d5f049e93b2",
+      "event_title": "NORA POLINNIA: NEW YORK ROCK N ROLL",
       "event_date": "2026-04-18",
       "end_date": "2026-04-18",
-      "ticket_link": "https://freeofpropaganda.com/shop/b21c8d68-ae5c-4ff4-8d88-3875914d7f90?pageViewSource=lib_view&referrer=https%3A%2F%2Ffreeofpropaganda.com%2F&show_back_button=true",
-      "cover_image_url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3856548288766352998",
-      "source": "Free of Propaganda",
-      "event_category": "concert"
-    },
-    {
-      "id": "2f7875f6-8ac5-4a1f-8352-49d4eebe3f85",
-      "event_title": "Homin Choir",
-      "event_date": "2026-04-18",
-      "end_date": "2026-04-18",
-      "ticket_link": "https://mticket.com/en/new-york/homin-choir-in-new-york-1602.html",
-      "cover_image_url": "https://usa.mticket.com/uploads/resize/shows/logo/630x891_show_P1clnW1iyAFWX3JcF0GGzhXdpMf_Nr6y.webp",
-      "source": "mticket",
+      "ticket_link": "https://bomond.com/events/nora-polinnia-new-york-rock-n-roll",
+      "cover_image_url": "https://api.bomond.com/public/78/3935/196790/nora432x432.webp",
+      "source": "Bomond",
       "event_category": "concert"
     },
     {
@@ -446,6 +436,16 @@
       "ticket_link": "https://dromnyc.com/event/yagody/",
       "cover_image_url": "https://dromnyc.com/wp-content/uploads/2026/01/YAG-Bio-2026-scaled-1.jpg",
       "source": "Drom NYC",
+      "event_category": "concert"
+    },
+    {
+      "id": "2f7875f6-8ac5-4a1f-8352-49d4eebe3f85",
+      "event_title": "Homin Choir",
+      "event_date": "2026-04-18",
+      "end_date": "2026-04-18",
+      "ticket_link": "https://mticket.com/en/new-york/homin-choir-in-new-york-1602.html",
+      "cover_image_url": "https://usa.mticket.com/uploads/resize/shows/logo/630x891_show_P1clnW1iyAFWX3JcF0GGzhXdpMf_Nr6y.webp",
+      "source": "mticket",
       "event_category": "concert"
     },
     {
@@ -509,26 +509,6 @@
       "event_category": "arttalk"
     },
     {
-      "id": "841c60cd-b81c-4c5c-8bc9-697a714eab3e",
-      "event_title": "NEW JERSEY - Modern Roots Runway Show",
-      "event_date": "2026-04-24",
-      "end_date": "2026-04-24",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/annual-gala-2338",
-      "cover_image_url": "https://images.sharvarok.com/post/1045/1771930312701-571280978.jpeg",
-      "source": "Zeffy",
-      "event_category": "performance"
-    },
-    {
-      "id": "c89624cb-ed1a-4db4-99c2-517de1d1ebcf",
-      "event_title": "Photography Workshop",
-      "event_date": "2026-04-24",
-      "end_date": "2026-04-24",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/photography-workshop-2",
-      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1775409275/organizations/7/b/8/1/7b81cdf4-e002-4505-be5c-a3b004a24046/6f10df06-8393-4060-b49e-25b196317c08.png",
-      "source": "Zeffy",
-      "event_category": "workshop"
-    },
-    {
       "id": "68cd3991-b64b-461b-9124-d40ac876e911",
       "event_title": "CHICO & QATOSHI | WHIPPANY",
       "event_date": "2026-04-24",
@@ -537,6 +517,16 @@
       "cover_image_url": "https://ukrainian.us/storage/event/1/E9vX1XF2MQiJb8_UlgaGmayZ7C9QM7a_-source.png?v=0.1&s=b63eb6c815afb4759c5bf0fe6f6c3cfc",
       "source": "Ukrainian USA",
       "event_category": "concert"
+    },
+    {
+      "id": "841c60cd-b81c-4c5c-8bc9-697a714eab3e",
+      "event_title": "NEW JERSEY - Modern Roots Runway Show",
+      "event_date": "2026-04-24",
+      "end_date": "2026-04-24",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/annual-gala-2338",
+      "cover_image_url": "https://images.sharvarok.com/post/1045/1771930312701-571280978.jpeg",
+      "source": "Zeffy",
+      "event_category": "performance"
     },
     {
       "id": "994d6242-42b6-4fd5-b214-a1e356c01d4d",
@@ -549,14 +539,24 @@
       "event_category": "concert"
     },
     {
-      "id": "45d42878-dffa-475f-99d0-94f621f8f253",
-      "event_title": "Soho Arts Network (SAN) Downtown Culture Walk x The Ukrainian Museum",
+      "id": "c89624cb-ed1a-4db4-99c2-517de1d1ebcf",
+      "event_title": "Photography Workshop",
+      "event_date": "2026-04-24",
+      "end_date": "2026-04-24",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/photography-workshop-2",
+      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1775409275/organizations/7/b/8/1/7b81cdf4-e002-4505-be5c-a3b004a24046/6f10df06-8393-4060-b49e-25b196317c08.png",
+      "source": "Zeffy",
+      "event_category": "workshop"
+    },
+    {
+      "id": "aff162b7-f2e4-4a75-9c67-5f81b0447d29",
+      "event_title": "Viktor movie screening at the ReelAbilities Film Festival",
       "event_date": "2026-04-25",
-      "end_date": "2026-04-25",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/downtown-culture-walk-at-the-ukrainian-museum",
-      "cover_image_url": "https://www.theukrainianmuseum.org/wp-content/uploads/Ukrainian-Museum-Downtown-Culture-Walk-Banner-scaled.jpg",
-      "source": "Ukrainian Museum",
-      "event_category": "concert"
+      "end_date": "2026-04-27",
+      "ticket_link": "https://www.razomforukraine.org/events/viktor-movie-screening-at-the-reelabilities-film-festival/",
+      "cover_image_url": "https://www.razomforukraine.org/wp-content/uploads/2026/04/Facebook-cover-3.png",
+      "source": "Razom For Ukraine",
+      "event_category": "movie"
     },
     {
       "id": "8de4cd45-95d6-4075-9ba4-48685c8c1634",
@@ -579,24 +579,14 @@
       "event_category": "other"
     },
     {
-      "id": "aff162b7-f2e4-4a75-9c67-5f81b0447d29",
-      "event_title": "Viktor movie screening at the ReelAbilities Film Festival",
+      "id": "45d42878-dffa-475f-99d0-94f621f8f253",
+      "event_title": "Soho Arts Network (SAN) Downtown Culture Walk x The Ukrainian Museum",
       "event_date": "2026-04-25",
-      "end_date": "2026-04-27",
-      "ticket_link": "https://www.razomforukraine.org/events/viktor-movie-screening-at-the-reelabilities-film-festival/",
-      "cover_image_url": "https://www.razomforukraine.org/wp-content/uploads/2026/04/Facebook-cover-3.png",
-      "source": "Razom For Ukraine",
-      "event_category": "movie"
-    },
-    {
-      "id": "114a2a8a-3ea4-4b27-bf46-e58dc02f7bae",
-      "event_title": "NEW YORK - Modern Roots Runway Show",
-      "event_date": "2026-04-26",
-      "end_date": "2026-04-26",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/fashion-show-new-york",
-      "cover_image_url": "https://images.sharvarok.com/post/1045/1771930312701-571280978.jpeg",
-      "source": "Zeffy",
-      "event_category": "performance"
+      "end_date": "2026-04-25",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/downtown-culture-walk-at-the-ukrainian-museum",
+      "cover_image_url": "https://www.theukrainianmuseum.org/wp-content/uploads/Ukrainian-Museum-Downtown-Culture-Walk-Banner-scaled.jpg",
+      "source": "Ukrainian Museum",
+      "event_category": "concert"
     },
     {
       "id": "661921ea-443f-4c30-92a2-43f478c475bb",
@@ -607,6 +597,16 @@
       "cover_image_url": "https://ukrainian.us/storage/event/1/klKly9UHR30DODFSEv7NDX7rlI2N145G-source.png?v=0.1&s=cb7e924c6abca0eb89697354e30cd890",
       "source": "Ukrainian USA",
       "event_category": "concert"
+    },
+    {
+      "id": "114a2a8a-3ea4-4b27-bf46-e58dc02f7bae",
+      "event_title": "NEW YORK - Modern Roots Runway Show",
+      "event_date": "2026-04-26",
+      "end_date": "2026-04-26",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/fashion-show-new-york",
+      "cover_image_url": "https://images.sharvarok.com/post/1045/1771930312701-571280978.jpeg",
+      "source": "Zeffy",
+      "event_category": "performance"
     },
     {
       "id": "b18b2738-fb70-496a-82d6-0427f3aad8a0",
@@ -669,23 +669,13 @@
       "event_category": "other"
     },
     {
-      "id": "8507be15-50f4-4657-a4f9-d3b4731a952c",
-      "event_title": "Voice of the Ukrainian Diaspora",
+      "id": "cd780c38-7d18-43fe-9e8e-c3d86adbc5ff",
+      "event_title": "NEW YORK  DZIDZIO Charitable Concert by Revived Soldiers Ukraine",
       "event_date": "2026-05-10",
       "end_date": "2026-05-10",
-      "ticket_link": "https://www.eventbrite.com/e/voice-of-the-ukrainian-diaspora-tickets-1985816161596",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1180787456%252F2996288818158%252F1%252Foriginal.20260326-200013%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D878929400151e51f65767e2b14f999ee&w=1880&q=75",
+      "ticket_link": "https://www.eventbrite.com/e/new-york-dzidzio-charitable-concert-by-revived-soldiers-ukraine-tickets-1983499401103",
+      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1177898873%252F86171180225%252F1%252Foriginal.20260219-020128%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Dd785c170d59a9e3618f8dbcb3d15e570&w=1880&q=75",
       "source": "Eventbrite",
-      "event_category": "arttalk"
-    },
-    {
-      "id": "e51d622a-e3a5-4c84-94c7-2d7d17fa968e",
-      "event_title": "KOLA - New York",
-      "event_date": "2026-05-10",
-      "end_date": "2026-05-10",
-      "ticket_link": "https://bomond.com/events/kola-new-york",
-      "cover_image_url": "https://api.bomond.com/public/68/3429/171460/432_432.webp",
-      "source": "Bomond",
       "event_category": "concert"
     },
     {
@@ -699,24 +689,24 @@
       "event_category": "concert"
     },
     {
-      "id": "cd780c38-7d18-43fe-9e8e-c3d86adbc5ff",
-      "event_title": "NEW YORK  DZIDZIO Charitable Concert by Revived Soldiers Ukraine",
+      "id": "e51d622a-e3a5-4c84-94c7-2d7d17fa968e",
+      "event_title": "KOLA - New York",
       "event_date": "2026-05-10",
       "end_date": "2026-05-10",
-      "ticket_link": "https://www.eventbrite.com/e/new-york-dzidzio-charitable-concert-by-revived-soldiers-ukraine-tickets-1983499401103",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1177898873%252F86171180225%252F1%252Foriginal.20260219-020128%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Dd785c170d59a9e3618f8dbcb3d15e570&w=1880&q=75",
-      "source": "Eventbrite",
+      "ticket_link": "https://bomond.com/events/kola-new-york",
+      "cover_image_url": "https://api.bomond.com/public/68/3429/171460/432_432.webp",
+      "source": "Bomond",
       "event_category": "concert"
     },
     {
-      "id": "95254e3d-1c14-4b7c-964d-b7cff42029c6",
-      "event_title": "KOLO",
+      "id": "8507be15-50f4-4657-a4f9-d3b4731a952c",
+      "event_title": "Voice of the Ukrainian Diaspora",
       "event_date": "2026-05-10",
       "end_date": "2026-05-10",
-      "ticket_link": "https://ra.co/events/2416532",
-      "cover_image_url": "https://images.ra.co/0e9ae5adab81578b021ae78e33cc3bbb527f3c53.png",
-      "source": "Resident Advisor (KOLO NYC)",
-      "event_category": "concert"
+      "ticket_link": "https://www.eventbrite.com/e/voice-of-the-ukrainian-diaspora-tickets-1985816161596",
+      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1180787456%252F2996288818158%252F1%252Foriginal.20260326-200013%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D878929400151e51f65767e2b14f999ee&w=1880&q=75",
+      "source": "Eventbrite",
+      "event_category": "arttalk"
     },
     {
       "id": "5bf97f96-4932-418d-a052-b5ced514c9e1",
@@ -727,6 +717,16 @@
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2026/03/Mothers-Day-Pic.png",
       "source": "Soyuzivka",
       "event_category": "other"
+    },
+    {
+      "id": "95254e3d-1c14-4b7c-964d-b7cff42029c6",
+      "event_title": "KOLO",
+      "event_date": "2026-05-10",
+      "end_date": "2026-05-10",
+      "ticket_link": "https://ra.co/events/2416532",
+      "cover_image_url": "https://images.ra.co/0e9ae5adab81578b021ae78e33cc3bbb527f3c53.png",
+      "source": "Resident Advisor (KOLO NYC)",
+      "event_category": "concert"
     },
     {
       "id": "a435b1ca-81fd-423b-9878-69da4069e76c",
