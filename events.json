@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T01:12:46.587000-04:00",
+  "generated_at": "2026-04-18T02:17:21.159999-04:00",
   "this_week_end": "2026-04-19",
   "this_month_end": "2026-04-30",
   "next_month_end": "2026-05-31",
@@ -784,7 +784,7 @@
       "event_date": "2026-06-03",
       "end_date": "2026-06-07",
       "ticket_link": "https://soyuzivka.com/calendar-of-events/pysanky-workshops/",
-      "cover_image_url": null,
+      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/PysankyWorkshop-1024x576.png",
       "source": "Soyuzivka",
       "event_category": "workshop"
     },
@@ -819,16 +819,6 @@
       "event_category": "other"
     },
     {
-      "id": "d0ff2077-0c30-46dd-a7da-132667e16d37",
-      "event_title": "July 4th Celebration",
-      "event_date": "2026-07-03",
-      "end_date": "2026-07-05",
-      "ticket_link": "https://soyuzivka.com/calendar-of-events/july-4th-celebration/",
-      "cover_image_url": null,
-      "source": "Soyuzivka",
-      "event_category": "festival"
-    },
-    {
       "id": "c87b6b2f-4c3d-4236-9d50-b187ad5101df",
       "event_title": "Vasyl Baidak - New York City",
       "event_date": "2026-07-03",
@@ -837,6 +827,16 @@
       "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1773094064_-1200630.jpg",
       "source": "Waylight",
       "event_category": "standup"
+    },
+    {
+      "id": "d0ff2077-0c30-46dd-a7da-132667e16d37",
+      "event_title": "July 4th Celebration",
+      "event_date": "2026-07-03",
+      "end_date": "2026-07-05",
+      "ticket_link": "https://soyuzivka.com/calendar-of-events/july-4th-celebration/",
+      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/July4th-1024x576.png",
+      "source": "Soyuzivka",
+      "event_category": "festival"
     },
     {
       "id": "20660505-fb61-4af0-906a-1b427d985910",
@@ -894,7 +894,7 @@
       "event_date": "2026-09-04",
       "end_date": "2026-09-07",
       "ticket_link": "https://soyuzivka.com/calendar-of-events/labor-day-weekend/",
-      "cover_image_url": null,
+      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/LaborDay-1024x576.png",
       "source": "Soyuzivka",
       "event_category": "festival"
     },
