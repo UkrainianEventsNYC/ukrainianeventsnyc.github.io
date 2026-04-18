@@ -603,6 +603,30 @@
       border-radius: var(--radius);
     }
 
+    /* ── Section divider ── */
+    .section-divider {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      margin: 2rem 0 1.5rem;
+      grid-column: 1 / -1;
+    }
+    .section-divider::before,
+    .section-divider::after {
+      content: '';
+      flex: 1;
+      height: 1px;
+      background: linear-gradient(90deg, transparent, var(--border-hi), transparent);
+    }
+    .section-divider-label {
+      font-size: 0.82rem;
+      font-weight: 600;
+      color: var(--gold-dim);
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      white-space: nowrap;
+    }
+
     /* ── See more ── */
     .see-more-bar {
       margin-top: 1.25rem;
@@ -718,6 +742,7 @@
       .header-actions {
         margin-top: 0.75rem;
         gap: 8px;
+        flex-wrap: wrap;
       }
 
       .updated-pill {
@@ -1414,18 +1439,13 @@
       <!-- TIMELINE (TABS SECTION) -->
       <section class="section" id="section-timeline">
         <div class="tabs-container">
-
-          <button class="main-tab active" id="tab-this_week" onclick="setTimelineTab('this_week')">
-            <span class="tab-icon">⚡</span><span class="tab-text">This Week</span><span class="section-count"
-              id="count-this_week">0</span>
-          </button>
-          <button class="main-tab" id="tab-this_month" onclick="setTimelineTab('this_month')">
+          <button class="main-tab active" id="tab-this_month" onclick="setTimelineTab('this_month')">
             <span class="tab-icon">🗓️</span><span class="tab-text">This Month</span><span class="section-count"
               id="count-this_month">0</span>
           </button>
-          <button class="main-tab" id="tab-month" onclick="setTimelineTab('month')">
+          <button class="main-tab" id="tab-next_month" onclick="setTimelineTab('next_month')">
             <span class="tab-icon">⏰</span><span class="tab-text">Next Month</span><span class="section-count"
-              id="count-month">0</span>
+              id="count-next_month">0</span>
           </button>
           <button class="main-tab" id="tab-all_events" onclick="setTimelineTab('all_events')">
             <span class="tab-icon">📅</span><span class="tab-text">All Events</span><span class="section-count"
@@ -1433,26 +1453,16 @@
           </button>
         </div>
 
-
-
-        <div id="content-this_week">
-          <div class="grid" id="grid-this_week"></div>
-          <div class="see-more-bar" id="more-this_week"></div>
-        </div>
-
-        <div id="content-this_month" style="display:none;">
+        <div id="content-this_month">
           <div class="grid" id="grid-this_month"></div>
-          <div class="see-more-bar" id="more-this_month"></div>
         </div>
 
-        <div id="content-month" style="display:none;">
-          <div class="grid" id="grid-month"></div>
-          <div class="see-more-bar" id="more-month"></div>
+        <div id="content-next_month" style="display:none;">
+          <div class="grid" id="grid-next_month"></div>
         </div>
 
         <div id="content-all_events" style="display:none;">
           <div class="grid" id="grid-all_events"></div>
-          <div class="see-more-bar" id="more-all_events"></div>
         </div>
       </section>
     </main>
@@ -1561,11 +1571,6 @@
     let activeCategoryFilter = 'all';
     let activeSearchQuery = '';
     let activeViewMode = 'grid';
-    const sectionExpanded = { this_week: false, this_month: false, month: false, all_events: false };
-    function getInitialCount() {
-      return window.innerWidth <= 768 ? 8 : 9;
-    }
-
     function setViewMode(mode) {
       activeViewMode = mode;
       document.getElementById('view-grid').classList.toggle('active', mode === 'grid');
@@ -1579,7 +1584,7 @@
     }
 
     function setTimelineTab(tab) {
-      ['this_week', 'this_month', 'month', 'all_events'].forEach(t => {
+      ['this_month', 'next_month', 'all_events'].forEach(t => {
         document.getElementById('tab-' + t).classList.toggle('active', tab === t);
         document.getElementById('content-' + t).style.display = (tab === t) ? 'block' : 'none';
       });
@@ -1611,10 +1616,9 @@
       }
       buildSourcePills();
 
-      renderSection('grid-this_week',  'count-this_week',  allData.this_week  || [], 'more-this_week',  'this_week');
-      renderSection('grid-this_month', 'count-this_month', allData.this_month || [], 'more-this_month', 'this_month');
-      renderSection('grid-month',      'count-month',      allData.next_month || [], 'more-month',      'month');
-      renderSection('grid-all_events', 'count-all_events', allData.all_events || [], 'more-all_events', 'all_events');
+      renderSectionedTab('grid-this_month',  'count-this_month',  allData.this_month  || [], 'this_month');
+      renderSectionedTab('grid-next_month',  'count-next_month',  allData.next_month  || [], 'next_month');
+      renderSectionedTab('grid-all_events',  'count-all_events',  allData.all_events  || [], 'all_events');
 
     }
 
@@ -1622,12 +1626,9 @@
       return e.event_category || 'other';
     }
 
-    function renderSection(gridId, countId, events, moreBarId, sectionKey) {
-      const grid = document.getElementById(gridId);
-      const countEl = document.getElementById(countId);
-      const moreBar = moreBarId ? document.getElementById(moreBarId) : null;
-
-      const filtered = events.filter(e => {
+    /* ── Sub-sectioned tab renderer ─────────────────────────────────── */
+    function filterEvents(events) {
+      return events.filter(e => {
         const cat = getEventCategory(e);
         const sourceMatch = activeSourceFilter === 'all' || (e.source || '') === activeSourceFilter;
         const catMatch = activeCategoryFilter === 'all' || cat === activeCategoryFilter;
@@ -1638,47 +1639,95 @@
         }
         return sourceMatch && catMatch && searchMatch;
       });
+    }
 
+    function makeDivider(label) {
+      return `<div class="section-divider"><span class="section-divider-label">${label}</span></div>`;
+    }
+
+    const restExpanded = { this_month: false };
+
+    function renderSectionedTab(gridId, countId, events, tabKey) {
+      const grid = document.getElementById(gridId);
+      const countEl = document.getElementById(countId);
+      const filtered = filterEvents(events);
       countEl.textContent = filtered.length;
 
       if (filtered.length === 0) {
         grid.innerHTML = '<div class="empty-section">No events in this section right now.</div>';
-        if (moreBar) moreBar.innerHTML = '';
         return;
       }
 
-      const expanded = sectionExpanded[sectionKey];
-      const initialCount = getInitialCount();
-      const visible = expanded ? filtered : filtered.slice(0, initialCount);
-      const remaining = filtered.length - initialCount;
+      const weekEnd = allData.this_week_end || '';
+      const monthEnd = allData.this_month_end || '';
+      const nextMonthEnd = allData.next_month_end || '';
+      let html = '';
 
-      grid.innerHTML = visible.map((e, i) => buildCard(e, i)).join('');
+      if (tabKey === 'this_month') {
+        // Split into "This Week" and "Rest of the Month"
+        const thisWeek = filtered.filter(e => e.event_date <= weekEnd);
+        const restMonth = filtered.filter(e => e.event_date > weekEnd);
 
-      if (moreBar) {
-        if (filtered.length > initialCount) {
-          const label = expanded ? '↑ See less' : `See ${remaining} more →`;
-          moreBar.innerHTML =
-            `<a class="see-more-link" href="#" onclick="toggleSection('${sectionKey}', event)">${label}</a>`;
-        } else {
-          moreBar.innerHTML = '';
+        if (thisWeek.length > 0) {
+          html += makeDivider('⚡ This Week');
+          html += thisWeek.map((e, i) => buildCard(e, i)).join('');
         }
+        if (restMonth.length > 0) {
+          if (!restExpanded.this_month) {
+            // Show "Show More" button
+            html += `<div class="see-more-bar" style="grid-column:1/-1;">
+              <a class="see-more-link" href="#" onclick="expandRest('this_month', event)">Show ${restMonth.length} more events this month →</a>
+            </div>`;
+          } else {
+            html += makeDivider('🗓️ Rest of the Month');
+            html += restMonth.map((e, i) => buildCard(e, i)).join('');
+            html += `<div class="see-more-bar" style="grid-column:1/-1;">
+              <a class="see-more-link" href="#" onclick="collapseRest('this_month', event)">↑ Show less</a>
+            </div>`;
+          }
+        }
+
+      } else if (tabKey === 'all_events') {
+        // Split into "This Month", "Next Month", "Rest of the Year" — all visible
+        const thisM = filtered.filter(e => e.event_date <= monthEnd);
+        const nextM = filtered.filter(e => e.event_date > monthEnd && e.event_date <= nextMonthEnd);
+        const rest  = filtered.filter(e => e.event_date > nextMonthEnd);
+
+        if (thisM.length > 0) {
+          html += makeDivider('🗓️ This Month');
+          html += thisM.map((e, i) => buildCard(e, i)).join('');
+        }
+        if (nextM.length > 0) {
+          html += makeDivider('⏰ Next Month');
+          html += nextM.map((e, i) => buildCard(e, i)).join('');
+        }
+        if (rest.length > 0) {
+          html += makeDivider('📅 Rest of the Year');
+          html += rest.map((e, i) => buildCard(e, i)).join('');
+        }
+
+      } else {
+        // next_month — flat, no sub-sections
+        html = filtered.map((e, i) => buildCard(e, i)).join('');
       }
+
+      grid.innerHTML = html;
     }
 
-    function toggleSection(sectionKey, e) {
+    function expandRest(tabKey, e) {
       e.preventDefault();
-      sectionExpanded[sectionKey] = !sectionExpanded[sectionKey];
-
-      renderSection('grid-this_week',  'count-this_week',  allData.this_week  || [], 'more-this_week',  'this_week');
-      renderSection('grid-this_month', 'count-this_month', allData.this_month || [], 'more-this_month', 'this_month');
-      renderSection('grid-month',      'count-month',      allData.next_month || [], 'more-month',      'month');
-      renderSection('grid-all_events', 'count-all_events', allData.all_events || [], 'more-all_events', 'all_events');
+      restExpanded[tabKey] = true;
+      renderAllSections();
+    }
+    function collapseRest(tabKey, e) {
+      e.preventDefault();
+      restExpanded[tabKey] = false;
+      renderAllSections();
     }
 
     // ── Source pills ─────────────────────────────────────────────────────
     function buildSourcePills() {
       const allEvents = [
-        ...(allData.this_week  || []),
         ...(allData.this_month || []),
         ...(allData.next_month || []),
         ...(allData.all_events || []),
@@ -1693,11 +1742,6 @@
     function setSourceFilter(source) {
       activeSourceFilter = source;
 
-      sectionExpanded.this_week  = false;
-      sectionExpanded.this_month = false;
-      sectionExpanded.month      = false;
-      sectionExpanded.all_events = false;
-
       // Update active class on source pills only
       document.querySelectorAll('[id^="source-"]').forEach(p => p.classList.remove('active'));
       const pill = document.getElementById(source === 'all' ? 'source-all' : 'source-' + CSS.escape(source));
@@ -1710,10 +1754,6 @@
 
     function setCategoryFilter(category) {
       activeCategoryFilter = category;
-      sectionExpanded.this_week  = false;
-      sectionExpanded.this_month = false;
-      sectionExpanded.month      = false;
-      sectionExpanded.all_events = false;
 
       // Update active class on category pills only
       document.querySelectorAll('[id^="cat-"]').forEach(p => p.classList.remove('active'));
@@ -1739,19 +1779,14 @@
       if (searchTimeout) clearTimeout(searchTimeout);
       searchTimeout = setTimeout(() => {
         activeSearchQuery = (value || '').toLowerCase().trim();
-        sectionExpanded.this_week  = false;
-        sectionExpanded.this_month = false;
-        sectionExpanded.month      = false;
-        sectionExpanded.all_events = false;
         renderAllSections();
       }, 150);
     }
 
     function renderAllSections() {
-      renderSection('grid-this_week',  'count-this_week',  allData.this_week  || [], 'more-this_week',  'this_week');
-      renderSection('grid-this_month', 'count-this_month', allData.this_month || [], 'more-this_month', 'this_month');
-      renderSection('grid-month',      'count-month',      allData.next_month || [], 'more-month',      'month');
-      renderSection('grid-all_events', 'count-all_events', allData.all_events || [], 'more-all_events', 'all_events');
+      renderSectionedTab('grid-this_month',  'count-this_month',  allData.this_month  || [], 'this_month');
+      renderSectionedTab('grid-next_month',  'count-next_month',  allData.next_month  || [], 'next_month');
+      renderSectionedTab('grid-all_events',  'count-all_events',  allData.all_events  || [], 'all_events');
     }
 
 
