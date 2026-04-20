@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T23:59:47.974905-04:00",
-  "this_week_end": "2026-04-19",
+  "generated_at": "2026-04-20T00:26:02.568643-04:00",
+  "this_week_end": "2026-04-26",
   "this_month_end": "2026-04-30",
   "next_month_end": "2026-05-31",
   "this_month": [
@@ -13,36 +13,6 @@
       "cover_image_url": "https://www.ualberta.ca/media-library/ualberta/admissions-and-programs/courses/holodomor-mooc-wheat.jpg",
       "source": "UAlberta",
       "event_category": "workshop"
-    },
-    {
-      "id": "9650300a-7f70-4fdf-9256-4ccd319f0a10",
-      "event_title": "Volunteer Weekend",
-      "event_date": "2026-04-17",
-      "end_date": "2026-04-19",
-      "ticket_link": "https://soyuzivka.com/calendar-of-events/volunteer-weekend/",
-      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/SuzyQ-Volunteer1.png",
-      "source": "Soyuzivka",
-      "event_category": "festival"
-    },
-    {
-      "id": "ff67cdcd-4795-46d7-868b-ae0b626dc272",
-      "event_title": "PlaygroundPlayful, guided, acting experience for non-actors",
-      "event_date": "2026-04-19",
-      "end_date": "2026-04-19",
-      "ticket_link": "https://actor-school.webflow.io/workshops/playground-april-15-19-copy",
-      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
-      "source": "Tisto NYC",
-      "event_category": "workshop"
-    },
-    {
-      "id": "2edd6432-bc4e-49db-bf96-d91b0e26782a",
-      "event_title": "Woman’s Identity Dinner with OLIA FREIMUT in New York",
-      "event_date": "2026-04-19",
-      "end_date": "2026-04-19",
-      "ticket_link": "https://urclife.org/events/olia-freimut-new-york",
-      "cover_image_url": "https://urclife.org/wp-content/uploads/2026/03/%D0%A4%D1%80%D0%B5%D0%B8%CC%86%D0%BC%D1%83%D1%82-NY-19-1080%D1%851080-1.jpg",
-      "source": "URC Life",
-      "event_category": "other"
     },
     {
       "id": "01dfd4c5-437d-498e-9fc7-25be510b3e61",
@@ -95,16 +65,6 @@
       "event_category": "concert"
     },
     {
-      "id": "c89624cb-ed1a-4db4-99c2-517de1d1ebcf",
-      "event_title": "Photography Workshop",
-      "event_date": "2026-04-24",
-      "end_date": "2026-04-24",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/photography-workshop-2",
-      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1775409275/organizations/7/b/8/1/7b81cdf4-e002-4505-be5c-a3b004a24046/6f10df06-8393-4060-b49e-25b196317c08.png",
-      "source": "Zeffy",
-      "event_category": "workshop"
-    },
-    {
       "id": "68cd3991-b64b-461b-9124-d40ac876e911",
       "event_title": "CHICO & QATOSHI | WHIPPANY",
       "event_date": "2026-04-24",
@@ -125,24 +85,14 @@
       "event_category": "performance"
     },
     {
-      "id": "8de4cd45-95d6-4075-9ba4-48685c8c1634",
-      "event_title": "CHICO & QATOSHI | NEW YORK",
-      "event_date": "2026-04-25",
-      "end_date": "2026-04-25",
-      "ticket_link": "https://ukrainian.us/events/chico-qatoshi-new-york",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/3t_lasiJh4H6In3rh7cilHoECPMCNNmK-source.png?v=0.1&s=31e3adf765cc25bd3841728abf5e5858",
-      "source": "Ukrainian USA",
-      "event_category": "concert"
-    },
-    {
-      "id": "ddba5286-6b18-4305-adad-02bc81c00e9e",
-      "event_title": "Chornobyl as a Gateway to the Uncanny: Representing the Disaster First World Documentaries",
-      "event_date": "2026-04-25",
-      "end_date": "2026-04-25",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/chornobyl-as-a-gateway-to-the-uncanny-representing-the-disaster-first-world-documentaries",
-      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1772638510/organizations/4/2/a/f/42af6bbe-f5f0-4411-9e3d-d306365878ee/c84b61ad-77a4-4277-a00d-959008acf8af.jpg",
+      "id": "c89624cb-ed1a-4db4-99c2-517de1d1ebcf",
+      "event_title": "Photography Workshop",
+      "event_date": "2026-04-24",
+      "end_date": "2026-04-24",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/photography-workshop-2",
+      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1775409275/organizations/7/b/8/1/7b81cdf4-e002-4505-be5c-a3b004a24046/6f10df06-8393-4060-b49e-25b196317c08.png",
       "source": "Zeffy",
-      "event_category": "other"
+      "event_category": "workshop"
     },
     {
       "id": "45d42878-dffa-475f-99d0-94f621f8f253",
@@ -165,6 +115,36 @@
       "event_category": "movie"
     },
     {
+      "id": "8de4cd45-95d6-4075-9ba4-48685c8c1634",
+      "event_title": "CHICO & QATOSHI | NEW YORK",
+      "event_date": "2026-04-25",
+      "end_date": "2026-04-25",
+      "ticket_link": "https://ukrainian.us/events/chico-qatoshi-new-york",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/3t_lasiJh4H6In3rh7cilHoECPMCNNmK-source.png?v=0.1&s=31e3adf765cc25bd3841728abf5e5858",
+      "source": "Ukrainian USA",
+      "event_category": "concert"
+    },
+    {
+      "id": "ddba5286-6b18-4305-adad-02bc81c00e9e",
+      "event_title": "Chornobyl as a Gateway to the Uncanny: Representing the Disaster First World Documentaries",
+      "event_date": "2026-04-25",
+      "end_date": "2026-04-25",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/chornobyl-as-a-gateway-to-the-uncanny-representing-the-disaster-first-world-documentaries",
+      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1772638510/organizations/4/2/a/f/42af6bbe-f5f0-4411-9e3d-d306365878ee/c84b61ad-77a4-4277-a00d-959008acf8af.jpg",
+      "source": "Zeffy",
+      "event_category": "other"
+    },
+    {
+      "id": "114a2a8a-3ea4-4b27-bf46-e58dc02f7bae",
+      "event_title": "NEW YORK - Modern Roots Runway Show",
+      "event_date": "2026-04-26",
+      "end_date": "2026-04-26",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/fashion-show-new-york",
+      "cover_image_url": "https://images.sharvarok.com/post/1045/1771930312701-571280978.jpeg",
+      "source": "Zeffy",
+      "event_category": "performance"
+    },
+    {
       "id": "661921ea-443f-4c30-92a2-43f478c475bb",
       "event_title": "CHICO & QATOSHI | YONKERS",
       "event_date": "2026-04-26",
@@ -185,14 +165,14 @@
       "event_category": "other"
     },
     {
-      "id": "114a2a8a-3ea4-4b27-bf46-e58dc02f7bae",
-      "event_title": "NEW YORK - Modern Roots Runway Show",
-      "event_date": "2026-04-26",
-      "end_date": "2026-04-26",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/fashion-show-new-york",
-      "cover_image_url": "https://images.sharvarok.com/post/1045/1771930312701-571280978.jpeg",
-      "source": "Zeffy",
-      "event_category": "performance"
+      "id": "58372590-ea76-4046-ab67-bd23bfd230f8",
+      "event_title": "Lisa Batiashvili, Violinist \"Sounding Defiance: Georgia & Ukraine\"",
+      "event_date": "2026-04-29",
+      "end_date": "2026-04-29",
+      "ticket_link": "https://concerts.princeton.edu/events/25-26-batiashvili-healing/",
+      "cover_image_url": "https://concerts.princeton.edu/wp-content/uploads/2025/03/MH_BATIASHVILI_websquare_3.jpg",
+      "source": "Princeton Concerts",
+      "event_category": "concert"
     }
   ],
   "next_month": [
@@ -287,6 +267,16 @@
       "event_category": "concert"
     },
     {
+      "id": "95254e3d-1c14-4b7c-964d-b7cff42029c6",
+      "event_title": "KOLO",
+      "event_date": "2026-05-10",
+      "end_date": "2026-05-10",
+      "ticket_link": "https://ra.co/events/2416532",
+      "cover_image_url": "https://images.ra.co/0e9ae5adab81578b021ae78e33cc3bbb527f3c53.png",
+      "source": "Resident Advisor (KOLO NYC)",
+      "event_category": "concert"
+    },
+    {
       "id": "bc4014ca-7f8a-461b-bb68-37651c8d872e",
       "event_title": "Fisch Trio",
       "event_date": "2026-05-10",
@@ -304,16 +294,6 @@
       "ticket_link": "https://www.eventbrite.com/e/new-york-dzidzio-charitable-concert-by-revived-soldiers-ukraine-tickets-1983499401103",
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1177898873%252F86171180225%252F1%252Foriginal.20260219-020128%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Dd785c170d59a9e3618f8dbcb3d15e570&w=1880&q=75",
       "source": "Eventbrite",
-      "event_category": "concert"
-    },
-    {
-      "id": "95254e3d-1c14-4b7c-964d-b7cff42029c6",
-      "event_title": "KOLO",
-      "event_date": "2026-05-10",
-      "end_date": "2026-05-10",
-      "ticket_link": "https://ra.co/events/2416532",
-      "cover_image_url": "https://images.ra.co/0e9ae5adab81578b021ae78e33cc3bbb527f3c53.png",
-      "source": "Resident Advisor (KOLO NYC)",
       "event_category": "concert"
     },
     {
@@ -379,36 +359,6 @@
       "event_category": "workshop"
     },
     {
-      "id": "9650300a-7f70-4fdf-9256-4ccd319f0a10",
-      "event_title": "Volunteer Weekend",
-      "event_date": "2026-04-17",
-      "end_date": "2026-04-19",
-      "ticket_link": "https://soyuzivka.com/calendar-of-events/volunteer-weekend/",
-      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/SuzyQ-Volunteer1.png",
-      "source": "Soyuzivka",
-      "event_category": "festival"
-    },
-    {
-      "id": "ff67cdcd-4795-46d7-868b-ae0b626dc272",
-      "event_title": "PlaygroundPlayful, guided, acting experience for non-actors",
-      "event_date": "2026-04-19",
-      "end_date": "2026-04-19",
-      "ticket_link": "https://actor-school.webflow.io/workshops/playground-april-15-19-copy",
-      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
-      "source": "Tisto NYC",
-      "event_category": "workshop"
-    },
-    {
-      "id": "2edd6432-bc4e-49db-bf96-d91b0e26782a",
-      "event_title": "Woman’s Identity Dinner with OLIA FREIMUT in New York",
-      "event_date": "2026-04-19",
-      "end_date": "2026-04-19",
-      "ticket_link": "https://urclife.org/events/olia-freimut-new-york",
-      "cover_image_url": "https://urclife.org/wp-content/uploads/2026/03/%D0%A4%D1%80%D0%B5%D0%B8%CC%86%D0%BC%D1%83%D1%82-NY-19-1080%D1%851080-1.jpg",
-      "source": "URC Life",
-      "event_category": "other"
-    },
-    {
       "id": "01dfd4c5-437d-498e-9fc7-25be510b3e61",
       "event_title": "Razom Co-Pilot Conversation: Frontline Medicine in Ukraine",
       "event_date": "2026-04-20",
@@ -459,16 +409,6 @@
       "event_category": "concert"
     },
     {
-      "id": "c89624cb-ed1a-4db4-99c2-517de1d1ebcf",
-      "event_title": "Photography Workshop",
-      "event_date": "2026-04-24",
-      "end_date": "2026-04-24",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/photography-workshop-2",
-      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1775409275/organizations/7/b/8/1/7b81cdf4-e002-4505-be5c-a3b004a24046/6f10df06-8393-4060-b49e-25b196317c08.png",
-      "source": "Zeffy",
-      "event_category": "workshop"
-    },
-    {
       "id": "68cd3991-b64b-461b-9124-d40ac876e911",
       "event_title": "CHICO & QATOSHI | WHIPPANY",
       "event_date": "2026-04-24",
@@ -489,24 +429,14 @@
       "event_category": "performance"
     },
     {
-      "id": "8de4cd45-95d6-4075-9ba4-48685c8c1634",
-      "event_title": "CHICO & QATOSHI | NEW YORK",
-      "event_date": "2026-04-25",
-      "end_date": "2026-04-25",
-      "ticket_link": "https://ukrainian.us/events/chico-qatoshi-new-york",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/3t_lasiJh4H6In3rh7cilHoECPMCNNmK-source.png?v=0.1&s=31e3adf765cc25bd3841728abf5e5858",
-      "source": "Ukrainian USA",
-      "event_category": "concert"
-    },
-    {
-      "id": "ddba5286-6b18-4305-adad-02bc81c00e9e",
-      "event_title": "Chornobyl as a Gateway to the Uncanny: Representing the Disaster First World Documentaries",
-      "event_date": "2026-04-25",
-      "end_date": "2026-04-25",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/chornobyl-as-a-gateway-to-the-uncanny-representing-the-disaster-first-world-documentaries",
-      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1772638510/organizations/4/2/a/f/42af6bbe-f5f0-4411-9e3d-d306365878ee/c84b61ad-77a4-4277-a00d-959008acf8af.jpg",
+      "id": "c89624cb-ed1a-4db4-99c2-517de1d1ebcf",
+      "event_title": "Photography Workshop",
+      "event_date": "2026-04-24",
+      "end_date": "2026-04-24",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/photography-workshop-2",
+      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1775409275/organizations/7/b/8/1/7b81cdf4-e002-4505-be5c-a3b004a24046/6f10df06-8393-4060-b49e-25b196317c08.png",
       "source": "Zeffy",
-      "event_category": "other"
+      "event_category": "workshop"
     },
     {
       "id": "45d42878-dffa-475f-99d0-94f621f8f253",
@@ -529,6 +459,36 @@
       "event_category": "movie"
     },
     {
+      "id": "8de4cd45-95d6-4075-9ba4-48685c8c1634",
+      "event_title": "CHICO & QATOSHI | NEW YORK",
+      "event_date": "2026-04-25",
+      "end_date": "2026-04-25",
+      "ticket_link": "https://ukrainian.us/events/chico-qatoshi-new-york",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/3t_lasiJh4H6In3rh7cilHoECPMCNNmK-source.png?v=0.1&s=31e3adf765cc25bd3841728abf5e5858",
+      "source": "Ukrainian USA",
+      "event_category": "concert"
+    },
+    {
+      "id": "ddba5286-6b18-4305-adad-02bc81c00e9e",
+      "event_title": "Chornobyl as a Gateway to the Uncanny: Representing the Disaster First World Documentaries",
+      "event_date": "2026-04-25",
+      "end_date": "2026-04-25",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/chornobyl-as-a-gateway-to-the-uncanny-representing-the-disaster-first-world-documentaries",
+      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1772638510/organizations/4/2/a/f/42af6bbe-f5f0-4411-9e3d-d306365878ee/c84b61ad-77a4-4277-a00d-959008acf8af.jpg",
+      "source": "Zeffy",
+      "event_category": "other"
+    },
+    {
+      "id": "114a2a8a-3ea4-4b27-bf46-e58dc02f7bae",
+      "event_title": "NEW YORK - Modern Roots Runway Show",
+      "event_date": "2026-04-26",
+      "end_date": "2026-04-26",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/fashion-show-new-york",
+      "cover_image_url": "https://images.sharvarok.com/post/1045/1771930312701-571280978.jpeg",
+      "source": "Zeffy",
+      "event_category": "performance"
+    },
+    {
       "id": "661921ea-443f-4c30-92a2-43f478c475bb",
       "event_title": "CHICO & QATOSHI | YONKERS",
       "event_date": "2026-04-26",
@@ -549,14 +509,14 @@
       "event_category": "other"
     },
     {
-      "id": "114a2a8a-3ea4-4b27-bf46-e58dc02f7bae",
-      "event_title": "NEW YORK - Modern Roots Runway Show",
-      "event_date": "2026-04-26",
-      "end_date": "2026-04-26",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/fashion-show-new-york",
-      "cover_image_url": "https://images.sharvarok.com/post/1045/1771930312701-571280978.jpeg",
-      "source": "Zeffy",
-      "event_category": "performance"
+      "id": "58372590-ea76-4046-ab67-bd23bfd230f8",
+      "event_title": "Lisa Batiashvili, Violinist \"Sounding Defiance: Georgia & Ukraine\"",
+      "event_date": "2026-04-29",
+      "end_date": "2026-04-29",
+      "ticket_link": "https://concerts.princeton.edu/events/25-26-batiashvili-healing/",
+      "cover_image_url": "https://concerts.princeton.edu/wp-content/uploads/2025/03/MH_BATIASHVILI_websquare_3.jpg",
+      "source": "Princeton Concerts",
+      "event_category": "concert"
     },
     {
       "id": "646d4535-c286-481b-b656-fa7d2a6760d0",
@@ -639,6 +599,16 @@
       "event_category": "concert"
     },
     {
+      "id": "95254e3d-1c14-4b7c-964d-b7cff42029c6",
+      "event_title": "KOLO",
+      "event_date": "2026-05-10",
+      "end_date": "2026-05-10",
+      "ticket_link": "https://ra.co/events/2416532",
+      "cover_image_url": "https://images.ra.co/0e9ae5adab81578b021ae78e33cc3bbb527f3c53.png",
+      "source": "Resident Advisor (KOLO NYC)",
+      "event_category": "concert"
+    },
+    {
       "id": "bc4014ca-7f8a-461b-bb68-37651c8d872e",
       "event_title": "Fisch Trio",
       "event_date": "2026-05-10",
@@ -656,16 +626,6 @@
       "ticket_link": "https://www.eventbrite.com/e/new-york-dzidzio-charitable-concert-by-revived-soldiers-ukraine-tickets-1983499401103",
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1177898873%252F86171180225%252F1%252Foriginal.20260219-020128%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Dd785c170d59a9e3618f8dbcb3d15e570&w=1880&q=75",
       "source": "Eventbrite",
-      "event_category": "concert"
-    },
-    {
-      "id": "95254e3d-1c14-4b7c-964d-b7cff42029c6",
-      "event_title": "KOLO",
-      "event_date": "2026-05-10",
-      "end_date": "2026-05-10",
-      "ticket_link": "https://ra.co/events/2416532",
-      "cover_image_url": "https://images.ra.co/0e9ae5adab81578b021ae78e33cc3bbb527f3c53.png",
-      "source": "Resident Advisor (KOLO NYC)",
       "event_category": "concert"
     },
     {
@@ -759,16 +719,6 @@
       "event_category": "other"
     },
     {
-      "id": "c87b6b2f-4c3d-4236-9d50-b187ad5101df",
-      "event_title": "Vasyl Baidak - New York City",
-      "event_date": "2026-07-03",
-      "end_date": "2026-07-03",
-      "ticket_link": "https://waylight.me/ucrazy/event/16319-cd91c",
-      "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1773094064_-1200630.jpg",
-      "source": "Waylight",
-      "event_category": "standup"
-    },
-    {
       "id": "d0ff2077-0c30-46dd-a7da-132667e16d37",
       "event_title": "July 4th Celebration",
       "event_date": "2026-07-03",
@@ -777,6 +727,16 @@
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/July4th-1024x576.png",
       "source": "Soyuzivka",
       "event_category": "festival"
+    },
+    {
+      "id": "c87b6b2f-4c3d-4236-9d50-b187ad5101df",
+      "event_title": "Vasyl Baidak - New York City",
+      "event_date": "2026-07-03",
+      "end_date": "2026-07-03",
+      "ticket_link": "https://waylight.me/ucrazy/event/16319-cd91c",
+      "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1773094064_-1200630.jpg",
+      "source": "Waylight",
+      "event_category": "standup"
     },
     {
       "id": "20660505-fb61-4af0-906a-1b427d985910",
@@ -797,6 +757,16 @@
       "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2026/02/silhouette-dancing-people-disco-colorful-light-scaled.jpg",
       "source": "Helping Hands for Ukraine",
       "event_category": "performance"
+    },
+    {
+      "id": "407d58a4-ab33-48db-a85f-8ad4b9bebd89",
+      "event_title": "Bravo! Vail: Stéphane Denève and Emanuel Ax - Jul 28",
+      "event_date": "2026-07-28",
+      "end_date": "2026-07-28",
+      "ticket_link": "https://www.nyphil.org/concerts-tickets/2526/bravo-vail-jul-28/",
+      "cover_image_url": "https://res.cloudinary.com/nyphil/image/upload/f_auto/q_auto/f_auto/v1765817093/images/concerts-tickets/vail/2526/Concert_7-19-117_Photo_Zach_Mahone?_a=BAAASyDQ",
+      "source": "NY Phil",
+      "event_category": "movie"
     },
     {
       "id": "f2301e33-d269-4aa8-96d8-3872b4ea4ae1",
@@ -897,6 +867,16 @@
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/NewYears.png",
       "source": "Soyuzivka",
       "event_category": "festival"
+    },
+    {
+      "id": "f6a7ff26-56d1-4385-abab-227f8fc3da99",
+      "event_title": "Bychkov & Ax - Feb 25–27",
+      "event_date": "2027-02-25",
+      "end_date": "2027-02-27",
+      "ticket_link": "https://www.nyphil.org/concerts-tickets/2627/emanuel-ax-performs-beethoven/",
+      "cover_image_url": "https://res.cloudinary.com/nyphil/image/upload/f_auto/q_auto/f_auto/v1771008364/images/concerts-tickets/calendar/2627/Feb/2627-BychkovAx-1200x800?_a=BAAASyDQ",
+      "source": "NY Phil",
+      "event_category": "other"
     }
   ]
 }
