@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T05:59:51.796201-04:00",
+  "generated_at": "2026-04-21T05:26:14.651555-04:00",
   "this_week_end": "2026-04-26",
   "this_month_end": "2026-04-30",
   "next_month_end": "2026-05-31",
@@ -15,14 +15,14 @@
       "event_category": "workshop"
     },
     {
-      "id": "01dfd4c5-437d-498e-9fc7-25be510b3e61",
-      "event_title": "Razom Co-Pilot Conversation: Frontline Medicine in Ukraine",
-      "event_date": "2026-04-20",
-      "end_date": "2026-04-20",
-      "ticket_link": "https://www.razomforukraine.org/events/razom-co-pilot-conversation-frontline-medicine-in-ukraine/",
-      "cover_image_url": "https://www.razomforukraine.org/wp-content/uploads/2026/04/Event-cover.png",
-      "source": "Razom For Ukraine",
-      "event_category": "other"
+      "id": "57452fe7-a6f2-4c68-b45e-0be4781b1ffa",
+      "event_title": "Out of Head into Body",
+      "event_date": "2026-04-22",
+      "end_date": "2026-04-22",
+      "ticket_link": "https://tisto.nyc/workshops/actor-school-webflow-io-workshops-out-of-head-into-body-copy-2",
+      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69e3cc317d2d14847c7dfcf8_22.png",
+      "source": "Tisto NYC",
+      "event_category": null
     },
     {
       "id": "05a45ed4-a091-4880-9188-4a6863d119c7",
@@ -35,16 +35,6 @@
       "event_category": "other"
     },
     {
-      "id": "1825102d-de26-4c9b-9e06-e9609625ed94",
-      "event_title": "Brooklyn, NY/Премʼєра фільму \"На Драйві \"/“On Drive”",
-      "event_date": "2026-04-23",
-      "end_date": "2026-04-23",
-      "ticket_link": "https://www.eventbrite.com/e/brooklyn-ny-on-drive-tickets-1985993901220",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1180716526%252F294391790611%252F1%252Foriginal.20260326-004213%3Fw%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26s%3Ddee521dbf08edd4e9b840130ceabeeb7&w=1880&q=75",
-      "source": "Eventbrite",
-      "event_category": "movie"
-    },
-    {
       "id": "4993da0c-cf25-4401-8fa7-aadc2c4ba105",
       "event_title": "Afternoon Event w/ Yevgenia Nayberg: Chernobyl, Life, and Other Disasters",
       "event_date": "2026-04-23",
@@ -55,14 +45,24 @@
       "event_category": "arttalk"
     },
     {
-      "id": "994d6242-42b6-4fd5-b214-a1e356c01d4d",
-      "event_title": "Dima Prokopov Live in New York",
+      "id": "1825102d-de26-4c9b-9e06-e9609625ed94",
+      "event_title": "Brooklyn, NY/Премʼєра фільму \"На Драйві \"/“On Drive”",
+      "event_date": "2026-04-23",
+      "end_date": "2026-04-23",
+      "ticket_link": "https://www.eventbrite.com/e/brooklyn-ny-on-drive-tickets-1985993901220",
+      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1180716526%252F294391790611%252F1%252Foriginal.20260326-004213%3Fw%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26s%3Ddee521dbf08edd4e9b840130ceabeeb7&w=1880&q=75",
+      "source": "Eventbrite",
+      "event_category": "movie"
+    },
+    {
+      "id": "c89624cb-ed1a-4db4-99c2-517de1d1ebcf",
+      "event_title": "Photography Workshop",
       "event_date": "2026-04-24",
       "end_date": "2026-04-24",
-      "ticket_link": "https://ukrainian.us/events/prokopov-ny",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/HYEvKyLi0mJi92ocbWd3EpyjsHILgBxE-source.png?v=0.1&s=e0b574e217810f6ca7e82c13e06f0c15",
-      "source": "Ukrainian USA",
-      "event_category": "concert"
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/photography-workshop-2",
+      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1775409275/organizations/7/b/8/1/7b81cdf4-e002-4505-be5c-a3b004a24046/6f10df06-8393-4060-b49e-25b196317c08.png",
+      "source": "Zeffy",
+      "event_category": "workshop"
     },
     {
       "id": "68cd3991-b64b-461b-9124-d40ac876e911",
@@ -85,14 +85,14 @@
       "event_category": "performance"
     },
     {
-      "id": "c89624cb-ed1a-4db4-99c2-517de1d1ebcf",
-      "event_title": "Photography Workshop",
+      "id": "994d6242-42b6-4fd5-b214-a1e356c01d4d",
+      "event_title": "Dima Prokopov Live in New York",
       "event_date": "2026-04-24",
       "end_date": "2026-04-24",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/photography-workshop-2",
-      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1775409275/organizations/7/b/8/1/7b81cdf4-e002-4505-be5c-a3b004a24046/6f10df06-8393-4060-b49e-25b196317c08.png",
-      "source": "Zeffy",
-      "event_category": "workshop"
+      "ticket_link": "https://ukrainian.us/events/prokopov-ny",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/HYEvKyLi0mJi92ocbWd3EpyjsHILgBxE-source.png?v=0.1&s=e0b574e217810f6ca7e82c13e06f0c15",
+      "source": "Ukrainian USA",
+      "event_category": "concert"
     },
     {
       "id": "45d42878-dffa-475f-99d0-94f621f8f253",
@@ -115,16 +115,6 @@
       "event_category": "movie"
     },
     {
-      "id": "8de4cd45-95d6-4075-9ba4-48685c8c1634",
-      "event_title": "CHICO & QATOSHI | NEW YORK",
-      "event_date": "2026-04-25",
-      "end_date": "2026-04-25",
-      "ticket_link": "https://ukrainian.us/events/chico-qatoshi-new-york",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/3t_lasiJh4H6In3rh7cilHoECPMCNNmK-source.png?v=0.1&s=31e3adf765cc25bd3841728abf5e5858",
-      "source": "Ukrainian USA",
-      "event_category": "concert"
-    },
-    {
       "id": "ddba5286-6b18-4305-adad-02bc81c00e9e",
       "event_title": "Chornobyl as a Gateway to the Uncanny: Representing the Disaster First World Documentaries",
       "event_date": "2026-04-25",
@@ -135,22 +125,12 @@
       "event_category": "other"
     },
     {
-      "id": "114a2a8a-3ea4-4b27-bf46-e58dc02f7bae",
-      "event_title": "NEW YORK - Modern Roots Runway Show",
-      "event_date": "2026-04-26",
-      "end_date": "2026-04-26",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/fashion-show-new-york",
-      "cover_image_url": "https://images.sharvarok.com/post/1045/1771930312701-571280978.jpeg",
-      "source": "Zeffy",
-      "event_category": "performance"
-    },
-    {
-      "id": "661921ea-443f-4c30-92a2-43f478c475bb",
-      "event_title": "CHICO & QATOSHI | YONKERS",
-      "event_date": "2026-04-26",
-      "end_date": "2026-04-26",
-      "ticket_link": "https://ukrainian.us/events/chico-qatoshi-yonkers",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/klKly9UHR30DODFSEv7NDX7rlI2N145G-source.png?v=0.1&s=cb7e924c6abca0eb89697354e30cd890",
+      "id": "8de4cd45-95d6-4075-9ba4-48685c8c1634",
+      "event_title": "CHICO & QATOSHI | NEW YORK",
+      "event_date": "2026-04-25",
+      "end_date": "2026-04-25",
+      "ticket_link": "https://ukrainian.us/events/chico-qatoshi-new-york",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/3t_lasiJh4H6In3rh7cilHoECPMCNNmK-source.png?v=0.1&s=31e3adf765cc25bd3841728abf5e5858",
       "source": "Ukrainian USA",
       "event_category": "concert"
     },
@@ -163,6 +143,26 @@
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1172387313%252F810782514423%252F1%252Foriginal.20251205-144909%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D09be0c67999e6b19fcaa763005ce894d&w=1880&q=75",
       "source": "Eventbrite",
       "event_category": "other"
+    },
+    {
+      "id": "661921ea-443f-4c30-92a2-43f478c475bb",
+      "event_title": "CHICO & QATOSHI | YONKERS",
+      "event_date": "2026-04-26",
+      "end_date": "2026-04-26",
+      "ticket_link": "https://ukrainian.us/events/chico-qatoshi-yonkers",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/klKly9UHR30DODFSEv7NDX7rlI2N145G-source.png?v=0.1&s=cb7e924c6abca0eb89697354e30cd890",
+      "source": "Ukrainian USA",
+      "event_category": "concert"
+    },
+    {
+      "id": "114a2a8a-3ea4-4b27-bf46-e58dc02f7bae",
+      "event_title": "NEW YORK - Modern Roots Runway Show",
+      "event_date": "2026-04-26",
+      "end_date": "2026-04-26",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/fashion-show-new-york",
+      "cover_image_url": "https://images.sharvarok.com/post/1045/1771930312701-571280978.jpeg",
+      "source": "Zeffy",
+      "event_category": "performance"
     },
     {
       "id": "58372590-ea76-4046-ab67-bd23bfd230f8",
@@ -207,6 +207,16 @@
       "event_category": "performance"
     },
     {
+      "id": "7303793e-85d3-4593-a3fe-28e3ab2a4b92",
+      "event_title": "SPRING ART BAZAAR",
+      "event_date": "2026-05-02",
+      "end_date": "2026-05-02",
+      "ticket_link": "https://www.theukrainianmuseum.org/spring-art-bazaar-2/",
+      "cover_image_url": "https://www.theukrainianmuseum.org/wp-content/uploads/sunflowers.jpg",
+      "source": "Ukrainian Museum",
+      "event_category": "arttalk"
+    },
+    {
       "id": "7efe00f4-9272-4a1d-bed7-85b102dd4727",
       "event_title": "Женя Галич - New York City",
       "event_date": "2026-05-03",
@@ -237,14 +247,14 @@
       "event_category": "other"
     },
     {
-      "id": "8507be15-50f4-4657-a4f9-d3b4731a952c",
-      "event_title": "Voice of the Ukrainian Diaspora",
+      "id": "cd780c38-7d18-43fe-9e8e-c3d86adbc5ff",
+      "event_title": "NEW YORK  DZIDZIO Charitable Concert by Revived Soldiers Ukraine",
       "event_date": "2026-05-10",
       "end_date": "2026-05-10",
-      "ticket_link": "https://www.eventbrite.com/e/voice-of-the-ukrainian-diaspora-tickets-1985816161596",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1180787456%252F2996288818158%252F1%252Foriginal.20260326-200013%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D878929400151e51f65767e2b14f999ee&w=1880&q=75",
+      "ticket_link": "https://www.eventbrite.com/e/new-york-dzidzio-charitable-concert-by-revived-soldiers-ukraine-tickets-1983499401103",
+      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1177898873%252F86171180225%252F1%252Foriginal.20260219-020128%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Dd785c170d59a9e3618f8dbcb3d15e570&w=1880&q=75",
       "source": "Eventbrite",
-      "event_category": "arttalk"
+      "event_category": "concert"
     },
     {
       "id": "5bf97f96-4932-418d-a052-b5ced514c9e1",
@@ -267,16 +277,6 @@
       "event_category": "concert"
     },
     {
-      "id": "95254e3d-1c14-4b7c-964d-b7cff42029c6",
-      "event_title": "KOLO",
-      "event_date": "2026-05-10",
-      "end_date": "2026-05-10",
-      "ticket_link": "https://ra.co/events/2416532",
-      "cover_image_url": "https://images.ra.co/0e9ae5adab81578b021ae78e33cc3bbb527f3c53.png",
-      "source": "Resident Advisor (KOLO NYC)",
-      "event_category": "concert"
-    },
-    {
       "id": "bc4014ca-7f8a-461b-bb68-37651c8d872e",
       "event_title": "Fisch Trio",
       "event_date": "2026-05-10",
@@ -287,13 +287,23 @@
       "event_category": "concert"
     },
     {
-      "id": "cd780c38-7d18-43fe-9e8e-c3d86adbc5ff",
-      "event_title": "NEW YORK  DZIDZIO Charitable Concert by Revived Soldiers Ukraine",
+      "id": "8507be15-50f4-4657-a4f9-d3b4731a952c",
+      "event_title": "Voice of the Ukrainian Diaspora",
       "event_date": "2026-05-10",
       "end_date": "2026-05-10",
-      "ticket_link": "https://www.eventbrite.com/e/new-york-dzidzio-charitable-concert-by-revived-soldiers-ukraine-tickets-1983499401103",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1177898873%252F86171180225%252F1%252Foriginal.20260219-020128%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Dd785c170d59a9e3618f8dbcb3d15e570&w=1880&q=75",
+      "ticket_link": "https://www.eventbrite.com/e/voice-of-the-ukrainian-diaspora-tickets-1985816161596",
+      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1180787456%252F2996288818158%252F1%252Foriginal.20260326-200013%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D878929400151e51f65767e2b14f999ee&w=1880&q=75",
       "source": "Eventbrite",
+      "event_category": "arttalk"
+    },
+    {
+      "id": "95254e3d-1c14-4b7c-964d-b7cff42029c6",
+      "event_title": "KOLO",
+      "event_date": "2026-05-10",
+      "end_date": "2026-05-10",
+      "ticket_link": "https://ra.co/events/2416532",
+      "cover_image_url": "https://images.ra.co/0e9ae5adab81578b021ae78e33cc3bbb527f3c53.png",
+      "source": "Resident Advisor (KOLO NYC)",
       "event_category": "concert"
     },
     {
@@ -359,14 +369,14 @@
       "event_category": "workshop"
     },
     {
-      "id": "01dfd4c5-437d-498e-9fc7-25be510b3e61",
-      "event_title": "Razom Co-Pilot Conversation: Frontline Medicine in Ukraine",
-      "event_date": "2026-04-20",
-      "end_date": "2026-04-20",
-      "ticket_link": "https://www.razomforukraine.org/events/razom-co-pilot-conversation-frontline-medicine-in-ukraine/",
-      "cover_image_url": "https://www.razomforukraine.org/wp-content/uploads/2026/04/Event-cover.png",
-      "source": "Razom For Ukraine",
-      "event_category": "other"
+      "id": "57452fe7-a6f2-4c68-b45e-0be4781b1ffa",
+      "event_title": "Out of Head into Body",
+      "event_date": "2026-04-22",
+      "end_date": "2026-04-22",
+      "ticket_link": "https://tisto.nyc/workshops/actor-school-webflow-io-workshops-out-of-head-into-body-copy-2",
+      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69e3cc317d2d14847c7dfcf8_22.png",
+      "source": "Tisto NYC",
+      "event_category": null
     },
     {
       "id": "05a45ed4-a091-4880-9188-4a6863d119c7",
@@ -379,16 +389,6 @@
       "event_category": "other"
     },
     {
-      "id": "1825102d-de26-4c9b-9e06-e9609625ed94",
-      "event_title": "Brooklyn, NY/Премʼєра фільму \"На Драйві \"/“On Drive”",
-      "event_date": "2026-04-23",
-      "end_date": "2026-04-23",
-      "ticket_link": "https://www.eventbrite.com/e/brooklyn-ny-on-drive-tickets-1985993901220",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1180716526%252F294391790611%252F1%252Foriginal.20260326-004213%3Fw%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26s%3Ddee521dbf08edd4e9b840130ceabeeb7&w=1880&q=75",
-      "source": "Eventbrite",
-      "event_category": "movie"
-    },
-    {
       "id": "4993da0c-cf25-4401-8fa7-aadc2c4ba105",
       "event_title": "Afternoon Event w/ Yevgenia Nayberg: Chernobyl, Life, and Other Disasters",
       "event_date": "2026-04-23",
@@ -399,14 +399,24 @@
       "event_category": "arttalk"
     },
     {
-      "id": "994d6242-42b6-4fd5-b214-a1e356c01d4d",
-      "event_title": "Dima Prokopov Live in New York",
+      "id": "1825102d-de26-4c9b-9e06-e9609625ed94",
+      "event_title": "Brooklyn, NY/Премʼєра фільму \"На Драйві \"/“On Drive”",
+      "event_date": "2026-04-23",
+      "end_date": "2026-04-23",
+      "ticket_link": "https://www.eventbrite.com/e/brooklyn-ny-on-drive-tickets-1985993901220",
+      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1180716526%252F294391790611%252F1%252Foriginal.20260326-004213%3Fw%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26s%3Ddee521dbf08edd4e9b840130ceabeeb7&w=1880&q=75",
+      "source": "Eventbrite",
+      "event_category": "movie"
+    },
+    {
+      "id": "c89624cb-ed1a-4db4-99c2-517de1d1ebcf",
+      "event_title": "Photography Workshop",
       "event_date": "2026-04-24",
       "end_date": "2026-04-24",
-      "ticket_link": "https://ukrainian.us/events/prokopov-ny",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/HYEvKyLi0mJi92ocbWd3EpyjsHILgBxE-source.png?v=0.1&s=e0b574e217810f6ca7e82c13e06f0c15",
-      "source": "Ukrainian USA",
-      "event_category": "concert"
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/photography-workshop-2",
+      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1775409275/organizations/7/b/8/1/7b81cdf4-e002-4505-be5c-a3b004a24046/6f10df06-8393-4060-b49e-25b196317c08.png",
+      "source": "Zeffy",
+      "event_category": "workshop"
     },
     {
       "id": "68cd3991-b64b-461b-9124-d40ac876e911",
@@ -429,14 +439,14 @@
       "event_category": "performance"
     },
     {
-      "id": "c89624cb-ed1a-4db4-99c2-517de1d1ebcf",
-      "event_title": "Photography Workshop",
+      "id": "994d6242-42b6-4fd5-b214-a1e356c01d4d",
+      "event_title": "Dima Prokopov Live in New York",
       "event_date": "2026-04-24",
       "end_date": "2026-04-24",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/photography-workshop-2",
-      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1775409275/organizations/7/b/8/1/7b81cdf4-e002-4505-be5c-a3b004a24046/6f10df06-8393-4060-b49e-25b196317c08.png",
-      "source": "Zeffy",
-      "event_category": "workshop"
+      "ticket_link": "https://ukrainian.us/events/prokopov-ny",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/HYEvKyLi0mJi92ocbWd3EpyjsHILgBxE-source.png?v=0.1&s=e0b574e217810f6ca7e82c13e06f0c15",
+      "source": "Ukrainian USA",
+      "event_category": "concert"
     },
     {
       "id": "45d42878-dffa-475f-99d0-94f621f8f253",
@@ -459,16 +469,6 @@
       "event_category": "movie"
     },
     {
-      "id": "8de4cd45-95d6-4075-9ba4-48685c8c1634",
-      "event_title": "CHICO & QATOSHI | NEW YORK",
-      "event_date": "2026-04-25",
-      "end_date": "2026-04-25",
-      "ticket_link": "https://ukrainian.us/events/chico-qatoshi-new-york",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/3t_lasiJh4H6In3rh7cilHoECPMCNNmK-source.png?v=0.1&s=31e3adf765cc25bd3841728abf5e5858",
-      "source": "Ukrainian USA",
-      "event_category": "concert"
-    },
-    {
       "id": "ddba5286-6b18-4305-adad-02bc81c00e9e",
       "event_title": "Chornobyl as a Gateway to the Uncanny: Representing the Disaster First World Documentaries",
       "event_date": "2026-04-25",
@@ -479,22 +479,12 @@
       "event_category": "other"
     },
     {
-      "id": "114a2a8a-3ea4-4b27-bf46-e58dc02f7bae",
-      "event_title": "NEW YORK - Modern Roots Runway Show",
-      "event_date": "2026-04-26",
-      "end_date": "2026-04-26",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/fashion-show-new-york",
-      "cover_image_url": "https://images.sharvarok.com/post/1045/1771930312701-571280978.jpeg",
-      "source": "Zeffy",
-      "event_category": "performance"
-    },
-    {
-      "id": "661921ea-443f-4c30-92a2-43f478c475bb",
-      "event_title": "CHICO & QATOSHI | YONKERS",
-      "event_date": "2026-04-26",
-      "end_date": "2026-04-26",
-      "ticket_link": "https://ukrainian.us/events/chico-qatoshi-yonkers",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/klKly9UHR30DODFSEv7NDX7rlI2N145G-source.png?v=0.1&s=cb7e924c6abca0eb89697354e30cd890",
+      "id": "8de4cd45-95d6-4075-9ba4-48685c8c1634",
+      "event_title": "CHICO & QATOSHI | NEW YORK",
+      "event_date": "2026-04-25",
+      "end_date": "2026-04-25",
+      "ticket_link": "https://ukrainian.us/events/chico-qatoshi-new-york",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/3t_lasiJh4H6In3rh7cilHoECPMCNNmK-source.png?v=0.1&s=31e3adf765cc25bd3841728abf5e5858",
       "source": "Ukrainian USA",
       "event_category": "concert"
     },
@@ -507,6 +497,26 @@
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1172387313%252F810782514423%252F1%252Foriginal.20251205-144909%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D09be0c67999e6b19fcaa763005ce894d&w=1880&q=75",
       "source": "Eventbrite",
       "event_category": "other"
+    },
+    {
+      "id": "661921ea-443f-4c30-92a2-43f478c475bb",
+      "event_title": "CHICO & QATOSHI | YONKERS",
+      "event_date": "2026-04-26",
+      "end_date": "2026-04-26",
+      "ticket_link": "https://ukrainian.us/events/chico-qatoshi-yonkers",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/klKly9UHR30DODFSEv7NDX7rlI2N145G-source.png?v=0.1&s=cb7e924c6abca0eb89697354e30cd890",
+      "source": "Ukrainian USA",
+      "event_category": "concert"
+    },
+    {
+      "id": "114a2a8a-3ea4-4b27-bf46-e58dc02f7bae",
+      "event_title": "NEW YORK - Modern Roots Runway Show",
+      "event_date": "2026-04-26",
+      "end_date": "2026-04-26",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/fashion-show-new-york",
+      "cover_image_url": "https://images.sharvarok.com/post/1045/1771930312701-571280978.jpeg",
+      "source": "Zeffy",
+      "event_category": "performance"
     },
     {
       "id": "58372590-ea76-4046-ab67-bd23bfd230f8",
@@ -539,6 +549,16 @@
       "event_category": "performance"
     },
     {
+      "id": "7303793e-85d3-4593-a3fe-28e3ab2a4b92",
+      "event_title": "SPRING ART BAZAAR",
+      "event_date": "2026-05-02",
+      "end_date": "2026-05-02",
+      "ticket_link": "https://www.theukrainianmuseum.org/spring-art-bazaar-2/",
+      "cover_image_url": "https://www.theukrainianmuseum.org/wp-content/uploads/sunflowers.jpg",
+      "source": "Ukrainian Museum",
+      "event_category": "arttalk"
+    },
+    {
       "id": "7efe00f4-9272-4a1d-bed7-85b102dd4727",
       "event_title": "Женя Галич - New York City",
       "event_date": "2026-05-03",
@@ -569,14 +589,14 @@
       "event_category": "other"
     },
     {
-      "id": "8507be15-50f4-4657-a4f9-d3b4731a952c",
-      "event_title": "Voice of the Ukrainian Diaspora",
+      "id": "cd780c38-7d18-43fe-9e8e-c3d86adbc5ff",
+      "event_title": "NEW YORK  DZIDZIO Charitable Concert by Revived Soldiers Ukraine",
       "event_date": "2026-05-10",
       "end_date": "2026-05-10",
-      "ticket_link": "https://www.eventbrite.com/e/voice-of-the-ukrainian-diaspora-tickets-1985816161596",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1180787456%252F2996288818158%252F1%252Foriginal.20260326-200013%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D878929400151e51f65767e2b14f999ee&w=1880&q=75",
+      "ticket_link": "https://www.eventbrite.com/e/new-york-dzidzio-charitable-concert-by-revived-soldiers-ukraine-tickets-1983499401103",
+      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1177898873%252F86171180225%252F1%252Foriginal.20260219-020128%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Dd785c170d59a9e3618f8dbcb3d15e570&w=1880&q=75",
       "source": "Eventbrite",
-      "event_category": "arttalk"
+      "event_category": "concert"
     },
     {
       "id": "5bf97f96-4932-418d-a052-b5ced514c9e1",
@@ -599,16 +619,6 @@
       "event_category": "concert"
     },
     {
-      "id": "95254e3d-1c14-4b7c-964d-b7cff42029c6",
-      "event_title": "KOLO",
-      "event_date": "2026-05-10",
-      "end_date": "2026-05-10",
-      "ticket_link": "https://ra.co/events/2416532",
-      "cover_image_url": "https://images.ra.co/0e9ae5adab81578b021ae78e33cc3bbb527f3c53.png",
-      "source": "Resident Advisor (KOLO NYC)",
-      "event_category": "concert"
-    },
-    {
       "id": "bc4014ca-7f8a-461b-bb68-37651c8d872e",
       "event_title": "Fisch Trio",
       "event_date": "2026-05-10",
@@ -619,13 +629,23 @@
       "event_category": "concert"
     },
     {
-      "id": "cd780c38-7d18-43fe-9e8e-c3d86adbc5ff",
-      "event_title": "NEW YORK  DZIDZIO Charitable Concert by Revived Soldiers Ukraine",
+      "id": "8507be15-50f4-4657-a4f9-d3b4731a952c",
+      "event_title": "Voice of the Ukrainian Diaspora",
       "event_date": "2026-05-10",
       "end_date": "2026-05-10",
-      "ticket_link": "https://www.eventbrite.com/e/new-york-dzidzio-charitable-concert-by-revived-soldiers-ukraine-tickets-1983499401103",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1177898873%252F86171180225%252F1%252Foriginal.20260219-020128%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Dd785c170d59a9e3618f8dbcb3d15e570&w=1880&q=75",
+      "ticket_link": "https://www.eventbrite.com/e/voice-of-the-ukrainian-diaspora-tickets-1985816161596",
+      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1180787456%252F2996288818158%252F1%252Foriginal.20260326-200013%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D878929400151e51f65767e2b14f999ee&w=1880&q=75",
       "source": "Eventbrite",
+      "event_category": "arttalk"
+    },
+    {
+      "id": "95254e3d-1c14-4b7c-964d-b7cff42029c6",
+      "event_title": "KOLO",
+      "event_date": "2026-05-10",
+      "end_date": "2026-05-10",
+      "ticket_link": "https://ra.co/events/2416532",
+      "cover_image_url": "https://images.ra.co/0e9ae5adab81578b021ae78e33cc3bbb527f3c53.png",
+      "source": "Resident Advisor (KOLO NYC)",
       "event_category": "concert"
     },
     {
@@ -719,16 +739,6 @@
       "event_category": "other"
     },
     {
-      "id": "d0ff2077-0c30-46dd-a7da-132667e16d37",
-      "event_title": "July 4th Celebration",
-      "event_date": "2026-07-03",
-      "end_date": "2026-07-05",
-      "ticket_link": "https://soyuzivka.com/calendar-of-events/july-4th-celebration/",
-      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/July4th-1024x576.png",
-      "source": "Soyuzivka",
-      "event_category": "festival"
-    },
-    {
       "id": "c87b6b2f-4c3d-4236-9d50-b187ad5101df",
       "event_title": "Vasyl Baidak - New York City",
       "event_date": "2026-07-03",
@@ -737,6 +747,16 @@
       "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1773094064_-1200630.jpg",
       "source": "Waylight",
       "event_category": "standup"
+    },
+    {
+      "id": "d0ff2077-0c30-46dd-a7da-132667e16d37",
+      "event_title": "July 4th Celebration",
+      "event_date": "2026-07-03",
+      "end_date": "2026-07-05",
+      "ticket_link": "https://soyuzivka.com/calendar-of-events/july-4th-celebration/",
+      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/July4th-1024x576.png",
+      "source": "Soyuzivka",
+      "event_category": "festival"
     },
     {
       "id": "20660505-fb61-4af0-906a-1b427d985910",
