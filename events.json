@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T05:21:43.446213-04:00",
+  "generated_at": "2026-04-23T05:27:50.090609-04:00",
   "this_week_end": "2026-04-26",
   "this_month_end": "2026-04-30",
   "next_month_end": "2026-05-31",
@@ -15,24 +15,14 @@
       "event_category": "workshop"
     },
     {
-      "id": "57452fe7-a6f2-4c68-b45e-0be4781b1ffa",
-      "event_title": "Out of Head into Body",
-      "event_date": "2026-04-22",
-      "end_date": "2026-04-22",
-      "ticket_link": "https://tisto.nyc/workshops/actor-school-webflow-io-workshops-out-of-head-into-body-copy-2",
-      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69e3cc317d2d14847c7dfcf8_22.png",
-      "source": "Tisto NYC",
-      "event_category": null
-    },
-    {
-      "id": "05a45ed4-a091-4880-9188-4a6863d119c7",
-      "event_title": "Ecocide in Ukraine: The Environmental Cost of Russia's War",
-      "event_date": "2026-04-22",
-      "end_date": "2026-04-22",
-      "ticket_link": "https://www.huri.harvard.edu/event/darya-tsymbalyuk-ecocide-ukraine-environmental-cost-russias-war",
-      "cover_image_url": "https://www.huri.harvard.edu/sites/g/files/omnuum4931/files/styles/hwp_5_4__770x620/public/2026-03/2026.04.22%20Tsymbalyuk-4-1920x1536-web-thumbnail.png?itok=8p6JQ-Jo$0",
-      "source": "Harvard Ukrainian Research Institute",
-      "event_category": "other"
+      "id": "1825102d-de26-4c9b-9e06-e9609625ed94",
+      "event_title": "Brooklyn, NY/Премʼєра фільму \"На Драйві \"/“On Drive”",
+      "event_date": "2026-04-23",
+      "end_date": "2026-04-23",
+      "ticket_link": "https://www.eventbrite.com/e/brooklyn-ny-on-drive-tickets-1985993901220",
+      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1180716526%252F294391790611%252F1%252Foriginal.20260326-004213%3Fw%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26s%3Ddee521dbf08edd4e9b840130ceabeeb7&w=1880&q=75",
+      "source": "Eventbrite",
+      "event_category": "movie"
     },
     {
       "id": "4993da0c-cf25-4401-8fa7-aadc2c4ba105",
@@ -43,16 +33,6 @@
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1179629620%252F213734307976%252F1%252Foriginal.20260311-202827%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D1.0%26fp-y%3D0.483%26s%3D6bccfae807e05f8d6e6aac337b6951f5&w=1880&q=75",
       "source": "Eventbrite",
       "event_category": "arttalk"
-    },
-    {
-      "id": "1825102d-de26-4c9b-9e06-e9609625ed94",
-      "event_title": "Brooklyn, NY/Премʼєра фільму \"На Драйві \"/“On Drive”",
-      "event_date": "2026-04-23",
-      "end_date": "2026-04-23",
-      "ticket_link": "https://www.eventbrite.com/e/brooklyn-ny-on-drive-tickets-1985993901220",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1180716526%252F294391790611%252F1%252Foriginal.20260326-004213%3Fw%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26s%3Ddee521dbf08edd4e9b840130ceabeeb7&w=1880&q=75",
-      "source": "Eventbrite",
-      "event_category": "movie"
     },
     {
       "id": "c89624cb-ed1a-4db4-99c2-517de1d1ebcf",
@@ -95,16 +75,6 @@
       "event_category": "concert"
     },
     {
-      "id": "45d42878-dffa-475f-99d0-94f621f8f253",
-      "event_title": "Soho Arts Network (SAN) Downtown Culture Walk x The Ukrainian Museum",
-      "event_date": "2026-04-25",
-      "end_date": "2026-04-25",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/downtown-culture-walk-at-the-ukrainian-museum",
-      "cover_image_url": "https://www.theukrainianmuseum.org/wp-content/uploads/Ukrainian-Museum-Downtown-Culture-Walk-Banner-scaled.jpg",
-      "source": "Ukrainian Museum",
-      "event_category": "concert"
-    },
-    {
       "id": "aff162b7-f2e4-4a75-9c67-5f81b0447d29",
       "event_title": "Viktor movie screening at the ReelAbilities Film Festival",
       "event_date": "2026-04-25",
@@ -135,14 +105,14 @@
       "event_category": "concert"
     },
     {
-      "id": "b18b2738-fb70-496a-82d6-0427f3aad8a0",
-      "event_title": "NATURE IN DANGER: The Destruction Of Nature In Ukraine During The War",
-      "event_date": "2026-04-26",
-      "end_date": "2026-04-26",
-      "ticket_link": "https://www.eventbrite.com/e/nature-in-danger-the-destruction-of-nature-in-ukraine-during-the-war-tickets-1852660169439",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1172387313%252F810782514423%252F1%252Foriginal.20251205-144909%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D09be0c67999e6b19fcaa763005ce894d&w=1880&q=75",
-      "source": "Eventbrite",
-      "event_category": "other"
+      "id": "45d42878-dffa-475f-99d0-94f621f8f253",
+      "event_title": "Soho Arts Network (SAN) Downtown Culture Walk x The Ukrainian Museum",
+      "event_date": "2026-04-25",
+      "end_date": "2026-04-25",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/downtown-culture-walk-at-the-ukrainian-museum",
+      "cover_image_url": "https://www.theukrainianmuseum.org/wp-content/uploads/Ukrainian-Museum-Downtown-Culture-Walk-Banner-scaled.jpg",
+      "source": "Ukrainian Museum",
+      "event_category": "concert"
     },
     {
       "id": "661921ea-443f-4c30-92a2-43f478c475bb",
@@ -155,6 +125,26 @@
       "event_category": "concert"
     },
     {
+      "id": "b18b2738-fb70-496a-82d6-0427f3aad8a0",
+      "event_title": "NATURE IN DANGER: The Destruction Of Nature In Ukraine During The War",
+      "event_date": "2026-04-26",
+      "end_date": "2026-04-26",
+      "ticket_link": "https://www.eventbrite.com/e/nature-in-danger-the-destruction-of-nature-in-ukraine-during-the-war-tickets-1852660169439",
+      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1172387313%252F810782514423%252F1%252Foriginal.20251205-144909%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D09be0c67999e6b19fcaa763005ce894d&w=1880&q=75",
+      "source": "Eventbrite",
+      "event_category": "other"
+    },
+    {
+      "id": "0db49c72-5c85-4540-b456-2b42a37a9a58",
+      "event_title": "Out of Head into Body",
+      "event_date": "2026-04-26",
+      "end_date": "2026-04-26",
+      "ticket_link": "https://tisto.nyc/workshops/actor-school-webflow-io-workshops-out-of-head-into-body-copy",
+      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69e8daae01aa81db1a38897d_web%20workshop%2027.jpg",
+      "source": "Tisto NYC",
+      "event_category": null
+    },
+    {
       "id": "114a2a8a-3ea4-4b27-bf46-e58dc02f7bae",
       "event_title": "NEW YORK - Modern Roots Runway Show",
       "event_date": "2026-04-26",
@@ -163,6 +153,16 @@
       "cover_image_url": "https://images.sharvarok.com/post/1045/1771930312701-571280978.jpeg",
       "source": "Zeffy",
       "event_category": "performance"
+    },
+    {
+      "id": "a95cffe3-50d3-4cb5-beef-924d4fcb0a2b",
+      "event_title": "Playground",
+      "event_date": "2026-04-28",
+      "end_date": "2026-04-28",
+      "ticket_link": "https://tisto.nyc/workshops/playground-april-28",
+      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
+      "source": "Tisto NYC",
+      "event_category": null
     },
     {
       "id": "58372590-ea76-4046-ab67-bd23bfd230f8",
@@ -369,24 +369,14 @@
       "event_category": "workshop"
     },
     {
-      "id": "57452fe7-a6f2-4c68-b45e-0be4781b1ffa",
-      "event_title": "Out of Head into Body",
-      "event_date": "2026-04-22",
-      "end_date": "2026-04-22",
-      "ticket_link": "https://tisto.nyc/workshops/actor-school-webflow-io-workshops-out-of-head-into-body-copy-2",
-      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69e3cc317d2d14847c7dfcf8_22.png",
-      "source": "Tisto NYC",
-      "event_category": null
-    },
-    {
-      "id": "05a45ed4-a091-4880-9188-4a6863d119c7",
-      "event_title": "Ecocide in Ukraine: The Environmental Cost of Russia's War",
-      "event_date": "2026-04-22",
-      "end_date": "2026-04-22",
-      "ticket_link": "https://www.huri.harvard.edu/event/darya-tsymbalyuk-ecocide-ukraine-environmental-cost-russias-war",
-      "cover_image_url": "https://www.huri.harvard.edu/sites/g/files/omnuum4931/files/styles/hwp_5_4__770x620/public/2026-03/2026.04.22%20Tsymbalyuk-4-1920x1536-web-thumbnail.png?itok=8p6JQ-Jo$0",
-      "source": "Harvard Ukrainian Research Institute",
-      "event_category": "other"
+      "id": "1825102d-de26-4c9b-9e06-e9609625ed94",
+      "event_title": "Brooklyn, NY/Премʼєра фільму \"На Драйві \"/“On Drive”",
+      "event_date": "2026-04-23",
+      "end_date": "2026-04-23",
+      "ticket_link": "https://www.eventbrite.com/e/brooklyn-ny-on-drive-tickets-1985993901220",
+      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1180716526%252F294391790611%252F1%252Foriginal.20260326-004213%3Fw%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26s%3Ddee521dbf08edd4e9b840130ceabeeb7&w=1880&q=75",
+      "source": "Eventbrite",
+      "event_category": "movie"
     },
     {
       "id": "4993da0c-cf25-4401-8fa7-aadc2c4ba105",
@@ -397,16 +387,6 @@
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1179629620%252F213734307976%252F1%252Foriginal.20260311-202827%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D1.0%26fp-y%3D0.483%26s%3D6bccfae807e05f8d6e6aac337b6951f5&w=1880&q=75",
       "source": "Eventbrite",
       "event_category": "arttalk"
-    },
-    {
-      "id": "1825102d-de26-4c9b-9e06-e9609625ed94",
-      "event_title": "Brooklyn, NY/Премʼєра фільму \"На Драйві \"/“On Drive”",
-      "event_date": "2026-04-23",
-      "end_date": "2026-04-23",
-      "ticket_link": "https://www.eventbrite.com/e/brooklyn-ny-on-drive-tickets-1985993901220",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1180716526%252F294391790611%252F1%252Foriginal.20260326-004213%3Fw%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26s%3Ddee521dbf08edd4e9b840130ceabeeb7&w=1880&q=75",
-      "source": "Eventbrite",
-      "event_category": "movie"
     },
     {
       "id": "c89624cb-ed1a-4db4-99c2-517de1d1ebcf",
@@ -449,16 +429,6 @@
       "event_category": "concert"
     },
     {
-      "id": "45d42878-dffa-475f-99d0-94f621f8f253",
-      "event_title": "Soho Arts Network (SAN) Downtown Culture Walk x The Ukrainian Museum",
-      "event_date": "2026-04-25",
-      "end_date": "2026-04-25",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/downtown-culture-walk-at-the-ukrainian-museum",
-      "cover_image_url": "https://www.theukrainianmuseum.org/wp-content/uploads/Ukrainian-Museum-Downtown-Culture-Walk-Banner-scaled.jpg",
-      "source": "Ukrainian Museum",
-      "event_category": "concert"
-    },
-    {
       "id": "aff162b7-f2e4-4a75-9c67-5f81b0447d29",
       "event_title": "Viktor movie screening at the ReelAbilities Film Festival",
       "event_date": "2026-04-25",
@@ -489,14 +459,14 @@
       "event_category": "concert"
     },
     {
-      "id": "b18b2738-fb70-496a-82d6-0427f3aad8a0",
-      "event_title": "NATURE IN DANGER: The Destruction Of Nature In Ukraine During The War",
-      "event_date": "2026-04-26",
-      "end_date": "2026-04-26",
-      "ticket_link": "https://www.eventbrite.com/e/nature-in-danger-the-destruction-of-nature-in-ukraine-during-the-war-tickets-1852660169439",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1172387313%252F810782514423%252F1%252Foriginal.20251205-144909%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D09be0c67999e6b19fcaa763005ce894d&w=1880&q=75",
-      "source": "Eventbrite",
-      "event_category": "other"
+      "id": "45d42878-dffa-475f-99d0-94f621f8f253",
+      "event_title": "Soho Arts Network (SAN) Downtown Culture Walk x The Ukrainian Museum",
+      "event_date": "2026-04-25",
+      "end_date": "2026-04-25",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/downtown-culture-walk-at-the-ukrainian-museum",
+      "cover_image_url": "https://www.theukrainianmuseum.org/wp-content/uploads/Ukrainian-Museum-Downtown-Culture-Walk-Banner-scaled.jpg",
+      "source": "Ukrainian Museum",
+      "event_category": "concert"
     },
     {
       "id": "661921ea-443f-4c30-92a2-43f478c475bb",
@@ -509,6 +479,26 @@
       "event_category": "concert"
     },
     {
+      "id": "b18b2738-fb70-496a-82d6-0427f3aad8a0",
+      "event_title": "NATURE IN DANGER: The Destruction Of Nature In Ukraine During The War",
+      "event_date": "2026-04-26",
+      "end_date": "2026-04-26",
+      "ticket_link": "https://www.eventbrite.com/e/nature-in-danger-the-destruction-of-nature-in-ukraine-during-the-war-tickets-1852660169439",
+      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1172387313%252F810782514423%252F1%252Foriginal.20251205-144909%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D09be0c67999e6b19fcaa763005ce894d&w=1880&q=75",
+      "source": "Eventbrite",
+      "event_category": "other"
+    },
+    {
+      "id": "0db49c72-5c85-4540-b456-2b42a37a9a58",
+      "event_title": "Out of Head into Body",
+      "event_date": "2026-04-26",
+      "end_date": "2026-04-26",
+      "ticket_link": "https://tisto.nyc/workshops/actor-school-webflow-io-workshops-out-of-head-into-body-copy",
+      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69e8daae01aa81db1a38897d_web%20workshop%2027.jpg",
+      "source": "Tisto NYC",
+      "event_category": null
+    },
+    {
       "id": "114a2a8a-3ea4-4b27-bf46-e58dc02f7bae",
       "event_title": "NEW YORK - Modern Roots Runway Show",
       "event_date": "2026-04-26",
@@ -517,6 +507,16 @@
       "cover_image_url": "https://images.sharvarok.com/post/1045/1771930312701-571280978.jpeg",
       "source": "Zeffy",
       "event_category": "performance"
+    },
+    {
+      "id": "a95cffe3-50d3-4cb5-beef-924d4fcb0a2b",
+      "event_title": "Playground",
+      "event_date": "2026-04-28",
+      "end_date": "2026-04-28",
+      "ticket_link": "https://tisto.nyc/workshops/playground-april-28",
+      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
+      "source": "Tisto NYC",
+      "event_category": null
     },
     {
       "id": "58372590-ea76-4046-ab67-bd23bfd230f8",
@@ -739,16 +739,6 @@
       "event_category": "other"
     },
     {
-      "id": "c87b6b2f-4c3d-4236-9d50-b187ad5101df",
-      "event_title": "Vasyl Baidak - New York City",
-      "event_date": "2026-07-03",
-      "end_date": "2026-07-03",
-      "ticket_link": "https://waylight.me/ucrazy/event/16319-cd91c",
-      "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1773094064_-1200630.jpg",
-      "source": "Waylight",
-      "event_category": "standup"
-    },
-    {
       "id": "d0ff2077-0c30-46dd-a7da-132667e16d37",
       "event_title": "July 4th Celebration",
       "event_date": "2026-07-03",
@@ -757,6 +747,16 @@
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/July4th-1024x576.png",
       "source": "Soyuzivka",
       "event_category": "festival"
+    },
+    {
+      "id": "c87b6b2f-4c3d-4236-9d50-b187ad5101df",
+      "event_title": "Vasyl Baidak - New York City",
+      "event_date": "2026-07-03",
+      "end_date": "2026-07-03",
+      "ticket_link": "https://waylight.me/ucrazy/event/16319-cd91c",
+      "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1773094064_-1200630.jpg",
+      "source": "Waylight",
+      "event_category": "standup"
     },
     {
       "id": "20660505-fb61-4af0-906a-1b427d985910",
