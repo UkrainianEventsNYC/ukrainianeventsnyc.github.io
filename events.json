@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T15:27:06.350209-04:00",
+  "generated_at": "2026-04-24T15:49:16.771004-04:00",
   "this_week_end": "2026-04-26",
   "this_month_end": "2026-04-30",
   "next_month_end": "2026-05-31",
@@ -15,24 +15,14 @@
       "event_category": "workshop"
     },
     {
-      "id": "841c60cd-b81c-4c5c-8bc9-697a714eab3e",
-      "event_title": "NEW JERSEY - Modern Roots Runway Show",
+      "id": "ecfceef9-e0a9-4111-a3d4-3831cc7d0017",
+      "event_title": "Boundless: Min Xiao-Fen and Julian Kytasty · Lincoln Center",
       "event_date": "2026-04-24",
       "end_date": "2026-04-24",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/annual-gala-2338",
-      "cover_image_url": "https://images.sharvarok.com/post/1045/1771930312701-571280978.jpeg",
-      "source": "Zeffy",
-      "event_category": "performance"
-    },
-    {
-      "id": "68cd3991-b64b-461b-9124-d40ac876e911",
-      "event_title": "CHICO & QATOSHI | WHIPPANY",
-      "event_date": "2026-04-24",
-      "end_date": "2026-04-24",
-      "ticket_link": "https://ukrainian.us/events/chico-qatoshi-whippany",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/E9vX1XF2MQiJb8_UlgaGmayZ7C9QM7a_-source.png?v=0.1&s=b63eb6c815afb4759c5bf0fe6f6c3cfc",
-      "source": "Ukrainian USA",
-      "event_category": "concert"
+      "ticket_link": "https://lincolncenter.org/series/lincoln-center-presents/boundless-min-xiao-fen-and-julian-kytasty",
+      "cover_image_url": "https://images.lincolncenter.org/image/upload/v1768512273/exwhm6mrh8pj2clne3wd.jpg",
+      "source": "Lincoln Center",
+      "event_category": "other"
     },
     {
       "id": "c89624cb-ed1a-4db4-99c2-517de1d1ebcf",
@@ -55,13 +45,23 @@
       "event_category": "concert"
     },
     {
-      "id": "45d42878-dffa-475f-99d0-94f621f8f253",
-      "event_title": "Soho Arts Network (SAN) Downtown Culture Walk x The Ukrainian Museum",
-      "event_date": "2026-04-25",
-      "end_date": "2026-04-25",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/downtown-culture-walk-at-the-ukrainian-museum",
-      "cover_image_url": "https://www.theukrainianmuseum.org/wp-content/uploads/Ukrainian-Museum-Downtown-Culture-Walk-Banner-scaled.jpg",
-      "source": "Ukrainian Museum",
+      "id": "841c60cd-b81c-4c5c-8bc9-697a714eab3e",
+      "event_title": "NEW JERSEY - Modern Roots Runway Show",
+      "event_date": "2026-04-24",
+      "end_date": "2026-04-24",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/annual-gala-2338",
+      "cover_image_url": "https://images.sharvarok.com/post/1045/1771930312701-571280978.jpeg",
+      "source": "Zeffy",
+      "event_category": "performance"
+    },
+    {
+      "id": "68cd3991-b64b-461b-9124-d40ac876e911",
+      "event_title": "CHICO & QATOSHI | WHIPPANY",
+      "event_date": "2026-04-24",
+      "end_date": "2026-04-24",
+      "ticket_link": "https://ukrainian.us/events/chico-qatoshi-whippany",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/E9vX1XF2MQiJb8_UlgaGmayZ7C9QM7a_-source.png?v=0.1&s=b63eb6c815afb4759c5bf0fe6f6c3cfc",
+      "source": "Ukrainian USA",
       "event_category": "concert"
     },
     {
@@ -75,16 +75,6 @@
       "event_category": "movie"
     },
     {
-      "id": "8de4cd45-95d6-4075-9ba4-48685c8c1634",
-      "event_title": "CHICO & QATOSHI | NEW YORK",
-      "event_date": "2026-04-25",
-      "end_date": "2026-04-25",
-      "ticket_link": "https://ukrainian.us/events/chico-qatoshi-new-york",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/3t_lasiJh4H6In3rh7cilHoECPMCNNmK-source.png?v=0.1&s=31e3adf765cc25bd3841728abf5e5858",
-      "source": "Ukrainian USA",
-      "event_category": "concert"
-    },
-    {
       "id": "ddba5286-6b18-4305-adad-02bc81c00e9e",
       "event_title": "Chornobyl as a Gateway to the Uncanny: Representing the Disaster First World Documentaries",
       "event_date": "2026-04-25",
@@ -93,6 +83,26 @@
       "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1772638510/organizations/4/2/a/f/42af6bbe-f5f0-4411-9e3d-d306365878ee/c84b61ad-77a4-4277-a00d-959008acf8af.jpg",
       "source": "Zeffy",
       "event_category": "other"
+    },
+    {
+      "id": "45d42878-dffa-475f-99d0-94f621f8f253",
+      "event_title": "Soho Arts Network (SAN) Downtown Culture Walk x The Ukrainian Museum",
+      "event_date": "2026-04-25",
+      "end_date": "2026-04-25",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/downtown-culture-walk-at-the-ukrainian-museum",
+      "cover_image_url": "https://www.theukrainianmuseum.org/wp-content/uploads/Ukrainian-Museum-Downtown-Culture-Walk-Banner-scaled.jpg",
+      "source": "Ukrainian Museum",
+      "event_category": "concert"
+    },
+    {
+      "id": "8de4cd45-95d6-4075-9ba4-48685c8c1634",
+      "event_title": "CHICO & QATOSHI | NEW YORK",
+      "event_date": "2026-04-25",
+      "end_date": "2026-04-25",
+      "ticket_link": "https://ukrainian.us/events/chico-qatoshi-new-york",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/3t_lasiJh4H6In3rh7cilHoECPMCNNmK-source.png?v=0.1&s=31e3adf765cc25bd3841728abf5e5858",
+      "source": "Ukrainian USA",
+      "event_category": "concert"
     },
     {
       "id": "114a2a8a-3ea4-4b27-bf46-e58dc02f7bae",
@@ -115,6 +125,16 @@
       "event_category": "concert"
     },
     {
+      "id": "0db49c72-5c85-4540-b456-2b42a37a9a58",
+      "event_title": "Out of Head into Body",
+      "event_date": "2026-04-26",
+      "end_date": "2026-04-26",
+      "ticket_link": "https://tisto.nyc/workshops/actor-school-webflow-io-workshops-out-of-head-into-body-copy",
+      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69e8daae01aa81db1a38897d_web%20workshop%2027.jpg",
+      "source": "Tisto NYC",
+      "event_category": "workshop"
+    },
+    {
       "id": "b18b2738-fb70-496a-82d6-0427f3aad8a0",
       "event_title": "NATURE IN DANGER: The Destruction Of Nature In Ukraine During The War",
       "event_date": "2026-04-26",
@@ -125,16 +145,6 @@
       "event_category": "other"
     },
     {
-      "id": "0db49c72-5c85-4540-b456-2b42a37a9a58",
-      "event_title": "Out of Head into Body",
-      "event_date": "2026-04-26",
-      "end_date": "2026-04-26",
-      "ticket_link": "https://tisto.nyc/workshops/actor-school-webflow-io-workshops-out-of-head-into-body-copy",
-      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69e8daae01aa81db1a38897d_web%20workshop%2027.jpg",
-      "source": "Tisto NYC",
-      "event_category": null
-    },
-    {
       "id": "a95cffe3-50d3-4cb5-beef-924d4fcb0a2b",
       "event_title": "Playground",
       "event_date": "2026-04-28",
@@ -142,7 +152,7 @@
       "ticket_link": "https://tisto.nyc/workshops/playground-april-28",
       "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
       "source": "Tisto NYC",
-      "event_category": null
+      "event_category": "workshop"
     },
     {
       "id": "58372590-ea76-4046-ab67-bd23bfd230f8",
@@ -177,6 +187,16 @@
       "event_category": "concert"
     },
     {
+      "id": "7303793e-85d3-4593-a3fe-28e3ab2a4b92",
+      "event_title": "SPRING ART BAZAAR",
+      "event_date": "2026-05-02",
+      "end_date": "2026-05-02",
+      "ticket_link": "https://www.theukrainianmuseum.org/spring-art-bazaar-2/",
+      "cover_image_url": "https://www.theukrainianmuseum.org/wp-content/uploads/sunflowers.jpg",
+      "source": "Ukrainian Museum",
+      "event_category": "other"
+    },
+    {
       "id": "617b8095-087b-434b-a6c2-c3ee221cae72",
       "event_title": "Songs & Dances of the Crimean Tatars",
       "event_date": "2026-05-02",
@@ -185,16 +205,6 @@
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1181617174%252F502975386231%252F1%252Foriginal.20260407-174858%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.078%26fp-y%3D0.967%26s%3D6d782c18786c4f35e95fbe0f39a967a8&w=1880&q=75",
       "source": "Eventbrite",
       "event_category": "performance"
-    },
-    {
-      "id": "7303793e-85d3-4593-a3fe-28e3ab2a4b92",
-      "event_title": "SPRING ART BAZAAR",
-      "event_date": "2026-05-02",
-      "end_date": "2026-05-02",
-      "ticket_link": "https://www.theukrainianmuseum.org/spring-art-bazaar-2/",
-      "cover_image_url": "https://www.theukrainianmuseum.org/wp-content/uploads/sunflowers.jpg",
-      "source": "Ukrainian Museum",
-      "event_category": "arttalk"
     },
     {
       "id": "7efe00f4-9272-4a1d-bed7-85b102dd4727",
@@ -214,7 +224,7 @@
       "ticket_link": "https://www.razomforukraine.org/events/ukrainian-drama-showcase/",
       "cover_image_url": "https://www.razomforukraine.org/wp-content/uploads/2026/04/Group-3-7.png",
       "source": "Razom For Ukraine",
-      "event_category": "other"
+      "event_category": "performance"
     },
     {
       "id": "81cd7df3-d78f-4cc9-8a2f-94a12b79d0df",
@@ -224,37 +234,7 @@
       "ticket_link": "https://www.eventbrite.com/e/across-the-oceans-united-in-support-of-kyiv-mohyla-academy-new-york-tickets-1984716832473",
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1179326041%252F865995669873%252F1%252Foriginal.20260308-174605%3Fw%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26s%3D82853ed14ed58ced42c57e6aec7da2be&w=1880&q=75",
       "source": "Eventbrite",
-      "event_category": "other"
-    },
-    {
-      "id": "95254e3d-1c14-4b7c-964d-b7cff42029c6",
-      "event_title": "KOLO",
-      "event_date": "2026-05-10",
-      "end_date": "2026-05-10",
-      "ticket_link": "https://ra.co/events/2416532",
-      "cover_image_url": "https://images.ra.co/0e9ae5adab81578b021ae78e33cc3bbb527f3c53.png",
-      "source": "Resident Advisor (KOLO NYC)",
-      "event_category": "concert"
-    },
-    {
-      "id": "5bf97f96-4932-418d-a052-b5ced514c9e1",
-      "event_title": "Mother’s Day Brunch",
-      "event_date": "2026-05-10",
-      "end_date": "2026-05-10",
-      "ticket_link": "https://soyuzivka.com/calendar-of-events/fathers-day-brunch-copy/",
-      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2026/03/Mothers-Day-Pic.png",
-      "source": "Soyuzivka",
-      "event_category": "other"
-    },
-    {
-      "id": "e51d622a-e3a5-4c84-94c7-2d7d17fa968e",
-      "event_title": "KOLA - New York",
-      "event_date": "2026-05-10",
-      "end_date": "2026-05-10",
-      "ticket_link": "https://bomond.com/events/kola-new-york",
-      "cover_image_url": "https://api.bomond.com/public/68/3429/171460/432_432.webp",
-      "source": "Bomond",
-      "event_category": "concert"
+      "event_category": "arttalk"
     },
     {
       "id": "bc4014ca-7f8a-461b-bb68-37651c8d872e",
@@ -275,6 +255,36 @@
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1180787456%252F2996288818158%252F1%252Foriginal.20260326-200013%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D878929400151e51f65767e2b14f999ee&w=1880&q=75",
       "source": "Eventbrite",
       "event_category": "arttalk"
+    },
+    {
+      "id": "5bf97f96-4932-418d-a052-b5ced514c9e1",
+      "event_title": "Mother’s Day Brunch",
+      "event_date": "2026-05-10",
+      "end_date": "2026-05-10",
+      "ticket_link": "https://soyuzivka.com/calendar-of-events/fathers-day-brunch-copy/",
+      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2026/03/Mothers-Day-Pic.png",
+      "source": "Soyuzivka",
+      "event_category": "other"
+    },
+    {
+      "id": "95254e3d-1c14-4b7c-964d-b7cff42029c6",
+      "event_title": "KOLO",
+      "event_date": "2026-05-10",
+      "end_date": "2026-05-10",
+      "ticket_link": "https://ra.co/events/2416532",
+      "cover_image_url": "https://images.ra.co/0e9ae5adab81578b021ae78e33cc3bbb527f3c53.png",
+      "source": "Resident Advisor (KOLO NYC)",
+      "event_category": "concert"
+    },
+    {
+      "id": "e51d622a-e3a5-4c84-94c7-2d7d17fa968e",
+      "event_title": "KOLA - New York",
+      "event_date": "2026-05-10",
+      "end_date": "2026-05-10",
+      "ticket_link": "https://bomond.com/events/kola-new-york",
+      "cover_image_url": "https://api.bomond.com/public/68/3429/171460/432_432.webp",
+      "source": "Bomond",
+      "event_category": "concert"
     },
     {
       "id": "cd780c38-7d18-43fe-9e8e-c3d86adbc5ff",
@@ -349,24 +359,14 @@
       "event_category": "workshop"
     },
     {
-      "id": "841c60cd-b81c-4c5c-8bc9-697a714eab3e",
-      "event_title": "NEW JERSEY - Modern Roots Runway Show",
+      "id": "ecfceef9-e0a9-4111-a3d4-3831cc7d0017",
+      "event_title": "Boundless: Min Xiao-Fen and Julian Kytasty · Lincoln Center",
       "event_date": "2026-04-24",
       "end_date": "2026-04-24",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/annual-gala-2338",
-      "cover_image_url": "https://images.sharvarok.com/post/1045/1771930312701-571280978.jpeg",
-      "source": "Zeffy",
-      "event_category": "performance"
-    },
-    {
-      "id": "68cd3991-b64b-461b-9124-d40ac876e911",
-      "event_title": "CHICO & QATOSHI | WHIPPANY",
-      "event_date": "2026-04-24",
-      "end_date": "2026-04-24",
-      "ticket_link": "https://ukrainian.us/events/chico-qatoshi-whippany",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/E9vX1XF2MQiJb8_UlgaGmayZ7C9QM7a_-source.png?v=0.1&s=b63eb6c815afb4759c5bf0fe6f6c3cfc",
-      "source": "Ukrainian USA",
-      "event_category": "concert"
+      "ticket_link": "https://lincolncenter.org/series/lincoln-center-presents/boundless-min-xiao-fen-and-julian-kytasty",
+      "cover_image_url": "https://images.lincolncenter.org/image/upload/v1768512273/exwhm6mrh8pj2clne3wd.jpg",
+      "source": "Lincoln Center",
+      "event_category": "other"
     },
     {
       "id": "c89624cb-ed1a-4db4-99c2-517de1d1ebcf",
@@ -389,13 +389,23 @@
       "event_category": "concert"
     },
     {
-      "id": "45d42878-dffa-475f-99d0-94f621f8f253",
-      "event_title": "Soho Arts Network (SAN) Downtown Culture Walk x The Ukrainian Museum",
-      "event_date": "2026-04-25",
-      "end_date": "2026-04-25",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/downtown-culture-walk-at-the-ukrainian-museum",
-      "cover_image_url": "https://www.theukrainianmuseum.org/wp-content/uploads/Ukrainian-Museum-Downtown-Culture-Walk-Banner-scaled.jpg",
-      "source": "Ukrainian Museum",
+      "id": "841c60cd-b81c-4c5c-8bc9-697a714eab3e",
+      "event_title": "NEW JERSEY - Modern Roots Runway Show",
+      "event_date": "2026-04-24",
+      "end_date": "2026-04-24",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/annual-gala-2338",
+      "cover_image_url": "https://images.sharvarok.com/post/1045/1771930312701-571280978.jpeg",
+      "source": "Zeffy",
+      "event_category": "performance"
+    },
+    {
+      "id": "68cd3991-b64b-461b-9124-d40ac876e911",
+      "event_title": "CHICO & QATOSHI | WHIPPANY",
+      "event_date": "2026-04-24",
+      "end_date": "2026-04-24",
+      "ticket_link": "https://ukrainian.us/events/chico-qatoshi-whippany",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/E9vX1XF2MQiJb8_UlgaGmayZ7C9QM7a_-source.png?v=0.1&s=b63eb6c815afb4759c5bf0fe6f6c3cfc",
+      "source": "Ukrainian USA",
       "event_category": "concert"
     },
     {
@@ -409,16 +419,6 @@
       "event_category": "movie"
     },
     {
-      "id": "8de4cd45-95d6-4075-9ba4-48685c8c1634",
-      "event_title": "CHICO & QATOSHI | NEW YORK",
-      "event_date": "2026-04-25",
-      "end_date": "2026-04-25",
-      "ticket_link": "https://ukrainian.us/events/chico-qatoshi-new-york",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/3t_lasiJh4H6In3rh7cilHoECPMCNNmK-source.png?v=0.1&s=31e3adf765cc25bd3841728abf5e5858",
-      "source": "Ukrainian USA",
-      "event_category": "concert"
-    },
-    {
       "id": "ddba5286-6b18-4305-adad-02bc81c00e9e",
       "event_title": "Chornobyl as a Gateway to the Uncanny: Representing the Disaster First World Documentaries",
       "event_date": "2026-04-25",
@@ -427,6 +427,26 @@
       "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1772638510/organizations/4/2/a/f/42af6bbe-f5f0-4411-9e3d-d306365878ee/c84b61ad-77a4-4277-a00d-959008acf8af.jpg",
       "source": "Zeffy",
       "event_category": "other"
+    },
+    {
+      "id": "45d42878-dffa-475f-99d0-94f621f8f253",
+      "event_title": "Soho Arts Network (SAN) Downtown Culture Walk x The Ukrainian Museum",
+      "event_date": "2026-04-25",
+      "end_date": "2026-04-25",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/downtown-culture-walk-at-the-ukrainian-museum",
+      "cover_image_url": "https://www.theukrainianmuseum.org/wp-content/uploads/Ukrainian-Museum-Downtown-Culture-Walk-Banner-scaled.jpg",
+      "source": "Ukrainian Museum",
+      "event_category": "concert"
+    },
+    {
+      "id": "8de4cd45-95d6-4075-9ba4-48685c8c1634",
+      "event_title": "CHICO & QATOSHI | NEW YORK",
+      "event_date": "2026-04-25",
+      "end_date": "2026-04-25",
+      "ticket_link": "https://ukrainian.us/events/chico-qatoshi-new-york",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/3t_lasiJh4H6In3rh7cilHoECPMCNNmK-source.png?v=0.1&s=31e3adf765cc25bd3841728abf5e5858",
+      "source": "Ukrainian USA",
+      "event_category": "concert"
     },
     {
       "id": "114a2a8a-3ea4-4b27-bf46-e58dc02f7bae",
@@ -449,6 +469,16 @@
       "event_category": "concert"
     },
     {
+      "id": "0db49c72-5c85-4540-b456-2b42a37a9a58",
+      "event_title": "Out of Head into Body",
+      "event_date": "2026-04-26",
+      "end_date": "2026-04-26",
+      "ticket_link": "https://tisto.nyc/workshops/actor-school-webflow-io-workshops-out-of-head-into-body-copy",
+      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69e8daae01aa81db1a38897d_web%20workshop%2027.jpg",
+      "source": "Tisto NYC",
+      "event_category": "workshop"
+    },
+    {
       "id": "b18b2738-fb70-496a-82d6-0427f3aad8a0",
       "event_title": "NATURE IN DANGER: The Destruction Of Nature In Ukraine During The War",
       "event_date": "2026-04-26",
@@ -459,16 +489,6 @@
       "event_category": "other"
     },
     {
-      "id": "0db49c72-5c85-4540-b456-2b42a37a9a58",
-      "event_title": "Out of Head into Body",
-      "event_date": "2026-04-26",
-      "end_date": "2026-04-26",
-      "ticket_link": "https://tisto.nyc/workshops/actor-school-webflow-io-workshops-out-of-head-into-body-copy",
-      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69e8daae01aa81db1a38897d_web%20workshop%2027.jpg",
-      "source": "Tisto NYC",
-      "event_category": null
-    },
-    {
       "id": "a95cffe3-50d3-4cb5-beef-924d4fcb0a2b",
       "event_title": "Playground",
       "event_date": "2026-04-28",
@@ -476,7 +496,7 @@
       "ticket_link": "https://tisto.nyc/workshops/playground-april-28",
       "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
       "source": "Tisto NYC",
-      "event_category": null
+      "event_category": "workshop"
     },
     {
       "id": "58372590-ea76-4046-ab67-bd23bfd230f8",
@@ -499,6 +519,16 @@
       "event_category": "concert"
     },
     {
+      "id": "7303793e-85d3-4593-a3fe-28e3ab2a4b92",
+      "event_title": "SPRING ART BAZAAR",
+      "event_date": "2026-05-02",
+      "end_date": "2026-05-02",
+      "ticket_link": "https://www.theukrainianmuseum.org/spring-art-bazaar-2/",
+      "cover_image_url": "https://www.theukrainianmuseum.org/wp-content/uploads/sunflowers.jpg",
+      "source": "Ukrainian Museum",
+      "event_category": "other"
+    },
+    {
       "id": "617b8095-087b-434b-a6c2-c3ee221cae72",
       "event_title": "Songs & Dances of the Crimean Tatars",
       "event_date": "2026-05-02",
@@ -507,16 +537,6 @@
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1181617174%252F502975386231%252F1%252Foriginal.20260407-174858%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.078%26fp-y%3D0.967%26s%3D6d782c18786c4f35e95fbe0f39a967a8&w=1880&q=75",
       "source": "Eventbrite",
       "event_category": "performance"
-    },
-    {
-      "id": "7303793e-85d3-4593-a3fe-28e3ab2a4b92",
-      "event_title": "SPRING ART BAZAAR",
-      "event_date": "2026-05-02",
-      "end_date": "2026-05-02",
-      "ticket_link": "https://www.theukrainianmuseum.org/spring-art-bazaar-2/",
-      "cover_image_url": "https://www.theukrainianmuseum.org/wp-content/uploads/sunflowers.jpg",
-      "source": "Ukrainian Museum",
-      "event_category": "arttalk"
     },
     {
       "id": "7efe00f4-9272-4a1d-bed7-85b102dd4727",
@@ -536,7 +556,7 @@
       "ticket_link": "https://www.razomforukraine.org/events/ukrainian-drama-showcase/",
       "cover_image_url": "https://www.razomforukraine.org/wp-content/uploads/2026/04/Group-3-7.png",
       "source": "Razom For Ukraine",
-      "event_category": "other"
+      "event_category": "performance"
     },
     {
       "id": "81cd7df3-d78f-4cc9-8a2f-94a12b79d0df",
@@ -546,37 +566,7 @@
       "ticket_link": "https://www.eventbrite.com/e/across-the-oceans-united-in-support-of-kyiv-mohyla-academy-new-york-tickets-1984716832473",
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1179326041%252F865995669873%252F1%252Foriginal.20260308-174605%3Fw%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26s%3D82853ed14ed58ced42c57e6aec7da2be&w=1880&q=75",
       "source": "Eventbrite",
-      "event_category": "other"
-    },
-    {
-      "id": "95254e3d-1c14-4b7c-964d-b7cff42029c6",
-      "event_title": "KOLO",
-      "event_date": "2026-05-10",
-      "end_date": "2026-05-10",
-      "ticket_link": "https://ra.co/events/2416532",
-      "cover_image_url": "https://images.ra.co/0e9ae5adab81578b021ae78e33cc3bbb527f3c53.png",
-      "source": "Resident Advisor (KOLO NYC)",
-      "event_category": "concert"
-    },
-    {
-      "id": "5bf97f96-4932-418d-a052-b5ced514c9e1",
-      "event_title": "Mother’s Day Brunch",
-      "event_date": "2026-05-10",
-      "end_date": "2026-05-10",
-      "ticket_link": "https://soyuzivka.com/calendar-of-events/fathers-day-brunch-copy/",
-      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2026/03/Mothers-Day-Pic.png",
-      "source": "Soyuzivka",
-      "event_category": "other"
-    },
-    {
-      "id": "e51d622a-e3a5-4c84-94c7-2d7d17fa968e",
-      "event_title": "KOLA - New York",
-      "event_date": "2026-05-10",
-      "end_date": "2026-05-10",
-      "ticket_link": "https://bomond.com/events/kola-new-york",
-      "cover_image_url": "https://api.bomond.com/public/68/3429/171460/432_432.webp",
-      "source": "Bomond",
-      "event_category": "concert"
+      "event_category": "arttalk"
     },
     {
       "id": "bc4014ca-7f8a-461b-bb68-37651c8d872e",
@@ -597,6 +587,36 @@
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1180787456%252F2996288818158%252F1%252Foriginal.20260326-200013%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D878929400151e51f65767e2b14f999ee&w=1880&q=75",
       "source": "Eventbrite",
       "event_category": "arttalk"
+    },
+    {
+      "id": "5bf97f96-4932-418d-a052-b5ced514c9e1",
+      "event_title": "Mother’s Day Brunch",
+      "event_date": "2026-05-10",
+      "end_date": "2026-05-10",
+      "ticket_link": "https://soyuzivka.com/calendar-of-events/fathers-day-brunch-copy/",
+      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2026/03/Mothers-Day-Pic.png",
+      "source": "Soyuzivka",
+      "event_category": "other"
+    },
+    {
+      "id": "95254e3d-1c14-4b7c-964d-b7cff42029c6",
+      "event_title": "KOLO",
+      "event_date": "2026-05-10",
+      "end_date": "2026-05-10",
+      "ticket_link": "https://ra.co/events/2416532",
+      "cover_image_url": "https://images.ra.co/0e9ae5adab81578b021ae78e33cc3bbb527f3c53.png",
+      "source": "Resident Advisor (KOLO NYC)",
+      "event_category": "concert"
+    },
+    {
+      "id": "e51d622a-e3a5-4c84-94c7-2d7d17fa968e",
+      "event_title": "KOLA - New York",
+      "event_date": "2026-05-10",
+      "end_date": "2026-05-10",
+      "ticket_link": "https://bomond.com/events/kola-new-york",
+      "cover_image_url": "https://api.bomond.com/public/68/3429/171460/432_432.webp",
+      "source": "Bomond",
+      "event_category": "concert"
     },
     {
       "id": "cd780c38-7d18-43fe-9e8e-c3d86adbc5ff",
