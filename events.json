@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T05:27:50.090609-04:00",
+  "generated_at": "2026-04-24T05:32:21.660317-04:00",
   "this_week_end": "2026-04-26",
   "this_month_end": "2026-04-30",
   "next_month_end": "2026-05-31",
@@ -15,34 +15,14 @@
       "event_category": "workshop"
     },
     {
-      "id": "1825102d-de26-4c9b-9e06-e9609625ed94",
-      "event_title": "Brooklyn, NY/Премʼєра фільму \"На Драйві \"/“On Drive”",
-      "event_date": "2026-04-23",
-      "end_date": "2026-04-23",
-      "ticket_link": "https://www.eventbrite.com/e/brooklyn-ny-on-drive-tickets-1985993901220",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1180716526%252F294391790611%252F1%252Foriginal.20260326-004213%3Fw%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26s%3Ddee521dbf08edd4e9b840130ceabeeb7&w=1880&q=75",
-      "source": "Eventbrite",
-      "event_category": "movie"
-    },
-    {
-      "id": "4993da0c-cf25-4401-8fa7-aadc2c4ba105",
-      "event_title": "Afternoon Event w/ Yevgenia Nayberg: Chernobyl, Life, and Other Disasters",
-      "event_date": "2026-04-23",
-      "end_date": "2026-04-23",
-      "ticket_link": "https://www.eventbrite.com/e/afternoon-event-w-yevgenia-nayberg-chernobyl-life-and-other-disasters-tickets-1984999914178",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1179629620%252F213734307976%252F1%252Foriginal.20260311-202827%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D1.0%26fp-y%3D0.483%26s%3D6bccfae807e05f8d6e6aac337b6951f5&w=1880&q=75",
-      "source": "Eventbrite",
-      "event_category": "arttalk"
-    },
-    {
-      "id": "c89624cb-ed1a-4db4-99c2-517de1d1ebcf",
-      "event_title": "Photography Workshop",
+      "id": "841c60cd-b81c-4c5c-8bc9-697a714eab3e",
+      "event_title": "NEW JERSEY - Modern Roots Runway Show",
       "event_date": "2026-04-24",
       "end_date": "2026-04-24",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/photography-workshop-2",
-      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1775409275/organizations/7/b/8/1/7b81cdf4-e002-4505-be5c-a3b004a24046/6f10df06-8393-4060-b49e-25b196317c08.png",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/annual-gala-2338",
+      "cover_image_url": "https://images.sharvarok.com/post/1045/1771930312701-571280978.jpeg",
       "source": "Zeffy",
-      "event_category": "workshop"
+      "event_category": "performance"
     },
     {
       "id": "68cd3991-b64b-461b-9124-d40ac876e911",
@@ -55,14 +35,14 @@
       "event_category": "concert"
     },
     {
-      "id": "841c60cd-b81c-4c5c-8bc9-697a714eab3e",
-      "event_title": "NEW JERSEY - Modern Roots Runway Show",
+      "id": "c89624cb-ed1a-4db4-99c2-517de1d1ebcf",
+      "event_title": "Photography Workshop",
       "event_date": "2026-04-24",
       "end_date": "2026-04-24",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/annual-gala-2338",
-      "cover_image_url": "https://images.sharvarok.com/post/1045/1771930312701-571280978.jpeg",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/photography-workshop-2",
+      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1775409275/organizations/7/b/8/1/7b81cdf4-e002-4505-be5c-a3b004a24046/6f10df06-8393-4060-b49e-25b196317c08.png",
       "source": "Zeffy",
-      "event_category": "performance"
+      "event_category": "workshop"
     },
     {
       "id": "994d6242-42b6-4fd5-b214-a1e356c01d4d",
@@ -72,6 +52,16 @@
       "ticket_link": "https://ukrainian.us/events/prokopov-ny",
       "cover_image_url": "https://ukrainian.us/storage/event/1/HYEvKyLi0mJi92ocbWd3EpyjsHILgBxE-source.png?v=0.1&s=e0b574e217810f6ca7e82c13e06f0c15",
       "source": "Ukrainian USA",
+      "event_category": "concert"
+    },
+    {
+      "id": "45d42878-dffa-475f-99d0-94f621f8f253",
+      "event_title": "Soho Arts Network (SAN) Downtown Culture Walk x The Ukrainian Museum",
+      "event_date": "2026-04-25",
+      "end_date": "2026-04-25",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/downtown-culture-walk-at-the-ukrainian-museum",
+      "cover_image_url": "https://www.theukrainianmuseum.org/wp-content/uploads/Ukrainian-Museum-Downtown-Culture-Walk-Banner-scaled.jpg",
+      "source": "Ukrainian Museum",
       "event_category": "concert"
     },
     {
@@ -85,16 +75,6 @@
       "event_category": "movie"
     },
     {
-      "id": "ddba5286-6b18-4305-adad-02bc81c00e9e",
-      "event_title": "Chornobyl as a Gateway to the Uncanny: Representing the Disaster First World Documentaries",
-      "event_date": "2026-04-25",
-      "end_date": "2026-04-25",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/chornobyl-as-a-gateway-to-the-uncanny-representing-the-disaster-first-world-documentaries",
-      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1772638510/organizations/4/2/a/f/42af6bbe-f5f0-4411-9e3d-d306365878ee/c84b61ad-77a4-4277-a00d-959008acf8af.jpg",
-      "source": "Zeffy",
-      "event_category": "other"
-    },
-    {
       "id": "8de4cd45-95d6-4075-9ba4-48685c8c1634",
       "event_title": "CHICO & QATOSHI | NEW YORK",
       "event_date": "2026-04-25",
@@ -105,14 +85,24 @@
       "event_category": "concert"
     },
     {
-      "id": "45d42878-dffa-475f-99d0-94f621f8f253",
-      "event_title": "Soho Arts Network (SAN) Downtown Culture Walk x The Ukrainian Museum",
+      "id": "ddba5286-6b18-4305-adad-02bc81c00e9e",
+      "event_title": "Chornobyl as a Gateway to the Uncanny: Representing the Disaster First World Documentaries",
       "event_date": "2026-04-25",
       "end_date": "2026-04-25",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/downtown-culture-walk-at-the-ukrainian-museum",
-      "cover_image_url": "https://www.theukrainianmuseum.org/wp-content/uploads/Ukrainian-Museum-Downtown-Culture-Walk-Banner-scaled.jpg",
-      "source": "Ukrainian Museum",
-      "event_category": "concert"
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/chornobyl-as-a-gateway-to-the-uncanny-representing-the-disaster-first-world-documentaries",
+      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1772638510/organizations/4/2/a/f/42af6bbe-f5f0-4411-9e3d-d306365878ee/c84b61ad-77a4-4277-a00d-959008acf8af.jpg",
+      "source": "Zeffy",
+      "event_category": "other"
+    },
+    {
+      "id": "114a2a8a-3ea4-4b27-bf46-e58dc02f7bae",
+      "event_title": "NEW YORK - Modern Roots Runway Show",
+      "event_date": "2026-04-26",
+      "end_date": "2026-04-26",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/fashion-show-new-york",
+      "cover_image_url": "https://images.sharvarok.com/post/1045/1771930312701-571280978.jpeg",
+      "source": "Zeffy",
+      "event_category": "performance"
     },
     {
       "id": "661921ea-443f-4c30-92a2-43f478c475bb",
@@ -143,16 +133,6 @@
       "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69e8daae01aa81db1a38897d_web%20workshop%2027.jpg",
       "source": "Tisto NYC",
       "event_category": null
-    },
-    {
-      "id": "114a2a8a-3ea4-4b27-bf46-e58dc02f7bae",
-      "event_title": "NEW YORK - Modern Roots Runway Show",
-      "event_date": "2026-04-26",
-      "end_date": "2026-04-26",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/fashion-show-new-york",
-      "cover_image_url": "https://images.sharvarok.com/post/1045/1771930312701-571280978.jpeg",
-      "source": "Zeffy",
-      "event_category": "performance"
     },
     {
       "id": "a95cffe3-50d3-4cb5-beef-924d4fcb0a2b",
@@ -247,13 +227,13 @@
       "event_category": "other"
     },
     {
-      "id": "cd780c38-7d18-43fe-9e8e-c3d86adbc5ff",
-      "event_title": "NEW YORK  DZIDZIO Charitable Concert by Revived Soldiers Ukraine",
+      "id": "95254e3d-1c14-4b7c-964d-b7cff42029c6",
+      "event_title": "KOLO",
       "event_date": "2026-05-10",
       "end_date": "2026-05-10",
-      "ticket_link": "https://www.eventbrite.com/e/new-york-dzidzio-charitable-concert-by-revived-soldiers-ukraine-tickets-1983499401103",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1177898873%252F86171180225%252F1%252Foriginal.20260219-020128%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Dd785c170d59a9e3618f8dbcb3d15e570&w=1880&q=75",
-      "source": "Eventbrite",
+      "ticket_link": "https://ra.co/events/2416532",
+      "cover_image_url": "https://images.ra.co/0e9ae5adab81578b021ae78e33cc3bbb527f3c53.png",
+      "source": "Resident Advisor (KOLO NYC)",
       "event_category": "concert"
     },
     {
@@ -297,13 +277,13 @@
       "event_category": "arttalk"
     },
     {
-      "id": "95254e3d-1c14-4b7c-964d-b7cff42029c6",
-      "event_title": "KOLO",
+      "id": "cd780c38-7d18-43fe-9e8e-c3d86adbc5ff",
+      "event_title": "NEW YORK  DZIDZIO Charitable Concert by Revived Soldiers Ukraine",
       "event_date": "2026-05-10",
       "end_date": "2026-05-10",
-      "ticket_link": "https://ra.co/events/2416532",
-      "cover_image_url": "https://images.ra.co/0e9ae5adab81578b021ae78e33cc3bbb527f3c53.png",
-      "source": "Resident Advisor (KOLO NYC)",
+      "ticket_link": "https://www.eventbrite.com/e/new-york-dzidzio-charitable-concert-by-revived-soldiers-ukraine-tickets-1983499401103",
+      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1177898873%252F86171180225%252F1%252Foriginal.20260219-020128%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Dd785c170d59a9e3618f8dbcb3d15e570&w=1880&q=75",
+      "source": "Eventbrite",
       "event_category": "concert"
     },
     {
@@ -369,34 +349,14 @@
       "event_category": "workshop"
     },
     {
-      "id": "1825102d-de26-4c9b-9e06-e9609625ed94",
-      "event_title": "Brooklyn, NY/Премʼєра фільму \"На Драйві \"/“On Drive”",
-      "event_date": "2026-04-23",
-      "end_date": "2026-04-23",
-      "ticket_link": "https://www.eventbrite.com/e/brooklyn-ny-on-drive-tickets-1985993901220",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1180716526%252F294391790611%252F1%252Foriginal.20260326-004213%3Fw%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26s%3Ddee521dbf08edd4e9b840130ceabeeb7&w=1880&q=75",
-      "source": "Eventbrite",
-      "event_category": "movie"
-    },
-    {
-      "id": "4993da0c-cf25-4401-8fa7-aadc2c4ba105",
-      "event_title": "Afternoon Event w/ Yevgenia Nayberg: Chernobyl, Life, and Other Disasters",
-      "event_date": "2026-04-23",
-      "end_date": "2026-04-23",
-      "ticket_link": "https://www.eventbrite.com/e/afternoon-event-w-yevgenia-nayberg-chernobyl-life-and-other-disasters-tickets-1984999914178",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1179629620%252F213734307976%252F1%252Foriginal.20260311-202827%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D1.0%26fp-y%3D0.483%26s%3D6bccfae807e05f8d6e6aac337b6951f5&w=1880&q=75",
-      "source": "Eventbrite",
-      "event_category": "arttalk"
-    },
-    {
-      "id": "c89624cb-ed1a-4db4-99c2-517de1d1ebcf",
-      "event_title": "Photography Workshop",
+      "id": "841c60cd-b81c-4c5c-8bc9-697a714eab3e",
+      "event_title": "NEW JERSEY - Modern Roots Runway Show",
       "event_date": "2026-04-24",
       "end_date": "2026-04-24",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/photography-workshop-2",
-      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1775409275/organizations/7/b/8/1/7b81cdf4-e002-4505-be5c-a3b004a24046/6f10df06-8393-4060-b49e-25b196317c08.png",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/annual-gala-2338",
+      "cover_image_url": "https://images.sharvarok.com/post/1045/1771930312701-571280978.jpeg",
       "source": "Zeffy",
-      "event_category": "workshop"
+      "event_category": "performance"
     },
     {
       "id": "68cd3991-b64b-461b-9124-d40ac876e911",
@@ -409,14 +369,14 @@
       "event_category": "concert"
     },
     {
-      "id": "841c60cd-b81c-4c5c-8bc9-697a714eab3e",
-      "event_title": "NEW JERSEY - Modern Roots Runway Show",
+      "id": "c89624cb-ed1a-4db4-99c2-517de1d1ebcf",
+      "event_title": "Photography Workshop",
       "event_date": "2026-04-24",
       "end_date": "2026-04-24",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/annual-gala-2338",
-      "cover_image_url": "https://images.sharvarok.com/post/1045/1771930312701-571280978.jpeg",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/photography-workshop-2",
+      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1775409275/organizations/7/b/8/1/7b81cdf4-e002-4505-be5c-a3b004a24046/6f10df06-8393-4060-b49e-25b196317c08.png",
       "source": "Zeffy",
-      "event_category": "performance"
+      "event_category": "workshop"
     },
     {
       "id": "994d6242-42b6-4fd5-b214-a1e356c01d4d",
@@ -426,6 +386,16 @@
       "ticket_link": "https://ukrainian.us/events/prokopov-ny",
       "cover_image_url": "https://ukrainian.us/storage/event/1/HYEvKyLi0mJi92ocbWd3EpyjsHILgBxE-source.png?v=0.1&s=e0b574e217810f6ca7e82c13e06f0c15",
       "source": "Ukrainian USA",
+      "event_category": "concert"
+    },
+    {
+      "id": "45d42878-dffa-475f-99d0-94f621f8f253",
+      "event_title": "Soho Arts Network (SAN) Downtown Culture Walk x The Ukrainian Museum",
+      "event_date": "2026-04-25",
+      "end_date": "2026-04-25",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/downtown-culture-walk-at-the-ukrainian-museum",
+      "cover_image_url": "https://www.theukrainianmuseum.org/wp-content/uploads/Ukrainian-Museum-Downtown-Culture-Walk-Banner-scaled.jpg",
+      "source": "Ukrainian Museum",
       "event_category": "concert"
     },
     {
@@ -439,16 +409,6 @@
       "event_category": "movie"
     },
     {
-      "id": "ddba5286-6b18-4305-adad-02bc81c00e9e",
-      "event_title": "Chornobyl as a Gateway to the Uncanny: Representing the Disaster First World Documentaries",
-      "event_date": "2026-04-25",
-      "end_date": "2026-04-25",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/chornobyl-as-a-gateway-to-the-uncanny-representing-the-disaster-first-world-documentaries",
-      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1772638510/organizations/4/2/a/f/42af6bbe-f5f0-4411-9e3d-d306365878ee/c84b61ad-77a4-4277-a00d-959008acf8af.jpg",
-      "source": "Zeffy",
-      "event_category": "other"
-    },
-    {
       "id": "8de4cd45-95d6-4075-9ba4-48685c8c1634",
       "event_title": "CHICO & QATOSHI | NEW YORK",
       "event_date": "2026-04-25",
@@ -459,14 +419,24 @@
       "event_category": "concert"
     },
     {
-      "id": "45d42878-dffa-475f-99d0-94f621f8f253",
-      "event_title": "Soho Arts Network (SAN) Downtown Culture Walk x The Ukrainian Museum",
+      "id": "ddba5286-6b18-4305-adad-02bc81c00e9e",
+      "event_title": "Chornobyl as a Gateway to the Uncanny: Representing the Disaster First World Documentaries",
       "event_date": "2026-04-25",
       "end_date": "2026-04-25",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/downtown-culture-walk-at-the-ukrainian-museum",
-      "cover_image_url": "https://www.theukrainianmuseum.org/wp-content/uploads/Ukrainian-Museum-Downtown-Culture-Walk-Banner-scaled.jpg",
-      "source": "Ukrainian Museum",
-      "event_category": "concert"
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/chornobyl-as-a-gateway-to-the-uncanny-representing-the-disaster-first-world-documentaries",
+      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1772638510/organizations/4/2/a/f/42af6bbe-f5f0-4411-9e3d-d306365878ee/c84b61ad-77a4-4277-a00d-959008acf8af.jpg",
+      "source": "Zeffy",
+      "event_category": "other"
+    },
+    {
+      "id": "114a2a8a-3ea4-4b27-bf46-e58dc02f7bae",
+      "event_title": "NEW YORK - Modern Roots Runway Show",
+      "event_date": "2026-04-26",
+      "end_date": "2026-04-26",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/fashion-show-new-york",
+      "cover_image_url": "https://images.sharvarok.com/post/1045/1771930312701-571280978.jpeg",
+      "source": "Zeffy",
+      "event_category": "performance"
     },
     {
       "id": "661921ea-443f-4c30-92a2-43f478c475bb",
@@ -497,16 +467,6 @@
       "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69e8daae01aa81db1a38897d_web%20workshop%2027.jpg",
       "source": "Tisto NYC",
       "event_category": null
-    },
-    {
-      "id": "114a2a8a-3ea4-4b27-bf46-e58dc02f7bae",
-      "event_title": "NEW YORK - Modern Roots Runway Show",
-      "event_date": "2026-04-26",
-      "end_date": "2026-04-26",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/fashion-show-new-york",
-      "cover_image_url": "https://images.sharvarok.com/post/1045/1771930312701-571280978.jpeg",
-      "source": "Zeffy",
-      "event_category": "performance"
     },
     {
       "id": "a95cffe3-50d3-4cb5-beef-924d4fcb0a2b",
@@ -589,13 +549,13 @@
       "event_category": "other"
     },
     {
-      "id": "cd780c38-7d18-43fe-9e8e-c3d86adbc5ff",
-      "event_title": "NEW YORK  DZIDZIO Charitable Concert by Revived Soldiers Ukraine",
+      "id": "95254e3d-1c14-4b7c-964d-b7cff42029c6",
+      "event_title": "KOLO",
       "event_date": "2026-05-10",
       "end_date": "2026-05-10",
-      "ticket_link": "https://www.eventbrite.com/e/new-york-dzidzio-charitable-concert-by-revived-soldiers-ukraine-tickets-1983499401103",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1177898873%252F86171180225%252F1%252Foriginal.20260219-020128%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Dd785c170d59a9e3618f8dbcb3d15e570&w=1880&q=75",
-      "source": "Eventbrite",
+      "ticket_link": "https://ra.co/events/2416532",
+      "cover_image_url": "https://images.ra.co/0e9ae5adab81578b021ae78e33cc3bbb527f3c53.png",
+      "source": "Resident Advisor (KOLO NYC)",
       "event_category": "concert"
     },
     {
@@ -639,13 +599,13 @@
       "event_category": "arttalk"
     },
     {
-      "id": "95254e3d-1c14-4b7c-964d-b7cff42029c6",
-      "event_title": "KOLO",
+      "id": "cd780c38-7d18-43fe-9e8e-c3d86adbc5ff",
+      "event_title": "NEW YORK  DZIDZIO Charitable Concert by Revived Soldiers Ukraine",
       "event_date": "2026-05-10",
       "end_date": "2026-05-10",
-      "ticket_link": "https://ra.co/events/2416532",
-      "cover_image_url": "https://images.ra.co/0e9ae5adab81578b021ae78e33cc3bbb527f3c53.png",
-      "source": "Resident Advisor (KOLO NYC)",
+      "ticket_link": "https://www.eventbrite.com/e/new-york-dzidzio-charitable-concert-by-revived-soldiers-ukraine-tickets-1983499401103",
+      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1177898873%252F86171180225%252F1%252Foriginal.20260219-020128%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Dd785c170d59a9e3618f8dbcb3d15e570&w=1880&q=75",
+      "source": "Eventbrite",
       "event_category": "concert"
     },
     {
@@ -727,6 +687,16 @@
       "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2026/03/mindlina-4.jpg",
       "source": "Helping Hands for Ukraine",
       "event_category": "concert"
+    },
+    {
+      "id": "2971e423-9232-4ea1-a7d9-90d38a20747e",
+      "event_title": "Let's Dance June",
+      "event_date": "2026-06-12",
+      "end_date": "2026-06-12",
+      "ticket_link": "https://www.helpinghandsukraine.org/lets-dance-june/",
+      "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2026/02/silhouette-dancing-people-disco-colorful-light-scaled.jpg",
+      "source": "Helping Hands for Ukraine",
+      "event_category": "performance"
     },
     {
       "id": "832fc00a-3cc0-44ca-a654-a1294e3a95db",
@@ -867,6 +837,16 @@
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/10/Maskarade.jpg",
       "source": "Soyuzivka",
       "event_category": "festival"
+    },
+    {
+      "id": "16d1bebe-e32f-445d-b99e-ce2abd42f690",
+      "event_title": "Celebration of Ukrainian Music",
+      "event_date": "2026-11-14",
+      "end_date": "2026-11-14",
+      "ticket_link": "https://www.helpinghandsukraine.org/4-years-of-resilience-4/",
+      "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2025/03/IMG_5907-scaled.jpg",
+      "source": "Helping Hands for Ukraine",
+      "event_category": "concert"
     },
     {
       "id": "f1e2a079-fc15-4b38-b23e-e0ccd424eebb",
