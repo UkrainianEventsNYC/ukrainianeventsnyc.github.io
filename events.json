@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T23:49:49.514218-04:00",
+  "generated_at": "2026-04-25T00:12:02.791226-04:00",
   "this_week_end": "2026-04-26",
   "this_month_end": "2026-04-30",
   "next_month_end": "2026-05-31",
@@ -15,54 +15,24 @@
       "event_category": "workshop"
     },
     {
-      "id": "68cd3991-b64b-461b-9124-d40ac876e911",
-      "event_title": "CHICO & QATOSHI | WHIPPANY",
-      "event_date": "2026-04-24",
-      "end_date": "2026-04-24",
-      "ticket_link": "https://ukrainian.us/events/chico-qatoshi-whippany",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/E9vX1XF2MQiJb8_UlgaGmayZ7C9QM7a_-source.png?v=0.1&s=b63eb6c815afb4759c5bf0fe6f6c3cfc",
-      "source": "Ukrainian USA",
+      "id": "45d42878-dffa-475f-99d0-94f621f8f253",
+      "event_title": "Soho Arts Network (SAN) Downtown Culture Walk x The Ukrainian Museum",
+      "event_date": "2026-04-25",
+      "end_date": "2026-04-25",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/downtown-culture-walk-at-the-ukrainian-museum",
+      "cover_image_url": "https://www.theukrainianmuseum.org/wp-content/uploads/Ukrainian-Museum-Downtown-Culture-Walk-Banner-scaled.jpg",
+      "source": "Ukrainian Museum",
       "event_category": "concert"
     },
     {
-      "id": "ecfceef9-e0a9-4111-a3d4-3831cc7d0017",
-      "event_title": "Boundless: Min Xiao-Fen and Julian Kytasty · Lincoln Center",
-      "event_date": "2026-04-24",
-      "end_date": "2026-04-24",
-      "ticket_link": "https://lincolncenter.org/series/lincoln-center-presents/boundless-min-xiao-fen-and-julian-kytasty",
-      "cover_image_url": "https://images.lincolncenter.org/image/upload/v1768512273/exwhm6mrh8pj2clne3wd.jpg",
-      "source": "Lincoln Center",
-      "event_category": "other"
-    },
-    {
-      "id": "841c60cd-b81c-4c5c-8bc9-697a714eab3e",
-      "event_title": "NEW JERSEY - Modern Roots Runway Show",
-      "event_date": "2026-04-24",
-      "end_date": "2026-04-24",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/annual-gala-2338",
-      "cover_image_url": "https://images.sharvarok.com/post/1045/1771930312701-571280978.jpeg",
-      "source": "Zeffy",
-      "event_category": "performance"
-    },
-    {
-      "id": "994d6242-42b6-4fd5-b214-a1e356c01d4d",
-      "event_title": "Dima Prokopov Live in New York",
-      "event_date": "2026-04-24",
-      "end_date": "2026-04-24",
-      "ticket_link": "https://ukrainian.us/events/prokopov-ny",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/HYEvKyLi0mJi92ocbWd3EpyjsHILgBxE-source.png?v=0.1&s=e0b574e217810f6ca7e82c13e06f0c15",
+      "id": "8de4cd45-95d6-4075-9ba4-48685c8c1634",
+      "event_title": "CHICO & QATOSHI | NEW YORK",
+      "event_date": "2026-04-25",
+      "end_date": "2026-04-25",
+      "ticket_link": "https://ukrainian.us/events/chico-qatoshi-new-york",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/3t_lasiJh4H6In3rh7cilHoECPMCNNmK-source.png?v=0.1&s=31e3adf765cc25bd3841728abf5e5858",
       "source": "Ukrainian USA",
       "event_category": "concert"
-    },
-    {
-      "id": "c89624cb-ed1a-4db4-99c2-517de1d1ebcf",
-      "event_title": "Photography Workshop",
-      "event_date": "2026-04-24",
-      "end_date": "2026-04-24",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/photography-workshop-2",
-      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1775409275/organizations/7/b/8/1/7b81cdf4-e002-4505-be5c-a3b004a24046/6f10df06-8393-4060-b49e-25b196317c08.png",
-      "source": "Zeffy",
-      "event_category": "workshop"
     },
     {
       "id": "aff162b7-f2e4-4a75-9c67-5f81b0447d29",
@@ -90,29 +60,19 @@
       "event_date": "2026-04-25",
       "end_date": "2026-04-25",
       "ticket_link": "https://ukrainianinstitute.org/event/mati-2026-04-25/",
-      "cover_image_url": null,
+      "cover_image_url": "https://ukrainianinstitute.org/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-20-at-12.52.32.jpeg",
       "source": "Ukrainian Institute",
-      "event_category": null
-    },
-    {
-      "id": "45d42878-dffa-475f-99d0-94f621f8f253",
-      "event_title": "Soho Arts Network (SAN) Downtown Culture Walk x The Ukrainian Museum",
-      "event_date": "2026-04-25",
-      "end_date": "2026-04-25",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/downtown-culture-walk-at-the-ukrainian-museum",
-      "cover_image_url": "https://www.theukrainianmuseum.org/wp-content/uploads/Ukrainian-Museum-Downtown-Culture-Walk-Banner-scaled.jpg",
-      "source": "Ukrainian Museum",
       "event_category": "concert"
     },
     {
-      "id": "8de4cd45-95d6-4075-9ba4-48685c8c1634",
-      "event_title": "CHICO & QATOSHI | NEW YORK",
-      "event_date": "2026-04-25",
-      "end_date": "2026-04-25",
-      "ticket_link": "https://ukrainian.us/events/chico-qatoshi-new-york",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/3t_lasiJh4H6In3rh7cilHoECPMCNNmK-source.png?v=0.1&s=31e3adf765cc25bd3841728abf5e5858",
-      "source": "Ukrainian USA",
-      "event_category": "concert"
+      "id": "114a2a8a-3ea4-4b27-bf46-e58dc02f7bae",
+      "event_title": "NEW YORK - Modern Roots Runway Show",
+      "event_date": "2026-04-26",
+      "end_date": "2026-04-26",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/fashion-show-new-york",
+      "cover_image_url": "https://images.sharvarok.com/post/1045/1771930312701-571280978.jpeg",
+      "source": "Zeffy",
+      "event_category": "performance"
     },
     {
       "id": "0db49c72-5c85-4540-b456-2b42a37a9a58",
@@ -143,16 +103,6 @@
       "cover_image_url": "https://ukrainian.us/storage/event/1/klKly9UHR30DODFSEv7NDX7rlI2N145G-source.png?v=0.1&s=cb7e924c6abca0eb89697354e30cd890",
       "source": "Ukrainian USA",
       "event_category": "concert"
-    },
-    {
-      "id": "114a2a8a-3ea4-4b27-bf46-e58dc02f7bae",
-      "event_title": "NEW YORK - Modern Roots Runway Show",
-      "event_date": "2026-04-26",
-      "end_date": "2026-04-26",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/fashion-show-new-york",
-      "cover_image_url": "https://images.sharvarok.com/post/1045/1771930312701-571280978.jpeg",
-      "source": "Zeffy",
-      "event_category": "performance"
     },
     {
       "id": "a95cffe3-50d3-4cb5-beef-924d4fcb0a2b",
@@ -242,9 +192,9 @@
       "event_date": "2026-05-08",
       "end_date": "2026-05-08",
       "ticket_link": "https://ukrainianinstitute.org/event/2026-05-08-uia-birthday/",
-      "cover_image_url": null,
+      "cover_image_url": "https://ukrainianinstitute.org/wp-content/uploads/2026/04/2026.05.08-UIA-Birthday-1600x900-Large.jpeg",
       "source": "Ukrainian Institute",
-      "event_category": null
+      "event_category": "festival"
     },
     {
       "id": "81cd7df3-d78f-4cc9-8a2f-94a12b79d0df",
@@ -255,6 +205,46 @@
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1179326041%252F865995669873%252F1%252Foriginal.20260308-174605%3Fw%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26s%3D82853ed14ed58ced42c57e6aec7da2be&w=1880&q=75",
       "source": "Eventbrite",
       "event_category": "arttalk"
+    },
+    {
+      "id": "8507be15-50f4-4657-a4f9-d3b4731a952c",
+      "event_title": "Voice of the Ukrainian Diaspora",
+      "event_date": "2026-05-10",
+      "end_date": "2026-05-10",
+      "ticket_link": "https://www.eventbrite.com/e/voice-of-the-ukrainian-diaspora-tickets-1985816161596",
+      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1180787456%252F2996288818158%252F1%252Foriginal.20260326-200013%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D878929400151e51f65767e2b14f999ee&w=1880&q=75",
+      "source": "Eventbrite",
+      "event_category": "arttalk"
+    },
+    {
+      "id": "bc4014ca-7f8a-461b-bb68-37651c8d872e",
+      "event_title": "Fisch Trio",
+      "event_date": "2026-05-10",
+      "end_date": "2026-05-10",
+      "ticket_link": "https://www.helpinghandsukraine.org/fisch-trio-mothers-day-jazz/",
+      "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2026/03/634329812_10238196600551959_4115646380688254202_n.jpg",
+      "source": "Helping Hands for Ukraine",
+      "event_category": "concert"
+    },
+    {
+      "id": "e51d622a-e3a5-4c84-94c7-2d7d17fa968e",
+      "event_title": "KOLA - New York",
+      "event_date": "2026-05-10",
+      "end_date": "2026-05-10",
+      "ticket_link": "https://bomond.com/events/kola-new-york",
+      "cover_image_url": "https://api.bomond.com/public/68/3429/171460/432_432.webp",
+      "source": "Bomond",
+      "event_category": "concert"
+    },
+    {
+      "id": "cd780c38-7d18-43fe-9e8e-c3d86adbc5ff",
+      "event_title": "NEW YORK  DZIDZIO Charitable Concert by Revived Soldiers Ukraine",
+      "event_date": "2026-05-10",
+      "end_date": "2026-05-10",
+      "ticket_link": "https://www.eventbrite.com/e/new-york-dzidzio-charitable-concert-by-revived-soldiers-ukraine-tickets-1983499401103",
+      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1177898873%252F86171180225%252F1%252Foriginal.20260219-020128%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Dd785c170d59a9e3618f8dbcb3d15e570&w=1880&q=75",
+      "source": "Eventbrite",
+      "event_category": "concert"
     },
     {
       "id": "95254e3d-1c14-4b7c-964d-b7cff42029c6",
@@ -277,54 +267,14 @@
       "event_category": "other"
     },
     {
-      "id": "e51d622a-e3a5-4c84-94c7-2d7d17fa968e",
-      "event_title": "KOLA - New York",
-      "event_date": "2026-05-10",
-      "end_date": "2026-05-10",
-      "ticket_link": "https://bomond.com/events/kola-new-york",
-      "cover_image_url": "https://api.bomond.com/public/68/3429/171460/432_432.webp",
-      "source": "Bomond",
-      "event_category": "concert"
-    },
-    {
-      "id": "bc4014ca-7f8a-461b-bb68-37651c8d872e",
-      "event_title": "Fisch Trio",
-      "event_date": "2026-05-10",
-      "end_date": "2026-05-10",
-      "ticket_link": "https://www.helpinghandsukraine.org/fisch-trio-mothers-day-jazz/",
-      "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2026/03/634329812_10238196600551959_4115646380688254202_n.jpg",
-      "source": "Helping Hands for Ukraine",
-      "event_category": "concert"
-    },
-    {
-      "id": "8507be15-50f4-4657-a4f9-d3b4731a952c",
-      "event_title": "Voice of the Ukrainian Diaspora",
-      "event_date": "2026-05-10",
-      "end_date": "2026-05-10",
-      "ticket_link": "https://www.eventbrite.com/e/voice-of-the-ukrainian-diaspora-tickets-1985816161596",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1180787456%252F2996288818158%252F1%252Foriginal.20260326-200013%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D878929400151e51f65767e2b14f999ee&w=1880&q=75",
-      "source": "Eventbrite",
-      "event_category": "arttalk"
-    },
-    {
-      "id": "cd780c38-7d18-43fe-9e8e-c3d86adbc5ff",
-      "event_title": "NEW YORK  DZIDZIO Charitable Concert by Revived Soldiers Ukraine",
-      "event_date": "2026-05-10",
-      "end_date": "2026-05-10",
-      "ticket_link": "https://www.eventbrite.com/e/new-york-dzidzio-charitable-concert-by-revived-soldiers-ukraine-tickets-1983499401103",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1177898873%252F86171180225%252F1%252Foriginal.20260219-020128%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Dd785c170d59a9e3618f8dbcb3d15e570&w=1880&q=75",
-      "source": "Eventbrite",
-      "event_category": "concert"
-    },
-    {
       "id": "e3a3ec48-4e77-4a37-bb49-49655dc26dd0",
       "event_title": "Music at the Institute",
       "event_date": "2026-05-11",
       "end_date": "2026-05-11",
       "ticket_link": "https://ukrainianinstitute.org/event/mati-2026-05-11/",
-      "cover_image_url": null,
+      "cover_image_url": "https://ukrainianinstitute.org/wp-content/uploads/2026/04/2026.05.11-MATI-1600x900_NYC.png",
       "source": "Ukrainian Institute",
-      "event_category": null
+      "event_category": "concert"
     },
     {
       "id": "a435b1ca-81fd-423b-9878-69da4069e76c",
@@ -352,9 +302,9 @@
       "event_date": "2026-05-21",
       "end_date": "2026-05-21",
       "ticket_link": "https://ukrainianinstitute.org/event/2026-05-21-books-verini/",
-      "cover_image_url": null,
+      "cover_image_url": "https://ukrainianinstitute.org/wp-content/uploads/2026/04/Verini_webpage-graphic_version-1-Large.jpeg",
       "source": "Ukrainian Institute",
-      "event_category": null
+      "event_category": "other"
     },
     {
       "id": "e8731b8f-6cf8-4519-b60d-143788d55a77",
@@ -399,54 +349,24 @@
       "event_category": "workshop"
     },
     {
-      "id": "68cd3991-b64b-461b-9124-d40ac876e911",
-      "event_title": "CHICO & QATOSHI | WHIPPANY",
-      "event_date": "2026-04-24",
-      "end_date": "2026-04-24",
-      "ticket_link": "https://ukrainian.us/events/chico-qatoshi-whippany",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/E9vX1XF2MQiJb8_UlgaGmayZ7C9QM7a_-source.png?v=0.1&s=b63eb6c815afb4759c5bf0fe6f6c3cfc",
-      "source": "Ukrainian USA",
+      "id": "45d42878-dffa-475f-99d0-94f621f8f253",
+      "event_title": "Soho Arts Network (SAN) Downtown Culture Walk x The Ukrainian Museum",
+      "event_date": "2026-04-25",
+      "end_date": "2026-04-25",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/downtown-culture-walk-at-the-ukrainian-museum",
+      "cover_image_url": "https://www.theukrainianmuseum.org/wp-content/uploads/Ukrainian-Museum-Downtown-Culture-Walk-Banner-scaled.jpg",
+      "source": "Ukrainian Museum",
       "event_category": "concert"
     },
     {
-      "id": "ecfceef9-e0a9-4111-a3d4-3831cc7d0017",
-      "event_title": "Boundless: Min Xiao-Fen and Julian Kytasty · Lincoln Center",
-      "event_date": "2026-04-24",
-      "end_date": "2026-04-24",
-      "ticket_link": "https://lincolncenter.org/series/lincoln-center-presents/boundless-min-xiao-fen-and-julian-kytasty",
-      "cover_image_url": "https://images.lincolncenter.org/image/upload/v1768512273/exwhm6mrh8pj2clne3wd.jpg",
-      "source": "Lincoln Center",
-      "event_category": "other"
-    },
-    {
-      "id": "841c60cd-b81c-4c5c-8bc9-697a714eab3e",
-      "event_title": "NEW JERSEY - Modern Roots Runway Show",
-      "event_date": "2026-04-24",
-      "end_date": "2026-04-24",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/annual-gala-2338",
-      "cover_image_url": "https://images.sharvarok.com/post/1045/1771930312701-571280978.jpeg",
-      "source": "Zeffy",
-      "event_category": "performance"
-    },
-    {
-      "id": "994d6242-42b6-4fd5-b214-a1e356c01d4d",
-      "event_title": "Dima Prokopov Live in New York",
-      "event_date": "2026-04-24",
-      "end_date": "2026-04-24",
-      "ticket_link": "https://ukrainian.us/events/prokopov-ny",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/HYEvKyLi0mJi92ocbWd3EpyjsHILgBxE-source.png?v=0.1&s=e0b574e217810f6ca7e82c13e06f0c15",
+      "id": "8de4cd45-95d6-4075-9ba4-48685c8c1634",
+      "event_title": "CHICO & QATOSHI | NEW YORK",
+      "event_date": "2026-04-25",
+      "end_date": "2026-04-25",
+      "ticket_link": "https://ukrainian.us/events/chico-qatoshi-new-york",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/3t_lasiJh4H6In3rh7cilHoECPMCNNmK-source.png?v=0.1&s=31e3adf765cc25bd3841728abf5e5858",
       "source": "Ukrainian USA",
       "event_category": "concert"
-    },
-    {
-      "id": "c89624cb-ed1a-4db4-99c2-517de1d1ebcf",
-      "event_title": "Photography Workshop",
-      "event_date": "2026-04-24",
-      "end_date": "2026-04-24",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/photography-workshop-2",
-      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1775409275/organizations/7/b/8/1/7b81cdf4-e002-4505-be5c-a3b004a24046/6f10df06-8393-4060-b49e-25b196317c08.png",
-      "source": "Zeffy",
-      "event_category": "workshop"
     },
     {
       "id": "aff162b7-f2e4-4a75-9c67-5f81b0447d29",
@@ -474,29 +394,19 @@
       "event_date": "2026-04-25",
       "end_date": "2026-04-25",
       "ticket_link": "https://ukrainianinstitute.org/event/mati-2026-04-25/",
-      "cover_image_url": null,
+      "cover_image_url": "https://ukrainianinstitute.org/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-20-at-12.52.32.jpeg",
       "source": "Ukrainian Institute",
-      "event_category": null
-    },
-    {
-      "id": "45d42878-dffa-475f-99d0-94f621f8f253",
-      "event_title": "Soho Arts Network (SAN) Downtown Culture Walk x The Ukrainian Museum",
-      "event_date": "2026-04-25",
-      "end_date": "2026-04-25",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/downtown-culture-walk-at-the-ukrainian-museum",
-      "cover_image_url": "https://www.theukrainianmuseum.org/wp-content/uploads/Ukrainian-Museum-Downtown-Culture-Walk-Banner-scaled.jpg",
-      "source": "Ukrainian Museum",
       "event_category": "concert"
     },
     {
-      "id": "8de4cd45-95d6-4075-9ba4-48685c8c1634",
-      "event_title": "CHICO & QATOSHI | NEW YORK",
-      "event_date": "2026-04-25",
-      "end_date": "2026-04-25",
-      "ticket_link": "https://ukrainian.us/events/chico-qatoshi-new-york",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/3t_lasiJh4H6In3rh7cilHoECPMCNNmK-source.png?v=0.1&s=31e3adf765cc25bd3841728abf5e5858",
-      "source": "Ukrainian USA",
-      "event_category": "concert"
+      "id": "114a2a8a-3ea4-4b27-bf46-e58dc02f7bae",
+      "event_title": "NEW YORK - Modern Roots Runway Show",
+      "event_date": "2026-04-26",
+      "end_date": "2026-04-26",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/fashion-show-new-york",
+      "cover_image_url": "https://images.sharvarok.com/post/1045/1771930312701-571280978.jpeg",
+      "source": "Zeffy",
+      "event_category": "performance"
     },
     {
       "id": "0db49c72-5c85-4540-b456-2b42a37a9a58",
@@ -527,16 +437,6 @@
       "cover_image_url": "https://ukrainian.us/storage/event/1/klKly9UHR30DODFSEv7NDX7rlI2N145G-source.png?v=0.1&s=cb7e924c6abca0eb89697354e30cd890",
       "source": "Ukrainian USA",
       "event_category": "concert"
-    },
-    {
-      "id": "114a2a8a-3ea4-4b27-bf46-e58dc02f7bae",
-      "event_title": "NEW YORK - Modern Roots Runway Show",
-      "event_date": "2026-04-26",
-      "end_date": "2026-04-26",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/fashion-show-new-york",
-      "cover_image_url": "https://images.sharvarok.com/post/1045/1771930312701-571280978.jpeg",
-      "source": "Zeffy",
-      "event_category": "performance"
     },
     {
       "id": "a95cffe3-50d3-4cb5-beef-924d4fcb0a2b",
@@ -614,9 +514,9 @@
       "event_date": "2026-05-08",
       "end_date": "2026-05-08",
       "ticket_link": "https://ukrainianinstitute.org/event/2026-05-08-uia-birthday/",
-      "cover_image_url": null,
+      "cover_image_url": "https://ukrainianinstitute.org/wp-content/uploads/2026/04/2026.05.08-UIA-Birthday-1600x900-Large.jpeg",
       "source": "Ukrainian Institute",
-      "event_category": null
+      "event_category": "festival"
     },
     {
       "id": "81cd7df3-d78f-4cc9-8a2f-94a12b79d0df",
@@ -627,6 +527,46 @@
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1179326041%252F865995669873%252F1%252Foriginal.20260308-174605%3Fw%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26s%3D82853ed14ed58ced42c57e6aec7da2be&w=1880&q=75",
       "source": "Eventbrite",
       "event_category": "arttalk"
+    },
+    {
+      "id": "8507be15-50f4-4657-a4f9-d3b4731a952c",
+      "event_title": "Voice of the Ukrainian Diaspora",
+      "event_date": "2026-05-10",
+      "end_date": "2026-05-10",
+      "ticket_link": "https://www.eventbrite.com/e/voice-of-the-ukrainian-diaspora-tickets-1985816161596",
+      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1180787456%252F2996288818158%252F1%252Foriginal.20260326-200013%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D878929400151e51f65767e2b14f999ee&w=1880&q=75",
+      "source": "Eventbrite",
+      "event_category": "arttalk"
+    },
+    {
+      "id": "bc4014ca-7f8a-461b-bb68-37651c8d872e",
+      "event_title": "Fisch Trio",
+      "event_date": "2026-05-10",
+      "end_date": "2026-05-10",
+      "ticket_link": "https://www.helpinghandsukraine.org/fisch-trio-mothers-day-jazz/",
+      "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2026/03/634329812_10238196600551959_4115646380688254202_n.jpg",
+      "source": "Helping Hands for Ukraine",
+      "event_category": "concert"
+    },
+    {
+      "id": "e51d622a-e3a5-4c84-94c7-2d7d17fa968e",
+      "event_title": "KOLA - New York",
+      "event_date": "2026-05-10",
+      "end_date": "2026-05-10",
+      "ticket_link": "https://bomond.com/events/kola-new-york",
+      "cover_image_url": "https://api.bomond.com/public/68/3429/171460/432_432.webp",
+      "source": "Bomond",
+      "event_category": "concert"
+    },
+    {
+      "id": "cd780c38-7d18-43fe-9e8e-c3d86adbc5ff",
+      "event_title": "NEW YORK  DZIDZIO Charitable Concert by Revived Soldiers Ukraine",
+      "event_date": "2026-05-10",
+      "end_date": "2026-05-10",
+      "ticket_link": "https://www.eventbrite.com/e/new-york-dzidzio-charitable-concert-by-revived-soldiers-ukraine-tickets-1983499401103",
+      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1177898873%252F86171180225%252F1%252Foriginal.20260219-020128%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Dd785c170d59a9e3618f8dbcb3d15e570&w=1880&q=75",
+      "source": "Eventbrite",
+      "event_category": "concert"
     },
     {
       "id": "95254e3d-1c14-4b7c-964d-b7cff42029c6",
@@ -649,54 +589,14 @@
       "event_category": "other"
     },
     {
-      "id": "e51d622a-e3a5-4c84-94c7-2d7d17fa968e",
-      "event_title": "KOLA - New York",
-      "event_date": "2026-05-10",
-      "end_date": "2026-05-10",
-      "ticket_link": "https://bomond.com/events/kola-new-york",
-      "cover_image_url": "https://api.bomond.com/public/68/3429/171460/432_432.webp",
-      "source": "Bomond",
-      "event_category": "concert"
-    },
-    {
-      "id": "bc4014ca-7f8a-461b-bb68-37651c8d872e",
-      "event_title": "Fisch Trio",
-      "event_date": "2026-05-10",
-      "end_date": "2026-05-10",
-      "ticket_link": "https://www.helpinghandsukraine.org/fisch-trio-mothers-day-jazz/",
-      "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2026/03/634329812_10238196600551959_4115646380688254202_n.jpg",
-      "source": "Helping Hands for Ukraine",
-      "event_category": "concert"
-    },
-    {
-      "id": "8507be15-50f4-4657-a4f9-d3b4731a952c",
-      "event_title": "Voice of the Ukrainian Diaspora",
-      "event_date": "2026-05-10",
-      "end_date": "2026-05-10",
-      "ticket_link": "https://www.eventbrite.com/e/voice-of-the-ukrainian-diaspora-tickets-1985816161596",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1180787456%252F2996288818158%252F1%252Foriginal.20260326-200013%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D878929400151e51f65767e2b14f999ee&w=1880&q=75",
-      "source": "Eventbrite",
-      "event_category": "arttalk"
-    },
-    {
-      "id": "cd780c38-7d18-43fe-9e8e-c3d86adbc5ff",
-      "event_title": "NEW YORK  DZIDZIO Charitable Concert by Revived Soldiers Ukraine",
-      "event_date": "2026-05-10",
-      "end_date": "2026-05-10",
-      "ticket_link": "https://www.eventbrite.com/e/new-york-dzidzio-charitable-concert-by-revived-soldiers-ukraine-tickets-1983499401103",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1177898873%252F86171180225%252F1%252Foriginal.20260219-020128%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Dd785c170d59a9e3618f8dbcb3d15e570&w=1880&q=75",
-      "source": "Eventbrite",
-      "event_category": "concert"
-    },
-    {
       "id": "e3a3ec48-4e77-4a37-bb49-49655dc26dd0",
       "event_title": "Music at the Institute",
       "event_date": "2026-05-11",
       "end_date": "2026-05-11",
       "ticket_link": "https://ukrainianinstitute.org/event/mati-2026-05-11/",
-      "cover_image_url": null,
+      "cover_image_url": "https://ukrainianinstitute.org/wp-content/uploads/2026/04/2026.05.11-MATI-1600x900_NYC.png",
       "source": "Ukrainian Institute",
-      "event_category": null
+      "event_category": "concert"
     },
     {
       "id": "a435b1ca-81fd-423b-9878-69da4069e76c",
@@ -724,9 +624,9 @@
       "event_date": "2026-05-21",
       "end_date": "2026-05-21",
       "ticket_link": "https://ukrainianinstitute.org/event/2026-05-21-books-verini/",
-      "cover_image_url": null,
+      "cover_image_url": "https://ukrainianinstitute.org/wp-content/uploads/2026/04/Verini_webpage-graphic_version-1-Large.jpeg",
       "source": "Ukrainian Institute",
-      "event_category": null
+      "event_category": "other"
     },
     {
       "id": "e8731b8f-6cf8-4519-b60d-143788d55a77",
@@ -809,16 +709,6 @@
       "event_category": "other"
     },
     {
-      "id": "d0ff2077-0c30-46dd-a7da-132667e16d37",
-      "event_title": "July 4th Celebration",
-      "event_date": "2026-07-03",
-      "end_date": "2026-07-05",
-      "ticket_link": "https://soyuzivka.com/calendar-of-events/july-4th-celebration/",
-      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/July4th-1024x576.png",
-      "source": "Soyuzivka",
-      "event_category": "festival"
-    },
-    {
       "id": "c87b6b2f-4c3d-4236-9d50-b187ad5101df",
       "event_title": "Vasyl Baidak - New York City",
       "event_date": "2026-07-03",
@@ -827,6 +717,16 @@
       "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1773094064_-1200630.jpg",
       "source": "Waylight",
       "event_category": "standup"
+    },
+    {
+      "id": "d0ff2077-0c30-46dd-a7da-132667e16d37",
+      "event_title": "July 4th Celebration",
+      "event_date": "2026-07-03",
+      "end_date": "2026-07-05",
+      "ticket_link": "https://soyuzivka.com/calendar-of-events/july-4th-celebration/",
+      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/July4th-1024x576.png",
+      "source": "Soyuzivka",
+      "event_category": "festival"
     },
     {
       "id": "20660505-fb61-4af0-906a-1b427d985910",
