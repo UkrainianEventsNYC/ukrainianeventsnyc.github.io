@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T06:14:59.474354-04:00",
+  "generated_at": "2026-04-29T06:06:21.298036-04:00",
   "this_week_end": "2026-05-03",
   "this_month_end": "2026-04-30",
   "next_month_end": "2026-05-31",
@@ -12,16 +12,6 @@
       "ticket_link": "https://www.ualberta.ca/en/admissions-programs/online-courses/famine-as-genocide-the-holodomor-in-ukraine.html",
       "cover_image_url": "https://www.ualberta.ca/media-library/ualberta/admissions-and-programs/courses/holodomor-mooc-wheat.jpg",
       "source": "UAlberta",
-      "event_category": "workshop"
-    },
-    {
-      "id": "a95cffe3-50d3-4cb5-beef-924d4fcb0a2b",
-      "event_title": "Playground",
-      "event_date": "2026-04-28",
-      "end_date": "2026-04-28",
-      "ticket_link": "https://tisto.nyc/workshops/playground-april-28",
-      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
-      "source": "Tisto NYC",
       "event_category": "workshop"
     },
     {
@@ -117,16 +107,6 @@
       "event_category": "arttalk"
     },
     {
-      "id": "95254e3d-1c14-4b7c-964d-b7cff42029c6",
-      "event_title": "KOLO",
-      "event_date": "2026-05-10",
-      "end_date": "2026-05-10",
-      "ticket_link": "https://ra.co/events/2416532",
-      "cover_image_url": "https://images.ra.co/0e9ae5adab81578b021ae78e33cc3bbb527f3c53.png",
-      "source": "Resident Advisor (KOLO NYC)",
-      "event_category": "concert"
-    },
-    {
       "id": "e51d622a-e3a5-4c84-94c7-2d7d17fa968e",
       "event_title": "KOLA - New York",
       "event_date": "2026-05-10",
@@ -134,16 +114,6 @@
       "ticket_link": "https://bomond.com/events/kola-new-york",
       "cover_image_url": "https://api.bomond.com/public/68/3429/171460/432_432.webp",
       "source": "Bomond",
-      "event_category": "concert"
-    },
-    {
-      "id": "bc4014ca-7f8a-461b-bb68-37651c8d872e",
-      "event_title": "Fisch Trio",
-      "event_date": "2026-05-10",
-      "end_date": "2026-05-10",
-      "ticket_link": "https://www.helpinghandsukraine.org/fisch-trio-mothers-day-jazz/",
-      "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2026/03/634329812_10238196600551959_4115646380688254202_n.jpg",
-      "source": "Helping Hands for Ukraine",
       "event_category": "concert"
     },
     {
@@ -157,14 +127,24 @@
       "event_category": "other"
     },
     {
-      "id": "8507be15-50f4-4657-a4f9-d3b4731a952c",
-      "event_title": "Voice of the Ukrainian Diaspora",
+      "id": "bc4014ca-7f8a-461b-bb68-37651c8d872e",
+      "event_title": "Fisch Trio",
       "event_date": "2026-05-10",
       "end_date": "2026-05-10",
-      "ticket_link": "https://www.eventbrite.com/e/voice-of-the-ukrainian-diaspora-tickets-1985816161596",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1180787456%252F2996288818158%252F1%252Foriginal.20260326-200013%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D878929400151e51f65767e2b14f999ee&w=1880&q=75",
-      "source": "Eventbrite",
-      "event_category": "arttalk"
+      "ticket_link": "https://www.helpinghandsukraine.org/fisch-trio-mothers-day-jazz/",
+      "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2026/03/634329812_10238196600551959_4115646380688254202_n.jpg",
+      "source": "Helping Hands for Ukraine",
+      "event_category": "concert"
+    },
+    {
+      "id": "95254e3d-1c14-4b7c-964d-b7cff42029c6",
+      "event_title": "KOLO",
+      "event_date": "2026-05-10",
+      "end_date": "2026-05-10",
+      "ticket_link": "https://ra.co/events/2416532",
+      "cover_image_url": "https://images.ra.co/0e9ae5adab81578b021ae78e33cc3bbb527f3c53.png",
+      "source": "Resident Advisor (KOLO NYC)",
+      "event_category": "concert"
     },
     {
       "id": "cd780c38-7d18-43fe-9e8e-c3d86adbc5ff",
@@ -175,6 +155,16 @@
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1177898873%252F86171180225%252F1%252Foriginal.20260219-020128%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Dd785c170d59a9e3618f8dbcb3d15e570&w=1880&q=75",
       "source": "Eventbrite",
       "event_category": "concert"
+    },
+    {
+      "id": "8507be15-50f4-4657-a4f9-d3b4731a952c",
+      "event_title": "Voice of the Ukrainian Diaspora",
+      "event_date": "2026-05-10",
+      "end_date": "2026-05-10",
+      "ticket_link": "https://www.eventbrite.com/e/voice-of-the-ukrainian-diaspora-tickets-1985816161596",
+      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1180787456%252F2996288818158%252F1%252Foriginal.20260326-200013%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D878929400151e51f65767e2b14f999ee&w=1880&q=75",
+      "source": "Eventbrite",
+      "event_category": "arttalk"
     },
     {
       "id": "e3a3ec48-4e77-4a37-bb49-49655dc26dd0",
@@ -207,16 +197,6 @@
       "event_category": "festival"
     },
     {
-      "id": "7779f662-eb20-4007-9118-c84190457d79",
-      "event_title": "Books at the Institute",
-      "event_date": "2026-05-21",
-      "end_date": "2026-05-21",
-      "ticket_link": "https://ukrainianinstitute.org/event/2026-05-21-books-verini/",
-      "cover_image_url": "https://ukrainianinstitute.org/wp-content/uploads/2026/04/Verini_webpage-graphic_version-1-Large.jpeg",
-      "source": "Ukrainian Institute",
-      "event_category": "other"
-    },
-    {
       "id": "e8731b8f-6cf8-4519-b60d-143788d55a77",
       "event_title": "Grown-Up Girl - New York",
       "event_date": "2026-05-21",
@@ -225,6 +205,16 @@
       "cover_image_url": "https://api.bomond.com/public/69/3462/173109/divchata_432x432%20%281%29.webp",
       "source": "Bomond",
       "event_category": "arttalk"
+    },
+    {
+      "id": "7779f662-eb20-4007-9118-c84190457d79",
+      "event_title": "Books at the Institute",
+      "event_date": "2026-05-21",
+      "end_date": "2026-05-21",
+      "ticket_link": "https://ukrainianinstitute.org/event/2026-05-21-books-verini/",
+      "cover_image_url": "https://ukrainianinstitute.org/wp-content/uploads/2026/04/Verini_webpage-graphic_version-1-Large.jpeg",
+      "source": "Ukrainian Institute",
+      "event_category": "other"
     },
     {
       "id": "14c1cd67-d010-4037-a06f-d8e19d3227a0",
@@ -256,16 +246,6 @@
       "ticket_link": "https://www.ualberta.ca/en/admissions-programs/online-courses/famine-as-genocide-the-holodomor-in-ukraine.html",
       "cover_image_url": "https://www.ualberta.ca/media-library/ualberta/admissions-and-programs/courses/holodomor-mooc-wheat.jpg",
       "source": "UAlberta",
-      "event_category": "workshop"
-    },
-    {
-      "id": "a95cffe3-50d3-4cb5-beef-924d4fcb0a2b",
-      "event_title": "Playground",
-      "event_date": "2026-04-28",
-      "end_date": "2026-04-28",
-      "ticket_link": "https://tisto.nyc/workshops/playground-april-28",
-      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
-      "source": "Tisto NYC",
       "event_category": "workshop"
     },
     {
@@ -349,16 +329,6 @@
       "event_category": "arttalk"
     },
     {
-      "id": "95254e3d-1c14-4b7c-964d-b7cff42029c6",
-      "event_title": "KOLO",
-      "event_date": "2026-05-10",
-      "end_date": "2026-05-10",
-      "ticket_link": "https://ra.co/events/2416532",
-      "cover_image_url": "https://images.ra.co/0e9ae5adab81578b021ae78e33cc3bbb527f3c53.png",
-      "source": "Resident Advisor (KOLO NYC)",
-      "event_category": "concert"
-    },
-    {
       "id": "e51d622a-e3a5-4c84-94c7-2d7d17fa968e",
       "event_title": "KOLA - New York",
       "event_date": "2026-05-10",
@@ -366,16 +336,6 @@
       "ticket_link": "https://bomond.com/events/kola-new-york",
       "cover_image_url": "https://api.bomond.com/public/68/3429/171460/432_432.webp",
       "source": "Bomond",
-      "event_category": "concert"
-    },
-    {
-      "id": "bc4014ca-7f8a-461b-bb68-37651c8d872e",
-      "event_title": "Fisch Trio",
-      "event_date": "2026-05-10",
-      "end_date": "2026-05-10",
-      "ticket_link": "https://www.helpinghandsukraine.org/fisch-trio-mothers-day-jazz/",
-      "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2026/03/634329812_10238196600551959_4115646380688254202_n.jpg",
-      "source": "Helping Hands for Ukraine",
       "event_category": "concert"
     },
     {
@@ -389,14 +349,24 @@
       "event_category": "other"
     },
     {
-      "id": "8507be15-50f4-4657-a4f9-d3b4731a952c",
-      "event_title": "Voice of the Ukrainian Diaspora",
+      "id": "bc4014ca-7f8a-461b-bb68-37651c8d872e",
+      "event_title": "Fisch Trio",
       "event_date": "2026-05-10",
       "end_date": "2026-05-10",
-      "ticket_link": "https://www.eventbrite.com/e/voice-of-the-ukrainian-diaspora-tickets-1985816161596",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1180787456%252F2996288818158%252F1%252Foriginal.20260326-200013%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D878929400151e51f65767e2b14f999ee&w=1880&q=75",
-      "source": "Eventbrite",
-      "event_category": "arttalk"
+      "ticket_link": "https://www.helpinghandsukraine.org/fisch-trio-mothers-day-jazz/",
+      "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2026/03/634329812_10238196600551959_4115646380688254202_n.jpg",
+      "source": "Helping Hands for Ukraine",
+      "event_category": "concert"
+    },
+    {
+      "id": "95254e3d-1c14-4b7c-964d-b7cff42029c6",
+      "event_title": "KOLO",
+      "event_date": "2026-05-10",
+      "end_date": "2026-05-10",
+      "ticket_link": "https://ra.co/events/2416532",
+      "cover_image_url": "https://images.ra.co/0e9ae5adab81578b021ae78e33cc3bbb527f3c53.png",
+      "source": "Resident Advisor (KOLO NYC)",
+      "event_category": "concert"
     },
     {
       "id": "cd780c38-7d18-43fe-9e8e-c3d86adbc5ff",
@@ -407,6 +377,16 @@
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1177898873%252F86171180225%252F1%252Foriginal.20260219-020128%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Dd785c170d59a9e3618f8dbcb3d15e570&w=1880&q=75",
       "source": "Eventbrite",
       "event_category": "concert"
+    },
+    {
+      "id": "8507be15-50f4-4657-a4f9-d3b4731a952c",
+      "event_title": "Voice of the Ukrainian Diaspora",
+      "event_date": "2026-05-10",
+      "end_date": "2026-05-10",
+      "ticket_link": "https://www.eventbrite.com/e/voice-of-the-ukrainian-diaspora-tickets-1985816161596",
+      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1180787456%252F2996288818158%252F1%252Foriginal.20260326-200013%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D878929400151e51f65767e2b14f999ee&w=1880&q=75",
+      "source": "Eventbrite",
+      "event_category": "arttalk"
     },
     {
       "id": "e3a3ec48-4e77-4a37-bb49-49655dc26dd0",
@@ -439,16 +419,6 @@
       "event_category": "festival"
     },
     {
-      "id": "7779f662-eb20-4007-9118-c84190457d79",
-      "event_title": "Books at the Institute",
-      "event_date": "2026-05-21",
-      "end_date": "2026-05-21",
-      "ticket_link": "https://ukrainianinstitute.org/event/2026-05-21-books-verini/",
-      "cover_image_url": "https://ukrainianinstitute.org/wp-content/uploads/2026/04/Verini_webpage-graphic_version-1-Large.jpeg",
-      "source": "Ukrainian Institute",
-      "event_category": "other"
-    },
-    {
       "id": "e8731b8f-6cf8-4519-b60d-143788d55a77",
       "event_title": "Grown-Up Girl - New York",
       "event_date": "2026-05-21",
@@ -457,6 +427,16 @@
       "cover_image_url": "https://api.bomond.com/public/69/3462/173109/divchata_432x432%20%281%29.webp",
       "source": "Bomond",
       "event_category": "arttalk"
+    },
+    {
+      "id": "7779f662-eb20-4007-9118-c84190457d79",
+      "event_title": "Books at the Institute",
+      "event_date": "2026-05-21",
+      "end_date": "2026-05-21",
+      "ticket_link": "https://ukrainianinstitute.org/event/2026-05-21-books-verini/",
+      "cover_image_url": "https://ukrainianinstitute.org/wp-content/uploads/2026/04/Verini_webpage-graphic_version-1-Large.jpeg",
+      "source": "Ukrainian Institute",
+      "event_category": "other"
     },
     {
       "id": "14c1cd67-d010-4037-a06f-d8e19d3227a0",
