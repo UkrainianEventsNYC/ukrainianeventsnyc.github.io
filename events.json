@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T14:03:08.050571-04:00",
+  "generated_at": "2026-05-02T05:07:56.286865-04:00",
   "this_week_end": "2026-05-03",
   "this_month_end": "2026-05-31",
   "next_month_end": "2026-06-30",
@@ -23,16 +23,6 @@
       "cover_image_url": "http://static1.squarespace.com/static/688a4380e5388e7b843955e5/t/69dd48a665e4f561c0719744/1776110150047/War+Photography+Exhibition.jpeg?format=1500w",
       "source": "American Ukraine Committee",
       "event_category": "other"
-    },
-    {
-      "id": "646d4535-c286-481b-b656-fa7d2a6760d0",
-      "event_title": "Concert Commemorating the 40th Anniversary of the Chornobyl Catastrophe",
-      "event_date": "2026-05-01",
-      "end_date": "2026-05-01",
-      "ticket_link": "https://www.carnegiehall.org/calendar/2026/05/01/concert-commemorating-the-40th-anniversary-of-the-chornobyl-catastrophe-0700pm",
-      "cover_image_url": "https://carnegiehall.imgix.net/-/media/CarnegieHall/Images/Events/2025-2026-Rentals/2026-05-01-Concert-Commemorating-the-40th-Anniversary-of-the-Chornobyl-Catastrophe-1.jpg?fit=crop&crop=faces",
-      "source": "Carnegie Hall",
-      "event_category": "concert"
     },
     {
       "id": "6da539a2-9589-4996-8c28-aafaf94894c7",
@@ -73,6 +63,16 @@
       "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1767219501_-_1200x630(1).jpg",
       "source": "Waylight",
       "event_category": "standup"
+    },
+    {
+      "id": "d8927164-1fe7-4fcd-9797-42ad3d90549d",
+      "event_title": "Playground",
+      "event_date": "2026-05-05",
+      "end_date": "2026-05-05",
+      "ticket_link": "https://tisto.nyc/workshops/05-05-playground",
+      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
+      "source": "Tisto NYC",
+      "event_category": null
     },
     {
       "id": "f485d2cb-a3e2-4709-9403-4f2facc67c00",
@@ -233,6 +233,16 @@
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1181431535%252F86171180225%252F1%252Foriginal.20260404-163905%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D94f35851f384a3f1db071478702763fa&w=1880&q=75",
       "source": "Eventbrite",
       "event_category": "festival"
+    },
+    {
+      "id": "f2506efa-bd9c-4ea7-b3a5-dca133bee4b9",
+      "event_title": "Playgrond",
+      "event_date": "2026-05-20",
+      "end_date": "2026-05-20",
+      "ticket_link": "https://tisto.nyc/workshops/05-20-playground",
+      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
+      "source": "Tisto NYC",
+      "event_category": null
     },
     {
       "id": "7779f662-eb20-4007-9118-c84190457d79",
@@ -389,16 +399,6 @@
       "event_category": "other"
     },
     {
-      "id": "646d4535-c286-481b-b656-fa7d2a6760d0",
-      "event_title": "Concert Commemorating the 40th Anniversary of the Chornobyl Catastrophe",
-      "event_date": "2026-05-01",
-      "end_date": "2026-05-01",
-      "ticket_link": "https://www.carnegiehall.org/calendar/2026/05/01/concert-commemorating-the-40th-anniversary-of-the-chornobyl-catastrophe-0700pm",
-      "cover_image_url": "https://carnegiehall.imgix.net/-/media/CarnegieHall/Images/Events/2025-2026-Rentals/2026-05-01-Concert-Commemorating-the-40th-Anniversary-of-the-Chornobyl-Catastrophe-1.jpg?fit=crop&crop=faces",
-      "source": "Carnegie Hall",
-      "event_category": "concert"
-    },
-    {
       "id": "6da539a2-9589-4996-8c28-aafaf94894c7",
       "event_title": "TUT | AND THEN I GOT HERE 2026",
       "event_date": "2026-05-01",
@@ -437,6 +437,16 @@
       "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1767219501_-_1200x630(1).jpg",
       "source": "Waylight",
       "event_category": "standup"
+    },
+    {
+      "id": "d8927164-1fe7-4fcd-9797-42ad3d90549d",
+      "event_title": "Playground",
+      "event_date": "2026-05-05",
+      "end_date": "2026-05-05",
+      "ticket_link": "https://tisto.nyc/workshops/05-05-playground",
+      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
+      "source": "Tisto NYC",
+      "event_category": null
     },
     {
       "id": "f485d2cb-a3e2-4709-9403-4f2facc67c00",
@@ -597,6 +607,16 @@
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1181431535%252F86171180225%252F1%252Foriginal.20260404-163905%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D94f35851f384a3f1db071478702763fa&w=1880&q=75",
       "source": "Eventbrite",
       "event_category": "festival"
+    },
+    {
+      "id": "f2506efa-bd9c-4ea7-b3a5-dca133bee4b9",
+      "event_title": "Playgrond",
+      "event_date": "2026-05-20",
+      "end_date": "2026-05-20",
+      "ticket_link": "https://tisto.nyc/workshops/05-20-playground",
+      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
+      "source": "Tisto NYC",
+      "event_category": null
     },
     {
       "id": "7779f662-eb20-4007-9118-c84190457d79",
