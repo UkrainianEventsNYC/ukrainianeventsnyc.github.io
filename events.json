@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T05:25:21.872595-04:00",
-  "this_week_end": "2026-05-03",
+  "generated_at": "2026-05-04T06:15:50.401927-04:00",
+  "this_week_end": "2026-05-10",
   "this_month_end": "2026-05-31",
   "next_month_end": "2026-06-30",
   "this_month": [
@@ -25,26 +25,6 @@
       "event_category": "other"
     },
     {
-      "id": "6da539a2-9589-4996-8c28-aafaf94894c7",
-      "event_title": "TUT | AND THEN I GOT HERE 2026",
-      "event_date": "2026-05-01",
-      "end_date": "2026-05-03",
-      "ticket_link": "https://marksjchb.wufoo.com/forms/z1uvbwrz1j23qtk/",
-      "cover_image_url": null,
-      "source": "Marks JCH / Lost & Found Project",
-      "event_category": "other"
-    },
-    {
-      "id": "7efe00f4-9272-4a1d-bed7-85b102dd4727",
-      "event_title": "Женя Галич - New York City",
-      "event_date": "2026-05-03",
-      "end_date": "2026-05-03",
-      "ticket_link": "https://waylight.me/ucrazystandup/event/0cec3-7332e",
-      "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1767219501_-_1200x630(1).jpg",
-      "source": "Waylight",
-      "event_category": "standup"
-    },
-    {
       "id": "d8927164-1fe7-4fcd-9797-42ad3d90549d",
       "event_title": "Playground",
       "event_date": "2026-05-05",
@@ -65,16 +45,6 @@
       "event_category": "performance"
     },
     {
-      "id": "c2ee0d44-058a-42de-a2c7-d2e29efeecf8",
-      "event_title": "G-GALLERY DJ SCHOOL",
-      "event_date": "2026-05-08",
-      "end_date": "2026-05-08",
-      "ticket_link": "https://ukrainian.us/events/g-gallery-djschool",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/-zwZsb64dFLILojHiqWJaFWw4B13nT0b-source.png?v=0.1&s=4a818b65f236697ba070a5870e64ac49",
-      "source": "Ukrainian USA",
-      "event_category": "concert"
-    },
-    {
       "id": "a8594fdf-ec14-460d-99a9-0db62bfa1357",
       "event_title": "Celebration of UIA’s 78th Birthday",
       "event_date": "2026-05-08",
@@ -83,6 +53,16 @@
       "cover_image_url": "https://ukrainianinstitute.org/wp-content/uploads/2026/04/2026.05.08-UIA-Birthday-1600x900-Large.jpeg",
       "source": "Ukrainian Institute",
       "event_category": "festival"
+    },
+    {
+      "id": "c2ee0d44-058a-42de-a2c7-d2e29efeecf8",
+      "event_title": "G-GALLERY DJ SCHOOL",
+      "event_date": "2026-05-08",
+      "end_date": "2026-05-08",
+      "ticket_link": "https://ukrainian.us/events/g-gallery-djschool",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/-zwZsb64dFLILojHiqWJaFWw4B13nT0b-source.png?v=0.1&s=4a818b65f236697ba070a5870e64ac49",
+      "source": "Ukrainian USA",
+      "event_category": "concert"
     },
     {
       "id": "81cd7df3-d78f-4cc9-8a2f-94a12b79d0df",
@@ -379,26 +359,6 @@
       "event_category": "other"
     },
     {
-      "id": "6da539a2-9589-4996-8c28-aafaf94894c7",
-      "event_title": "TUT | AND THEN I GOT HERE 2026",
-      "event_date": "2026-05-01",
-      "end_date": "2026-05-03",
-      "ticket_link": "https://marksjchb.wufoo.com/forms/z1uvbwrz1j23qtk/",
-      "cover_image_url": null,
-      "source": "Marks JCH / Lost & Found Project",
-      "event_category": "other"
-    },
-    {
-      "id": "7efe00f4-9272-4a1d-bed7-85b102dd4727",
-      "event_title": "Женя Галич - New York City",
-      "event_date": "2026-05-03",
-      "end_date": "2026-05-03",
-      "ticket_link": "https://waylight.me/ucrazystandup/event/0cec3-7332e",
-      "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1767219501_-_1200x630(1).jpg",
-      "source": "Waylight",
-      "event_category": "standup"
-    },
-    {
       "id": "d8927164-1fe7-4fcd-9797-42ad3d90549d",
       "event_title": "Playground",
       "event_date": "2026-05-05",
@@ -419,16 +379,6 @@
       "event_category": "performance"
     },
     {
-      "id": "c2ee0d44-058a-42de-a2c7-d2e29efeecf8",
-      "event_title": "G-GALLERY DJ SCHOOL",
-      "event_date": "2026-05-08",
-      "end_date": "2026-05-08",
-      "ticket_link": "https://ukrainian.us/events/g-gallery-djschool",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/-zwZsb64dFLILojHiqWJaFWw4B13nT0b-source.png?v=0.1&s=4a818b65f236697ba070a5870e64ac49",
-      "source": "Ukrainian USA",
-      "event_category": "concert"
-    },
-    {
       "id": "a8594fdf-ec14-460d-99a9-0db62bfa1357",
       "event_title": "Celebration of UIA’s 78th Birthday",
       "event_date": "2026-05-08",
@@ -437,6 +387,16 @@
       "cover_image_url": "https://ukrainianinstitute.org/wp-content/uploads/2026/04/2026.05.08-UIA-Birthday-1600x900-Large.jpeg",
       "source": "Ukrainian Institute",
       "event_category": "festival"
+    },
+    {
+      "id": "c2ee0d44-058a-42de-a2c7-d2e29efeecf8",
+      "event_title": "G-GALLERY DJ SCHOOL",
+      "event_date": "2026-05-08",
+      "end_date": "2026-05-08",
+      "ticket_link": "https://ukrainian.us/events/g-gallery-djschool",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/-zwZsb64dFLILojHiqWJaFWw4B13nT0b-source.png?v=0.1&s=4a818b65f236697ba070a5870e64ac49",
+      "source": "Ukrainian USA",
+      "event_category": "concert"
     },
     {
       "id": "81cd7df3-d78f-4cc9-8a2f-94a12b79d0df",
