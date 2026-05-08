@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-07T06:30:03.510800-04:00",
+  "generated_at": "2026-05-08T05:21:06.581861-04:00",
   "this_week_end": "2026-05-10",
   "this_month_end": "2026-05-31",
   "next_month_end": "2026-06-30",
@@ -25,16 +25,6 @@
       "event_category": "performance"
     },
     {
-      "id": "375443f3-1762-4267-8568-ff8fe923bf44",
-      "event_title": "Boundless: Min Xiao-Fen and Julian Kytasty · Lincoln Center",
-      "event_date": "2026-05-07",
-      "end_date": "2026-05-07",
-      "ticket_link": "https://lincolncenter.org/series/lincoln-center-presents/boundless-min-xiao-fen-and-julian-kytasty",
-      "cover_image_url": "https://images.lincolncenter.org/image/upload/v1768512273/exwhm6mrh8pj2clne3wd.jpg",
-      "source": "Lincoln Center",
-      "event_category": "concert"
-    },
-    {
       "id": "f485d2cb-a3e2-4709-9403-4f2facc67c00",
       "event_title": "Ukrainian Drama Showcase",
       "event_date": "2026-05-07",
@@ -43,16 +33,6 @@
       "cover_image_url": "https://www.razomforukraine.org/wp-content/uploads/2026/04/Group-3-7.png",
       "source": "Razom For Ukraine",
       "event_category": "performance"
-    },
-    {
-      "id": "a8594fdf-ec14-460d-99a9-0db62bfa1357",
-      "event_title": "Celebration of UIA’s 78th Birthday",
-      "event_date": "2026-05-08",
-      "end_date": "2026-05-08",
-      "ticket_link": "https://ukrainianinstitute.org/event/2026-05-08-uia-birthday/",
-      "cover_image_url": "https://ukrainianinstitute.org/wp-content/uploads/2026/04/2026.05.08-UIA-Birthday-1600x900-Large.jpeg",
-      "source": "Ukrainian Institute",
-      "event_category": "festival"
     },
     {
       "id": "c2ee0d44-058a-42de-a2c7-d2e29efeecf8",
@@ -65,6 +45,16 @@
       "event_category": "workshop"
     },
     {
+      "id": "a8594fdf-ec14-460d-99a9-0db62bfa1357",
+      "event_title": "Celebration of UIA’s 78th Birthday",
+      "event_date": "2026-05-08",
+      "end_date": "2026-05-08",
+      "ticket_link": "https://ukrainianinstitute.org/event/2026-05-08-uia-birthday/",
+      "cover_image_url": "https://ukrainianinstitute.org/wp-content/uploads/2026/04/2026.05.08-UIA-Birthday-1600x900-Large.jpeg",
+      "source": "Ukrainian Institute",
+      "event_category": "festival"
+    },
+    {
       "id": "81cd7df3-d78f-4cc9-8a2f-94a12b79d0df",
       "event_title": "Across the Oceans: United in Support of Kyiv-Mohyla Academy-New York",
       "event_date": "2026-05-09",
@@ -72,16 +62,6 @@
       "ticket_link": "https://www.eventbrite.com/e/across-the-oceans-united-in-support-of-kyiv-mohyla-academy-new-york-tickets-1984716832473",
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1179326041%252F865995669873%252F1%252Foriginal.20260308-174605%3Fw%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26s%3D82853ed14ed58ced42c57e6aec7da2be&w=1880&q=75",
       "source": "Eventbrite",
-      "event_category": "arttalk"
-    },
-    {
-      "id": "ee792353-5ae6-4927-bc2b-35c4bc0985d2",
-      "event_title": "Brave women",
-      "event_date": "2026-05-09",
-      "end_date": "2026-05-09",
-      "ticket_link": "https://ukrainian.us/events/brave-women",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/5FpdrYgSzp2caTafA6m92ucEIfBR0N5o-source.png?v=0.1&s=c0d328b3b3cbdcec32aa6e17918ff0b8",
-      "source": "Ukrainian USA",
       "event_category": "arttalk"
     },
     {
@@ -95,6 +75,16 @@
       "event_category": "music"
     },
     {
+      "id": "ee792353-5ae6-4927-bc2b-35c4bc0985d2",
+      "event_title": "Brave women",
+      "event_date": "2026-05-09",
+      "end_date": "2026-05-09",
+      "ticket_link": "https://ukrainian.us/events/brave-women",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/5FpdrYgSzp2caTafA6m92ucEIfBR0N5o-source.png?v=0.1&s=c0d328b3b3cbdcec32aa6e17918ff0b8",
+      "source": "Ukrainian USA",
+      "event_category": "arttalk"
+    },
+    {
       "id": "bc4014ca-7f8a-461b-bb68-37651c8d872e",
       "event_title": "Fisch Trio",
       "event_date": "2026-05-10",
@@ -102,6 +92,26 @@
       "ticket_link": "https://www.helpinghandsukraine.org/fisch-trio-mothers-day-jazz/",
       "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2026/03/634329812_10238196600551959_4115646380688254202_n.jpg",
       "source": "Helping Hands for Ukraine",
+      "event_category": "concert"
+    },
+    {
+      "id": "5bf97f96-4932-418d-a052-b5ced514c9e1",
+      "event_title": "Mother’s Day Brunch",
+      "event_date": "2026-05-10",
+      "end_date": "2026-05-10",
+      "ticket_link": "https://soyuzivka.com/calendar-of-events/fathers-day-brunch-copy/",
+      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2026/03/Mothers-Day-Pic.png",
+      "source": "Soyuzivka",
+      "event_category": "other"
+    },
+    {
+      "id": "95254e3d-1c14-4b7c-964d-b7cff42029c6",
+      "event_title": "KOLO",
+      "event_date": "2026-05-10",
+      "end_date": "2026-05-10",
+      "ticket_link": "https://ra.co/events/2416532",
+      "cover_image_url": "https://images.ra.co/0e9ae5adab81578b021ae78e33cc3bbb527f3c53.png",
+      "source": "Resident Advisor (KOLO NYC)",
       "event_category": "concert"
     },
     {
@@ -125,16 +135,6 @@
       "event_category": "concert"
     },
     {
-      "id": "8507be15-50f4-4657-a4f9-d3b4731a952c",
-      "event_title": "Voice of the Ukrainian Diaspora",
-      "event_date": "2026-05-10",
-      "end_date": "2026-05-10",
-      "ticket_link": "https://www.eventbrite.com/e/voice-of-the-ukrainian-diaspora-tickets-1985816161596",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1180787456%252F2996288818158%252F1%252Foriginal.20260326-200013%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D878929400151e51f65767e2b14f999ee&w=1880&q=75",
-      "source": "Eventbrite",
-      "event_category": "arttalk"
-    },
-    {
       "id": "37925044-ebd5-403a-9c07-812b9fc74e2a",
       "event_title": "Guided Tour of Central Park",
       "event_date": "2026-05-10",
@@ -145,24 +145,14 @@
       "event_category": "other"
     },
     {
-      "id": "5bf97f96-4932-418d-a052-b5ced514c9e1",
-      "event_title": "Mother’s Day Brunch",
+      "id": "8507be15-50f4-4657-a4f9-d3b4731a952c",
+      "event_title": "Voice of the Ukrainian Diaspora",
       "event_date": "2026-05-10",
       "end_date": "2026-05-10",
-      "ticket_link": "https://soyuzivka.com/calendar-of-events/fathers-day-brunch-copy/",
-      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2026/03/Mothers-Day-Pic.png",
-      "source": "Soyuzivka",
-      "event_category": "other"
-    },
-    {
-      "id": "95254e3d-1c14-4b7c-964d-b7cff42029c6",
-      "event_title": "KOLO",
-      "event_date": "2026-05-10",
-      "end_date": "2026-05-10",
-      "ticket_link": "https://ra.co/events/2416532",
-      "cover_image_url": "https://images.ra.co/0e9ae5adab81578b021ae78e33cc3bbb527f3c53.png",
-      "source": "Resident Advisor (KOLO NYC)",
-      "event_category": "concert"
+      "ticket_link": "https://www.eventbrite.com/e/voice-of-the-ukrainian-diaspora-tickets-1985816161596",
+      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1180787456%252F2996288818158%252F1%252Foriginal.20260326-200013%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D878929400151e51f65767e2b14f999ee&w=1880&q=75",
+      "source": "Eventbrite",
+      "event_category": "arttalk"
     },
     {
       "id": "e3a3ec48-4e77-4a37-bb49-49655dc26dd0",
@@ -185,16 +175,6 @@
       "event_category": "other"
     },
     {
-      "id": "c717bfff-3996-4d2d-b69c-dd5fe7b4adec",
-      "event_title": "​Olya Tsybulska Live in New York",
-      "event_date": "2026-05-15",
-      "end_date": "2026-05-15",
-      "ticket_link": "https://ukrainian.us/events/olya-tsybulska-live-in-new-york",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/ocwGUbnicW7_dCfelzMGpUaWLhfdxhhR-source.png?v=0.1&s=46ba1ed507d3c62980cfac63ee95fabb",
-      "source": "Ukrainian USA",
-      "event_category": "concert"
-    },
-    {
       "id": "2c8f5b13-ba70-4de5-94e0-a9f6c34bf451",
       "event_title": "FEVER",
       "event_date": "2026-05-15",
@@ -203,6 +183,16 @@
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1183243207%252F1071778002963%252F1%252Foriginal.20260428-164206%3Fw%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26s%3D9ecefeac1ae95a223d15336874989d51&w=1880&q=75",
       "source": "Eventbrite",
       "event_category": "performance"
+    },
+    {
+      "id": "c717bfff-3996-4d2d-b69c-dd5fe7b4adec",
+      "event_title": "​Olya Tsybulska Live in New York",
+      "event_date": "2026-05-15",
+      "end_date": "2026-05-15",
+      "ticket_link": "https://ukrainian.us/events/olya-tsybulska-live-in-new-york",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/ocwGUbnicW7_dCfelzMGpUaWLhfdxhhR-source.png?v=0.1&s=46ba1ed507d3c62980cfac63ee95fabb",
+      "source": "Ukrainian USA",
+      "event_category": "concert"
     },
     {
       "id": "a435b1ca-81fd-423b-9878-69da4069e76c",
@@ -215,16 +205,6 @@
       "event_category": "concert"
     },
     {
-      "id": "0f966170-480c-42a5-8dff-e45f7bcd79fc",
-      "event_title": "Art in War - Exhibit and sale",
-      "event_date": "2026-05-17",
-      "end_date": "2026-05-17",
-      "ticket_link": "https://www.eventbrite.com/e/art-in-war-exhibit-and-sale-tickets-1988288402134",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1183088607%252F152705885625%252F1%252Foriginal.20260427-003005%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.053%26fp-y%3D0.142%26s%3D730b6940d767bd69ee7a22bf7d248f4b&w=1880&q=75",
-      "source": "Eventbrite",
-      "event_category": "arttalk"
-    },
-    {
       "id": "d44c8e1a-ec9e-412d-9536-caa0efbe34f7",
       "event_title": "Playgrounda playful, acting experience, guided for non-actors",
       "event_date": "2026-05-17",
@@ -233,6 +213,16 @@
       "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
       "source": "Tisto NYC",
       "event_category": "workshop"
+    },
+    {
+      "id": "0f966170-480c-42a5-8dff-e45f7bcd79fc",
+      "event_title": "Art in War - Exhibit and sale",
+      "event_date": "2026-05-17",
+      "end_date": "2026-05-17",
+      "ticket_link": "https://www.eventbrite.com/e/art-in-war-exhibit-and-sale-tickets-1988288402134",
+      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1183088607%252F152705885625%252F1%252Foriginal.20260427-003005%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.053%26fp-y%3D0.142%26s%3D730b6940d767bd69ee7a22bf7d248f4b&w=1880&q=75",
+      "source": "Eventbrite",
+      "event_category": "arttalk"
     },
     {
       "id": "d8174b3d-5eab-4be2-a8b3-2410e9967fe7",
@@ -265,13 +255,13 @@
       "event_category": "workshop"
     },
     {
-      "id": "e8731b8f-6cf8-4519-b60d-143788d55a77",
-      "event_title": "Grown-Up Girl - New York",
+      "id": "f8f44b69-e21e-4fb2-9644-5e0eff52b8c7",
+      "event_title": "FLOWERS & TREES IN UKRAINIAN ART TALK",
       "event_date": "2026-05-21",
       "end_date": "2026-05-21",
-      "ticket_link": "https://www.ticketmaster.com/event/03006364DB88273E",
-      "cover_image_url": "https://api.bomond.com/public/69/3462/173109/divchata_432x432%20%281%29.webp",
-      "source": "Bomond",
+      "ticket_link": "https://www.ashmolean.org/event/flowers-and-trees-in-ukrainian-art-talk",
+      "cover_image_url": "https://www.ashmolean.org/sites/default/files/ashmolean/images/event/myokola_samokish_motifs_of_ukranian_ornament_no.1_1902_wmbroidery_with_silk_and_gold_chernihv_province_archaeological_exhibition_1902_in_kharkiv_copy.jpg",
+      "source": "Ashmolean Museum",
       "event_category": "arttalk"
     },
     {
@@ -285,24 +275,14 @@
       "event_category": "other"
     },
     {
-      "id": "f8f44b69-e21e-4fb2-9644-5e0eff52b8c7",
-      "event_title": "FLOWERS & TREES IN UKRAINIAN ART TALK",
+      "id": "e8731b8f-6cf8-4519-b60d-143788d55a77",
+      "event_title": "Grown-Up Girl - New York",
       "event_date": "2026-05-21",
       "end_date": "2026-05-21",
-      "ticket_link": "https://www.ashmolean.org/event/flowers-and-trees-in-ukrainian-art-talk",
-      "cover_image_url": "https://www.ashmolean.org/sites/default/files/ashmolean/images/event/myokola_samokish_motifs_of_ukranian_ornament_no.1_1902_wmbroidery_with_silk_and_gold_chernihv_province_archaeological_exhibition_1902_in_kharkiv_copy.jpg",
-      "source": "Ashmolean Museum",
+      "ticket_link": "https://www.ticketmaster.com/event/03006364DB88273E",
+      "cover_image_url": "https://api.bomond.com/public/69/3462/173109/divchata_432x432%20%281%29.webp",
+      "source": "Bomond",
       "event_category": "arttalk"
-    },
-    {
-      "id": "14c1cd67-d010-4037-a06f-d8e19d3227a0",
-      "event_title": "Memorial Day Weekend Spring Concert Series TBD",
-      "event_date": "2026-05-22",
-      "end_date": "2026-05-25",
-      "ticket_link": "https://soyuzivka.com/calendar-of-events/memorial-day-weekend-with-stoneflies-and-torn-boots/",
-      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/05/TornBoots2.png",
-      "source": "Soyuzivka",
-      "event_category": "festival"
     },
     {
       "id": "412e5654-95af-42bd-95e5-38bff15e2ad0",
@@ -315,13 +295,13 @@
       "event_category": "movie"
     },
     {
-      "id": "d0a3f5b9-0011-4ce1-8592-442052dea899",
-      "event_title": "​INDEPENDENCE Night — Official FAINO FEST Afterparty",
-      "event_date": "2026-05-23",
-      "end_date": "2026-05-23",
-      "ticket_link": "https://ukrainian.us/events/faino-afterparty",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/9oOfUa2wTLt48LmUEUuXKEXtQhm6wI_s-source.png?v=0.1&s=43977961d4e64d8ded6a34d677c71d77",
-      "source": "Ukrainian USA",
+      "id": "14c1cd67-d010-4037-a06f-d8e19d3227a0",
+      "event_title": "Memorial Day Weekend Spring Concert Series TBD",
+      "event_date": "2026-05-22",
+      "end_date": "2026-05-25",
+      "ticket_link": "https://soyuzivka.com/calendar-of-events/memorial-day-weekend-with-stoneflies-and-torn-boots/",
+      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/05/TornBoots2.png",
+      "source": "Soyuzivka",
       "event_category": "festival"
     },
     {
@@ -335,14 +315,14 @@
       "event_category": "other"
     },
     {
-      "id": "fb35a872-5115-4ebc-9225-b9f166153ace",
-      "event_title": "Panel on New Books in Ukrainian Studies",
-      "event_date": "2026-05-30",
-      "end_date": "2026-05-30",
-      "ticket_link": "https://shevchenko.org/event/panel-on-new-books-in-ukrainian-studies/",
-      "cover_image_url": null,
-      "source": "Shevchenko Scientific Society",
-      "event_category": "arttalk"
+      "id": "d0a3f5b9-0011-4ce1-8592-442052dea899",
+      "event_title": "​INDEPENDENCE Night — Official FAINO FEST Afterparty",
+      "event_date": "2026-05-23",
+      "end_date": "2026-05-23",
+      "ticket_link": "https://ukrainian.us/events/faino-afterparty",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/9oOfUa2wTLt48LmUEUuXKEXtQhm6wI_s-source.png?v=0.1&s=43977961d4e64d8ded6a34d677c71d77",
+      "source": "Ukrainian USA",
+      "event_category": "festival"
     },
     {
       "id": "13e4ff1a-854e-4202-8caa-5e142c320a04",
@@ -353,6 +333,16 @@
       "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1775146560/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/0225263f-408a-42a8-9d43-f94ecc6cb717.png",
       "source": "Zeffy",
       "event_category": "other"
+    },
+    {
+      "id": "fb35a872-5115-4ebc-9225-b9f166153ace",
+      "event_title": "Panel on New Books in Ukrainian Studies",
+      "event_date": "2026-05-30",
+      "end_date": "2026-05-30",
+      "ticket_link": "https://shevchenko.org/event/panel-on-new-books-in-ukrainian-studies/",
+      "cover_image_url": null,
+      "source": "Shevchenko Scientific Society",
+      "event_category": "arttalk"
     },
     {
       "id": "ba3efcad-7d25-47fb-99aa-8f8bdad242fe",
@@ -397,16 +387,6 @@
       "event_category": "workshop"
     },
     {
-      "id": "de3f59ed-8dff-4b13-8861-8d1301a706ae",
-      "event_title": "UKRAINIAN BOAT IN MANHATTAN - Cruise into Summer Sounds",
-      "event_date": "2026-06-06",
-      "end_date": "2026-06-06",
-      "ticket_link": "https://ukrainian.us/events/boat2026",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/Z3KglP8EBNIKXuEBocxRHZLet69aXmD3-source.png?v=0.1&s=ec46aa5952f47c50ded8fc5861ca59af",
-      "source": "Ukrainian USA",
-      "event_category": "concert"
-    },
-    {
       "id": "a8af58eb-ba9d-47ab-9bde-fe36778b847b",
       "event_title": "Brooklyn/Премʼєра \"Хрещатик 48/2\"/Office of Magical Forces",
       "event_date": "2026-06-06",
@@ -415,6 +395,16 @@
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1182819493%252F294391790611%252F1%252Foriginal.20260422-204620%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.801%26fp-y%3D0.272%26s%3D7896487ef2632c57a85db044196533a1&w=1880&q=75",
       "source": "Eventbrite",
       "event_category": "movie"
+    },
+    {
+      "id": "de3f59ed-8dff-4b13-8861-8d1301a706ae",
+      "event_title": "UKRAINIAN BOAT IN MANHATTAN - Cruise into Summer Sounds",
+      "event_date": "2026-06-06",
+      "end_date": "2026-06-06",
+      "ticket_link": "https://ukrainian.us/events/boat2026",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/Z3KglP8EBNIKXuEBocxRHZLet69aXmD3-source.png?v=0.1&s=ec46aa5952f47c50ded8fc5861ca59af",
+      "source": "Ukrainian USA",
+      "event_category": "concert"
     },
     {
       "id": "b3ccbf9b-d645-4af4-a1e0-2e3d1f350acb",
@@ -509,16 +499,6 @@
       "event_category": "performance"
     },
     {
-      "id": "375443f3-1762-4267-8568-ff8fe923bf44",
-      "event_title": "Boundless: Min Xiao-Fen and Julian Kytasty · Lincoln Center",
-      "event_date": "2026-05-07",
-      "end_date": "2026-05-07",
-      "ticket_link": "https://lincolncenter.org/series/lincoln-center-presents/boundless-min-xiao-fen-and-julian-kytasty",
-      "cover_image_url": "https://images.lincolncenter.org/image/upload/v1768512273/exwhm6mrh8pj2clne3wd.jpg",
-      "source": "Lincoln Center",
-      "event_category": "concert"
-    },
-    {
       "id": "f485d2cb-a3e2-4709-9403-4f2facc67c00",
       "event_title": "Ukrainian Drama Showcase",
       "event_date": "2026-05-07",
@@ -527,16 +507,6 @@
       "cover_image_url": "https://www.razomforukraine.org/wp-content/uploads/2026/04/Group-3-7.png",
       "source": "Razom For Ukraine",
       "event_category": "performance"
-    },
-    {
-      "id": "a8594fdf-ec14-460d-99a9-0db62bfa1357",
-      "event_title": "Celebration of UIA’s 78th Birthday",
-      "event_date": "2026-05-08",
-      "end_date": "2026-05-08",
-      "ticket_link": "https://ukrainianinstitute.org/event/2026-05-08-uia-birthday/",
-      "cover_image_url": "https://ukrainianinstitute.org/wp-content/uploads/2026/04/2026.05.08-UIA-Birthday-1600x900-Large.jpeg",
-      "source": "Ukrainian Institute",
-      "event_category": "festival"
     },
     {
       "id": "c2ee0d44-058a-42de-a2c7-d2e29efeecf8",
@@ -549,6 +519,16 @@
       "event_category": "workshop"
     },
     {
+      "id": "a8594fdf-ec14-460d-99a9-0db62bfa1357",
+      "event_title": "Celebration of UIA’s 78th Birthday",
+      "event_date": "2026-05-08",
+      "end_date": "2026-05-08",
+      "ticket_link": "https://ukrainianinstitute.org/event/2026-05-08-uia-birthday/",
+      "cover_image_url": "https://ukrainianinstitute.org/wp-content/uploads/2026/04/2026.05.08-UIA-Birthday-1600x900-Large.jpeg",
+      "source": "Ukrainian Institute",
+      "event_category": "festival"
+    },
+    {
       "id": "81cd7df3-d78f-4cc9-8a2f-94a12b79d0df",
       "event_title": "Across the Oceans: United in Support of Kyiv-Mohyla Academy-New York",
       "event_date": "2026-05-09",
@@ -556,16 +536,6 @@
       "ticket_link": "https://www.eventbrite.com/e/across-the-oceans-united-in-support-of-kyiv-mohyla-academy-new-york-tickets-1984716832473",
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1179326041%252F865995669873%252F1%252Foriginal.20260308-174605%3Fw%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26s%3D82853ed14ed58ced42c57e6aec7da2be&w=1880&q=75",
       "source": "Eventbrite",
-      "event_category": "arttalk"
-    },
-    {
-      "id": "ee792353-5ae6-4927-bc2b-35c4bc0985d2",
-      "event_title": "Brave women",
-      "event_date": "2026-05-09",
-      "end_date": "2026-05-09",
-      "ticket_link": "https://ukrainian.us/events/brave-women",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/5FpdrYgSzp2caTafA6m92ucEIfBR0N5o-source.png?v=0.1&s=c0d328b3b3cbdcec32aa6e17918ff0b8",
-      "source": "Ukrainian USA",
       "event_category": "arttalk"
     },
     {
@@ -579,6 +549,16 @@
       "event_category": "music"
     },
     {
+      "id": "ee792353-5ae6-4927-bc2b-35c4bc0985d2",
+      "event_title": "Brave women",
+      "event_date": "2026-05-09",
+      "end_date": "2026-05-09",
+      "ticket_link": "https://ukrainian.us/events/brave-women",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/5FpdrYgSzp2caTafA6m92ucEIfBR0N5o-source.png?v=0.1&s=c0d328b3b3cbdcec32aa6e17918ff0b8",
+      "source": "Ukrainian USA",
+      "event_category": "arttalk"
+    },
+    {
       "id": "bc4014ca-7f8a-461b-bb68-37651c8d872e",
       "event_title": "Fisch Trio",
       "event_date": "2026-05-10",
@@ -586,6 +566,26 @@
       "ticket_link": "https://www.helpinghandsukraine.org/fisch-trio-mothers-day-jazz/",
       "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2026/03/634329812_10238196600551959_4115646380688254202_n.jpg",
       "source": "Helping Hands for Ukraine",
+      "event_category": "concert"
+    },
+    {
+      "id": "5bf97f96-4932-418d-a052-b5ced514c9e1",
+      "event_title": "Mother’s Day Brunch",
+      "event_date": "2026-05-10",
+      "end_date": "2026-05-10",
+      "ticket_link": "https://soyuzivka.com/calendar-of-events/fathers-day-brunch-copy/",
+      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2026/03/Mothers-Day-Pic.png",
+      "source": "Soyuzivka",
+      "event_category": "other"
+    },
+    {
+      "id": "95254e3d-1c14-4b7c-964d-b7cff42029c6",
+      "event_title": "KOLO",
+      "event_date": "2026-05-10",
+      "end_date": "2026-05-10",
+      "ticket_link": "https://ra.co/events/2416532",
+      "cover_image_url": "https://images.ra.co/0e9ae5adab81578b021ae78e33cc3bbb527f3c53.png",
+      "source": "Resident Advisor (KOLO NYC)",
       "event_category": "concert"
     },
     {
@@ -609,16 +609,6 @@
       "event_category": "concert"
     },
     {
-      "id": "8507be15-50f4-4657-a4f9-d3b4731a952c",
-      "event_title": "Voice of the Ukrainian Diaspora",
-      "event_date": "2026-05-10",
-      "end_date": "2026-05-10",
-      "ticket_link": "https://www.eventbrite.com/e/voice-of-the-ukrainian-diaspora-tickets-1985816161596",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1180787456%252F2996288818158%252F1%252Foriginal.20260326-200013%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D878929400151e51f65767e2b14f999ee&w=1880&q=75",
-      "source": "Eventbrite",
-      "event_category": "arttalk"
-    },
-    {
       "id": "37925044-ebd5-403a-9c07-812b9fc74e2a",
       "event_title": "Guided Tour of Central Park",
       "event_date": "2026-05-10",
@@ -629,24 +619,14 @@
       "event_category": "other"
     },
     {
-      "id": "5bf97f96-4932-418d-a052-b5ced514c9e1",
-      "event_title": "Mother’s Day Brunch",
+      "id": "8507be15-50f4-4657-a4f9-d3b4731a952c",
+      "event_title": "Voice of the Ukrainian Diaspora",
       "event_date": "2026-05-10",
       "end_date": "2026-05-10",
-      "ticket_link": "https://soyuzivka.com/calendar-of-events/fathers-day-brunch-copy/",
-      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2026/03/Mothers-Day-Pic.png",
-      "source": "Soyuzivka",
-      "event_category": "other"
-    },
-    {
-      "id": "95254e3d-1c14-4b7c-964d-b7cff42029c6",
-      "event_title": "KOLO",
-      "event_date": "2026-05-10",
-      "end_date": "2026-05-10",
-      "ticket_link": "https://ra.co/events/2416532",
-      "cover_image_url": "https://images.ra.co/0e9ae5adab81578b021ae78e33cc3bbb527f3c53.png",
-      "source": "Resident Advisor (KOLO NYC)",
-      "event_category": "concert"
+      "ticket_link": "https://www.eventbrite.com/e/voice-of-the-ukrainian-diaspora-tickets-1985816161596",
+      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1180787456%252F2996288818158%252F1%252Foriginal.20260326-200013%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D878929400151e51f65767e2b14f999ee&w=1880&q=75",
+      "source": "Eventbrite",
+      "event_category": "arttalk"
     },
     {
       "id": "e3a3ec48-4e77-4a37-bb49-49655dc26dd0",
@@ -669,16 +649,6 @@
       "event_category": "other"
     },
     {
-      "id": "c717bfff-3996-4d2d-b69c-dd5fe7b4adec",
-      "event_title": "​Olya Tsybulska Live in New York",
-      "event_date": "2026-05-15",
-      "end_date": "2026-05-15",
-      "ticket_link": "https://ukrainian.us/events/olya-tsybulska-live-in-new-york",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/ocwGUbnicW7_dCfelzMGpUaWLhfdxhhR-source.png?v=0.1&s=46ba1ed507d3c62980cfac63ee95fabb",
-      "source": "Ukrainian USA",
-      "event_category": "concert"
-    },
-    {
       "id": "2c8f5b13-ba70-4de5-94e0-a9f6c34bf451",
       "event_title": "FEVER",
       "event_date": "2026-05-15",
@@ -687,6 +657,16 @@
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1183243207%252F1071778002963%252F1%252Foriginal.20260428-164206%3Fw%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26s%3D9ecefeac1ae95a223d15336874989d51&w=1880&q=75",
       "source": "Eventbrite",
       "event_category": "performance"
+    },
+    {
+      "id": "c717bfff-3996-4d2d-b69c-dd5fe7b4adec",
+      "event_title": "​Olya Tsybulska Live in New York",
+      "event_date": "2026-05-15",
+      "end_date": "2026-05-15",
+      "ticket_link": "https://ukrainian.us/events/olya-tsybulska-live-in-new-york",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/ocwGUbnicW7_dCfelzMGpUaWLhfdxhhR-source.png?v=0.1&s=46ba1ed507d3c62980cfac63ee95fabb",
+      "source": "Ukrainian USA",
+      "event_category": "concert"
     },
     {
       "id": "a435b1ca-81fd-423b-9878-69da4069e76c",
@@ -699,16 +679,6 @@
       "event_category": "concert"
     },
     {
-      "id": "0f966170-480c-42a5-8dff-e45f7bcd79fc",
-      "event_title": "Art in War - Exhibit and sale",
-      "event_date": "2026-05-17",
-      "end_date": "2026-05-17",
-      "ticket_link": "https://www.eventbrite.com/e/art-in-war-exhibit-and-sale-tickets-1988288402134",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1183088607%252F152705885625%252F1%252Foriginal.20260427-003005%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.053%26fp-y%3D0.142%26s%3D730b6940d767bd69ee7a22bf7d248f4b&w=1880&q=75",
-      "source": "Eventbrite",
-      "event_category": "arttalk"
-    },
-    {
       "id": "d44c8e1a-ec9e-412d-9536-caa0efbe34f7",
       "event_title": "Playgrounda playful, acting experience, guided for non-actors",
       "event_date": "2026-05-17",
@@ -717,6 +687,16 @@
       "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
       "source": "Tisto NYC",
       "event_category": "workshop"
+    },
+    {
+      "id": "0f966170-480c-42a5-8dff-e45f7bcd79fc",
+      "event_title": "Art in War - Exhibit and sale",
+      "event_date": "2026-05-17",
+      "end_date": "2026-05-17",
+      "ticket_link": "https://www.eventbrite.com/e/art-in-war-exhibit-and-sale-tickets-1988288402134",
+      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1183088607%252F152705885625%252F1%252Foriginal.20260427-003005%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.053%26fp-y%3D0.142%26s%3D730b6940d767bd69ee7a22bf7d248f4b&w=1880&q=75",
+      "source": "Eventbrite",
+      "event_category": "arttalk"
     },
     {
       "id": "d8174b3d-5eab-4be2-a8b3-2410e9967fe7",
@@ -749,13 +729,13 @@
       "event_category": "workshop"
     },
     {
-      "id": "e8731b8f-6cf8-4519-b60d-143788d55a77",
-      "event_title": "Grown-Up Girl - New York",
+      "id": "f8f44b69-e21e-4fb2-9644-5e0eff52b8c7",
+      "event_title": "FLOWERS & TREES IN UKRAINIAN ART TALK",
       "event_date": "2026-05-21",
       "end_date": "2026-05-21",
-      "ticket_link": "https://www.ticketmaster.com/event/03006364DB88273E",
-      "cover_image_url": "https://api.bomond.com/public/69/3462/173109/divchata_432x432%20%281%29.webp",
-      "source": "Bomond",
+      "ticket_link": "https://www.ashmolean.org/event/flowers-and-trees-in-ukrainian-art-talk",
+      "cover_image_url": "https://www.ashmolean.org/sites/default/files/ashmolean/images/event/myokola_samokish_motifs_of_ukranian_ornament_no.1_1902_wmbroidery_with_silk_and_gold_chernihv_province_archaeological_exhibition_1902_in_kharkiv_copy.jpg",
+      "source": "Ashmolean Museum",
       "event_category": "arttalk"
     },
     {
@@ -769,24 +749,14 @@
       "event_category": "other"
     },
     {
-      "id": "f8f44b69-e21e-4fb2-9644-5e0eff52b8c7",
-      "event_title": "FLOWERS & TREES IN UKRAINIAN ART TALK",
+      "id": "e8731b8f-6cf8-4519-b60d-143788d55a77",
+      "event_title": "Grown-Up Girl - New York",
       "event_date": "2026-05-21",
       "end_date": "2026-05-21",
-      "ticket_link": "https://www.ashmolean.org/event/flowers-and-trees-in-ukrainian-art-talk",
-      "cover_image_url": "https://www.ashmolean.org/sites/default/files/ashmolean/images/event/myokola_samokish_motifs_of_ukranian_ornament_no.1_1902_wmbroidery_with_silk_and_gold_chernihv_province_archaeological_exhibition_1902_in_kharkiv_copy.jpg",
-      "source": "Ashmolean Museum",
+      "ticket_link": "https://www.ticketmaster.com/event/03006364DB88273E",
+      "cover_image_url": "https://api.bomond.com/public/69/3462/173109/divchata_432x432%20%281%29.webp",
+      "source": "Bomond",
       "event_category": "arttalk"
-    },
-    {
-      "id": "14c1cd67-d010-4037-a06f-d8e19d3227a0",
-      "event_title": "Memorial Day Weekend Spring Concert Series TBD",
-      "event_date": "2026-05-22",
-      "end_date": "2026-05-25",
-      "ticket_link": "https://soyuzivka.com/calendar-of-events/memorial-day-weekend-with-stoneflies-and-torn-boots/",
-      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/05/TornBoots2.png",
-      "source": "Soyuzivka",
-      "event_category": "festival"
     },
     {
       "id": "412e5654-95af-42bd-95e5-38bff15e2ad0",
@@ -799,13 +769,13 @@
       "event_category": "movie"
     },
     {
-      "id": "d0a3f5b9-0011-4ce1-8592-442052dea899",
-      "event_title": "​INDEPENDENCE Night — Official FAINO FEST Afterparty",
-      "event_date": "2026-05-23",
-      "end_date": "2026-05-23",
-      "ticket_link": "https://ukrainian.us/events/faino-afterparty",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/9oOfUa2wTLt48LmUEUuXKEXtQhm6wI_s-source.png?v=0.1&s=43977961d4e64d8ded6a34d677c71d77",
-      "source": "Ukrainian USA",
+      "id": "14c1cd67-d010-4037-a06f-d8e19d3227a0",
+      "event_title": "Memorial Day Weekend Spring Concert Series TBD",
+      "event_date": "2026-05-22",
+      "end_date": "2026-05-25",
+      "ticket_link": "https://soyuzivka.com/calendar-of-events/memorial-day-weekend-with-stoneflies-and-torn-boots/",
+      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/05/TornBoots2.png",
+      "source": "Soyuzivka",
       "event_category": "festival"
     },
     {
@@ -819,14 +789,14 @@
       "event_category": "other"
     },
     {
-      "id": "fb35a872-5115-4ebc-9225-b9f166153ace",
-      "event_title": "Panel on New Books in Ukrainian Studies",
-      "event_date": "2026-05-30",
-      "end_date": "2026-05-30",
-      "ticket_link": "https://shevchenko.org/event/panel-on-new-books-in-ukrainian-studies/",
-      "cover_image_url": null,
-      "source": "Shevchenko Scientific Society",
-      "event_category": "arttalk"
+      "id": "d0a3f5b9-0011-4ce1-8592-442052dea899",
+      "event_title": "​INDEPENDENCE Night — Official FAINO FEST Afterparty",
+      "event_date": "2026-05-23",
+      "end_date": "2026-05-23",
+      "ticket_link": "https://ukrainian.us/events/faino-afterparty",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/9oOfUa2wTLt48LmUEUuXKEXtQhm6wI_s-source.png?v=0.1&s=43977961d4e64d8ded6a34d677c71d77",
+      "source": "Ukrainian USA",
+      "event_category": "festival"
     },
     {
       "id": "13e4ff1a-854e-4202-8caa-5e142c320a04",
@@ -837,6 +807,16 @@
       "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1775146560/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/0225263f-408a-42a8-9d43-f94ecc6cb717.png",
       "source": "Zeffy",
       "event_category": "other"
+    },
+    {
+      "id": "fb35a872-5115-4ebc-9225-b9f166153ace",
+      "event_title": "Panel on New Books in Ukrainian Studies",
+      "event_date": "2026-05-30",
+      "end_date": "2026-05-30",
+      "ticket_link": "https://shevchenko.org/event/panel-on-new-books-in-ukrainian-studies/",
+      "cover_image_url": null,
+      "source": "Shevchenko Scientific Society",
+      "event_category": "arttalk"
     },
     {
       "id": "ba3efcad-7d25-47fb-99aa-8f8bdad242fe",
@@ -859,16 +839,6 @@
       "event_category": "workshop"
     },
     {
-      "id": "de3f59ed-8dff-4b13-8861-8d1301a706ae",
-      "event_title": "UKRAINIAN BOAT IN MANHATTAN - Cruise into Summer Sounds",
-      "event_date": "2026-06-06",
-      "end_date": "2026-06-06",
-      "ticket_link": "https://ukrainian.us/events/boat2026",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/Z3KglP8EBNIKXuEBocxRHZLet69aXmD3-source.png?v=0.1&s=ec46aa5952f47c50ded8fc5861ca59af",
-      "source": "Ukrainian USA",
-      "event_category": "concert"
-    },
-    {
       "id": "a8af58eb-ba9d-47ab-9bde-fe36778b847b",
       "event_title": "Brooklyn/Премʼєра \"Хрещатик 48/2\"/Office of Magical Forces",
       "event_date": "2026-06-06",
@@ -877,6 +847,16 @@
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1182819493%252F294391790611%252F1%252Foriginal.20260422-204620%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.801%26fp-y%3D0.272%26s%3D7896487ef2632c57a85db044196533a1&w=1880&q=75",
       "source": "Eventbrite",
       "event_category": "movie"
+    },
+    {
+      "id": "de3f59ed-8dff-4b13-8861-8d1301a706ae",
+      "event_title": "UKRAINIAN BOAT IN MANHATTAN - Cruise into Summer Sounds",
+      "event_date": "2026-06-06",
+      "end_date": "2026-06-06",
+      "ticket_link": "https://ukrainian.us/events/boat2026",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/Z3KglP8EBNIKXuEBocxRHZLet69aXmD3-source.png?v=0.1&s=ec46aa5952f47c50ded8fc5861ca59af",
+      "source": "Ukrainian USA",
+      "event_category": "concert"
     },
     {
       "id": "b3ccbf9b-d645-4af4-a1e0-2e3d1f350acb",
