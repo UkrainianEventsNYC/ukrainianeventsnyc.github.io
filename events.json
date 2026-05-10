@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-09T05:22:07.423734-04:00",
+  "generated_at": "2026-05-10T05:32:48.127570-04:00",
   "this_week_end": "2026-05-10",
   "this_month_end": "2026-05-31",
   "next_month_end": "2026-06-30",
@@ -35,36 +35,6 @@
       "event_category": "performance"
     },
     {
-      "id": "ee792353-5ae6-4927-bc2b-35c4bc0985d2",
-      "event_title": "Brave women",
-      "event_date": "2026-05-09",
-      "end_date": "2026-05-09",
-      "ticket_link": "https://ukrainian.us/events/brave-women",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/5FpdrYgSzp2caTafA6m92ucEIfBR0N5o-source.png?v=0.1&s=c0d328b3b3cbdcec32aa6e17918ff0b8",
-      "source": "Ukrainian USA",
-      "event_category": "arttalk"
-    },
-    {
-      "id": "81cd7df3-d78f-4cc9-8a2f-94a12b79d0df",
-      "event_title": "Across the Oceans: United in Support of Kyiv-Mohyla Academy-New York",
-      "event_date": "2026-05-09",
-      "end_date": "2026-05-09",
-      "ticket_link": "https://www.eventbrite.com/e/across-the-oceans-united-in-support-of-kyiv-mohyla-academy-new-york-tickets-1984716832473",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1179326041%252F865995669873%252F1%252Foriginal.20260308-174605%3Fw%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26s%3D82853ed14ed58ced42c57e6aec7da2be&w=1880&q=75",
-      "source": "Eventbrite",
-      "event_category": "arttalk"
-    },
-    {
-      "id": "ccb9fb96-e920-4819-9e56-29c9a3ecf2e4",
-      "event_title": "New York Rock N Roll | Intimate Gathering⭐",
-      "event_date": "2026-05-09",
-      "end_date": "2026-05-09",
-      "ticket_link": "https://freeofpropaganda.com/shop/b21c8d68-ae5c-4ff4-8d88-3875914d7f90",
-      "cover_image_url": "https://cdn.beacons.ai/user_content/Qz6RCVnsrIPLUWDpS9X3sdkIZiH3/referenced_images/generated-images__store__product-image__b21c8d68-ae5c-4ff4-8d88-3875914d7f90__d7e44502-3cfd-4fa4-8dda-68ed5a711eef.webp?t=1777924531169",
-      "source": "Free of Propaganda",
-      "event_category": "music"
-    },
-    {
       "id": "cd780c38-7d18-43fe-9e8e-c3d86adbc5ff",
       "event_title": "NEW YORK  DZIDZIO Charitable Concert by Revived Soldiers Ukraine",
       "event_date": "2026-05-10",
@@ -82,26 +52,6 @@
       "ticket_link": "https://www.zeffy.com/en-US/ticketing/guided-tour-of-central-park",
       "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1777357455/organizations/7/b/8/1/7b81cdf4-e002-4505-be5c-a3b004a24046/f51ce1e2-8d32-4134-be29-bc479418f442.png",
       "source": "Liberty Ukraine Foundation",
-      "event_category": "other"
-    },
-    {
-      "id": "8c869999-fa3f-4bbd-80f4-5a726cf7b960",
-      "event_title": "Playground",
-      "event_date": "2026-05-10",
-      "end_date": "2026-05-10",
-      "ticket_link": "https://tisto.nyc/workshops/05-10-playground",
-      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
-      "source": "Tisto NYC",
-      "event_category": "workshop"
-    },
-    {
-      "id": "5bf97f96-4932-418d-a052-b5ced514c9e1",
-      "event_title": "Mother’s Day Brunch",
-      "event_date": "2026-05-10",
-      "end_date": "2026-05-10",
-      "ticket_link": "https://soyuzivka.com/calendar-of-events/fathers-day-brunch-copy/",
-      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2026/03/Mothers-Day-Pic.png",
-      "source": "Soyuzivka",
       "event_category": "other"
     },
     {
@@ -135,6 +85,26 @@
       "event_category": "concert"
     },
     {
+      "id": "8c869999-fa3f-4bbd-80f4-5a726cf7b960",
+      "event_title": "Playground",
+      "event_date": "2026-05-10",
+      "end_date": "2026-05-10",
+      "ticket_link": "https://tisto.nyc/workshops/05-10-playground",
+      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
+      "source": "Tisto NYC",
+      "event_category": "workshop"
+    },
+    {
+      "id": "5bf97f96-4932-418d-a052-b5ced514c9e1",
+      "event_title": "Mother’s Day Brunch",
+      "event_date": "2026-05-10",
+      "end_date": "2026-05-10",
+      "ticket_link": "https://soyuzivka.com/calendar-of-events/fathers-day-brunch-copy/",
+      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2026/03/Mothers-Day-Pic.png",
+      "source": "Soyuzivka",
+      "event_category": "other"
+    },
+    {
       "id": "e3a3ec48-4e77-4a37-bb49-49655dc26dd0",
       "event_title": "Music at the Institute",
       "event_date": "2026-05-11",
@@ -155,16 +125,6 @@
       "event_category": "other"
     },
     {
-      "id": "c717bfff-3996-4d2d-b69c-dd5fe7b4adec",
-      "event_title": "​Olya Tsybulska Live in New York",
-      "event_date": "2026-05-15",
-      "end_date": "2026-05-15",
-      "ticket_link": "https://ukrainian.us/events/olya-tsybulska-live-in-new-york",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/ocwGUbnicW7_dCfelzMGpUaWLhfdxhhR-source.png?v=0.1&s=46ba1ed507d3c62980cfac63ee95fabb",
-      "source": "Ukrainian USA",
-      "event_category": "concert"
-    },
-    {
       "id": "2c8f5b13-ba70-4de5-94e0-a9f6c34bf451",
       "event_title": "FEVER",
       "event_date": "2026-05-15",
@@ -173,6 +133,16 @@
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1183243207%252F1071778002963%252F1%252Foriginal.20260428-164206%3Fw%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26s%3D9ecefeac1ae95a223d15336874989d51&w=1880&q=75",
       "source": "Eventbrite",
       "event_category": "performance"
+    },
+    {
+      "id": "c717bfff-3996-4d2d-b69c-dd5fe7b4adec",
+      "event_title": "​Olya Tsybulska Live in New York",
+      "event_date": "2026-05-15",
+      "end_date": "2026-05-15",
+      "ticket_link": "https://ukrainian.us/events/olya-tsybulska-live-in-new-york",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/ocwGUbnicW7_dCfelzMGpUaWLhfdxhhR-source.png?v=0.1&s=46ba1ed507d3c62980cfac63ee95fabb",
+      "source": "Ukrainian USA",
+      "event_category": "concert"
     },
     {
       "id": "a435b1ca-81fd-423b-9878-69da4069e76c",
@@ -195,16 +165,6 @@
       "event_category": "arttalk"
     },
     {
-      "id": "d8174b3d-5eab-4be2-a8b3-2410e9967fe7",
-      "event_title": "Fairfield Connecticut DZIDZIO Charity Concert by Revived Soldiers Ukraine",
-      "event_date": "2026-05-17",
-      "end_date": "2026-05-17",
-      "ticket_link": "https://www.eventbrite.com/e/fairfield-connecticut-dzidzio-charity-concert-by-revived-soldiers-ukraine-tickets-1986579592037",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1181431535%252F86171180225%252F1%252Foriginal.20260404-163905%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D94f35851f384a3f1db071478702763fa&w=1880&q=75",
-      "source": "Eventbrite",
-      "event_category": "concert"
-    },
-    {
       "id": "d44c8e1a-ec9e-412d-9536-caa0efbe34f7",
       "event_title": "Playgrounda playful, acting experience, guided for non-actors",
       "event_date": "2026-05-17",
@@ -213,6 +173,16 @@
       "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
       "source": "Tisto NYC",
       "event_category": "workshop"
+    },
+    {
+      "id": "d8174b3d-5eab-4be2-a8b3-2410e9967fe7",
+      "event_title": "Fairfield Connecticut DZIDZIO Charity Concert by Revived Soldiers Ukraine",
+      "event_date": "2026-05-17",
+      "end_date": "2026-05-17",
+      "ticket_link": "https://www.eventbrite.com/e/fairfield-connecticut-dzidzio-charity-concert-by-revived-soldiers-ukraine-tickets-1986579592037",
+      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1181431535%252F86171180225%252F1%252Foriginal.20260404-163905%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D94f35851f384a3f1db071478702763fa&w=1880&q=75",
+      "source": "Eventbrite",
+      "event_category": "concert"
     },
     {
       "id": "b531ddef-99fb-4679-890a-93bc0e84e749",
@@ -235,6 +205,16 @@
       "event_category": "workshop"
     },
     {
+      "id": "7779f662-eb20-4007-9118-c84190457d79",
+      "event_title": "Books at the Institute",
+      "event_date": "2026-05-21",
+      "end_date": "2026-05-21",
+      "ticket_link": "https://ukrainianinstitute.org/event/2026-05-21-books-verini/",
+      "cover_image_url": "https://ukrainianinstitute.org/wp-content/uploads/2026/04/Verini_webpage-graphic_version-1-Large.jpeg",
+      "source": "Ukrainian Institute",
+      "event_category": "other"
+    },
+    {
       "id": "e8731b8f-6cf8-4519-b60d-143788d55a77",
       "event_title": "Grown-Up Girl - New York",
       "event_date": "2026-05-21",
@@ -255,14 +235,14 @@
       "event_category": "arttalk"
     },
     {
-      "id": "7779f662-eb20-4007-9118-c84190457d79",
-      "event_title": "Books at the Institute",
-      "event_date": "2026-05-21",
-      "end_date": "2026-05-21",
-      "ticket_link": "https://ukrainianinstitute.org/event/2026-05-21-books-verini/",
-      "cover_image_url": "https://ukrainianinstitute.org/wp-content/uploads/2026/04/Verini_webpage-graphic_version-1-Large.jpeg",
-      "source": "Ukrainian Institute",
-      "event_category": "other"
+      "id": "412e5654-95af-42bd-95e5-38bff15e2ad0",
+      "event_title": "From \"Cyborgs\" to AI Drones: The Evolution of The War in Ukraine 2014-2026",
+      "event_date": "2026-05-22",
+      "end_date": "2026-05-22",
+      "ticket_link": "https://www.eventbrite.com/e/from-cyborgs-to-ai-drones-the-evolution-of-the-war-in-ukraine-2014-2026-tickets-1988288231624",
+      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1183088273%252F152705885625%252F1%252Foriginal.20260427-002125%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.847%26fp-y%3D0.143%26s%3Dc8bf9917e68a180ecfb087363bec3171&w=1880&q=75",
+      "source": "Eventbrite",
+      "event_category": "movie"
     },
     {
       "id": "14c1cd67-d010-4037-a06f-d8e19d3227a0",
@@ -275,14 +255,14 @@
       "event_category": "festival"
     },
     {
-      "id": "412e5654-95af-42bd-95e5-38bff15e2ad0",
-      "event_title": "From \"Cyborgs\" to AI Drones: The Evolution of The War in Ukraine 2014-2026",
-      "event_date": "2026-05-22",
-      "end_date": "2026-05-22",
-      "ticket_link": "https://www.eventbrite.com/e/from-cyborgs-to-ai-drones-the-evolution-of-the-war-in-ukraine-2014-2026-tickets-1988288231624",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1183088273%252F152705885625%252F1%252Foriginal.20260427-002125%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.847%26fp-y%3D0.143%26s%3Dc8bf9917e68a180ecfb087363bec3171&w=1880&q=75",
-      "source": "Eventbrite",
-      "event_category": "movie"
+      "id": "e64cc224-27bc-4483-8ac0-31b6a08e7ed1",
+      "event_title": "Shevchenko Scietific Society Annual Meeting",
+      "event_date": "2026-05-23",
+      "end_date": "2026-05-23",
+      "ticket_link": "https://shevchenko.org/event/shevchenko-scietific-society-annual-meeting/",
+      "cover_image_url": null,
+      "source": "Shevchenko Scientific Society",
+      "event_category": "other"
     },
     {
       "id": "d0a3f5b9-0011-4ce1-8592-442052dea899",
@@ -293,16 +273,6 @@
       "cover_image_url": "https://ukrainian.us/storage/event/1/9oOfUa2wTLt48LmUEUuXKEXtQhm6wI_s-source.png?v=0.1&s=43977961d4e64d8ded6a34d677c71d77",
       "source": "Ukrainian USA",
       "event_category": "festival"
-    },
-    {
-      "id": "e64cc224-27bc-4483-8ac0-31b6a08e7ed1",
-      "event_title": "Shevchenko Scietific Society Annual Meeting",
-      "event_date": "2026-05-23",
-      "end_date": "2026-05-23",
-      "ticket_link": "https://shevchenko.org/event/shevchenko-scietific-society-annual-meeting/",
-      "cover_image_url": null,
-      "source": "Shevchenko Scientific Society",
-      "event_category": "other"
     },
     {
       "id": "13e4ff1a-854e-4202-8caa-5e142c320a04",
@@ -397,16 +367,6 @@
       "event_category": "concert"
     },
     {
-      "id": "2971e423-9232-4ea1-a7d9-90d38a20747e",
-      "event_title": "Let's Dance June",
-      "event_date": "2026-06-12",
-      "end_date": "2026-06-12",
-      "ticket_link": "https://www.helpinghandsukraine.org/lets-dance-june/",
-      "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2026/02/silhouette-dancing-people-disco-colorful-light-scaled.jpg",
-      "source": "Helping Hands for Ukraine",
-      "event_category": "performance"
-    },
-    {
       "id": "5b689b16-8bdc-4480-ac4f-fbd916d23a17",
       "event_title": "World Cup Music Fest - Dromnyc.com",
       "event_date": "2026-06-12",
@@ -415,6 +375,16 @@
       "cover_image_url": "https://dromnyc.com/wp-content/uploads/2026/04/June-12-copy.jpg",
       "source": "Drom NYC",
       "event_category": "festival"
+    },
+    {
+      "id": "2971e423-9232-4ea1-a7d9-90d38a20747e",
+      "event_title": "Let's Dance June",
+      "event_date": "2026-06-12",
+      "end_date": "2026-06-12",
+      "ticket_link": "https://www.helpinghandsukraine.org/lets-dance-june/",
+      "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2026/02/silhouette-dancing-people-disco-colorful-light-scaled.jpg",
+      "source": "Helping Hands for Ukraine",
+      "event_category": "performance"
     },
     {
       "id": "f9de7c75-a8dc-41a0-90f0-905a5511120f",
@@ -489,36 +459,6 @@
       "event_category": "performance"
     },
     {
-      "id": "ee792353-5ae6-4927-bc2b-35c4bc0985d2",
-      "event_title": "Brave women",
-      "event_date": "2026-05-09",
-      "end_date": "2026-05-09",
-      "ticket_link": "https://ukrainian.us/events/brave-women",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/5FpdrYgSzp2caTafA6m92ucEIfBR0N5o-source.png?v=0.1&s=c0d328b3b3cbdcec32aa6e17918ff0b8",
-      "source": "Ukrainian USA",
-      "event_category": "arttalk"
-    },
-    {
-      "id": "81cd7df3-d78f-4cc9-8a2f-94a12b79d0df",
-      "event_title": "Across the Oceans: United in Support of Kyiv-Mohyla Academy-New York",
-      "event_date": "2026-05-09",
-      "end_date": "2026-05-09",
-      "ticket_link": "https://www.eventbrite.com/e/across-the-oceans-united-in-support-of-kyiv-mohyla-academy-new-york-tickets-1984716832473",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1179326041%252F865995669873%252F1%252Foriginal.20260308-174605%3Fw%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26s%3D82853ed14ed58ced42c57e6aec7da2be&w=1880&q=75",
-      "source": "Eventbrite",
-      "event_category": "arttalk"
-    },
-    {
-      "id": "ccb9fb96-e920-4819-9e56-29c9a3ecf2e4",
-      "event_title": "New York Rock N Roll | Intimate Gathering⭐",
-      "event_date": "2026-05-09",
-      "end_date": "2026-05-09",
-      "ticket_link": "https://freeofpropaganda.com/shop/b21c8d68-ae5c-4ff4-8d88-3875914d7f90",
-      "cover_image_url": "https://cdn.beacons.ai/user_content/Qz6RCVnsrIPLUWDpS9X3sdkIZiH3/referenced_images/generated-images__store__product-image__b21c8d68-ae5c-4ff4-8d88-3875914d7f90__d7e44502-3cfd-4fa4-8dda-68ed5a711eef.webp?t=1777924531169",
-      "source": "Free of Propaganda",
-      "event_category": "music"
-    },
-    {
       "id": "cd780c38-7d18-43fe-9e8e-c3d86adbc5ff",
       "event_title": "NEW YORK  DZIDZIO Charitable Concert by Revived Soldiers Ukraine",
       "event_date": "2026-05-10",
@@ -536,26 +476,6 @@
       "ticket_link": "https://www.zeffy.com/en-US/ticketing/guided-tour-of-central-park",
       "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1777357455/organizations/7/b/8/1/7b81cdf4-e002-4505-be5c-a3b004a24046/f51ce1e2-8d32-4134-be29-bc479418f442.png",
       "source": "Liberty Ukraine Foundation",
-      "event_category": "other"
-    },
-    {
-      "id": "8c869999-fa3f-4bbd-80f4-5a726cf7b960",
-      "event_title": "Playground",
-      "event_date": "2026-05-10",
-      "end_date": "2026-05-10",
-      "ticket_link": "https://tisto.nyc/workshops/05-10-playground",
-      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
-      "source": "Tisto NYC",
-      "event_category": "workshop"
-    },
-    {
-      "id": "5bf97f96-4932-418d-a052-b5ced514c9e1",
-      "event_title": "Mother’s Day Brunch",
-      "event_date": "2026-05-10",
-      "end_date": "2026-05-10",
-      "ticket_link": "https://soyuzivka.com/calendar-of-events/fathers-day-brunch-copy/",
-      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2026/03/Mothers-Day-Pic.png",
-      "source": "Soyuzivka",
       "event_category": "other"
     },
     {
@@ -589,6 +509,26 @@
       "event_category": "concert"
     },
     {
+      "id": "8c869999-fa3f-4bbd-80f4-5a726cf7b960",
+      "event_title": "Playground",
+      "event_date": "2026-05-10",
+      "end_date": "2026-05-10",
+      "ticket_link": "https://tisto.nyc/workshops/05-10-playground",
+      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
+      "source": "Tisto NYC",
+      "event_category": "workshop"
+    },
+    {
+      "id": "5bf97f96-4932-418d-a052-b5ced514c9e1",
+      "event_title": "Mother’s Day Brunch",
+      "event_date": "2026-05-10",
+      "end_date": "2026-05-10",
+      "ticket_link": "https://soyuzivka.com/calendar-of-events/fathers-day-brunch-copy/",
+      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2026/03/Mothers-Day-Pic.png",
+      "source": "Soyuzivka",
+      "event_category": "other"
+    },
+    {
       "id": "e3a3ec48-4e77-4a37-bb49-49655dc26dd0",
       "event_title": "Music at the Institute",
       "event_date": "2026-05-11",
@@ -609,16 +549,6 @@
       "event_category": "other"
     },
     {
-      "id": "c717bfff-3996-4d2d-b69c-dd5fe7b4adec",
-      "event_title": "​Olya Tsybulska Live in New York",
-      "event_date": "2026-05-15",
-      "end_date": "2026-05-15",
-      "ticket_link": "https://ukrainian.us/events/olya-tsybulska-live-in-new-york",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/ocwGUbnicW7_dCfelzMGpUaWLhfdxhhR-source.png?v=0.1&s=46ba1ed507d3c62980cfac63ee95fabb",
-      "source": "Ukrainian USA",
-      "event_category": "concert"
-    },
-    {
       "id": "2c8f5b13-ba70-4de5-94e0-a9f6c34bf451",
       "event_title": "FEVER",
       "event_date": "2026-05-15",
@@ -627,6 +557,16 @@
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1183243207%252F1071778002963%252F1%252Foriginal.20260428-164206%3Fw%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26s%3D9ecefeac1ae95a223d15336874989d51&w=1880&q=75",
       "source": "Eventbrite",
       "event_category": "performance"
+    },
+    {
+      "id": "c717bfff-3996-4d2d-b69c-dd5fe7b4adec",
+      "event_title": "​Olya Tsybulska Live in New York",
+      "event_date": "2026-05-15",
+      "end_date": "2026-05-15",
+      "ticket_link": "https://ukrainian.us/events/olya-tsybulska-live-in-new-york",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/ocwGUbnicW7_dCfelzMGpUaWLhfdxhhR-source.png?v=0.1&s=46ba1ed507d3c62980cfac63ee95fabb",
+      "source": "Ukrainian USA",
+      "event_category": "concert"
     },
     {
       "id": "a435b1ca-81fd-423b-9878-69da4069e76c",
@@ -649,16 +589,6 @@
       "event_category": "arttalk"
     },
     {
-      "id": "d8174b3d-5eab-4be2-a8b3-2410e9967fe7",
-      "event_title": "Fairfield Connecticut DZIDZIO Charity Concert by Revived Soldiers Ukraine",
-      "event_date": "2026-05-17",
-      "end_date": "2026-05-17",
-      "ticket_link": "https://www.eventbrite.com/e/fairfield-connecticut-dzidzio-charity-concert-by-revived-soldiers-ukraine-tickets-1986579592037",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1181431535%252F86171180225%252F1%252Foriginal.20260404-163905%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D94f35851f384a3f1db071478702763fa&w=1880&q=75",
-      "source": "Eventbrite",
-      "event_category": "concert"
-    },
-    {
       "id": "d44c8e1a-ec9e-412d-9536-caa0efbe34f7",
       "event_title": "Playgrounda playful, acting experience, guided for non-actors",
       "event_date": "2026-05-17",
@@ -667,6 +597,16 @@
       "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
       "source": "Tisto NYC",
       "event_category": "workshop"
+    },
+    {
+      "id": "d8174b3d-5eab-4be2-a8b3-2410e9967fe7",
+      "event_title": "Fairfield Connecticut DZIDZIO Charity Concert by Revived Soldiers Ukraine",
+      "event_date": "2026-05-17",
+      "end_date": "2026-05-17",
+      "ticket_link": "https://www.eventbrite.com/e/fairfield-connecticut-dzidzio-charity-concert-by-revived-soldiers-ukraine-tickets-1986579592037",
+      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1181431535%252F86171180225%252F1%252Foriginal.20260404-163905%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D94f35851f384a3f1db071478702763fa&w=1880&q=75",
+      "source": "Eventbrite",
+      "event_category": "concert"
     },
     {
       "id": "b531ddef-99fb-4679-890a-93bc0e84e749",
@@ -689,6 +629,16 @@
       "event_category": "workshop"
     },
     {
+      "id": "7779f662-eb20-4007-9118-c84190457d79",
+      "event_title": "Books at the Institute",
+      "event_date": "2026-05-21",
+      "end_date": "2026-05-21",
+      "ticket_link": "https://ukrainianinstitute.org/event/2026-05-21-books-verini/",
+      "cover_image_url": "https://ukrainianinstitute.org/wp-content/uploads/2026/04/Verini_webpage-graphic_version-1-Large.jpeg",
+      "source": "Ukrainian Institute",
+      "event_category": "other"
+    },
+    {
       "id": "e8731b8f-6cf8-4519-b60d-143788d55a77",
       "event_title": "Grown-Up Girl - New York",
       "event_date": "2026-05-21",
@@ -709,14 +659,14 @@
       "event_category": "arttalk"
     },
     {
-      "id": "7779f662-eb20-4007-9118-c84190457d79",
-      "event_title": "Books at the Institute",
-      "event_date": "2026-05-21",
-      "end_date": "2026-05-21",
-      "ticket_link": "https://ukrainianinstitute.org/event/2026-05-21-books-verini/",
-      "cover_image_url": "https://ukrainianinstitute.org/wp-content/uploads/2026/04/Verini_webpage-graphic_version-1-Large.jpeg",
-      "source": "Ukrainian Institute",
-      "event_category": "other"
+      "id": "412e5654-95af-42bd-95e5-38bff15e2ad0",
+      "event_title": "From \"Cyborgs\" to AI Drones: The Evolution of The War in Ukraine 2014-2026",
+      "event_date": "2026-05-22",
+      "end_date": "2026-05-22",
+      "ticket_link": "https://www.eventbrite.com/e/from-cyborgs-to-ai-drones-the-evolution-of-the-war-in-ukraine-2014-2026-tickets-1988288231624",
+      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1183088273%252F152705885625%252F1%252Foriginal.20260427-002125%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.847%26fp-y%3D0.143%26s%3Dc8bf9917e68a180ecfb087363bec3171&w=1880&q=75",
+      "source": "Eventbrite",
+      "event_category": "movie"
     },
     {
       "id": "14c1cd67-d010-4037-a06f-d8e19d3227a0",
@@ -729,14 +679,14 @@
       "event_category": "festival"
     },
     {
-      "id": "412e5654-95af-42bd-95e5-38bff15e2ad0",
-      "event_title": "From \"Cyborgs\" to AI Drones: The Evolution of The War in Ukraine 2014-2026",
-      "event_date": "2026-05-22",
-      "end_date": "2026-05-22",
-      "ticket_link": "https://www.eventbrite.com/e/from-cyborgs-to-ai-drones-the-evolution-of-the-war-in-ukraine-2014-2026-tickets-1988288231624",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1183088273%252F152705885625%252F1%252Foriginal.20260427-002125%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.847%26fp-y%3D0.143%26s%3Dc8bf9917e68a180ecfb087363bec3171&w=1880&q=75",
-      "source": "Eventbrite",
-      "event_category": "movie"
+      "id": "e64cc224-27bc-4483-8ac0-31b6a08e7ed1",
+      "event_title": "Shevchenko Scietific Society Annual Meeting",
+      "event_date": "2026-05-23",
+      "end_date": "2026-05-23",
+      "ticket_link": "https://shevchenko.org/event/shevchenko-scietific-society-annual-meeting/",
+      "cover_image_url": null,
+      "source": "Shevchenko Scientific Society",
+      "event_category": "other"
     },
     {
       "id": "d0a3f5b9-0011-4ce1-8592-442052dea899",
@@ -747,16 +697,6 @@
       "cover_image_url": "https://ukrainian.us/storage/event/1/9oOfUa2wTLt48LmUEUuXKEXtQhm6wI_s-source.png?v=0.1&s=43977961d4e64d8ded6a34d677c71d77",
       "source": "Ukrainian USA",
       "event_category": "festival"
-    },
-    {
-      "id": "e64cc224-27bc-4483-8ac0-31b6a08e7ed1",
-      "event_title": "Shevchenko Scietific Society Annual Meeting",
-      "event_date": "2026-05-23",
-      "end_date": "2026-05-23",
-      "ticket_link": "https://shevchenko.org/event/shevchenko-scietific-society-annual-meeting/",
-      "cover_image_url": null,
-      "source": "Shevchenko Scientific Society",
-      "event_category": "other"
     },
     {
       "id": "13e4ff1a-854e-4202-8caa-5e142c320a04",
@@ -829,16 +769,6 @@
       "event_category": "concert"
     },
     {
-      "id": "2971e423-9232-4ea1-a7d9-90d38a20747e",
-      "event_title": "Let's Dance June",
-      "event_date": "2026-06-12",
-      "end_date": "2026-06-12",
-      "ticket_link": "https://www.helpinghandsukraine.org/lets-dance-june/",
-      "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2026/02/silhouette-dancing-people-disco-colorful-light-scaled.jpg",
-      "source": "Helping Hands for Ukraine",
-      "event_category": "performance"
-    },
-    {
       "id": "5b689b16-8bdc-4480-ac4f-fbd916d23a17",
       "event_title": "World Cup Music Fest - Dromnyc.com",
       "event_date": "2026-06-12",
@@ -847,6 +777,16 @@
       "cover_image_url": "https://dromnyc.com/wp-content/uploads/2026/04/June-12-copy.jpg",
       "source": "Drom NYC",
       "event_category": "festival"
+    },
+    {
+      "id": "2971e423-9232-4ea1-a7d9-90d38a20747e",
+      "event_title": "Let's Dance June",
+      "event_date": "2026-06-12",
+      "end_date": "2026-06-12",
+      "ticket_link": "https://www.helpinghandsukraine.org/lets-dance-june/",
+      "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2026/02/silhouette-dancing-people-disco-colorful-light-scaled.jpg",
+      "source": "Helping Hands for Ukraine",
+      "event_category": "performance"
     },
     {
       "id": "f9de7c75-a8dc-41a0-90f0-905a5511120f",
