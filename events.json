@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-05-11T07:04:47.949590-04:00",
+  "generated_at": "2026-05-11T11:52:27.014463-04:00",
   "this_week_end": "2026-05-17",
   "this_month_end": "2026-05-31",
   "next_month_end": "2026-06-30",
   "this_month": [
-    {
-      "id": "27af4ed9-fbad-4ea1-a73e-01f8f80bce91",
-      "event_title": "Famine as Genocide: The Holodomor in Ukraine — Free Online Course",
-      "event_date": "2026-04-10",
-      "end_date": "2026-06-01",
-      "ticket_link": "https://www.ualberta.ca/en/admissions-programs/online-courses/famine-as-genocide-the-holodomor-in-ukraine.html",
-      "cover_image_url": "https://www.ualberta.ca/media-library/ualberta/admissions-and-programs/courses/holodomor-mooc-wheat.jpg",
-      "source": "UAlberta",
-      "event_category": "workshop"
-    },
     {
       "id": "dbf6f177-4715-4c2c-ae64-88874e584373",
       "event_title": "Through Her Eyes - New York, Spring 2026 — American Ukraine Committee",
@@ -30,9 +20,19 @@
       "event_date": "2026-05-11",
       "end_date": "2026-05-11",
       "ticket_link": "https://ukrainianinstitute.org/event/mati-2026-05-11/",
-      "cover_image_url": "https://ukrainianinstitute.org/wp-content/uploads/2026/04/2026.05.11-MATI-1600x900_NYC.png",
+      "cover_image_url": "https://ukrainianinstitute.org/wp-content/plugins/the-events-calendar/src/resources/images/tribe-loading.gif$0",
       "source": "Ukrainian Institute",
       "event_category": "concert"
+    },
+    {
+      "id": "1bfba62d-26d2-4202-8f0d-a427b49804dd",
+      "event_title": "Boundless: Min Xiao-Fen and Julian Kytasty · Lincoln Center",
+      "event_date": "2026-05-12",
+      "end_date": "2026-05-12",
+      "ticket_link": "https://lincolncenter.org/series/lincoln-center-presents/boundless-min-xiao-fen-and-julian-kytasty",
+      "cover_image_url": "https://images.lincolncenter.org/image/upload/v1768512273/exwhm6mrh8pj2clne3wd.jpg",
+      "source": "Lincoln Center",
+      "event_category": "other"
     },
     {
       "id": "58fcc0fe-07d0-4cd4-9284-45c158faccdb",
@@ -75,16 +75,6 @@
       "event_category": "concert"
     },
     {
-      "id": "d44c8e1a-ec9e-412d-9536-caa0efbe34f7",
-      "event_title": "Playgrounda playful, acting experience, guided for non-actors",
-      "event_date": "2026-05-17",
-      "end_date": "2026-05-17",
-      "ticket_link": "https://tisto.nyc/workshops/05-17-playground",
-      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
-      "source": "Tisto NYC",
-      "event_category": "workshop"
-    },
-    {
       "id": "d8174b3d-5eab-4be2-a8b3-2410e9967fe7",
       "event_title": "Fairfield Connecticut DZIDZIO Charity Concert by Revived Soldiers Ukraine",
       "event_date": "2026-05-17",
@@ -103,6 +93,26 @@
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1183088607%252F152705885625%252F1%252Foriginal.20260427-003005%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.053%26fp-y%3D0.142%26s%3D730b6940d767bd69ee7a22bf7d248f4b&w=1880&q=75",
       "source": "Eventbrite",
       "event_category": "arttalk"
+    },
+    {
+      "id": "d44c8e1a-ec9e-412d-9536-caa0efbe34f7",
+      "event_title": "Playgrounda playful, acting experience, guided for non-actors",
+      "event_date": "2026-05-17",
+      "end_date": "2026-05-17",
+      "ticket_link": "https://tisto.nyc/workshops/05-17-playground",
+      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
+      "source": "Tisto NYC",
+      "event_category": "workshop"
+    },
+    {
+      "id": "ea99dbc2-56dc-4ceb-b430-d8a33a34949a",
+      "event_title": "Brave women",
+      "event_date": "2026-05-17",
+      "end_date": "2026-05-17",
+      "ticket_link": "https://ukrainian.us/events/brave-women",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/5FpdrYgSzp2caTafA6m92ucEIfBR0N5o-source.png?v=0.1&s=c0d328b3b3cbdcec32aa6e17918ff0b8",
+      "source": "Ukrainian USA",
+      "event_category": "other"
     },
     {
       "id": "b531ddef-99fb-4679-890a-93bc0e84e749",
@@ -227,16 +237,6 @@
   ],
   "next_month": [
     {
-      "id": "27af4ed9-fbad-4ea1-a73e-01f8f80bce91",
-      "event_title": "Famine as Genocide: The Holodomor in Ukraine — Free Online Course",
-      "event_date": "2026-04-10",
-      "end_date": "2026-06-01",
-      "ticket_link": "https://www.ualberta.ca/en/admissions-programs/online-courses/famine-as-genocide-the-holodomor-in-ukraine.html",
-      "cover_image_url": "https://www.ualberta.ca/media-library/ualberta/admissions-and-programs/courses/holodomor-mooc-wheat.jpg",
-      "source": "UAlberta",
-      "event_category": "workshop"
-    },
-    {
       "id": "dbf6f177-4715-4c2c-ae64-88874e584373",
       "event_title": "Through Her Eyes - New York, Spring 2026 — American Ukraine Committee",
       "event_date": "2026-04-13",
@@ -287,16 +287,6 @@
       "event_category": "concert"
     },
     {
-      "id": "2971e423-9232-4ea1-a7d9-90d38a20747e",
-      "event_title": "Let's Dance June",
-      "event_date": "2026-06-12",
-      "end_date": "2026-06-12",
-      "ticket_link": "https://www.helpinghandsukraine.org/lets-dance-june/",
-      "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2026/02/silhouette-dancing-people-disco-colorful-light-scaled.jpg",
-      "source": "Helping Hands for Ukraine",
-      "event_category": "performance"
-    },
-    {
       "id": "5b689b16-8bdc-4480-ac4f-fbd916d23a17",
       "event_title": "World Cup Music Fest - Dromnyc.com",
       "event_date": "2026-06-12",
@@ -305,6 +295,16 @@
       "cover_image_url": "https://dromnyc.com/wp-content/uploads/2026/04/June-12-copy.jpg",
       "source": "Drom NYC",
       "event_category": "festival"
+    },
+    {
+      "id": "2971e423-9232-4ea1-a7d9-90d38a20747e",
+      "event_title": "Let's Dance June",
+      "event_date": "2026-06-12",
+      "end_date": "2026-06-12",
+      "ticket_link": "https://www.helpinghandsukraine.org/lets-dance-june/",
+      "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2026/02/silhouette-dancing-people-disco-colorful-light-scaled.jpg",
+      "source": "Helping Hands for Ukraine",
+      "event_category": "performance"
     },
     {
       "id": "f9de7c75-a8dc-41a0-90f0-905a5511120f",
@@ -349,16 +349,6 @@
   ],
   "all_events": [
     {
-      "id": "27af4ed9-fbad-4ea1-a73e-01f8f80bce91",
-      "event_title": "Famine as Genocide: The Holodomor in Ukraine — Free Online Course",
-      "event_date": "2026-04-10",
-      "end_date": "2026-06-01",
-      "ticket_link": "https://www.ualberta.ca/en/admissions-programs/online-courses/famine-as-genocide-the-holodomor-in-ukraine.html",
-      "cover_image_url": "https://www.ualberta.ca/media-library/ualberta/admissions-and-programs/courses/holodomor-mooc-wheat.jpg",
-      "source": "UAlberta",
-      "event_category": "workshop"
-    },
-    {
       "id": "dbf6f177-4715-4c2c-ae64-88874e584373",
       "event_title": "Through Her Eyes - New York, Spring 2026 — American Ukraine Committee",
       "event_date": "2026-04-13",
@@ -374,9 +364,19 @@
       "event_date": "2026-05-11",
       "end_date": "2026-05-11",
       "ticket_link": "https://ukrainianinstitute.org/event/mati-2026-05-11/",
-      "cover_image_url": "https://ukrainianinstitute.org/wp-content/uploads/2026/04/2026.05.11-MATI-1600x900_NYC.png",
+      "cover_image_url": "https://ukrainianinstitute.org/wp-content/plugins/the-events-calendar/src/resources/images/tribe-loading.gif$0",
       "source": "Ukrainian Institute",
       "event_category": "concert"
+    },
+    {
+      "id": "1bfba62d-26d2-4202-8f0d-a427b49804dd",
+      "event_title": "Boundless: Min Xiao-Fen and Julian Kytasty · Lincoln Center",
+      "event_date": "2026-05-12",
+      "end_date": "2026-05-12",
+      "ticket_link": "https://lincolncenter.org/series/lincoln-center-presents/boundless-min-xiao-fen-and-julian-kytasty",
+      "cover_image_url": "https://images.lincolncenter.org/image/upload/v1768512273/exwhm6mrh8pj2clne3wd.jpg",
+      "source": "Lincoln Center",
+      "event_category": "other"
     },
     {
       "id": "58fcc0fe-07d0-4cd4-9284-45c158faccdb",
@@ -419,16 +419,6 @@
       "event_category": "concert"
     },
     {
-      "id": "d44c8e1a-ec9e-412d-9536-caa0efbe34f7",
-      "event_title": "Playgrounda playful, acting experience, guided for non-actors",
-      "event_date": "2026-05-17",
-      "end_date": "2026-05-17",
-      "ticket_link": "https://tisto.nyc/workshops/05-17-playground",
-      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
-      "source": "Tisto NYC",
-      "event_category": "workshop"
-    },
-    {
       "id": "d8174b3d-5eab-4be2-a8b3-2410e9967fe7",
       "event_title": "Fairfield Connecticut DZIDZIO Charity Concert by Revived Soldiers Ukraine",
       "event_date": "2026-05-17",
@@ -447,6 +437,26 @@
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1183088607%252F152705885625%252F1%252Foriginal.20260427-003005%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.053%26fp-y%3D0.142%26s%3D730b6940d767bd69ee7a22bf7d248f4b&w=1880&q=75",
       "source": "Eventbrite",
       "event_category": "arttalk"
+    },
+    {
+      "id": "d44c8e1a-ec9e-412d-9536-caa0efbe34f7",
+      "event_title": "Playgrounda playful, acting experience, guided for non-actors",
+      "event_date": "2026-05-17",
+      "end_date": "2026-05-17",
+      "ticket_link": "https://tisto.nyc/workshops/05-17-playground",
+      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
+      "source": "Tisto NYC",
+      "event_category": "workshop"
+    },
+    {
+      "id": "ea99dbc2-56dc-4ceb-b430-d8a33a34949a",
+      "event_title": "Brave women",
+      "event_date": "2026-05-17",
+      "end_date": "2026-05-17",
+      "ticket_link": "https://ukrainian.us/events/brave-women",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/5FpdrYgSzp2caTafA6m92ucEIfBR0N5o-source.png?v=0.1&s=c0d328b3b3cbdcec32aa6e17918ff0b8",
+      "source": "Ukrainian USA",
+      "event_category": "other"
     },
     {
       "id": "b531ddef-99fb-4679-890a-93bc0e84e749",
@@ -609,16 +619,6 @@
       "event_category": "concert"
     },
     {
-      "id": "2971e423-9232-4ea1-a7d9-90d38a20747e",
-      "event_title": "Let's Dance June",
-      "event_date": "2026-06-12",
-      "end_date": "2026-06-12",
-      "ticket_link": "https://www.helpinghandsukraine.org/lets-dance-june/",
-      "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2026/02/silhouette-dancing-people-disco-colorful-light-scaled.jpg",
-      "source": "Helping Hands for Ukraine",
-      "event_category": "performance"
-    },
-    {
       "id": "5b689b16-8bdc-4480-ac4f-fbd916d23a17",
       "event_title": "World Cup Music Fest - Dromnyc.com",
       "event_date": "2026-06-12",
@@ -627,6 +627,16 @@
       "cover_image_url": "https://dromnyc.com/wp-content/uploads/2026/04/June-12-copy.jpg",
       "source": "Drom NYC",
       "event_category": "festival"
+    },
+    {
+      "id": "2971e423-9232-4ea1-a7d9-90d38a20747e",
+      "event_title": "Let's Dance June",
+      "event_date": "2026-06-12",
+      "end_date": "2026-06-12",
+      "ticket_link": "https://www.helpinghandsukraine.org/lets-dance-june/",
+      "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2026/02/silhouette-dancing-people-disco-colorful-light-scaled.jpg",
+      "source": "Helping Hands for Ukraine",
+      "event_category": "performance"
     },
     {
       "id": "f9de7c75-a8dc-41a0-90f0-905a5511120f",
@@ -669,16 +679,6 @@
       "event_category": "concert"
     },
     {
-      "id": "d0ff2077-0c30-46dd-a7da-132667e16d37",
-      "event_title": "July 4th Celebration",
-      "event_date": "2026-07-03",
-      "end_date": "2026-07-05",
-      "ticket_link": "https://soyuzivka.com/calendar-of-events/july-4th-celebration/",
-      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/July4th-1024x576.png",
-      "source": "Soyuzivka",
-      "event_category": "festival"
-    },
-    {
       "id": "c87b6b2f-4c3d-4236-9d50-b187ad5101df",
       "event_title": "Vasyl Baidak - New York City",
       "event_date": "2026-07-03",
@@ -687,6 +687,16 @@
       "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1773094064_-1200630.jpg",
       "source": "Waylight",
       "event_category": "standup"
+    },
+    {
+      "id": "d0ff2077-0c30-46dd-a7da-132667e16d37",
+      "event_title": "July 4th Celebration",
+      "event_date": "2026-07-03",
+      "end_date": "2026-07-05",
+      "ticket_link": "https://soyuzivka.com/calendar-of-events/july-4th-celebration/",
+      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/July4th-1024x576.png",
+      "source": "Soyuzivka",
+      "event_category": "festival"
     },
     {
       "id": "acf665c7-63ac-4d64-b842-a6426b57414a",
