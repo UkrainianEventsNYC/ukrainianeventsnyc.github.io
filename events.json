@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T06:35:32.491295-04:00",
+  "generated_at": "2026-05-13T06:29:37.790985-04:00",
   "this_week_end": "2026-05-17",
   "this_month_end": "2026-05-31",
   "next_month_end": "2026-06-30",
@@ -22,16 +22,6 @@
       "ticket_link": "https://www.gilesduley.store/distortionnyc",
       "cover_image_url": "https://images.squarespace-cdn.com/content/v1/665827416a83204084fe403d/9b4fbd9c-c003-46c0-9b58-373fedfa14f2/Distortion+web+header.png",
       "source": "Giles Duley",
-      "event_category": "other"
-    },
-    {
-      "id": "1bfba62d-26d2-4202-8f0d-a427b49804dd",
-      "event_title": "Boundless: Min Xiao-Fen and Julian Kytasty · Lincoln Center",
-      "event_date": "2026-05-12",
-      "end_date": "2026-05-12",
-      "ticket_link": "https://lincolncenter.org/series/lincoln-center-presents/boundless-min-xiao-fen-and-julian-kytasty",
-      "cover_image_url": "https://images.lincolncenter.org/image/upload/v1768512273/exwhm6mrh8pj2clne3wd.jpg",
-      "source": "Lincoln Center",
       "event_category": "other"
     },
     {
@@ -65,6 +55,16 @@
       "event_category": "performance"
     },
     {
+      "id": "a9a2dc6d-0718-4365-8e0d-c9141424ea68",
+      "event_title": "Exhibition Opening: A Living Canvas: The Ukrainian Museum at 50",
+      "event_date": "2026-05-16",
+      "end_date": "2026-05-16",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/exhibition-opening-a-living-canvas",
+      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1778604103/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/7a622905-c536-473b-bb4c-6f0a8de0d00a.png",
+      "source": "Ukrainian Museum Zeffy",
+      "event_category": "arttalk"
+    },
+    {
       "id": "a435b1ca-81fd-423b-9878-69da4069e76c",
       "event_title": "FIЇNKA *NEW YORK* USA Tour 2026",
       "event_date": "2026-05-16",
@@ -85,16 +85,6 @@
       "event_category": "other"
     },
     {
-      "id": "d8174b3d-5eab-4be2-a8b3-2410e9967fe7",
-      "event_title": "Fairfield Connecticut DZIDZIO Charity Concert by Revived Soldiers Ukraine",
-      "event_date": "2026-05-17",
-      "end_date": "2026-05-17",
-      "ticket_link": "https://www.eventbrite.com/e/fairfield-connecticut-dzidzio-charity-concert-by-revived-soldiers-ukraine-tickets-1986579592037",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1181431535%252F86171180225%252F1%252Foriginal.20260404-163905%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D94f35851f384a3f1db071478702763fa&w=1880&q=75",
-      "source": "Eventbrite",
-      "event_category": "concert"
-    },
-    {
       "id": "d44c8e1a-ec9e-412d-9536-caa0efbe34f7",
       "event_title": "Playgrounda playful, acting experience, guided for non-actors",
       "event_date": "2026-05-17",
@@ -103,6 +93,16 @@
       "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
       "source": "Tisto NYC",
       "event_category": "workshop"
+    },
+    {
+      "id": "d8174b3d-5eab-4be2-a8b3-2410e9967fe7",
+      "event_title": "Fairfield Connecticut DZIDZIO Charity Concert by Revived Soldiers Ukraine",
+      "event_date": "2026-05-17",
+      "end_date": "2026-05-17",
+      "ticket_link": "https://www.eventbrite.com/e/fairfield-connecticut-dzidzio-charity-concert-by-revived-soldiers-ukraine-tickets-1986579592037",
+      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1181431535%252F86171180225%252F1%252Foriginal.20260404-163905%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D94f35851f384a3f1db071478702763fa&w=1880&q=75",
+      "source": "Eventbrite",
+      "event_category": "concert"
     },
     {
       "id": "0f966170-480c-42a5-8dff-e45f7bcd79fc",
@@ -135,14 +135,14 @@
       "event_category": "workshop"
     },
     {
-      "id": "7779f662-eb20-4007-9118-c84190457d79",
-      "event_title": "Books at the Institute",
+      "id": "f8f44b69-e21e-4fb2-9644-5e0eff52b8c7",
+      "event_title": "FLOWERS & TREES IN UKRAINIAN ART TALK",
       "event_date": "2026-05-21",
       "end_date": "2026-05-21",
-      "ticket_link": "https://ukrainianinstitute.org/event/2026-05-21-books-verini/",
-      "cover_image_url": "https://ukrainianinstitute.org/wp-content/uploads/2026/04/Verini_webpage-graphic_version-1-Large.jpeg",
-      "source": "Ukrainian Institute",
-      "event_category": "other"
+      "ticket_link": "https://www.ashmolean.org/event/flowers-and-trees-in-ukrainian-art-talk",
+      "cover_image_url": "https://www.ashmolean.org/sites/default/files/ashmolean/images/event/myokola_samokish_motifs_of_ukranian_ornament_no.1_1902_wmbroidery_with_silk_and_gold_chernihv_province_archaeological_exhibition_1902_in_kharkiv_copy.jpg",
+      "source": "Ashmolean Museum",
+      "event_category": "arttalk"
     },
     {
       "id": "e8731b8f-6cf8-4519-b60d-143788d55a77",
@@ -155,24 +155,24 @@
       "event_category": "arttalk"
     },
     {
-      "id": "f8f44b69-e21e-4fb2-9644-5e0eff52b8c7",
-      "event_title": "FLOWERS & TREES IN UKRAINIAN ART TALK",
+      "id": "7779f662-eb20-4007-9118-c84190457d79",
+      "event_title": "Books at the Institute",
       "event_date": "2026-05-21",
       "end_date": "2026-05-21",
-      "ticket_link": "https://www.ashmolean.org/event/flowers-and-trees-in-ukrainian-art-talk",
-      "cover_image_url": "https://www.ashmolean.org/sites/default/files/ashmolean/images/event/myokola_samokish_motifs_of_ukranian_ornament_no.1_1902_wmbroidery_with_silk_and_gold_chernihv_province_archaeological_exhibition_1902_in_kharkiv_copy.jpg",
-      "source": "Ashmolean Museum",
-      "event_category": "arttalk"
+      "ticket_link": "https://ukrainianinstitute.org/event/2026-05-21-books-verini/",
+      "cover_image_url": "https://ukrainianinstitute.org/wp-content/uploads/2026/04/Verini_webpage-graphic_version-1-Large.jpeg",
+      "source": "Ukrainian Institute",
+      "event_category": "other"
     },
     {
-      "id": "14c1cd67-d010-4037-a06f-d8e19d3227a0",
-      "event_title": "Memorial Day Weekend Spring Concert Series TBD",
+      "id": "2c451385-b7b5-4e9a-84b2-32ea2106b8c6",
+      "event_title": "Adults Forgot How to PlayA practical theatre-based experience for HR specialists working with teams",
       "event_date": "2026-05-22",
-      "end_date": "2026-05-25",
-      "ticket_link": "https://soyuzivka.com/calendar-of-events/memorial-day-weekend-with-stoneflies-and-torn-boots/",
-      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/05/TornBoots2.png",
-      "source": "Soyuzivka",
-      "event_category": "festival"
+      "end_date": "2026-05-22",
+      "ticket_link": "https://tisto.nyc/workshops/05-21-adults-forgot-how-to-play",
+      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
+      "source": "Tisto NYC",
+      "event_category": "workshop"
     },
     {
       "id": "412e5654-95af-42bd-95e5-38bff15e2ad0",
@@ -185,13 +185,13 @@
       "event_category": "movie"
     },
     {
-      "id": "d0a3f5b9-0011-4ce1-8592-442052dea899",
-      "event_title": "​INDEPENDENCE Night — Official FAINO FEST Afterparty",
-      "event_date": "2026-05-23",
-      "end_date": "2026-05-23",
-      "ticket_link": "https://ukrainian.us/events/faino-afterparty",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/9oOfUa2wTLt48LmUEUuXKEXtQhm6wI_s-source.png?v=0.1&s=43977961d4e64d8ded6a34d677c71d77",
-      "source": "Ukrainian USA",
+      "id": "14c1cd67-d010-4037-a06f-d8e19d3227a0",
+      "event_title": "Memorial Day Weekend Spring Concert Series TBD",
+      "event_date": "2026-05-22",
+      "end_date": "2026-05-25",
+      "ticket_link": "https://soyuzivka.com/calendar-of-events/memorial-day-weekend-with-stoneflies-and-torn-boots/",
+      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/05/TornBoots2.png",
+      "source": "Soyuzivka",
       "event_category": "festival"
     },
     {
@@ -203,6 +203,16 @@
       "cover_image_url": null,
       "source": "Shevchenko Scientific Society",
       "event_category": "other"
+    },
+    {
+      "id": "d0a3f5b9-0011-4ce1-8592-442052dea899",
+      "event_title": "​INDEPENDENCE Night — Official FAINO FEST Afterparty",
+      "event_date": "2026-05-23",
+      "end_date": "2026-05-23",
+      "ticket_link": "https://ukrainian.us/events/faino-afterparty",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/9oOfUa2wTLt48LmUEUuXKEXtQhm6wI_s-source.png?v=0.1&s=43977961d4e64d8ded6a34d677c71d77",
+      "source": "Ukrainian USA",
+      "event_category": "festival"
     },
     {
       "id": "fb35a872-5115-4ebc-9225-b9f166153ace",
@@ -257,6 +267,16 @@
       "event_category": "workshop"
     },
     {
+      "id": "a8af58eb-ba9d-47ab-9bde-fe36778b847b",
+      "event_title": "Brooklyn/Премʼєра \"Хрещатик 48/2\"/Office of Magical Forces",
+      "event_date": "2026-06-06",
+      "end_date": "2026-06-06",
+      "ticket_link": "https://www.eventbrite.com/e/brooklyn-482office-of-magical-forces-tickets-1987684849893",
+      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1182819493%252F294391790611%252F1%252Foriginal.20260422-204620%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.801%26fp-y%3D0.272%26s%3D7896487ef2632c57a85db044196533a1&w=1880&q=75",
+      "source": "Eventbrite",
+      "event_category": "movie"
+    },
+    {
       "id": "de3f59ed-8dff-4b13-8861-8d1301a706ae",
       "event_title": "UKRAINIAN BOAT IN MANHATTAN - Cruise into Summer Sounds",
       "event_date": "2026-06-06",
@@ -267,14 +287,14 @@
       "event_category": "concert"
     },
     {
-      "id": "a8af58eb-ba9d-47ab-9bde-fe36778b847b",
-      "event_title": "Brooklyn/Премʼєра \"Хрещатик 48/2\"/Office of Magical Forces",
-      "event_date": "2026-06-06",
-      "end_date": "2026-06-06",
-      "ticket_link": "https://www.eventbrite.com/e/brooklyn-482office-of-magical-forces-tickets-1987684849893",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1182819493%252F294391790611%252F1%252Foriginal.20260422-204620%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.801%26fp-y%3D0.272%26s%3D7896487ef2632c57a85db044196533a1&w=1880&q=75",
-      "source": "Eventbrite",
-      "event_category": "movie"
+      "id": "355473be-e69f-41bd-9b16-60d07e59d307",
+      "event_title": "Maya Deren in Dialogue with Contemporary Ukrainian-American Artists",
+      "event_date": "2026-06-10",
+      "end_date": "2026-06-10",
+      "ticket_link": "https://borshchofart.org/programs/public-programs/dorosh-slinko-grokhovsky-selthofner-20260610",
+      "cover_image_url": "https://borshch-of-art.s3.us-east-1.amazonaws.com/events/6a036f109567039c6ebe0543/_website-maya-deren-in-dialogue-with-contemporary-ukrainian-american-artists.png",
+      "source": "Borshch of Art",
+      "event_category": null
     },
     {
       "id": "b3ccbf9b-d645-4af4-a1e0-2e3d1f350acb",
@@ -287,16 +307,6 @@
       "event_category": "concert"
     },
     {
-      "id": "5b689b16-8bdc-4480-ac4f-fbd916d23a17",
-      "event_title": "World Cup Music Fest - Dromnyc.com",
-      "event_date": "2026-06-12",
-      "end_date": "2026-06-12",
-      "ticket_link": "https://dromnyc.com/event/world-cup-music-fest-jun-12/",
-      "cover_image_url": "https://dromnyc.com/wp-content/uploads/2026/04/June-12-copy.jpg",
-      "source": "Drom NYC",
-      "event_category": "festival"
-    },
-    {
       "id": "2971e423-9232-4ea1-a7d9-90d38a20747e",
       "event_title": "Let's Dance June",
       "event_date": "2026-06-12",
@@ -305,6 +315,16 @@
       "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2026/02/silhouette-dancing-people-disco-colorful-light-scaled.jpg",
       "source": "Helping Hands for Ukraine",
       "event_category": "performance"
+    },
+    {
+      "id": "5b689b16-8bdc-4480-ac4f-fbd916d23a17",
+      "event_title": "World Cup Music Fest - Dromnyc.com",
+      "event_date": "2026-06-12",
+      "end_date": "2026-06-12",
+      "ticket_link": "https://dromnyc.com/event/world-cup-music-fest-jun-12/",
+      "cover_image_url": "https://dromnyc.com/wp-content/uploads/2026/04/June-12-copy.jpg",
+      "source": "Drom NYC",
+      "event_category": "festival"
     },
     {
       "id": "f9de7c75-a8dc-41a0-90f0-905a5511120f",
@@ -369,16 +389,6 @@
       "event_category": "other"
     },
     {
-      "id": "1bfba62d-26d2-4202-8f0d-a427b49804dd",
-      "event_title": "Boundless: Min Xiao-Fen and Julian Kytasty · Lincoln Center",
-      "event_date": "2026-05-12",
-      "end_date": "2026-05-12",
-      "ticket_link": "https://lincolncenter.org/series/lincoln-center-presents/boundless-min-xiao-fen-and-julian-kytasty",
-      "cover_image_url": "https://images.lincolncenter.org/image/upload/v1768512273/exwhm6mrh8pj2clne3wd.jpg",
-      "source": "Lincoln Center",
-      "event_category": "other"
-    },
-    {
       "id": "5341a608-5332-4eec-af23-78d7cf53857a",
       "event_title": "Adults Forgot How to PlayA practical theatre-based experience for HR specialists working with teams",
       "event_date": "2026-05-14",
@@ -409,6 +419,16 @@
       "event_category": "performance"
     },
     {
+      "id": "a9a2dc6d-0718-4365-8e0d-c9141424ea68",
+      "event_title": "Exhibition Opening: A Living Canvas: The Ukrainian Museum at 50",
+      "event_date": "2026-05-16",
+      "end_date": "2026-05-16",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/exhibition-opening-a-living-canvas",
+      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1778604103/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/7a622905-c536-473b-bb4c-6f0a8de0d00a.png",
+      "source": "Ukrainian Museum Zeffy",
+      "event_category": "arttalk"
+    },
+    {
       "id": "a435b1ca-81fd-423b-9878-69da4069e76c",
       "event_title": "FIЇNKA *NEW YORK* USA Tour 2026",
       "event_date": "2026-05-16",
@@ -429,16 +449,6 @@
       "event_category": "other"
     },
     {
-      "id": "d8174b3d-5eab-4be2-a8b3-2410e9967fe7",
-      "event_title": "Fairfield Connecticut DZIDZIO Charity Concert by Revived Soldiers Ukraine",
-      "event_date": "2026-05-17",
-      "end_date": "2026-05-17",
-      "ticket_link": "https://www.eventbrite.com/e/fairfield-connecticut-dzidzio-charity-concert-by-revived-soldiers-ukraine-tickets-1986579592037",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1181431535%252F86171180225%252F1%252Foriginal.20260404-163905%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D94f35851f384a3f1db071478702763fa&w=1880&q=75",
-      "source": "Eventbrite",
-      "event_category": "concert"
-    },
-    {
       "id": "d44c8e1a-ec9e-412d-9536-caa0efbe34f7",
       "event_title": "Playgrounda playful, acting experience, guided for non-actors",
       "event_date": "2026-05-17",
@@ -447,6 +457,16 @@
       "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
       "source": "Tisto NYC",
       "event_category": "workshop"
+    },
+    {
+      "id": "d8174b3d-5eab-4be2-a8b3-2410e9967fe7",
+      "event_title": "Fairfield Connecticut DZIDZIO Charity Concert by Revived Soldiers Ukraine",
+      "event_date": "2026-05-17",
+      "end_date": "2026-05-17",
+      "ticket_link": "https://www.eventbrite.com/e/fairfield-connecticut-dzidzio-charity-concert-by-revived-soldiers-ukraine-tickets-1986579592037",
+      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1181431535%252F86171180225%252F1%252Foriginal.20260404-163905%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D94f35851f384a3f1db071478702763fa&w=1880&q=75",
+      "source": "Eventbrite",
+      "event_category": "concert"
     },
     {
       "id": "0f966170-480c-42a5-8dff-e45f7bcd79fc",
@@ -479,14 +499,14 @@
       "event_category": "workshop"
     },
     {
-      "id": "7779f662-eb20-4007-9118-c84190457d79",
-      "event_title": "Books at the Institute",
+      "id": "f8f44b69-e21e-4fb2-9644-5e0eff52b8c7",
+      "event_title": "FLOWERS & TREES IN UKRAINIAN ART TALK",
       "event_date": "2026-05-21",
       "end_date": "2026-05-21",
-      "ticket_link": "https://ukrainianinstitute.org/event/2026-05-21-books-verini/",
-      "cover_image_url": "https://ukrainianinstitute.org/wp-content/uploads/2026/04/Verini_webpage-graphic_version-1-Large.jpeg",
-      "source": "Ukrainian Institute",
-      "event_category": "other"
+      "ticket_link": "https://www.ashmolean.org/event/flowers-and-trees-in-ukrainian-art-talk",
+      "cover_image_url": "https://www.ashmolean.org/sites/default/files/ashmolean/images/event/myokola_samokish_motifs_of_ukranian_ornament_no.1_1902_wmbroidery_with_silk_and_gold_chernihv_province_archaeological_exhibition_1902_in_kharkiv_copy.jpg",
+      "source": "Ashmolean Museum",
+      "event_category": "arttalk"
     },
     {
       "id": "e8731b8f-6cf8-4519-b60d-143788d55a77",
@@ -499,24 +519,24 @@
       "event_category": "arttalk"
     },
     {
-      "id": "f8f44b69-e21e-4fb2-9644-5e0eff52b8c7",
-      "event_title": "FLOWERS & TREES IN UKRAINIAN ART TALK",
+      "id": "7779f662-eb20-4007-9118-c84190457d79",
+      "event_title": "Books at the Institute",
       "event_date": "2026-05-21",
       "end_date": "2026-05-21",
-      "ticket_link": "https://www.ashmolean.org/event/flowers-and-trees-in-ukrainian-art-talk",
-      "cover_image_url": "https://www.ashmolean.org/sites/default/files/ashmolean/images/event/myokola_samokish_motifs_of_ukranian_ornament_no.1_1902_wmbroidery_with_silk_and_gold_chernihv_province_archaeological_exhibition_1902_in_kharkiv_copy.jpg",
-      "source": "Ashmolean Museum",
-      "event_category": "arttalk"
+      "ticket_link": "https://ukrainianinstitute.org/event/2026-05-21-books-verini/",
+      "cover_image_url": "https://ukrainianinstitute.org/wp-content/uploads/2026/04/Verini_webpage-graphic_version-1-Large.jpeg",
+      "source": "Ukrainian Institute",
+      "event_category": "other"
     },
     {
-      "id": "14c1cd67-d010-4037-a06f-d8e19d3227a0",
-      "event_title": "Memorial Day Weekend Spring Concert Series TBD",
+      "id": "2c451385-b7b5-4e9a-84b2-32ea2106b8c6",
+      "event_title": "Adults Forgot How to PlayA practical theatre-based experience for HR specialists working with teams",
       "event_date": "2026-05-22",
-      "end_date": "2026-05-25",
-      "ticket_link": "https://soyuzivka.com/calendar-of-events/memorial-day-weekend-with-stoneflies-and-torn-boots/",
-      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/05/TornBoots2.png",
-      "source": "Soyuzivka",
-      "event_category": "festival"
+      "end_date": "2026-05-22",
+      "ticket_link": "https://tisto.nyc/workshops/05-21-adults-forgot-how-to-play",
+      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
+      "source": "Tisto NYC",
+      "event_category": "workshop"
     },
     {
       "id": "412e5654-95af-42bd-95e5-38bff15e2ad0",
@@ -529,13 +549,13 @@
       "event_category": "movie"
     },
     {
-      "id": "d0a3f5b9-0011-4ce1-8592-442052dea899",
-      "event_title": "​INDEPENDENCE Night — Official FAINO FEST Afterparty",
-      "event_date": "2026-05-23",
-      "end_date": "2026-05-23",
-      "ticket_link": "https://ukrainian.us/events/faino-afterparty",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/9oOfUa2wTLt48LmUEUuXKEXtQhm6wI_s-source.png?v=0.1&s=43977961d4e64d8ded6a34d677c71d77",
-      "source": "Ukrainian USA",
+      "id": "14c1cd67-d010-4037-a06f-d8e19d3227a0",
+      "event_title": "Memorial Day Weekend Spring Concert Series TBD",
+      "event_date": "2026-05-22",
+      "end_date": "2026-05-25",
+      "ticket_link": "https://soyuzivka.com/calendar-of-events/memorial-day-weekend-with-stoneflies-and-torn-boots/",
+      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/05/TornBoots2.png",
+      "source": "Soyuzivka",
       "event_category": "festival"
     },
     {
@@ -547,6 +567,16 @@
       "cover_image_url": null,
       "source": "Shevchenko Scientific Society",
       "event_category": "other"
+    },
+    {
+      "id": "d0a3f5b9-0011-4ce1-8592-442052dea899",
+      "event_title": "​INDEPENDENCE Night — Official FAINO FEST Afterparty",
+      "event_date": "2026-05-23",
+      "end_date": "2026-05-23",
+      "ticket_link": "https://ukrainian.us/events/faino-afterparty",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/9oOfUa2wTLt48LmUEUuXKEXtQhm6wI_s-source.png?v=0.1&s=43977961d4e64d8ded6a34d677c71d77",
+      "source": "Ukrainian USA",
+      "event_category": "festival"
     },
     {
       "id": "fb35a872-5115-4ebc-9225-b9f166153ace",
@@ -589,6 +619,16 @@
       "event_category": "workshop"
     },
     {
+      "id": "a8af58eb-ba9d-47ab-9bde-fe36778b847b",
+      "event_title": "Brooklyn/Премʼєра \"Хрещатик 48/2\"/Office of Magical Forces",
+      "event_date": "2026-06-06",
+      "end_date": "2026-06-06",
+      "ticket_link": "https://www.eventbrite.com/e/brooklyn-482office-of-magical-forces-tickets-1987684849893",
+      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1182819493%252F294391790611%252F1%252Foriginal.20260422-204620%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.801%26fp-y%3D0.272%26s%3D7896487ef2632c57a85db044196533a1&w=1880&q=75",
+      "source": "Eventbrite",
+      "event_category": "movie"
+    },
+    {
       "id": "de3f59ed-8dff-4b13-8861-8d1301a706ae",
       "event_title": "UKRAINIAN BOAT IN MANHATTAN - Cruise into Summer Sounds",
       "event_date": "2026-06-06",
@@ -599,14 +639,14 @@
       "event_category": "concert"
     },
     {
-      "id": "a8af58eb-ba9d-47ab-9bde-fe36778b847b",
-      "event_title": "Brooklyn/Премʼєра \"Хрещатик 48/2\"/Office of Magical Forces",
-      "event_date": "2026-06-06",
-      "end_date": "2026-06-06",
-      "ticket_link": "https://www.eventbrite.com/e/brooklyn-482office-of-magical-forces-tickets-1987684849893",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1182819493%252F294391790611%252F1%252Foriginal.20260422-204620%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.801%26fp-y%3D0.272%26s%3D7896487ef2632c57a85db044196533a1&w=1880&q=75",
-      "source": "Eventbrite",
-      "event_category": "movie"
+      "id": "355473be-e69f-41bd-9b16-60d07e59d307",
+      "event_title": "Maya Deren in Dialogue with Contemporary Ukrainian-American Artists",
+      "event_date": "2026-06-10",
+      "end_date": "2026-06-10",
+      "ticket_link": "https://borshchofart.org/programs/public-programs/dorosh-slinko-grokhovsky-selthofner-20260610",
+      "cover_image_url": "https://borshch-of-art.s3.us-east-1.amazonaws.com/events/6a036f109567039c6ebe0543/_website-maya-deren-in-dialogue-with-contemporary-ukrainian-american-artists.png",
+      "source": "Borshch of Art",
+      "event_category": null
     },
     {
       "id": "b3ccbf9b-d645-4af4-a1e0-2e3d1f350acb",
@@ -619,16 +659,6 @@
       "event_category": "concert"
     },
     {
-      "id": "5b689b16-8bdc-4480-ac4f-fbd916d23a17",
-      "event_title": "World Cup Music Fest - Dromnyc.com",
-      "event_date": "2026-06-12",
-      "end_date": "2026-06-12",
-      "ticket_link": "https://dromnyc.com/event/world-cup-music-fest-jun-12/",
-      "cover_image_url": "https://dromnyc.com/wp-content/uploads/2026/04/June-12-copy.jpg",
-      "source": "Drom NYC",
-      "event_category": "festival"
-    },
-    {
       "id": "2971e423-9232-4ea1-a7d9-90d38a20747e",
       "event_title": "Let's Dance June",
       "event_date": "2026-06-12",
@@ -637,6 +667,16 @@
       "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2026/02/silhouette-dancing-people-disco-colorful-light-scaled.jpg",
       "source": "Helping Hands for Ukraine",
       "event_category": "performance"
+    },
+    {
+      "id": "5b689b16-8bdc-4480-ac4f-fbd916d23a17",
+      "event_title": "World Cup Music Fest - Dromnyc.com",
+      "event_date": "2026-06-12",
+      "end_date": "2026-06-12",
+      "ticket_link": "https://dromnyc.com/event/world-cup-music-fest-jun-12/",
+      "cover_image_url": "https://dromnyc.com/wp-content/uploads/2026/04/June-12-copy.jpg",
+      "source": "Drom NYC",
+      "event_category": "festival"
     },
     {
       "id": "f9de7c75-a8dc-41a0-90f0-905a5511120f",
@@ -679,16 +719,6 @@
       "event_category": "concert"
     },
     {
-      "id": "d0ff2077-0c30-46dd-a7da-132667e16d37",
-      "event_title": "July 4th Celebration",
-      "event_date": "2026-07-03",
-      "end_date": "2026-07-05",
-      "ticket_link": "https://soyuzivka.com/calendar-of-events/july-4th-celebration/",
-      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/July4th-1024x576.png",
-      "source": "Soyuzivka",
-      "event_category": "festival"
-    },
-    {
       "id": "c87b6b2f-4c3d-4236-9d50-b187ad5101df",
       "event_title": "Vasyl Baidak - New York City",
       "event_date": "2026-07-03",
@@ -697,6 +727,16 @@
       "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1773094064_-1200630.jpg",
       "source": "Waylight",
       "event_category": "standup"
+    },
+    {
+      "id": "d0ff2077-0c30-46dd-a7da-132667e16d37",
+      "event_title": "July 4th Celebration",
+      "event_date": "2026-07-03",
+      "end_date": "2026-07-05",
+      "ticket_link": "https://soyuzivka.com/calendar-of-events/july-4th-celebration/",
+      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/July4th-1024x576.png",
+      "source": "Soyuzivka",
+      "event_category": "festival"
     },
     {
       "id": "acf665c7-63ac-4d64-b842-a6426b57414a",
