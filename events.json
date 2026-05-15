@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T06:19:14.556669-04:00",
+  "generated_at": "2026-05-15T06:25:26.517076-04:00",
   "this_week_end": "2026-05-17",
   "this_month_end": "2026-05-31",
   "next_month_end": "2026-06-30",
@@ -13,26 +13,6 @@
       "cover_image_url": "http://static1.squarespace.com/static/688a4380e5388e7b843955e5/t/69dd48a665e4f561c0719744/1776110150047/War+Photography+Exhibition.jpeg?format=1500w",
       "source": "American Ukraine Committee",
       "event_category": "performance"
-    },
-    {
-      "id": "58fcc0fe-07d0-4cd4-9284-45c158faccdb",
-      "event_title": "Distortion/Memory/Resilience — Giles Duley",
-      "event_date": "2026-05-12",
-      "end_date": "2026-05-14",
-      "ticket_link": "https://www.gilesduley.store/distortionnyc",
-      "cover_image_url": "https://images.squarespace-cdn.com/content/v1/665827416a83204084fe403d/9b4fbd9c-c003-46c0-9b58-373fedfa14f2/Distortion+web+header.png",
-      "source": "Giles Duley",
-      "event_category": "other"
-    },
-    {
-      "id": "5341a608-5332-4eec-af23-78d7cf53857a",
-      "event_title": "Adults Forgot How to PlayA practical theatre-based experience for HR specialists working with teams",
-      "event_date": "2026-05-14",
-      "end_date": "2026-05-14",
-      "ticket_link": "https://tisto.nyc/workshops/05-14-playground",
-      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
-      "source": "Tisto NYC",
-      "event_category": "workshop"
     },
     {
       "id": "c717bfff-3996-4d2d-b69c-dd5fe7b4adec",
@@ -85,16 +65,6 @@
       "event_category": "concert"
     },
     {
-      "id": "ea99dbc2-56dc-4ceb-b430-d8a33a34949a",
-      "event_title": "Brave women",
-      "event_date": "2026-05-17",
-      "end_date": "2026-05-17",
-      "ticket_link": "https://ukrainian.us/events/brave-women",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/5FpdrYgSzp2caTafA6m92ucEIfBR0N5o-source.png?v=0.1&s=c0d328b3b3cbdcec32aa6e17918ff0b8",
-      "source": "Ukrainian USA",
-      "event_category": "other"
-    },
-    {
       "id": "d44c8e1a-ec9e-412d-9536-caa0efbe34f7",
       "event_title": "Playgrounda playful, acting experience, guided for non-actors",
       "event_date": "2026-05-17",
@@ -113,6 +83,16 @@
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1183088607%252F152705885625%252F1%252Foriginal.20260427-003005%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.053%26fp-y%3D0.142%26s%3D730b6940d767bd69ee7a22bf7d248f4b&w=1880&q=75",
       "source": "Eventbrite",
       "event_category": "arttalk"
+    },
+    {
+      "id": "ea99dbc2-56dc-4ceb-b430-d8a33a34949a",
+      "event_title": "Brave women",
+      "event_date": "2026-05-17",
+      "end_date": "2026-05-17",
+      "ticket_link": "https://ukrainian.us/events/brave-women",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/5FpdrYgSzp2caTafA6m92ucEIfBR0N5o-source.png?v=0.1&s=c0d328b3b3cbdcec32aa6e17918ff0b8",
+      "source": "Ukrainian USA",
+      "event_category": "other"
     },
     {
       "id": "b531ddef-99fb-4679-890a-93bc0e84e749",
@@ -135,16 +115,6 @@
       "event_category": "workshop"
     },
     {
-      "id": "e8731b8f-6cf8-4519-b60d-143788d55a77",
-      "event_title": "Grown-Up Girl - New York",
-      "event_date": "2026-05-21",
-      "end_date": "2026-05-21",
-      "ticket_link": "https://www.ticketmaster.com/event/03006364DB88273E",
-      "cover_image_url": "https://api.bomond.com/public/69/3462/173109/divchata_432x432%20%281%29.webp",
-      "source": "Bomond",
-      "event_category": "arttalk"
-    },
-    {
       "id": "7779f662-eb20-4007-9118-c84190457d79",
       "event_title": "Books at the Institute",
       "event_date": "2026-05-21",
@@ -165,24 +135,14 @@
       "event_category": "arttalk"
     },
     {
-      "id": "2c451385-b7b5-4e9a-84b2-32ea2106b8c6",
-      "event_title": "Adults Forgot How to PlayA practical theatre-based experience for HR specialists working with teams",
-      "event_date": "2026-05-22",
-      "end_date": "2026-05-22",
-      "ticket_link": "https://tisto.nyc/workshops/05-21-adults-forgot-how-to-play",
-      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
-      "source": "Tisto NYC",
-      "event_category": "workshop"
-    },
-    {
-      "id": "14c1cd67-d010-4037-a06f-d8e19d3227a0",
-      "event_title": "Memorial Day Weekend Spring Concert Series TBD",
-      "event_date": "2026-05-22",
-      "end_date": "2026-05-25",
-      "ticket_link": "https://soyuzivka.com/calendar-of-events/memorial-day-weekend-with-stoneflies-and-torn-boots/",
-      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/05/TornBoots2.png",
-      "source": "Soyuzivka",
-      "event_category": "festival"
+      "id": "e8731b8f-6cf8-4519-b60d-143788d55a77",
+      "event_title": "Grown-Up Girl - New York",
+      "event_date": "2026-05-21",
+      "end_date": "2026-05-21",
+      "ticket_link": "https://www.ticketmaster.com/event/03006364DB88273E",
+      "cover_image_url": "https://api.bomond.com/public/69/3462/173109/divchata_432x432%20%281%29.webp",
+      "source": "Bomond",
+      "event_category": "arttalk"
     },
     {
       "id": "412e5654-95af-42bd-95e5-38bff15e2ad0",
@@ -195,14 +155,24 @@
       "event_category": "movie"
     },
     {
-      "id": "d0a3f5b9-0011-4ce1-8592-442052dea899",
-      "event_title": "​INDEPENDENCE Night — Official FAINO FEST Afterparty",
-      "event_date": "2026-05-23",
-      "end_date": "2026-05-23",
-      "ticket_link": "https://ukrainian.us/events/faino-afterparty",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/9oOfUa2wTLt48LmUEUuXKEXtQhm6wI_s-source.png?v=0.1&s=43977961d4e64d8ded6a34d677c71d77",
-      "source": "Ukrainian USA",
+      "id": "14c1cd67-d010-4037-a06f-d8e19d3227a0",
+      "event_title": "Memorial Day Weekend Spring Concert Series TBD",
+      "event_date": "2026-05-22",
+      "end_date": "2026-05-25",
+      "ticket_link": "https://soyuzivka.com/calendar-of-events/memorial-day-weekend-with-stoneflies-and-torn-boots/",
+      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/05/TornBoots2.png",
+      "source": "Soyuzivka",
       "event_category": "festival"
+    },
+    {
+      "id": "2c451385-b7b5-4e9a-84b2-32ea2106b8c6",
+      "event_title": "Adults Forgot How to PlayA practical theatre-based experience for HR specialists working with teams",
+      "event_date": "2026-05-22",
+      "end_date": "2026-05-22",
+      "ticket_link": "https://tisto.nyc/workshops/05-21-adults-forgot-how-to-play",
+      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
+      "source": "Tisto NYC",
+      "event_category": "workshop"
     },
     {
       "id": "e64cc224-27bc-4483-8ac0-31b6a08e7ed1",
@@ -215,6 +185,16 @@
       "event_category": "other"
     },
     {
+      "id": "d0a3f5b9-0011-4ce1-8592-442052dea899",
+      "event_title": "​INDEPENDENCE Night — Official FAINO FEST Afterparty",
+      "event_date": "2026-05-23",
+      "end_date": "2026-05-23",
+      "ticket_link": "https://ukrainian.us/events/faino-afterparty",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/9oOfUa2wTLt48LmUEUuXKEXtQhm6wI_s-source.png?v=0.1&s=43977961d4e64d8ded6a34d677c71d77",
+      "source": "Ukrainian USA",
+      "event_category": "festival"
+    },
+    {
       "id": "da2d7dd8-ebb4-4a9c-8e0f-614becb84ef2",
       "event_title": "Playgrounda playful, acting experience, guided for non-actors",
       "event_date": "2026-05-27",
@@ -223,16 +203,6 @@
       "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
       "source": "Tisto NYC",
       "event_category": "workshop"
-    },
-    {
-      "id": "13e4ff1a-854e-4202-8caa-5e142c320a04",
-      "event_title": "Little Ukraine Walking Tour",
-      "event_date": "2026-05-30",
-      "end_date": "2026-05-30",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/little-ukraine-walking-tour",
-      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1775146560/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/0225263f-408a-42a8-9d43-f94ecc6cb717.png",
-      "source": "Zeffy",
-      "event_category": "other"
     },
     {
       "id": "fb35a872-5115-4ebc-9225-b9f166153ace",
@@ -245,14 +215,14 @@
       "event_category": "arttalk"
     },
     {
-      "id": "40571151-9ee0-4cf7-b6eb-d7b6ee1b291e",
-      "event_title": "Playgrounda playful, acting experience, guided for non-actors",
-      "event_date": "2026-05-31",
-      "end_date": "2026-05-31",
-      "ticket_link": "https://tisto.nyc/workshops/05-31-playground",
-      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
-      "source": "Tisto NYC",
-      "event_category": "workshop"
+      "id": "13e4ff1a-854e-4202-8caa-5e142c320a04",
+      "event_title": "Little Ukraine Walking Tour",
+      "event_date": "2026-05-30",
+      "end_date": "2026-05-30",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/little-ukraine-walking-tour",
+      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1775146560/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/0225263f-408a-42a8-9d43-f94ecc6cb717.png",
+      "source": "Zeffy",
+      "event_category": "other"
     },
     {
       "id": "ba3efcad-7d25-47fb-99aa-8f8bdad242fe",
@@ -263,6 +233,16 @@
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1182809091%252F294391790611%252F1%252Foriginal.20260422-185933%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.83%26fp-y%3D0.336%26s%3Db0f864ae4e0d3aa7b4c631971d4f04ab&w=1880&q=75",
       "source": "Eventbrite",
       "event_category": "movie"
+    },
+    {
+      "id": "40571151-9ee0-4cf7-b6eb-d7b6ee1b291e",
+      "event_title": "Playgrounda playful, acting experience, guided for non-actors",
+      "event_date": "2026-05-31",
+      "end_date": "2026-05-31",
+      "ticket_link": "https://tisto.nyc/workshops/05-31-playground",
+      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
+      "source": "Tisto NYC",
+      "event_category": "workshop"
     }
   ],
   "next_month": [
@@ -287,16 +267,6 @@
       "event_category": "workshop"
     },
     {
-      "id": "de3f59ed-8dff-4b13-8861-8d1301a706ae",
-      "event_title": "UKRAINIAN BOAT IN MANHATTAN - Cruise into Summer Sounds",
-      "event_date": "2026-06-06",
-      "end_date": "2026-06-06",
-      "ticket_link": "https://ukrainian.us/events/boat2026",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/Z3KglP8EBNIKXuEBocxRHZLet69aXmD3-source.png?v=0.1&s=ec46aa5952f47c50ded8fc5861ca59af",
-      "source": "Ukrainian USA",
-      "event_category": "concert"
-    },
-    {
       "id": "a8af58eb-ba9d-47ab-9bde-fe36778b847b",
       "event_title": "Brooklyn/Премʼєра \"Хрещатик 48/2\"/Office of Magical Forces",
       "event_date": "2026-06-06",
@@ -305,6 +275,16 @@
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1182819493%252F294391790611%252F1%252Foriginal.20260422-204620%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.801%26fp-y%3D0.272%26s%3D7896487ef2632c57a85db044196533a1&w=1880&q=75",
       "source": "Eventbrite",
       "event_category": "movie"
+    },
+    {
+      "id": "de3f59ed-8dff-4b13-8861-8d1301a706ae",
+      "event_title": "UKRAINIAN BOAT IN MANHATTAN - Cruise into Summer Sounds",
+      "event_date": "2026-06-06",
+      "end_date": "2026-06-06",
+      "ticket_link": "https://ukrainian.us/events/boat2026",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/Z3KglP8EBNIKXuEBocxRHZLet69aXmD3-source.png?v=0.1&s=ec46aa5952f47c50ded8fc5861ca59af",
+      "source": "Ukrainian USA",
+      "event_category": "concert"
     },
     {
       "id": "355473be-e69f-41bd-9b16-60d07e59d307",
@@ -354,6 +334,16 @@
       "ticket_link": "https://www.zeffy.com/en-US/ticketing/petrykivka-painting-workshop-with-kateryna-kryvolap",
       "cover_image_url": "https://www.theukrainianmuseum.org/wp-content/uploads/Petrykivka-Painting-Workshop-with-Kateryna-Kryvolap-1000-x-500-px.jpg",
       "source": "Ukrainian Museum",
+      "event_category": "workshop"
+    },
+    {
+      "id": "14bde3ce-8baf-4622-b2df-afd6c5e31eab",
+      "event_title": "Classic Make-up by Alina Klymko",
+      "event_date": "2026-06-14",
+      "end_date": "2026-06-14",
+      "ticket_link": "https://ukrainian.us/events/classic-make-up",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/ZWmr7Hd5R7fgI45X3IdOxAGwOZEahN1E-source.png?v=0.1&s=cb4049f9a3c52b2c3146fb7db48bad50",
+      "source": "Ukrainian USA",
       "event_category": "workshop"
     },
     {
@@ -409,26 +399,6 @@
       "event_category": "performance"
     },
     {
-      "id": "58fcc0fe-07d0-4cd4-9284-45c158faccdb",
-      "event_title": "Distortion/Memory/Resilience — Giles Duley",
-      "event_date": "2026-05-12",
-      "end_date": "2026-05-14",
-      "ticket_link": "https://www.gilesduley.store/distortionnyc",
-      "cover_image_url": "https://images.squarespace-cdn.com/content/v1/665827416a83204084fe403d/9b4fbd9c-c003-46c0-9b58-373fedfa14f2/Distortion+web+header.png",
-      "source": "Giles Duley",
-      "event_category": "other"
-    },
-    {
-      "id": "5341a608-5332-4eec-af23-78d7cf53857a",
-      "event_title": "Adults Forgot How to PlayA practical theatre-based experience for HR specialists working with teams",
-      "event_date": "2026-05-14",
-      "end_date": "2026-05-14",
-      "ticket_link": "https://tisto.nyc/workshops/05-14-playground",
-      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
-      "source": "Tisto NYC",
-      "event_category": "workshop"
-    },
-    {
       "id": "c717bfff-3996-4d2d-b69c-dd5fe7b4adec",
       "event_title": "​Olya Tsybulska Live in New York",
       "event_date": "2026-05-15",
@@ -479,16 +449,6 @@
       "event_category": "concert"
     },
     {
-      "id": "ea99dbc2-56dc-4ceb-b430-d8a33a34949a",
-      "event_title": "Brave women",
-      "event_date": "2026-05-17",
-      "end_date": "2026-05-17",
-      "ticket_link": "https://ukrainian.us/events/brave-women",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/5FpdrYgSzp2caTafA6m92ucEIfBR0N5o-source.png?v=0.1&s=c0d328b3b3cbdcec32aa6e17918ff0b8",
-      "source": "Ukrainian USA",
-      "event_category": "other"
-    },
-    {
       "id": "d44c8e1a-ec9e-412d-9536-caa0efbe34f7",
       "event_title": "Playgrounda playful, acting experience, guided for non-actors",
       "event_date": "2026-05-17",
@@ -507,6 +467,16 @@
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1183088607%252F152705885625%252F1%252Foriginal.20260427-003005%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.053%26fp-y%3D0.142%26s%3D730b6940d767bd69ee7a22bf7d248f4b&w=1880&q=75",
       "source": "Eventbrite",
       "event_category": "arttalk"
+    },
+    {
+      "id": "ea99dbc2-56dc-4ceb-b430-d8a33a34949a",
+      "event_title": "Brave women",
+      "event_date": "2026-05-17",
+      "end_date": "2026-05-17",
+      "ticket_link": "https://ukrainian.us/events/brave-women",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/5FpdrYgSzp2caTafA6m92ucEIfBR0N5o-source.png?v=0.1&s=c0d328b3b3cbdcec32aa6e17918ff0b8",
+      "source": "Ukrainian USA",
+      "event_category": "other"
     },
     {
       "id": "b531ddef-99fb-4679-890a-93bc0e84e749",
@@ -529,16 +499,6 @@
       "event_category": "workshop"
     },
     {
-      "id": "e8731b8f-6cf8-4519-b60d-143788d55a77",
-      "event_title": "Grown-Up Girl - New York",
-      "event_date": "2026-05-21",
-      "end_date": "2026-05-21",
-      "ticket_link": "https://www.ticketmaster.com/event/03006364DB88273E",
-      "cover_image_url": "https://api.bomond.com/public/69/3462/173109/divchata_432x432%20%281%29.webp",
-      "source": "Bomond",
-      "event_category": "arttalk"
-    },
-    {
       "id": "7779f662-eb20-4007-9118-c84190457d79",
       "event_title": "Books at the Institute",
       "event_date": "2026-05-21",
@@ -559,24 +519,14 @@
       "event_category": "arttalk"
     },
     {
-      "id": "2c451385-b7b5-4e9a-84b2-32ea2106b8c6",
-      "event_title": "Adults Forgot How to PlayA practical theatre-based experience for HR specialists working with teams",
-      "event_date": "2026-05-22",
-      "end_date": "2026-05-22",
-      "ticket_link": "https://tisto.nyc/workshops/05-21-adults-forgot-how-to-play",
-      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
-      "source": "Tisto NYC",
-      "event_category": "workshop"
-    },
-    {
-      "id": "14c1cd67-d010-4037-a06f-d8e19d3227a0",
-      "event_title": "Memorial Day Weekend Spring Concert Series TBD",
-      "event_date": "2026-05-22",
-      "end_date": "2026-05-25",
-      "ticket_link": "https://soyuzivka.com/calendar-of-events/memorial-day-weekend-with-stoneflies-and-torn-boots/",
-      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/05/TornBoots2.png",
-      "source": "Soyuzivka",
-      "event_category": "festival"
+      "id": "e8731b8f-6cf8-4519-b60d-143788d55a77",
+      "event_title": "Grown-Up Girl - New York",
+      "event_date": "2026-05-21",
+      "end_date": "2026-05-21",
+      "ticket_link": "https://www.ticketmaster.com/event/03006364DB88273E",
+      "cover_image_url": "https://api.bomond.com/public/69/3462/173109/divchata_432x432%20%281%29.webp",
+      "source": "Bomond",
+      "event_category": "arttalk"
     },
     {
       "id": "412e5654-95af-42bd-95e5-38bff15e2ad0",
@@ -589,14 +539,24 @@
       "event_category": "movie"
     },
     {
-      "id": "d0a3f5b9-0011-4ce1-8592-442052dea899",
-      "event_title": "​INDEPENDENCE Night — Official FAINO FEST Afterparty",
-      "event_date": "2026-05-23",
-      "end_date": "2026-05-23",
-      "ticket_link": "https://ukrainian.us/events/faino-afterparty",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/9oOfUa2wTLt48LmUEUuXKEXtQhm6wI_s-source.png?v=0.1&s=43977961d4e64d8ded6a34d677c71d77",
-      "source": "Ukrainian USA",
+      "id": "14c1cd67-d010-4037-a06f-d8e19d3227a0",
+      "event_title": "Memorial Day Weekend Spring Concert Series TBD",
+      "event_date": "2026-05-22",
+      "end_date": "2026-05-25",
+      "ticket_link": "https://soyuzivka.com/calendar-of-events/memorial-day-weekend-with-stoneflies-and-torn-boots/",
+      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/05/TornBoots2.png",
+      "source": "Soyuzivka",
       "event_category": "festival"
+    },
+    {
+      "id": "2c451385-b7b5-4e9a-84b2-32ea2106b8c6",
+      "event_title": "Adults Forgot How to PlayA practical theatre-based experience for HR specialists working with teams",
+      "event_date": "2026-05-22",
+      "end_date": "2026-05-22",
+      "ticket_link": "https://tisto.nyc/workshops/05-21-adults-forgot-how-to-play",
+      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
+      "source": "Tisto NYC",
+      "event_category": "workshop"
     },
     {
       "id": "e64cc224-27bc-4483-8ac0-31b6a08e7ed1",
@@ -609,6 +569,16 @@
       "event_category": "other"
     },
     {
+      "id": "d0a3f5b9-0011-4ce1-8592-442052dea899",
+      "event_title": "​INDEPENDENCE Night — Official FAINO FEST Afterparty",
+      "event_date": "2026-05-23",
+      "end_date": "2026-05-23",
+      "ticket_link": "https://ukrainian.us/events/faino-afterparty",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/9oOfUa2wTLt48LmUEUuXKEXtQhm6wI_s-source.png?v=0.1&s=43977961d4e64d8ded6a34d677c71d77",
+      "source": "Ukrainian USA",
+      "event_category": "festival"
+    },
+    {
       "id": "da2d7dd8-ebb4-4a9c-8e0f-614becb84ef2",
       "event_title": "Playgrounda playful, acting experience, guided for non-actors",
       "event_date": "2026-05-27",
@@ -617,16 +587,6 @@
       "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
       "source": "Tisto NYC",
       "event_category": "workshop"
-    },
-    {
-      "id": "13e4ff1a-854e-4202-8caa-5e142c320a04",
-      "event_title": "Little Ukraine Walking Tour",
-      "event_date": "2026-05-30",
-      "end_date": "2026-05-30",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/little-ukraine-walking-tour",
-      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1775146560/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/0225263f-408a-42a8-9d43-f94ecc6cb717.png",
-      "source": "Zeffy",
-      "event_category": "other"
     },
     {
       "id": "fb35a872-5115-4ebc-9225-b9f166153ace",
@@ -639,14 +599,14 @@
       "event_category": "arttalk"
     },
     {
-      "id": "40571151-9ee0-4cf7-b6eb-d7b6ee1b291e",
-      "event_title": "Playgrounda playful, acting experience, guided for non-actors",
-      "event_date": "2026-05-31",
-      "end_date": "2026-05-31",
-      "ticket_link": "https://tisto.nyc/workshops/05-31-playground",
-      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
-      "source": "Tisto NYC",
-      "event_category": "workshop"
+      "id": "13e4ff1a-854e-4202-8caa-5e142c320a04",
+      "event_title": "Little Ukraine Walking Tour",
+      "event_date": "2026-05-30",
+      "end_date": "2026-05-30",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/little-ukraine-walking-tour",
+      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1775146560/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/0225263f-408a-42a8-9d43-f94ecc6cb717.png",
+      "source": "Zeffy",
+      "event_category": "other"
     },
     {
       "id": "ba3efcad-7d25-47fb-99aa-8f8bdad242fe",
@@ -659,6 +619,16 @@
       "event_category": "movie"
     },
     {
+      "id": "40571151-9ee0-4cf7-b6eb-d7b6ee1b291e",
+      "event_title": "Playgrounda playful, acting experience, guided for non-actors",
+      "event_date": "2026-05-31",
+      "end_date": "2026-05-31",
+      "ticket_link": "https://tisto.nyc/workshops/05-31-playground",
+      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
+      "source": "Tisto NYC",
+      "event_category": "workshop"
+    },
+    {
       "id": "c6138479-365a-49ae-b971-4fd00cc09d0e",
       "event_title": "Pysanky Workshop",
       "event_date": "2026-06-03",
@@ -669,16 +639,6 @@
       "event_category": "workshop"
     },
     {
-      "id": "de3f59ed-8dff-4b13-8861-8d1301a706ae",
-      "event_title": "UKRAINIAN BOAT IN MANHATTAN - Cruise into Summer Sounds",
-      "event_date": "2026-06-06",
-      "end_date": "2026-06-06",
-      "ticket_link": "https://ukrainian.us/events/boat2026",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/Z3KglP8EBNIKXuEBocxRHZLet69aXmD3-source.png?v=0.1&s=ec46aa5952f47c50ded8fc5861ca59af",
-      "source": "Ukrainian USA",
-      "event_category": "concert"
-    },
-    {
       "id": "a8af58eb-ba9d-47ab-9bde-fe36778b847b",
       "event_title": "Brooklyn/Премʼєра \"Хрещатик 48/2\"/Office of Magical Forces",
       "event_date": "2026-06-06",
@@ -687,6 +647,16 @@
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1182819493%252F294391790611%252F1%252Foriginal.20260422-204620%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.801%26fp-y%3D0.272%26s%3D7896487ef2632c57a85db044196533a1&w=1880&q=75",
       "source": "Eventbrite",
       "event_category": "movie"
+    },
+    {
+      "id": "de3f59ed-8dff-4b13-8861-8d1301a706ae",
+      "event_title": "UKRAINIAN BOAT IN MANHATTAN - Cruise into Summer Sounds",
+      "event_date": "2026-06-06",
+      "end_date": "2026-06-06",
+      "ticket_link": "https://ukrainian.us/events/boat2026",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/Z3KglP8EBNIKXuEBocxRHZLet69aXmD3-source.png?v=0.1&s=ec46aa5952f47c50ded8fc5861ca59af",
+      "source": "Ukrainian USA",
+      "event_category": "concert"
     },
     {
       "id": "355473be-e69f-41bd-9b16-60d07e59d307",
@@ -739,6 +709,16 @@
       "event_category": "workshop"
     },
     {
+      "id": "14bde3ce-8baf-4622-b2df-afd6c5e31eab",
+      "event_title": "Classic Make-up by Alina Klymko",
+      "event_date": "2026-06-14",
+      "end_date": "2026-06-14",
+      "ticket_link": "https://ukrainian.us/events/classic-make-up",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/ZWmr7Hd5R7fgI45X3IdOxAGwOZEahN1E-source.png?v=0.1&s=cb4049f9a3c52b2c3146fb7db48bad50",
+      "source": "Ukrainian USA",
+      "event_category": "workshop"
+    },
+    {
       "id": "f93dd29b-6ded-403d-ae95-2da2c37f4ebb",
       "event_title": "PETRYKIVKA PAINTING WORKSHOP with Kateryna Kryvolap (Session 2)",
       "event_date": "2026-06-14",
@@ -779,16 +759,6 @@
       "event_category": "concert"
     },
     {
-      "id": "d0ff2077-0c30-46dd-a7da-132667e16d37",
-      "event_title": "July 4th Celebration",
-      "event_date": "2026-07-03",
-      "end_date": "2026-07-05",
-      "ticket_link": "https://soyuzivka.com/calendar-of-events/july-4th-celebration/",
-      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/July4th-1024x576.png",
-      "source": "Soyuzivka",
-      "event_category": "festival"
-    },
-    {
       "id": "c87b6b2f-4c3d-4236-9d50-b187ad5101df",
       "event_title": "Vasyl Baidak - New York City",
       "event_date": "2026-07-03",
@@ -797,6 +767,16 @@
       "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1773094064_-1200630.jpg",
       "source": "Waylight",
       "event_category": "standup"
+    },
+    {
+      "id": "d0ff2077-0c30-46dd-a7da-132667e16d37",
+      "event_title": "July 4th Celebration",
+      "event_date": "2026-07-03",
+      "end_date": "2026-07-05",
+      "ticket_link": "https://soyuzivka.com/calendar-of-events/july-4th-celebration/",
+      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/July4th-1024x576.png",
+      "source": "Soyuzivka",
+      "event_category": "festival"
     },
     {
       "id": "acf665c7-63ac-4d64-b842-a6426b57414a",
