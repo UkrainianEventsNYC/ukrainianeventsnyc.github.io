@@ -7,14 +7,14 @@
   <meta name="referrer" content="no-referrer" />
   <title>🇺🇦 NYC Ukrainian Events</title>
   <meta name="description"
-    content="Continuously updated directory of Ukrainian cultural events in New York City Area — sorted by Next Week, Upcoming, and Next Month." />
+    content="Continuously updated directory of Ukrainian cultural events in New York City Area — sorted by This Month, Next Month, and Upcoming." />
 
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://ukrainianeventsnyc.github.io/" />
   <meta property="og:title" content="🇺🇦 NYC Ukrainian Events" />
   <meta property="og:description"
-    content="Continuously updated directory of Ukrainian cultural events in New York City Area — sorted by Next Week, Upcoming, and Next Month." />
+    content="Continuously updated directory of Ukrainian cultural events in New York City Area — sorted by This Month, Next Month, and Upcoming." />
   <meta property="og:image" content="https://ukrainianeventsnyc.github.io/og-image.png" />
 
   <!-- Twitter -->
@@ -22,7 +22,7 @@
   <meta property="twitter:url" content="https://ukrainianeventsnyc.github.io/" />
   <meta property="twitter:title" content="🇺🇦 NYC Ukrainian Events" />
   <meta property="twitter:description"
-    content="Continuously updated directory of Ukrainian cultural events in New York City Area — sorted by Next Week, Upcoming, and Next Month." />
+    content="Continuously updated directory of Ukrainian cultural events in New York City Area — sorted by This Month, Next Month, and Upcoming." />
   <meta property="twitter:image" content="https://ukrainianeventsnyc.github.io/og-image.png" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap"
@@ -625,31 +625,6 @@
       text-transform: uppercase;
       letter-spacing: 0.08em;
       white-space: nowrap;
-    }
-
-    /* ── See more ── */
-    .see-more-bar {
-      margin-top: 1.25rem;
-      text-align: center;
-    }
-
-    .see-more-link {
-      color: var(--gold-dim);
-      font-size: 0.82rem;
-      font-weight: 600;
-      text-decoration: none;
-      padding: 7px 22px;
-      border: 1px solid var(--border-hi);
-      border-radius: 999px;
-      background: var(--surface2);
-      transition: all 0.18s ease;
-      display: inline-block;
-    }
-
-    .see-more-link:hover {
-      background: var(--surface3);
-      color: var(--gold);
-      border-color: var(--gold-dim);
     }
 
     /* ── Loading / Error ── */
@@ -1440,15 +1415,15 @@
       <section class="section" id="section-timeline">
         <div class="tabs-container">
           <button class="main-tab active" id="tab-this_month" onclick="setTimelineTab('this_month')">
-            <span class="tab-icon">🗓️</span><span class="tab-text">This Month</span><span class="section-count"
+            <span class="tab-icon">🗓️</span><span class="tab-text" id="label-this_month">This Month</span><span class="section-count"
               id="count-this_month">0</span>
           </button>
           <button class="main-tab" id="tab-next_month" onclick="setTimelineTab('next_month')">
-            <span class="tab-icon">⏰</span><span class="tab-text">Next Month</span><span class="section-count"
+            <span class="tab-icon">⏰</span><span class="tab-text" id="label-next_month">Next Month</span><span class="section-count"
               id="count-next_month">0</span>
           </button>
           <button class="main-tab" id="tab-all_events" onclick="setTimelineTab('all_events')">
-            <span class="tab-icon">📅</span><span class="tab-text">All Events</span><span class="section-count"
+            <span class="tab-icon">📅</span><span class="tab-text">Upcoming</span><span class="section-count"
               id="count-all_events">0</span>
           </button>
         </div>
@@ -1615,6 +1590,7 @@
         document.getElementById('updated-text').textContent = 'Updated ' + fmt;
       }
       buildSourcePills();
+      updateTimelineLabels();
 
       renderSectionedTab('grid-this_month',  'count-this_month',  allData.this_month  || [], 'this_month');
       renderSectionedTab('grid-next_month',  'count-next_month',  allData.next_month  || [], 'next_month');
@@ -1645,12 +1621,29 @@
       return `<div class="section-divider"><span class="section-divider-label">${label}</span></div>`;
     }
 
-    const restExpanded = { this_month: false };
+    function updateTimelineLabels() {
+      const thisMonth = monthNameFromDateKey(allData.this_month_end);
+      const nextMonth = monthNameFromDateKey(allData.next_month_start || nextDayKey(allData.this_month_end));
+
+      if (thisMonth) document.getElementById('label-this_month').textContent = `This Month (${thisMonth})`;
+      if (nextMonth) document.getElementById('label-next_month').textContent = `Next Month (${nextMonth})`;
+    }
 
     function renderSectionedTab(gridId, countId, events, tabKey) {
       const grid = document.getElementById(gridId);
       const countEl = document.getElementById(countId);
-      const filtered = filterEvents(events);
+      const weekEnd = allData.this_week_end || '';
+      const nextMonthStart = allData.next_month_start || nextDayKey(allData.this_month_end);
+      const nextMonthEnd = allData.next_month_end || '';
+      let filtered = filterEvents(events);
+
+      if (tabKey === 'all_events') {
+        filtered = filtered.filter(e => {
+          const date = eventEndDateKey(e);
+          return date > nextMonthEnd;
+        });
+      }
+
       countEl.textContent = filtered.length;
 
       if (filtered.length === 0) {
@@ -1658,71 +1651,101 @@
         return;
       }
 
-      const weekEnd = allData.this_week_end || '';
-      const monthEnd = allData.this_month_end || '';
-      const nextMonthEnd = allData.next_month_end || '';
       let html = '';
 
       if (tabKey === 'this_month') {
-        // Split into "This Week" and "Rest of the Month"
-        const thisWeek = filtered.filter(e => e.event_date <= weekEnd);
-        const restMonth = filtered.filter(e => e.event_date > weekEnd);
+        // Split into "This Week" and "Rest of the Month"; both are always visible.
+        const thisWeek = filtered.filter(e => eventDateKey(e) <= weekEnd);
+        const restMonth = filtered.filter(e => eventDateKey(e) > weekEnd);
+        const thisMonth = monthNameFromDateKey(allData.this_month_end) || 'the Month';
 
         if (thisWeek.length > 0) {
-          html += makeDivider('⚡ This Week');
+          html += makeDivider(`⚡ This Week · ${eventCountText(thisWeek.length)}`);
           html += thisWeek.map((e, i) => buildCard(e, i)).join('');
         }
         if (restMonth.length > 0) {
-          if (!restExpanded.this_month) {
-            // Show "Show More" button
-            html += `<div class="see-more-bar" style="grid-column:1/-1;">
-              <a class="see-more-link" href="#" onclick="expandRest('this_month', event)">Show ${restMonth.length} more events this month →</a>
-            </div>`;
-          } else {
-            html += makeDivider('🗓️ Rest of the Month');
-            html += restMonth.map((e, i) => buildCard(e, i)).join('');
-            html += `<div class="see-more-bar" style="grid-column:1/-1;">
-              <a class="see-more-link" href="#" onclick="collapseRest('this_month', event)">↑ Show less</a>
-            </div>`;
-          }
+          html += makeDivider(`🗓️ Rest of ${thisMonth} · ${eventCountText(restMonth.length)}`);
+          html += restMonth.map((e, i) => buildCard(e, i)).join('');
         }
 
       } else if (tabKey === 'all_events') {
-        // Split into "This Month", "Next Month", "Rest of the Year" — all visible
-        const thisM = filtered.filter(e => e.event_date <= monthEnd);
-        const nextM = filtered.filter(e => e.event_date > monthEnd && e.event_date <= nextMonthEnd);
-        const rest  = filtered.filter(e => e.event_date > nextMonthEnd);
-
-        if (thisM.length > 0) {
-          html += makeDivider('🗓️ This Month');
-          html += thisM.map((e, i) => buildCard(e, i)).join('');
-        }
-        if (nextM.length > 0) {
-          html += makeDivider('⏰ Next Month');
-          html += nextM.map((e, i) => buildCard(e, i)).join('');
-        }
-        if (rest.length > 0) {
-          html += makeDivider('📅 Rest of the Year');
-          html += rest.map((e, i) => buildCard(e, i)).join('');
-        }
+        // Upcoming: exclude this/next month and group remaining future events by month.
+        html = renderMonthGroups(filtered, nextDayKey(nextMonthEnd));
 
       } else {
-        // next_month — flat, no sub-sections
-        html = filtered.map((e, i) => buildCard(e, i)).join('');
+        // Split next month if the current calendar week spills into it.
+        const thisWeek = filtered.filter(e => effectiveDateInWindow(e, nextMonthStart) <= weekEnd);
+        const restMonth = filtered.filter(e => effectiveDateInWindow(e, nextMonthStart) > weekEnd);
+        const nextMonth = monthNameFromDateKey(nextMonthStart || eventDateKey(filtered[0])) || 'the Month';
+
+        if (thisWeek.length > 0) {
+          html += makeDivider(`⚡ This Week · ${eventCountText(thisWeek.length)}`);
+          html += thisWeek.map((e, i) => buildCard(e, i)).join('');
+        }
+        if (restMonth.length > 0) {
+          const label = thisWeek.length > 0 ? `Rest of ${nextMonth}` : nextMonth;
+          html += makeDivider(`🗓️ ${label} · ${eventCountText(restMonth.length)}`);
+          html += restMonth.map((e, i) => buildCard(e, i)).join('');
+        }
       }
 
       grid.innerHTML = html;
     }
 
-    function expandRest(tabKey, e) {
-      e.preventDefault();
-      restExpanded[tabKey] = true;
-      renderAllSections();
+    function eventDateKey(event) {
+      return (event.event_date || '').slice(0, 10);
     }
-    function collapseRest(tabKey, e) {
-      e.preventDefault();
-      restExpanded[tabKey] = false;
-      renderAllSections();
+
+    function eventEndDateKey(event) {
+      return (event.end_date || event.event_date || '').slice(0, 10);
+    }
+
+    function eventCountText(count) {
+      return count === 1 ? '1 event' : `${count} events`;
+    }
+
+    function effectiveDateInWindow(event, windowStart) {
+      const date = eventDateKey(event);
+      if (!windowStart) return date;
+      return date < windowStart ? windowStart : date;
+    }
+
+    function renderMonthGroups(events, windowStart) {
+      if (!events.length) return '<div class="empty-section">No events in this section right now.</div>';
+
+      const groups = new Map();
+      events.forEach(event => {
+        const key = effectiveDateInWindow(event, windowStart).slice(0, 7);
+        if (!groups.has(key)) groups.set(key, []);
+        groups.get(key).push(event);
+      });
+
+      return [...groups.entries()].sort(([a], [b]) => a.localeCompare(b)).map(([monthKey, monthEvents]) => {
+        const label = monthLabel(monthKey);
+        return makeDivider(`📅 ${label} · ${eventCountText(monthEvents.length)}`)
+          + monthEvents.map((event, i) => buildCard(event, i)).join('');
+      }).join('');
+    }
+
+    function monthNameFromDateKey(dateKey) {
+      if (!dateKey) return '';
+      const [year, month] = dateKey.slice(0, 10).split('-').map(Number);
+      if (!year || !month) return '';
+      return new Date(year, month - 1, 1, 12).toLocaleDateString('en-US', { month: 'long' });
+    }
+
+    function nextDayKey(dateKey) {
+      if (!dateKey) return '';
+      const [year, month, day] = dateKey.slice(0, 10).split('-').map(Number);
+      const date = new Date(year, month - 1, day, 12);
+      date.setDate(date.getDate() + 1);
+      return date.toISOString().slice(0, 10);
+    }
+
+    function monthLabel(monthKey) {
+      const [year, month] = monthKey.split('-').map(Number);
+      const date = new Date(year, month - 1, 1, 12);
+      return date.toLocaleDateString('en-US', { month: 'long', year: 'numeric' });
     }
 
     // ── Source pills ─────────────────────────────────────────────────────
