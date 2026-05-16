@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T02:07:06.620325-04:00",
+  "generated_at": "2026-05-16T02:36:13.923549-04:00",
   "this_week_end": "2026-05-17",
   "this_month_end": "2026-05-31",
   "next_month_start": "2026-06-01",
@@ -26,6 +26,16 @@
       "event_category": "festival"
     },
     {
+      "id": "a9a2dc6d-0718-4365-8e0d-c9141424ea68",
+      "event_title": "Exhibition Opening: A Living Canvas: The Ukrainian Museum at 50",
+      "event_date": "2026-05-16",
+      "end_date": "2026-05-16",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/exhibition-opening-a-living-canvas",
+      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1778604103/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/7a622905-c536-473b-bb4c-6f0a8de0d00a.png",
+      "source": "Ukrainian Museum Zeffy",
+      "event_category": "arttalk"
+    },
+    {
       "id": "a435b1ca-81fd-423b-9878-69da4069e76c",
       "event_title": "FIЇNKA *NEW YORK* USA Tour 2026",
       "event_date": "2026-05-16",
@@ -36,13 +46,33 @@
       "event_category": "concert"
     },
     {
-      "id": "a9a2dc6d-0718-4365-8e0d-c9141424ea68",
-      "event_title": "Exhibition Opening: A Living Canvas: The Ukrainian Museum at 50",
-      "event_date": "2026-05-16",
-      "end_date": "2026-05-16",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/exhibition-opening-a-living-canvas",
-      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1778604103/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/7a622905-c536-473b-bb4c-6f0a8de0d00a.png",
-      "source": "Ukrainian Museum Zeffy",
+      "id": "23b4b3b0-5f3d-474b-bf58-adac65532578",
+      "event_title": "5th Annual Solidarity Bike Ride for Ukraine with Veselka",
+      "event_date": "2026-05-17",
+      "end_date": "2026-05-17",
+      "ticket_link": "https://www.instagram.com/p/DYCvOvvAEZ4/",
+      "cover_image_url": null,
+      "source": "Veselka / Razom for Ukraine",
+      "event_category": "other"
+    },
+    {
+      "id": "d8174b3d-5eab-4be2-a8b3-2410e9967fe7",
+      "event_title": "Fairfield Connecticut DZIDZIO Charity Concert by Revived Soldiers Ukraine",
+      "event_date": "2026-05-17",
+      "end_date": "2026-05-17",
+      "ticket_link": "https://www.eventbrite.com/e/fairfield-connecticut-dzidzio-charity-concert-by-revived-soldiers-ukraine-tickets-1986579592037",
+      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1181431535%252F86171180225%252F1%252Foriginal.20260404-163905%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D94f35851f384a3f1db071478702763fa&w=1880&q=75",
+      "source": "Eventbrite",
+      "event_category": "concert"
+    },
+    {
+      "id": "0f966170-480c-42a5-8dff-e45f7bcd79fc",
+      "event_title": "Art in War - Exhibit and sale",
+      "event_date": "2026-05-17",
+      "end_date": "2026-05-17",
+      "ticket_link": "https://www.eventbrite.com/e/art-in-war-exhibit-and-sale-tickets-1988288402134",
+      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1183088607%252F152705885625%252F1%252Foriginal.20260427-003005%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.053%26fp-y%3D0.142%26s%3D730b6940d767bd69ee7a22bf7d248f4b&w=1880&q=75",
+      "source": "Eventbrite",
       "event_category": "arttalk"
     },
     {
@@ -56,36 +86,6 @@
       "event_category": "other"
     },
     {
-      "id": "0f966170-480c-42a5-8dff-e45f7bcd79fc",
-      "event_title": "Art in War - Exhibit and sale",
-      "event_date": "2026-05-17",
-      "end_date": "2026-05-17",
-      "ticket_link": "https://www.eventbrite.com/e/art-in-war-exhibit-and-sale-tickets-1988288402134",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1183088607%252F152705885625%252F1%252Foriginal.20260427-003005%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.053%26fp-y%3D0.142%26s%3D730b6940d767bd69ee7a22bf7d248f4b&w=1880&q=75",
-      "source": "Eventbrite",
-      "event_category": "arttalk"
-    },
-    {
-      "id": "d8174b3d-5eab-4be2-a8b3-2410e9967fe7",
-      "event_title": "Fairfield Connecticut DZIDZIO Charity Concert by Revived Soldiers Ukraine",
-      "event_date": "2026-05-17",
-      "end_date": "2026-05-17",
-      "ticket_link": "https://www.eventbrite.com/e/fairfield-connecticut-dzidzio-charity-concert-by-revived-soldiers-ukraine-tickets-1986579592037",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1181431535%252F86171180225%252F1%252Foriginal.20260404-163905%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D94f35851f384a3f1db071478702763fa&w=1880&q=75",
-      "source": "Eventbrite",
-      "event_category": "concert"
-    },
-    {
-      "id": "b531ddef-99fb-4679-890a-93bc0e84e749",
-      "event_title": "The One-Armed Chef presents: New York Salon — Giles Duley",
-      "event_date": "2026-05-19",
-      "end_date": "2026-05-21",
-      "ticket_link": "https://www.gilesduley.store/new-york-salon",
-      "cover_image_url": "https://images.squarespace-cdn.com/content/v1/665827416a83204084fe403d/c5683b31-8d38-4326-9840-f07540036244/THe+ONe+Armed+chef+Presents+%282%29.png",
-      "source": "Giles Duley",
-      "event_category": "other"
-    },
-    {
       "id": "df5d955f-d25f-4a1f-8e1e-d2c48d508f6a",
       "event_title": "Turandot",
       "event_date": "2026-05-19",
@@ -96,14 +96,14 @@
       "event_category": "performance"
     },
     {
-      "id": "7ad7073f-1577-4e26-9d7d-e74a7d2b16c6",
-      "event_title": "Antonina (Ukraine)",
-      "event_date": "2026-05-21",
+      "id": "b531ddef-99fb-4679-890a-93bc0e84e749",
+      "event_title": "The One-Armed Chef presents: New York Salon — Giles Duley",
+      "event_date": "2026-05-19",
       "end_date": "2026-05-21",
-      "ticket_link": "https://www.rehearsalfortruth.org/program/antonina",
-      "cover_image_url": "http://static1.squarespace.com/static/5e0022e96d81b6022f1570ef/5e0031524c1de744ec9123b3/69c2f0cb0bb5951bc2103ef7/1778099331664/VHC-RFT-Spring2026-1600x1000-Antonina.jpg?format=1500w",
-      "source": "Bohemian National Hall",
-      "event_category": "performance"
+      "ticket_link": "https://www.gilesduley.store/new-york-salon",
+      "cover_image_url": "https://images.squarespace-cdn.com/content/v1/665827416a83204084fe403d/c5683b31-8d38-4326-9840-f07540036244/THe+ONe+Armed+chef+Presents+%282%29.png",
+      "source": "Giles Duley",
+      "event_category": "other"
     },
     {
       "id": "7779f662-eb20-4007-9118-c84190457d79",
@@ -136,6 +136,16 @@
       "event_category": "arttalk"
     },
     {
+      "id": "7ad7073f-1577-4e26-9d7d-e74a7d2b16c6",
+      "event_title": "Antonina (Ukraine)",
+      "event_date": "2026-05-21",
+      "end_date": "2026-05-21",
+      "ticket_link": "https://www.rehearsalfortruth.org/program/antonina",
+      "cover_image_url": "http://static1.squarespace.com/static/5e0022e96d81b6022f1570ef/5e0031524c1de744ec9123b3/69c2f0cb0bb5951bc2103ef7/1778099331664/VHC-RFT-Spring2026-1600x1000-Antonina.jpg?format=1500w",
+      "source": "Bohemian National Hall",
+      "event_category": "performance"
+    },
+    {
       "id": "a13edd18-4a73-4eaf-a700-09762ecebd90",
       "event_title": "Adults Forgot How to PlayA practical theatre-based experience for HR specialists working with teams",
       "event_date": "2026-05-22",
@@ -166,16 +176,6 @@
       "event_category": "movie"
     },
     {
-      "id": "d0a3f5b9-0011-4ce1-8592-442052dea899",
-      "event_title": "​INDEPENDENCE Night — Official FAINO FEST Afterparty",
-      "event_date": "2026-05-23",
-      "end_date": "2026-05-23",
-      "ticket_link": "https://ukrainian.us/events/faino-afterparty",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/9oOfUa2wTLt48LmUEUuXKEXtQhm6wI_s-source.png?v=0.1&s=43977961d4e64d8ded6a34d677c71d77",
-      "source": "Ukrainian USA",
-      "event_category": "festival"
-    },
-    {
       "id": "e64cc224-27bc-4483-8ac0-31b6a08e7ed1",
       "event_title": "Shevchenko Scietific Society Annual Meeting",
       "event_date": "2026-05-23",
@@ -184,6 +184,16 @@
       "cover_image_url": null,
       "source": "Shevchenko Scientific Society",
       "event_category": "other"
+    },
+    {
+      "id": "d0a3f5b9-0011-4ce1-8592-442052dea899",
+      "event_title": "​INDEPENDENCE Night — Official FAINO FEST Afterparty",
+      "event_date": "2026-05-23",
+      "end_date": "2026-05-23",
+      "ticket_link": "https://ukrainian.us/events/faino-afterparty",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/9oOfUa2wTLt48LmUEUuXKEXtQhm6wI_s-source.png?v=0.1&s=43977961d4e64d8ded6a34d677c71d77",
+      "source": "Ukrainian USA",
+      "event_category": "festival"
     },
     {
       "id": "163afbe5-7e1a-4a2f-8af2-8023341efc77",
@@ -226,16 +236,6 @@
       "event_category": "other"
     },
     {
-      "id": "46d9a364-3ce2-4291-b10e-45b959e5ed80",
-      "event_title": "Playgrounda playful, acting experience, guided for non-actors",
-      "event_date": "2026-05-31",
-      "end_date": "2026-05-31",
-      "ticket_link": "https://tisto.nyc/workshops/05-31-playground",
-      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
-      "source": "Tisto NYC",
-      "event_category": "workshop"
-    },
-    {
       "id": "ba3efcad-7d25-47fb-99aa-8f8bdad242fe",
       "event_title": "Long Island,NY/Премʼєра \"Хрещатик 48/2\"/Office of Magical Forces",
       "event_date": "2026-05-31",
@@ -244,6 +244,16 @@
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1182809091%252F294391790611%252F1%252Foriginal.20260422-185933%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.83%26fp-y%3D0.336%26s%3Db0f864ae4e0d3aa7b4c631971d4f04ab&w=1880&q=75",
       "source": "Eventbrite",
       "event_category": "movie"
+    },
+    {
+      "id": "46d9a364-3ce2-4291-b10e-45b959e5ed80",
+      "event_title": "Playgrounda playful, acting experience, guided for non-actors",
+      "event_date": "2026-05-31",
+      "end_date": "2026-05-31",
+      "ticket_link": "https://tisto.nyc/workshops/05-31-playground",
+      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
+      "source": "Tisto NYC",
+      "event_category": "workshop"
     }
   ],
   "next_month": [
@@ -348,16 +358,6 @@
       "event_category": "workshop"
     },
     {
-      "id": "f93dd29b-6ded-403d-ae95-2da2c37f4ebb",
-      "event_title": "PETRYKIVKA PAINTING WORKSHOP with Kateryna Kryvolap (Session 2)",
-      "event_date": "2026-06-14",
-      "end_date": "2026-06-14",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/petrykivka-painting-workshop-with-kateryna-kryvolap-2",
-      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1777567545/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/f696dfe9-1091-456a-b0ae-3e62b18188c2.png",
-      "source": "Ukrainian Museum Zeffy",
-      "event_category": "workshop"
-    },
-    {
       "id": "14bde3ce-8baf-4622-b2df-afd6c5e31eab",
       "event_title": "Classic Make-up by Alina Klymko",
       "event_date": "2026-06-14",
@@ -365,6 +365,26 @@
       "ticket_link": "https://ukrainian.us/events/classic-make-up",
       "cover_image_url": "https://ukrainian.us/storage/event/1/ZWmr7Hd5R7fgI45X3IdOxAGwOZEahN1E-source.png?v=0.1&s=cb4049f9a3c52b2c3146fb7db48bad50",
       "source": "Ukrainian USA",
+      "event_category": "workshop"
+    },
+    {
+      "id": "a3e25c09-bfd7-45e1-946d-bd7af312132b",
+      "event_title": "Experience in New York",
+      "event_date": "2026-06-14",
+      "end_date": "2026-06-14",
+      "ticket_link": "https://www.tarsahno.com/event-details/experience-in-new-york",
+      "cover_image_url": "https://static.wixstatic.com/media/55cd19_db4ae9f7705f454fb80c7939c348f9b5~mv2.png/v1/fill/w_1920,h_1080,al_c/55cd19_db4ae9f7705f454fb80c7939c348f9b5~mv2.png",
+      "source": "Tarsahno",
+      "event_category": "concert"
+    },
+    {
+      "id": "f93dd29b-6ded-403d-ae95-2da2c37f4ebb",
+      "event_title": "PETRYKIVKA PAINTING WORKSHOP with Kateryna Kryvolap (Session 2)",
+      "event_date": "2026-06-14",
+      "end_date": "2026-06-14",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/petrykivka-painting-workshop-with-kateryna-kryvolap-2",
+      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1777567545/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/f696dfe9-1091-456a-b0ae-3e62b18188c2.png",
+      "source": "Ukrainian Museum Zeffy",
       "event_category": "workshop"
     },
     {
@@ -508,6 +528,26 @@
       "cover_image_url": "https://cdn.wildapricot.com/295119/resources/Pictures/ukrainian-folk-festival-2025.jpg",
       "source": "Tryzub",
       "event_category": "festival"
+    },
+    {
+      "id": "20e80d05-1cc2-46f4-8ee5-6c9d82d2e10f",
+      "event_title": "Ukrainian Freedom Orchestra — August 25, 2026",
+      "event_date": "2026-08-25",
+      "end_date": "2026-08-25",
+      "ticket_link": "https://www.ukrainianfreedomorchestra.org/tour#august-25-2026",
+      "cover_image_url": null,
+      "source": "Ukrainian Freedom Orchestra",
+      "event_category": "concert"
+    },
+    {
+      "id": "72b871d3-1116-4b85-870d-9d6b9888fc70",
+      "event_title": "Ukrainian Freedom Orchestra — August 26, 2026",
+      "event_date": "2026-08-26",
+      "end_date": "2026-08-26",
+      "ticket_link": "https://www.ukrainianfreedomorchestra.org/tour#august-26-2026",
+      "cover_image_url": null,
+      "source": "Ukrainian Freedom Orchestra",
+      "event_category": "concert"
     },
     {
       "id": "a7cd86a1-9544-4093-9ac3-8253c2996220",
