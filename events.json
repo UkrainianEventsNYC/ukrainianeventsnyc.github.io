@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T05:50:09.102774-04:00",
-  "this_week_end": "2026-05-17",
+  "generated_at": "2026-05-18T07:47:55.236044-04:00",
+  "this_week_end": "2026-05-24",
   "this_month_end": "2026-05-31",
   "next_month_start": "2026-06-01",
   "next_month_end": "2026-06-30",
@@ -14,56 +14,6 @@
       "cover_image_url": "http://static1.squarespace.com/static/688a4380e5388e7b843955e5/t/69dd48a665e4f561c0719744/1776110150047/War+Photography+Exhibition.jpeg?format=1500w",
       "source": "American Ukraine Committee",
       "event_category": "performance"
-    },
-    {
-      "id": "7288a67a-c704-4d19-b917-a194d44653bc",
-      "event_title": "50th Anniversary St. George Ukrainian Festival",
-      "event_date": "2026-05-13",
-      "end_date": "2026-05-17",
-      "ticket_link": "https://evgrieve.com/2026/05/the-50th-anniversary-edition-of.html",
-      "cover_image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOtXCWOk9lx7ijW40r5E7O3NYAdJ1u78cCd4PwVhrx2_U_S-vnOicdJjQmwLJBHRas3PDSaSKPvniOU-25fbXaxeZ7iKceVlGKUBsq6iH8tzt1ZQvvPuHOPYC9B9-joxVaOE8kQMOO2Au3v_LwjEFFjpgOvK617AMn4jF6bkbS99zrcJgOcLG92IxZVL8/w1200-h630-p-k-no-nu/684145222_1307485754806017_1353546708632909057_n.jpg",
-      "source": "St. George Ukrainian Festival",
-      "event_category": "festival"
-    },
-    {
-      "id": "0f966170-480c-42a5-8dff-e45f7bcd79fc",
-      "event_title": "Art in War - Exhibit and sale",
-      "event_date": "2026-05-17",
-      "end_date": "2026-05-17",
-      "ticket_link": "https://www.eventbrite.com/e/art-in-war-exhibit-and-sale-tickets-1988288402134",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1183088607%252F152705885625%252F1%252Foriginal.20260427-003005%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.053%26fp-y%3D0.142%26s%3D730b6940d767bd69ee7a22bf7d248f4b&w=1880&q=75",
-      "source": "Eventbrite",
-      "event_category": "arttalk"
-    },
-    {
-      "id": "d8174b3d-5eab-4be2-a8b3-2410e9967fe7",
-      "event_title": "Fairfield Connecticut DZIDZIO Charity Concert by Revived Soldiers Ukraine",
-      "event_date": "2026-05-17",
-      "end_date": "2026-05-17",
-      "ticket_link": "https://www.eventbrite.com/e/fairfield-connecticut-dzidzio-charity-concert-by-revived-soldiers-ukraine-tickets-1986579592037",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1181431535%252F86171180225%252F1%252Foriginal.20260404-163905%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D94f35851f384a3f1db071478702763fa&w=1880&q=75",
-      "source": "Eventbrite",
-      "event_category": "concert"
-    },
-    {
-      "id": "ea99dbc2-56dc-4ceb-b430-d8a33a34949a",
-      "event_title": "Brave women",
-      "event_date": "2026-05-17",
-      "end_date": "2026-05-17",
-      "ticket_link": "https://ukrainian.us/events/brave-women",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/5FpdrYgSzp2caTafA6m92ucEIfBR0N5o-source.png?v=0.1&s=c0d328b3b3cbdcec32aa6e17918ff0b8",
-      "source": "Ukrainian USA",
-      "event_category": "other"
-    },
-    {
-      "id": "23b4b3b0-5f3d-474b-bf58-adac65532578",
-      "event_title": "5th Annual Solidarity Bike Ride for Ukraine with Veselka",
-      "event_date": "2026-05-17",
-      "end_date": "2026-05-17",
-      "ticket_link": "https://www.instagram.com/p/DYCvOvvAEZ4/",
-      "cover_image_url": null,
-      "source": "Veselka / Razom for Ukraine",
-      "event_category": "other"
     },
     {
       "id": "df5d955f-d25f-4a1f-8e1e-d2c48d508f6a",
@@ -86,6 +36,16 @@
       "event_category": "other"
     },
     {
+      "id": "7ad7073f-1577-4e26-9d7d-e74a7d2b16c6",
+      "event_title": "Antonina (Ukraine)",
+      "event_date": "2026-05-21",
+      "end_date": "2026-05-21",
+      "ticket_link": "https://www.rehearsalfortruth.org/program/antonina",
+      "cover_image_url": "http://static1.squarespace.com/static/5e0022e96d81b6022f1570ef/5e0031524c1de744ec9123b3/69c2f0cb0bb5951bc2103ef7/1778099331664/VHC-RFT-Spring2026-1600x1000-Antonina.jpg?format=1500w",
+      "source": "Bohemian National Hall",
+      "event_category": "performance"
+    },
+    {
       "id": "7779f662-eb20-4007-9118-c84190457d79",
       "event_title": "Books at the Institute",
       "event_date": "2026-05-21",
@@ -104,16 +64,6 @@
       "cover_image_url": "https://api.bomond.com/public/69/3462/173109/divchata_432x432%20%281%29.webp",
       "source": "Bomond",
       "event_category": "arttalk"
-    },
-    {
-      "id": "7ad7073f-1577-4e26-9d7d-e74a7d2b16c6",
-      "event_title": "Antonina (Ukraine)",
-      "event_date": "2026-05-21",
-      "end_date": "2026-05-21",
-      "ticket_link": "https://www.rehearsalfortruth.org/program/antonina",
-      "cover_image_url": "http://static1.squarespace.com/static/5e0022e96d81b6022f1570ef/5e0031524c1de744ec9123b3/69c2f0cb0bb5951bc2103ef7/1778099331664/VHC-RFT-Spring2026-1600x1000-Antonina.jpg?format=1500w",
-      "source": "Bohemian National Hall",
-      "event_category": "performance"
     },
     {
       "id": "f8f44b69-e21e-4fb2-9644-5e0eff52b8c7",
@@ -338,13 +288,13 @@
       "event_category": "workshop"
     },
     {
-      "id": "14bde3ce-8baf-4622-b2df-afd6c5e31eab",
-      "event_title": "Classic Make-up by Alina Klymko",
+      "id": "f93dd29b-6ded-403d-ae95-2da2c37f4ebb",
+      "event_title": "PETRYKIVKA PAINTING WORKSHOP with Kateryna Kryvolap (Session 2)",
       "event_date": "2026-06-14",
       "end_date": "2026-06-14",
-      "ticket_link": "https://ukrainian.us/events/classic-make-up",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/ZWmr7Hd5R7fgI45X3IdOxAGwOZEahN1E-source.png?v=0.1&s=cb4049f9a3c52b2c3146fb7db48bad50",
-      "source": "Ukrainian USA",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/petrykivka-painting-workshop-with-kateryna-kryvolap-2",
+      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1777567545/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/f696dfe9-1091-456a-b0ae-3e62b18188c2.png",
+      "source": "Ukrainian Museum Zeffy",
       "event_category": "workshop"
     },
     {
@@ -358,13 +308,13 @@
       "event_category": "concert"
     },
     {
-      "id": "f93dd29b-6ded-403d-ae95-2da2c37f4ebb",
-      "event_title": "PETRYKIVKA PAINTING WORKSHOP with Kateryna Kryvolap (Session 2)",
+      "id": "14bde3ce-8baf-4622-b2df-afd6c5e31eab",
+      "event_title": "Classic Make-up by Alina Klymko",
       "event_date": "2026-06-14",
       "end_date": "2026-06-14",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/petrykivka-painting-workshop-with-kateryna-kryvolap-2",
-      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1777567545/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/f696dfe9-1091-456a-b0ae-3e62b18188c2.png",
-      "source": "Ukrainian Museum Zeffy",
+      "ticket_link": "https://ukrainian.us/events/classic-make-up",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/ZWmr7Hd5R7fgI45X3IdOxAGwOZEahN1E-source.png?v=0.1&s=cb4049f9a3c52b2c3146fb7db48bad50",
+      "source": "Ukrainian USA",
       "event_category": "workshop"
     },
     {
@@ -400,16 +350,6 @@
   ],
   "all_events": [
     {
-      "id": "c87b6b2f-4c3d-4236-9d50-b187ad5101df",
-      "event_title": "Vasyl Baidak - New York City",
-      "event_date": "2026-07-03",
-      "end_date": "2026-07-03",
-      "ticket_link": "https://waylight.me/ucrazy/event/16319-cd91c",
-      "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1773094064_-1200630.jpg",
-      "source": "Waylight",
-      "event_category": "standup"
-    },
-    {
       "id": "d0ff2077-0c30-46dd-a7da-132667e16d37",
       "event_title": "July 4th Celebration",
       "event_date": "2026-07-03",
@@ -418,6 +358,16 @@
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/July4th-1024x576.png",
       "source": "Soyuzivka",
       "event_category": "festival"
+    },
+    {
+      "id": "c87b6b2f-4c3d-4236-9d50-b187ad5101df",
+      "event_title": "Vasyl Baidak - New York City",
+      "event_date": "2026-07-03",
+      "end_date": "2026-07-03",
+      "ticket_link": "https://waylight.me/ucrazy/event/16319-cd91c",
+      "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1773094064_-1200630.jpg",
+      "source": "Waylight",
+      "event_category": "standup"
     },
     {
       "id": "acf665c7-63ac-4d64-b842-a6426b57414a",
