@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T06:52:24.224435-04:00",
+  "generated_at": "2026-05-23T05:54:23.344310-04:00",
   "this_week_end": "2026-05-24",
   "this_month_end": "2026-05-31",
   "next_month_start": "2026-06-01",
@@ -26,16 +26,6 @@
       "event_category": "performance"
     },
     {
-      "id": "a13edd18-4a73-4eaf-a700-09762ecebd90",
-      "event_title": "Adults Forgot How to PlayA practical theatre-based experience for HR specialists working with teams",
-      "event_date": "2026-05-22",
-      "end_date": "2026-05-22",
-      "ticket_link": "https://tisto.nyc/workshops/05-21-adults-forgot-how-to-play",
-      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
-      "source": "Tisto NYC",
-      "event_category": "workshop"
-    },
-    {
       "id": "14c1cd67-d010-4037-a06f-d8e19d3227a0",
       "event_title": "Memorial Day Weekend Spring Concert Series TBD",
       "event_date": "2026-05-22",
@@ -44,16 +34,6 @@
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/05/TornBoots2.png",
       "source": "Soyuzivka",
       "event_category": "festival"
-    },
-    {
-      "id": "412e5654-95af-42bd-95e5-38bff15e2ad0",
-      "event_title": "From \"Cyborgs\" to AI Drones: The Evolution of The War in Ukraine 2014-2026",
-      "event_date": "2026-05-22",
-      "end_date": "2026-05-22",
-      "ticket_link": "https://www.eventbrite.com/e/from-cyborgs-to-ai-drones-the-evolution-of-the-war-in-ukraine-2014-2026-tickets-1988288231624",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1183088273%252F152705885625%252F1%252Foriginal.20260427-002125%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.847%26fp-y%3D0.143%26s%3Dc8bf9917e68a180ecfb087363bec3171&w=1880&q=75",
-      "source": "Eventbrite",
-      "event_category": "movie"
     },
     {
       "id": "d0a3f5b9-0011-4ce1-8592-442052dea899",
@@ -76,6 +56,16 @@
       "event_category": "other"
     },
     {
+      "id": "163afbe5-7e1a-4a2f-8af2-8023341efc77",
+      "event_title": "Playgrounda playful, acting experience, guided for non-actors",
+      "event_date": "2026-05-27",
+      "end_date": "2026-05-27",
+      "ticket_link": "https://tisto.nyc/workshops/05-27-playground",
+      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
+      "source": "Tisto NYC",
+      "event_category": "workshop"
+    },
+    {
       "id": "180ba513-343e-40e5-a484-b59b53c16398",
       "event_title": "Sharing. Reflecting. Healing. Building.",
       "event_date": "2026-05-27",
@@ -86,14 +76,14 @@
       "event_category": null
     },
     {
-      "id": "163afbe5-7e1a-4a2f-8af2-8023341efc77",
-      "event_title": "Playgrounda playful, acting experience, guided for non-actors",
-      "event_date": "2026-05-27",
-      "end_date": "2026-05-27",
-      "ticket_link": "https://tisto.nyc/workshops/05-27-playground",
-      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
-      "source": "Tisto NYC",
-      "event_category": "workshop"
+      "id": "b7925977-a761-4cc1-8710-c9a22d8543b1",
+      "event_title": "Exhibition Opening: A Living Canvas: The Ukrainian Museum at 50",
+      "event_date": "2026-05-29",
+      "end_date": "2026-05-29",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/exhibition-opening-a-living-canvas-the-ukrainian-museum-at--50",
+      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1779479773/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/26ebf19b-353f-4cbe-a474-65860c55a8d1.png",
+      "source": "Ukrainian Museum Zeffy",
+      "event_category": "festival"
     },
     {
       "id": "fb35a872-5115-4ebc-9225-b9f166153ace",
@@ -168,16 +158,6 @@
       "event_category": "workshop"
     },
     {
-      "id": "a8af58eb-ba9d-47ab-9bde-fe36778b847b",
-      "event_title": "Brooklyn/Премʼєра \"Хрещатик 48/2\"/Office of Magical Forces",
-      "event_date": "2026-06-06",
-      "end_date": "2026-06-06",
-      "ticket_link": "https://www.eventbrite.com/e/brooklyn-482office-of-magical-forces-tickets-1987684849893",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1182819493%252F294391790611%252F1%252Foriginal.20260422-204620%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.801%26fp-y%3D0.272%26s%3D7896487ef2632c57a85db044196533a1&w=1880&q=75",
-      "source": "Eventbrite",
-      "event_category": "movie"
-    },
-    {
       "id": "48f90c2d-d3d2-426f-b4c1-db63b1a403ce",
       "event_title": "Behind the Iron Curtain: Making Fashion in Soviet Ukraine, 1945–1991",
       "event_date": "2026-06-06",
@@ -196,6 +176,16 @@
       "cover_image_url": "https://ukrainian.us/storage/event/1/Z3KglP8EBNIKXuEBocxRHZLet69aXmD3-source.png?v=0.1&s=ec46aa5952f47c50ded8fc5861ca59af",
       "source": "Ukrainian USA",
       "event_category": "concert"
+    },
+    {
+      "id": "a8af58eb-ba9d-47ab-9bde-fe36778b847b",
+      "event_title": "Brooklyn/Премʼєра \"Хрещатик 48/2\"/Office of Magical Forces",
+      "event_date": "2026-06-06",
+      "end_date": "2026-06-06",
+      "ticket_link": "https://www.eventbrite.com/e/brooklyn-482office-of-magical-forces-tickets-1987684849893",
+      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1182819493%252F294391790611%252F1%252Foriginal.20260422-204620%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.801%26fp-y%3D0.272%26s%3D7896487ef2632c57a85db044196533a1&w=1880&q=75",
+      "source": "Eventbrite",
+      "event_category": "movie"
     },
     {
       "id": "355473be-e69f-41bd-9b16-60d07e59d307",
@@ -218,16 +208,6 @@
       "event_category": "concert"
     },
     {
-      "id": "fd44e887-e258-4852-8116-74d98401ce15",
-      "event_title": "Maya Deren in Dialogue with Contemporary Ukrainian-American Artists",
-      "event_date": "2026-06-12",
-      "end_date": "2026-06-12",
-      "ticket_link": "https://borshchofart.org/programs/public-programs/dorosh-slinko-grokhovsky-selthofner-20260612",
-      "cover_image_url": "https://borshch-of-art.s3.us-east-1.amazonaws.com/events/6a036f109567039c6ebe0543/_website-maya-deren-in-dialogue-with-contemporary-ukrainian-american-artists-%281%29.png",
-      "source": "Borshch of Art",
-      "event_category": null
-    },
-    {
       "id": "5b689b16-8bdc-4480-ac4f-fbd916d23a17",
       "event_title": "World Cup Music Fest - Dromnyc.com",
       "event_date": "2026-06-12",
@@ -236,6 +216,16 @@
       "cover_image_url": "https://dromnyc.com/wp-content/uploads/2026/04/June-12-copy.jpg",
       "source": "Drom NYC",
       "event_category": "festival"
+    },
+    {
+      "id": "fd44e887-e258-4852-8116-74d98401ce15",
+      "event_title": "Maya Deren in Dialogue with Contemporary Ukrainian-American Artists",
+      "event_date": "2026-06-12",
+      "end_date": "2026-06-12",
+      "ticket_link": "https://borshchofart.org/programs/public-programs/dorosh-slinko-grokhovsky-selthofner-20260612",
+      "cover_image_url": "https://borshch-of-art.s3.us-east-1.amazonaws.com/events/6a036f109567039c6ebe0543/_website-maya-deren-in-dialogue-with-contemporary-ukrainian-american-artists-%281%29.png",
+      "source": "Borshch of Art",
+      "event_category": null
     },
     {
       "id": "2971e423-9232-4ea1-a7d9-90d38a20747e",
@@ -258,14 +248,14 @@
       "event_category": "workshop"
     },
     {
-      "id": "f93dd29b-6ded-403d-ae95-2da2c37f4ebb",
-      "event_title": "PETRYKIVKA PAINTING WORKSHOP with Kateryna Kryvolap (Session 2)",
+      "id": "a3e25c09-bfd7-45e1-946d-bd7af312132b",
+      "event_title": "Experience in New York",
       "event_date": "2026-06-14",
       "end_date": "2026-06-14",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/petrykivka-painting-workshop-with-kateryna-kryvolap-2",
-      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1777567545/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/f696dfe9-1091-456a-b0ae-3e62b18188c2.png",
-      "source": "Ukrainian Museum Zeffy",
-      "event_category": "workshop"
+      "ticket_link": "https://www.tarsahno.com/event-details/experience-in-new-york",
+      "cover_image_url": "https://static.wixstatic.com/media/55cd19_db4ae9f7705f454fb80c7939c348f9b5~mv2.png/v1/fill/w_1920,h_1080,al_c/55cd19_db4ae9f7705f454fb80c7939c348f9b5~mv2.png",
+      "source": "Tarsahno",
+      "event_category": "concert"
     },
     {
       "id": "14bde3ce-8baf-4622-b2df-afd6c5e31eab",
@@ -278,14 +268,14 @@
       "event_category": "workshop"
     },
     {
-      "id": "a3e25c09-bfd7-45e1-946d-bd7af312132b",
-      "event_title": "Experience in New York",
+      "id": "f93dd29b-6ded-403d-ae95-2da2c37f4ebb",
+      "event_title": "PETRYKIVKA PAINTING WORKSHOP with Kateryna Kryvolap (Session 2)",
       "event_date": "2026-06-14",
       "end_date": "2026-06-14",
-      "ticket_link": "https://www.tarsahno.com/event-details/experience-in-new-york",
-      "cover_image_url": "https://static.wixstatic.com/media/55cd19_db4ae9f7705f454fb80c7939c348f9b5~mv2.png/v1/fill/w_1920,h_1080,al_c/55cd19_db4ae9f7705f454fb80c7939c348f9b5~mv2.png",
-      "source": "Tarsahno",
-      "event_category": "concert"
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/petrykivka-painting-workshop-with-kateryna-kryvolap-2",
+      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1777567545/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/f696dfe9-1091-456a-b0ae-3e62b18188c2.png",
+      "source": "Ukrainian Museum Zeffy",
+      "event_category": "workshop"
     },
     {
       "id": "832fc00a-3cc0-44ca-a654-a1294e3a95db",
@@ -320,16 +310,6 @@
   ],
   "all_events": [
     {
-      "id": "c87b6b2f-4c3d-4236-9d50-b187ad5101df",
-      "event_title": "Vasyl Baidak - New York City",
-      "event_date": "2026-07-03",
-      "end_date": "2026-07-03",
-      "ticket_link": "https://waylight.me/ucrazy/event/16319-cd91c",
-      "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1773094064_-1200630.jpg",
-      "source": "Waylight",
-      "event_category": "standup"
-    },
-    {
       "id": "d0ff2077-0c30-46dd-a7da-132667e16d37",
       "event_title": "July 4th Celebration",
       "event_date": "2026-07-03",
@@ -338,6 +318,16 @@
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/July4th-1024x576.png",
       "source": "Soyuzivka",
       "event_category": "festival"
+    },
+    {
+      "id": "c87b6b2f-4c3d-4236-9d50-b187ad5101df",
+      "event_title": "Vasyl Baidak - New York City",
+      "event_date": "2026-07-03",
+      "end_date": "2026-07-03",
+      "ticket_link": "https://waylight.me/ucrazy/event/16319-cd91c",
+      "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1773094064_-1200630.jpg",
+      "source": "Waylight",
+      "event_category": "standup"
     },
     {
       "id": "acf665c7-63ac-4d64-b842-a6426b57414a",
