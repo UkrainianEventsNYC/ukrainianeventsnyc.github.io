@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T05:54:23.344310-04:00",
+  "generated_at": "2026-05-24T05:58:13.749574-04:00",
   "this_week_end": "2026-05-24",
   "this_month_end": "2026-05-31",
   "next_month_start": "2026-06-01",
@@ -36,24 +36,14 @@
       "event_category": "festival"
     },
     {
-      "id": "d0a3f5b9-0011-4ce1-8592-442052dea899",
-      "event_title": "​INDEPENDENCE Night — Official FAINO FEST Afterparty",
-      "event_date": "2026-05-23",
-      "end_date": "2026-05-23",
-      "ticket_link": "https://ukrainian.us/events/faino-afterparty",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/9oOfUa2wTLt48LmUEUuXKEXtQhm6wI_s-source.png?v=0.1&s=43977961d4e64d8ded6a34d677c71d77",
-      "source": "Ukrainian USA",
-      "event_category": "festival"
-    },
-    {
-      "id": "e64cc224-27bc-4483-8ac0-31b6a08e7ed1",
-      "event_title": "Shevchenko Scietific Society Annual Meeting",
-      "event_date": "2026-05-23",
-      "end_date": "2026-05-23",
-      "ticket_link": "https://shevchenko.org/event/shevchenko-scietific-society-annual-meeting/",
-      "cover_image_url": null,
-      "source": "Shevchenko Scientific Society",
-      "event_category": "other"
+      "id": "180ba513-343e-40e5-a484-b59b53c16398",
+      "event_title": "Sharing. Reflecting. Healing. Building.",
+      "event_date": "2026-05-27",
+      "end_date": "2026-05-27",
+      "ticket_link": "https://borshchofart.org/programs/public-programs/anastasia-gudko-20260527",
+      "cover_image_url": "https://borshch-of-art.s3.us-east-1.amazonaws.com/events/6a02867e9567039c6ebe04e7/website-sharing.-reflecting.-healing.-building-%281%29.png",
+      "source": "Borshch of Art",
+      "event_category": null
     },
     {
       "id": "163afbe5-7e1a-4a2f-8af2-8023341efc77",
@@ -66,16 +56,6 @@
       "event_category": "workshop"
     },
     {
-      "id": "180ba513-343e-40e5-a484-b59b53c16398",
-      "event_title": "Sharing. Reflecting. Healing. Building.",
-      "event_date": "2026-05-27",
-      "end_date": "2026-05-27",
-      "ticket_link": "https://borshchofart.org/programs/public-programs/anastasia-gudko-20260527",
-      "cover_image_url": "https://borshch-of-art.s3.us-east-1.amazonaws.com/events/6a02867e9567039c6ebe04e7/website-sharing.-reflecting.-healing.-building-%281%29.png",
-      "source": "Borshch of Art",
-      "event_category": null
-    },
-    {
       "id": "b7925977-a761-4cc1-8710-c9a22d8543b1",
       "event_title": "Exhibition Opening: A Living Canvas: The Ukrainian Museum at 50",
       "event_date": "2026-05-29",
@@ -84,16 +64,6 @@
       "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1779479773/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/26ebf19b-353f-4cbe-a474-65860c55a8d1.png",
       "source": "Ukrainian Museum Zeffy",
       "event_category": "festival"
-    },
-    {
-      "id": "fb35a872-5115-4ebc-9225-b9f166153ace",
-      "event_title": "Panel on New Books in Ukrainian Studies",
-      "event_date": "2026-05-30",
-      "end_date": "2026-05-30",
-      "ticket_link": "https://shevchenko.org/event/panel-on-new-books-in-ukrainian-studies/",
-      "cover_image_url": null,
-      "source": "Shevchenko Scientific Society",
-      "event_category": "arttalk"
     },
     {
       "id": "13e4ff1a-854e-4202-8caa-5e142c320a04",
@@ -106,14 +76,14 @@
       "event_category": "other"
     },
     {
-      "id": "46d9a364-3ce2-4291-b10e-45b959e5ed80",
-      "event_title": "Playgrounda playful, acting experience, guided for non-actors",
-      "event_date": "2026-05-31",
-      "end_date": "2026-05-31",
-      "ticket_link": "https://tisto.nyc/workshops/05-31-playground",
-      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
-      "source": "Tisto NYC",
-      "event_category": "workshop"
+      "id": "fb35a872-5115-4ebc-9225-b9f166153ace",
+      "event_title": "Panel on New Books in Ukrainian Studies",
+      "event_date": "2026-05-30",
+      "end_date": "2026-05-30",
+      "ticket_link": "https://shevchenko.org/event/panel-on-new-books-in-ukrainian-studies/",
+      "cover_image_url": null,
+      "source": "Shevchenko Scientific Society",
+      "event_category": "arttalk"
     },
     {
       "id": "ba3efcad-7d25-47fb-99aa-8f8bdad242fe",
@@ -124,6 +94,16 @@
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1182809091%252F294391790611%252F1%252Foriginal.20260422-185933%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.83%26fp-y%3D0.336%26s%3Db0f864ae4e0d3aa7b4c631971d4f04ab&w=1880&q=75",
       "source": "Eventbrite",
       "event_category": "movie"
+    },
+    {
+      "id": "46d9a364-3ce2-4291-b10e-45b959e5ed80",
+      "event_title": "Playgrounda playful, acting experience, guided for non-actors",
+      "event_date": "2026-05-31",
+      "end_date": "2026-05-31",
+      "ticket_link": "https://tisto.nyc/workshops/05-31-playground",
+      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
+      "source": "Tisto NYC",
+      "event_category": "workshop"
     }
   ],
   "next_month": [
@@ -168,16 +148,6 @@
       "event_category": "movie"
     },
     {
-      "id": "de3f59ed-8dff-4b13-8861-8d1301a706ae",
-      "event_title": "UKRAINIAN BOAT IN MANHATTAN - Cruise into Summer Sounds",
-      "event_date": "2026-06-06",
-      "end_date": "2026-06-06",
-      "ticket_link": "https://ukrainian.us/events/boat2026",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/Z3KglP8EBNIKXuEBocxRHZLet69aXmD3-source.png?v=0.1&s=ec46aa5952f47c50ded8fc5861ca59af",
-      "source": "Ukrainian USA",
-      "event_category": "concert"
-    },
-    {
       "id": "a8af58eb-ba9d-47ab-9bde-fe36778b847b",
       "event_title": "Brooklyn/Премʼєра \"Хрещатик 48/2\"/Office of Magical Forces",
       "event_date": "2026-06-06",
@@ -186,6 +156,16 @@
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1182819493%252F294391790611%252F1%252Foriginal.20260422-204620%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.801%26fp-y%3D0.272%26s%3D7896487ef2632c57a85db044196533a1&w=1880&q=75",
       "source": "Eventbrite",
       "event_category": "movie"
+    },
+    {
+      "id": "de3f59ed-8dff-4b13-8861-8d1301a706ae",
+      "event_title": "UKRAINIAN BOAT IN MANHATTAN - Cruise into Summer Sounds",
+      "event_date": "2026-06-06",
+      "end_date": "2026-06-06",
+      "ticket_link": "https://ukrainian.us/events/boat2026",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/Z3KglP8EBNIKXuEBocxRHZLet69aXmD3-source.png?v=0.1&s=ec46aa5952f47c50ded8fc5861ca59af",
+      "source": "Ukrainian USA",
+      "event_category": "concert"
     },
     {
       "id": "355473be-e69f-41bd-9b16-60d07e59d307",
@@ -218,16 +198,6 @@
       "event_category": "festival"
     },
     {
-      "id": "fd44e887-e258-4852-8116-74d98401ce15",
-      "event_title": "Maya Deren in Dialogue with Contemporary Ukrainian-American Artists",
-      "event_date": "2026-06-12",
-      "end_date": "2026-06-12",
-      "ticket_link": "https://borshchofart.org/programs/public-programs/dorosh-slinko-grokhovsky-selthofner-20260612",
-      "cover_image_url": "https://borshch-of-art.s3.us-east-1.amazonaws.com/events/6a036f109567039c6ebe0543/_website-maya-deren-in-dialogue-with-contemporary-ukrainian-american-artists-%281%29.png",
-      "source": "Borshch of Art",
-      "event_category": null
-    },
-    {
       "id": "2971e423-9232-4ea1-a7d9-90d38a20747e",
       "event_title": "Let's Dance June",
       "event_date": "2026-06-12",
@@ -236,6 +206,16 @@
       "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2026/02/silhouette-dancing-people-disco-colorful-light-scaled.jpg",
       "source": "Helping Hands for Ukraine",
       "event_category": "performance"
+    },
+    {
+      "id": "fd44e887-e258-4852-8116-74d98401ce15",
+      "event_title": "Maya Deren in Dialogue with Contemporary Ukrainian-American Artists",
+      "event_date": "2026-06-12",
+      "end_date": "2026-06-12",
+      "ticket_link": "https://borshchofart.org/programs/public-programs/dorosh-slinko-grokhovsky-selthofner-20260612",
+      "cover_image_url": "https://borshch-of-art.s3.us-east-1.amazonaws.com/events/6a036f109567039c6ebe0543/_website-maya-deren-in-dialogue-with-contemporary-ukrainian-american-artists-%281%29.png",
+      "source": "Borshch of Art",
+      "event_category": null
     },
     {
       "id": "f9de7c75-a8dc-41a0-90f0-905a5511120f",
@@ -310,16 +290,6 @@
   ],
   "all_events": [
     {
-      "id": "d0ff2077-0c30-46dd-a7da-132667e16d37",
-      "event_title": "July 4th Celebration",
-      "event_date": "2026-07-03",
-      "end_date": "2026-07-05",
-      "ticket_link": "https://soyuzivka.com/calendar-of-events/july-4th-celebration/",
-      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/July4th-1024x576.png",
-      "source": "Soyuzivka",
-      "event_category": "festival"
-    },
-    {
       "id": "c87b6b2f-4c3d-4236-9d50-b187ad5101df",
       "event_title": "Vasyl Baidak - New York City",
       "event_date": "2026-07-03",
@@ -328,6 +298,16 @@
       "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1773094064_-1200630.jpg",
       "source": "Waylight",
       "event_category": "standup"
+    },
+    {
+      "id": "d0ff2077-0c30-46dd-a7da-132667e16d37",
+      "event_title": "July 4th Celebration",
+      "event_date": "2026-07-03",
+      "end_date": "2026-07-05",
+      "ticket_link": "https://soyuzivka.com/calendar-of-events/july-4th-celebration/",
+      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/July4th-1024x576.png",
+      "source": "Soyuzivka",
+      "event_category": "festival"
     },
     {
       "id": "acf665c7-63ac-4d64-b842-a6426b57414a",
