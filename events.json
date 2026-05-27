@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T07:57:23.726512-04:00",
+  "generated_at": "2026-05-27T07:41:08.350610-04:00",
   "this_week_end": "2026-05-31",
   "this_month_end": "2026-05-31",
   "next_month_start": "2026-06-01",
@@ -24,16 +24,6 @@
       "cover_image_url": "/globalassets/season/2025-26/turandot/turandot-1600x685-3.png",
       "source": "Metropolitan Opera",
       "event_category": "performance"
-    },
-    {
-      "id": "14c1cd67-d010-4037-a06f-d8e19d3227a0",
-      "event_title": "Memorial Day Weekend Spring Concert Series TBD",
-      "event_date": "2026-05-22",
-      "end_date": "2026-05-25",
-      "ticket_link": "https://soyuzivka.com/calendar-of-events/memorial-day-weekend-with-stoneflies-and-torn-boots/",
-      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/05/TornBoots2.png",
-      "source": "Soyuzivka",
-      "event_category": "festival"
     },
     {
       "id": "180ba513-343e-40e5-a484-b59b53c16398",
@@ -66,16 +56,6 @@
       "event_category": "festival"
     },
     {
-      "id": "13e4ff1a-854e-4202-8caa-5e142c320a04",
-      "event_title": "Little Ukraine Walking Tour",
-      "event_date": "2026-05-30",
-      "end_date": "2026-05-30",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/little-ukraine-walking-tour",
-      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1775146560/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/0225263f-408a-42a8-9d43-f94ecc6cb717.png",
-      "source": "Zeffy",
-      "event_category": "other"
-    },
-    {
       "id": "fb35a872-5115-4ebc-9225-b9f166153ace",
       "event_title": "Panel on New Books in Ukrainian Studies",
       "event_date": "2026-05-30",
@@ -84,6 +64,16 @@
       "cover_image_url": null,
       "source": "Shevchenko Scientific Society",
       "event_category": "arttalk"
+    },
+    {
+      "id": "13e4ff1a-854e-4202-8caa-5e142c320a04",
+      "event_title": "Little Ukraine Walking Tour",
+      "event_date": "2026-05-30",
+      "end_date": "2026-05-30",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/little-ukraine-walking-tour",
+      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1775146560/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/0225263f-408a-42a8-9d43-f94ecc6cb717.png",
+      "source": "Zeffy",
+      "event_category": "other"
     },
     {
       "id": "ba3efcad-7d25-47fb-99aa-8f8bdad242fe",
@@ -138,16 +128,6 @@
       "event_category": "workshop"
     },
     {
-      "id": "48f90c2d-d3d2-426f-b4c1-db63b1a403ce",
-      "event_title": "Behind the Iron Curtain: Making Fashion in Soviet Ukraine, 1945–1991",
-      "event_date": "2026-06-06",
-      "end_date": "2026-06-06",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/behind-the-iron-curtain-making-fashion-in-soviet-ukraine-1945--1991",
-      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1779383783/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/2f95930e-d340-40fe-bf5a-dbbf0a9b0cfb.png",
-      "source": "Ukrainian Museum Zeffy",
-      "event_category": "movie"
-    },
-    {
       "id": "a8af58eb-ba9d-47ab-9bde-fe36778b847b",
       "event_title": "Brooklyn/Премʼєра \"Хрещатик 48/2\"/Office of Magical Forces",
       "event_date": "2026-06-06",
@@ -155,6 +135,16 @@
       "ticket_link": "https://www.eventbrite.com/e/brooklyn-482office-of-magical-forces-tickets-1987684849893",
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1182819493%252F294391790611%252F1%252Foriginal.20260422-204620%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.801%26fp-y%3D0.272%26s%3D7896487ef2632c57a85db044196533a1&w=1880&q=75",
       "source": "Eventbrite",
+      "event_category": "movie"
+    },
+    {
+      "id": "48f90c2d-d3d2-426f-b4c1-db63b1a403ce",
+      "event_title": "Behind the Iron Curtain: Making Fashion in Soviet Ukraine, 1945–1991",
+      "event_date": "2026-06-06",
+      "end_date": "2026-06-06",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/behind-the-iron-curtain-making-fashion-in-soviet-ukraine-1945--1991",
+      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1779383783/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/2f95930e-d340-40fe-bf5a-dbbf0a9b0cfb.png",
+      "source": "Ukrainian Museum Zeffy",
       "event_category": "movie"
     },
     {
@@ -238,16 +228,6 @@
       "event_category": "concert"
     },
     {
-      "id": "14bde3ce-8baf-4622-b2df-afd6c5e31eab",
-      "event_title": "Classic Make-up by Alina Klymko",
-      "event_date": "2026-06-14",
-      "end_date": "2026-06-14",
-      "ticket_link": "https://ukrainian.us/events/classic-make-up",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/ZWmr7Hd5R7fgI45X3IdOxAGwOZEahN1E-source.png?v=0.1&s=cb4049f9a3c52b2c3146fb7db48bad50",
-      "source": "Ukrainian USA",
-      "event_category": "workshop"
-    },
-    {
       "id": "f93dd29b-6ded-403d-ae95-2da2c37f4ebb",
       "event_title": "PETRYKIVKA PAINTING WORKSHOP with Kateryna Kryvolap (Session 2)",
       "event_date": "2026-06-14",
@@ -255,6 +235,16 @@
       "ticket_link": "https://www.zeffy.com/en-US/ticketing/petrykivka-painting-workshop-with-kateryna-kryvolap-2",
       "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1777567545/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/f696dfe9-1091-456a-b0ae-3e62b18188c2.png",
       "source": "Ukrainian Museum Zeffy",
+      "event_category": "workshop"
+    },
+    {
+      "id": "14bde3ce-8baf-4622-b2df-afd6c5e31eab",
+      "event_title": "Classic Make-up by Alina Klymko",
+      "event_date": "2026-06-14",
+      "end_date": "2026-06-14",
+      "ticket_link": "https://ukrainian.us/events/classic-make-up",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/ZWmr7Hd5R7fgI45X3IdOxAGwOZEahN1E-source.png?v=0.1&s=cb4049f9a3c52b2c3146fb7db48bad50",
+      "source": "Ukrainian USA",
       "event_category": "workshop"
     },
     {
@@ -290,16 +280,6 @@
   ],
   "all_events": [
     {
-      "id": "c87b6b2f-4c3d-4236-9d50-b187ad5101df",
-      "event_title": "Vasyl Baidak - New York City",
-      "event_date": "2026-07-03",
-      "end_date": "2026-07-03",
-      "ticket_link": "https://waylight.me/ucrazy/event/16319-cd91c",
-      "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1773094064_-1200630.jpg",
-      "source": "Waylight",
-      "event_category": "standup"
-    },
-    {
       "id": "d0ff2077-0c30-46dd-a7da-132667e16d37",
       "event_title": "July 4th Celebration",
       "event_date": "2026-07-03",
@@ -308,6 +288,16 @@
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/July4th-1024x576.png",
       "source": "Soyuzivka",
       "event_category": "festival"
+    },
+    {
+      "id": "c87b6b2f-4c3d-4236-9d50-b187ad5101df",
+      "event_title": "Vasyl Baidak - New York City",
+      "event_date": "2026-07-03",
+      "end_date": "2026-07-03",
+      "ticket_link": "https://waylight.me/ucrazy/event/16319-cd91c",
+      "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1773094064_-1200630.jpg",
+      "source": "Waylight",
+      "event_category": "standup"
     },
     {
       "id": "acf665c7-63ac-4d64-b842-a6426b57414a",
@@ -398,6 +388,16 @@
       "cover_image_url": "https://cdn.wildapricot.com/295119/resources/Pictures/ukrainian-folk-festival-2025.jpg",
       "source": "Tryzub",
       "event_category": "festival"
+    },
+    {
+      "id": "0e9a9824-a1fa-4c05-8cab-56056cac5141",
+      "event_title": "KOLO",
+      "event_date": "2026-08-23",
+      "end_date": "2026-08-23",
+      "ticket_link": "https://ra.co/events/2451595",
+      "cover_image_url": "https://images.ra.co/92c04359fc72b1a3e1f15e61c3c6597673a02041.png",
+      "source": "Resident Advisor (KOLO NYC)",
+      "event_category": "other"
     },
     {
       "id": "20e80d05-1cc2-46f4-8ee5-6c9d82d2e10f",
