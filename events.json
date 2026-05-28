@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T07:41:08.350610-04:00",
+  "generated_at": "2026-05-28T07:41:18.769714-04:00",
   "this_week_end": "2026-05-31",
   "this_month_end": "2026-05-31",
   "next_month_start": "2026-06-01",
@@ -26,24 +26,14 @@
       "event_category": "performance"
     },
     {
-      "id": "180ba513-343e-40e5-a484-b59b53c16398",
-      "event_title": "Sharing. Reflecting. Healing. Building.",
-      "event_date": "2026-05-27",
-      "end_date": "2026-05-27",
-      "ticket_link": "https://borshchofart.org/programs/public-programs/anastasia-gudko-20260527",
-      "cover_image_url": "https://borshch-of-art.s3.us-east-1.amazonaws.com/events/6a02867e9567039c6ebe04e7/website-sharing.-reflecting.-healing.-building-%281%29.png",
-      "source": "Borshch of Art",
-      "event_category": null
-    },
-    {
-      "id": "163afbe5-7e1a-4a2f-8af2-8023341efc77",
-      "event_title": "Playgrounda playful, acting experience, guided for non-actors",
-      "event_date": "2026-05-27",
-      "end_date": "2026-05-27",
-      "ticket_link": "https://tisto.nyc/workshops/05-27-playground",
-      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
-      "source": "Tisto NYC",
-      "event_category": "workshop"
+      "id": "6199a51b-4ec3-4ab8-a874-bd5b77345c6e",
+      "event_title": "Boundless: Min Xiao-Fen and Julian Kytasty · Lincoln Center",
+      "event_date": "2026-05-28",
+      "end_date": "2026-05-28",
+      "ticket_link": "https://lincolncenter.org/series/lincoln-center-presents/boundless-min-xiao-fen-and-julian-kytasty",
+      "cover_image_url": "https://images.lincolncenter.org/image/upload/v1768512273/exwhm6mrh8pj2clne3wd.jpg",
+      "source": "Lincoln Center",
+      "event_category": "other"
     },
     {
       "id": "b7925977-a761-4cc1-8710-c9a22d8543b1",
@@ -128,16 +118,6 @@
       "event_category": "workshop"
     },
     {
-      "id": "a8af58eb-ba9d-47ab-9bde-fe36778b847b",
-      "event_title": "Brooklyn/Премʼєра \"Хрещатик 48/2\"/Office of Magical Forces",
-      "event_date": "2026-06-06",
-      "end_date": "2026-06-06",
-      "ticket_link": "https://www.eventbrite.com/e/brooklyn-482office-of-magical-forces-tickets-1987684849893",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1182819493%252F294391790611%252F1%252Foriginal.20260422-204620%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.801%26fp-y%3D0.272%26s%3D7896487ef2632c57a85db044196533a1&w=1880&q=75",
-      "source": "Eventbrite",
-      "event_category": "movie"
-    },
-    {
       "id": "48f90c2d-d3d2-426f-b4c1-db63b1a403ce",
       "event_title": "Behind the Iron Curtain: Making Fashion in Soviet Ukraine, 1945–1991",
       "event_date": "2026-06-06",
@@ -156,6 +136,16 @@
       "cover_image_url": "https://ukrainian.us/storage/event/1/Z3KglP8EBNIKXuEBocxRHZLet69aXmD3-source.png?v=0.1&s=ec46aa5952f47c50ded8fc5861ca59af",
       "source": "Ukrainian USA",
       "event_category": "concert"
+    },
+    {
+      "id": "a8af58eb-ba9d-47ab-9bde-fe36778b847b",
+      "event_title": "Brooklyn/Премʼєра \"Хрещатик 48/2\"/Office of Magical Forces",
+      "event_date": "2026-06-06",
+      "end_date": "2026-06-06",
+      "ticket_link": "https://www.eventbrite.com/e/brooklyn-482office-of-magical-forces-tickets-1987684849893",
+      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1182819493%252F294391790611%252F1%252Foriginal.20260422-204620%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.801%26fp-y%3D0.272%26s%3D7896487ef2632c57a85db044196533a1&w=1880&q=75",
+      "source": "Eventbrite",
+      "event_category": "movie"
     },
     {
       "id": "355473be-e69f-41bd-9b16-60d07e59d307",
@@ -188,16 +178,6 @@
       "event_category": "festival"
     },
     {
-      "id": "2971e423-9232-4ea1-a7d9-90d38a20747e",
-      "event_title": "Let's Dance June",
-      "event_date": "2026-06-12",
-      "end_date": "2026-06-12",
-      "ticket_link": "https://www.helpinghandsukraine.org/lets-dance-june/",
-      "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2026/02/silhouette-dancing-people-disco-colorful-light-scaled.jpg",
-      "source": "Helping Hands for Ukraine",
-      "event_category": "performance"
-    },
-    {
       "id": "fd44e887-e258-4852-8116-74d98401ce15",
       "event_title": "Maya Deren in Dialogue with Contemporary Ukrainian-American Artists",
       "event_date": "2026-06-12",
@@ -206,6 +186,16 @@
       "cover_image_url": "https://borshch-of-art.s3.us-east-1.amazonaws.com/events/6a036f109567039c6ebe0543/_website-maya-deren-in-dialogue-with-contemporary-ukrainian-american-artists-%281%29.png",
       "source": "Borshch of Art",
       "event_category": null
+    },
+    {
+      "id": "2971e423-9232-4ea1-a7d9-90d38a20747e",
+      "event_title": "Let's Dance June",
+      "event_date": "2026-06-12",
+      "end_date": "2026-06-12",
+      "ticket_link": "https://www.helpinghandsukraine.org/lets-dance-june/",
+      "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2026/02/silhouette-dancing-people-disco-colorful-light-scaled.jpg",
+      "source": "Helping Hands for Ukraine",
+      "event_category": "performance"
     },
     {
       "id": "f9de7c75-a8dc-41a0-90f0-905a5511120f",
@@ -218,14 +208,14 @@
       "event_category": "workshop"
     },
     {
-      "id": "a3e25c09-bfd7-45e1-946d-bd7af312132b",
-      "event_title": "Experience in New York",
+      "id": "14bde3ce-8baf-4622-b2df-afd6c5e31eab",
+      "event_title": "Classic Make-up by Alina Klymko",
       "event_date": "2026-06-14",
       "end_date": "2026-06-14",
-      "ticket_link": "https://www.tarsahno.com/event-details/experience-in-new-york",
-      "cover_image_url": "https://static.wixstatic.com/media/55cd19_db4ae9f7705f454fb80c7939c348f9b5~mv2.png/v1/fill/w_1920,h_1080,al_c/55cd19_db4ae9f7705f454fb80c7939c348f9b5~mv2.png",
-      "source": "Tarsahno",
-      "event_category": "concert"
+      "ticket_link": "https://ukrainian.us/events/classic-make-up",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/ZWmr7Hd5R7fgI45X3IdOxAGwOZEahN1E-source.png?v=0.1&s=cb4049f9a3c52b2c3146fb7db48bad50",
+      "source": "Ukrainian USA",
+      "event_category": "workshop"
     },
     {
       "id": "f93dd29b-6ded-403d-ae95-2da2c37f4ebb",
@@ -238,14 +228,14 @@
       "event_category": "workshop"
     },
     {
-      "id": "14bde3ce-8baf-4622-b2df-afd6c5e31eab",
-      "event_title": "Classic Make-up by Alina Klymko",
+      "id": "a3e25c09-bfd7-45e1-946d-bd7af312132b",
+      "event_title": "Experience in New York",
       "event_date": "2026-06-14",
       "end_date": "2026-06-14",
-      "ticket_link": "https://ukrainian.us/events/classic-make-up",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/ZWmr7Hd5R7fgI45X3IdOxAGwOZEahN1E-source.png?v=0.1&s=cb4049f9a3c52b2c3146fb7db48bad50",
-      "source": "Ukrainian USA",
-      "event_category": "workshop"
+      "ticket_link": "https://www.tarsahno.com/event-details/experience-in-new-york",
+      "cover_image_url": "https://static.wixstatic.com/media/55cd19_db4ae9f7705f454fb80c7939c348f9b5~mv2.png/v1/fill/w_1920,h_1080,al_c/55cd19_db4ae9f7705f454fb80c7939c348f9b5~mv2.png",
+      "source": "Tarsahno",
+      "event_category": "concert"
     },
     {
       "id": "832fc00a-3cc0-44ca-a654-a1294e3a95db",
