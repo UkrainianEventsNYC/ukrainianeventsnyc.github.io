@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30T12:59:10.910881-04:00",
+  "generated_at": "2026-05-30T13:51:01.239729-04:00",
   "this_week_end": "2026-05-31",
   "this_month_end": "2026-05-31",
   "next_month_start": "2026-06-01",
@@ -43,7 +43,7 @@
       "ticket_link": "https://www.zeffy.com/en-US/ticketing/little-ukraine-walking-tour",
       "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1775146560/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/0225263f-408a-42a8-9d43-f94ecc6cb717.png",
       "source": "Zeffy",
-      "event_category": "other"
+      "event_category": "sport"
     },
     {
       "id": "226fb50f-478a-4f1c-98e5-24a6d41394e6",
@@ -115,7 +115,7 @@
       "ticket_link": "https://lincolncenter.org/series/lincoln-center-presents/boundless-min-xiao-fen-and-julian-kytasty",
       "cover_image_url": "https://images.lincolncenter.org/image/upload/v1768512273/exwhm6mrh8pj2clne3wd.jpg",
       "source": "Lincoln Center",
-      "event_category": "other"
+      "event_category": "concert"
     },
     {
       "id": "b011ee57-8cea-438a-a32d-a0d34c0dd7fb",
@@ -215,7 +215,7 @@
       "ticket_link": "https://borshchofart.org/programs/public-programs/dorosh-slinko-grokhovsky-selthofner-20260612",
       "cover_image_url": "https://borshch-of-art.s3.us-east-1.amazonaws.com/events/6a036f109567039c6ebe0543/_website-maya-deren-in-dialogue-with-contemporary-ukrainian-american-artists-%281%29.png",
       "source": "Borshch of Art",
-      "event_category": "arttalk"
+      "event_category": "discussion"
     },
     {
       "id": "f9de7c75-a8dc-41a0-90f0-905a5511120f",
@@ -275,7 +275,7 @@
       "ticket_link": "https://borshchofart.org/programs/public-programs/slava-shpigel-20260624",
       "cover_image_url": "https://borshch-of-art.s3.us-east-1.amazonaws.com/events/6a0536b79567039c6ebe060a/june-24-website-%282000-x-1000-px%29.png",
       "source": "Borshch of Art",
-      "event_category": "other"
+      "event_category": "sport"
     },
     {
       "id": "b6dcfd81-017b-4125-96f0-1ecd422994c2",
@@ -390,6 +390,16 @@
       "event_category": "concert"
     },
     {
+      "id": "0e9a9824-a1fa-4c05-8cab-56056cac5141",
+      "event_title": "KOLO",
+      "event_date": "2026-08-23",
+      "end_date": "2026-08-23",
+      "ticket_link": "https://ra.co/events/2451595",
+      "cover_image_url": "https://images.ra.co/92c04359fc72b1a3e1f15e61c3c6597673a02041.png",
+      "source": "Resident Advisor (KOLO NYC)",
+      "event_category": "concert"
+    },
+    {
       "id": "6e09be07-367d-42d5-b19a-3ebc96a34241",
       "event_title": "Ukrainian Independence Folk Festival",
       "event_date": "2026-08-23",
@@ -398,16 +408,6 @@
       "cover_image_url": "https://www.tryzub.org/resources/Pictures/ukrainian-folk-festival-2025.jpg",
       "source": "Tryzub",
       "event_category": "festival"
-    },
-    {
-      "id": "0e9a9824-a1fa-4c05-8cab-56056cac5141",
-      "event_title": "KOLO",
-      "event_date": "2026-08-23",
-      "end_date": "2026-08-23",
-      "ticket_link": "https://ra.co/events/2451595",
-      "cover_image_url": "https://images.ra.co/92c04359fc72b1a3e1f15e61c3c6597673a02041.png",
-      "source": "Resident Advisor (KOLO NYC)",
-      "event_category": "other"
     },
     {
       "id": "20e80d05-1cc2-46f4-8ee5-6c9d82d2e10f",
@@ -547,7 +547,7 @@
       "ticket_link": "https://www.nyphil.org/concerts-tickets/2627/emanuel-ax-performs-beethoven/",
       "cover_image_url": "https://res.cloudinary.com/nyphil/image/upload/f_auto/q_auto/f_auto/v1771008364/images/concerts-tickets/calendar/2627/Feb/2627-BychkovAx-1200x800?_a=BAAASyDQ",
       "source": "NY Phil",
-      "event_category": "other"
+      "event_category": "concert"
     }
   ]
 }
