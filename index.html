@@ -1376,11 +1376,13 @@
           <div class="filter-content">
             <div class="filter-pills">
               <button class="pill active" id="cat-all" onclick="setCategoryFilter('all')">All</button>
-              <button class="pill" id="cat-arttalk" onclick="setCategoryFilter('arttalk')">Art/Talk</button>
+              <button class="pill" id="cat-discussion" onclick="setCategoryFilter('discussion')">Discussion</button>
+              <button class="pill" id="cat-art" onclick="setCategoryFilter('art')">Art</button>
+              <button class="pill" id="cat-exhibitions" onclick="setCategoryFilter('exhibitions')">Exhibitions</button>
               <button class="pill" id="cat-concert" onclick="setCategoryFilter('concert')">Concert</button>
               <button class="pill" id="cat-festival" onclick="setCategoryFilter('festival')">Festival</button>
               <button class="pill" id="cat-movie" onclick="setCategoryFilter('movie')">Film</button>
-
+              <button class="pill" id="cat-sport" onclick="setCategoryFilter('sport')">Sport</button>
               <button class="pill" id="cat-standup" onclick="setCategoryFilter('standup')">Stand up</button>
               <button class="pill" id="cat-workshop" onclick="setCategoryFilter('workshop')">Workshop</button>
               <button class="pill" id="cat-other" onclick="setCategoryFilter('other')">Other</button>
@@ -1599,7 +1601,8 @@
     }
 
     function getEventCategory(e) {
-      return e.event_category || 'other';
+      const category = e.event_category || 'other';
+      return category === 'arttalk' ? 'discussion' : category;
     }
 
     /* ── Sub-sectioned tab renderer ─────────────────────────────────── */
@@ -1783,7 +1786,7 @@
       const pill = document.getElementById('cat-' + category);
       if (pill) pill.classList.add('active');
       // Update label and auto-collapse
-      const labels = { all: 'All', concert: 'Concert', movie: 'Film', arttalk: 'Art/Talk', standup: 'Stand up', workshop: 'Workshop', festival: 'Festival', other: 'Other' };
+      const labels = { all: 'All', concert: 'Concert', movie: 'Film', discussion: 'Discussion', art: 'Art', exhibitions: 'Exhibitions', sport: 'Sport', standup: 'Stand up', workshop: 'Workshop', festival: 'Festival', other: 'Other' };
       document.getElementById('cat-active-label').textContent = labels[category] || category;
       collapseFilter('filter-category');
       renderAllSections();
