@@ -1,62 +1,10 @@
 {
-  "generated_at": "2026-05-31T06:18:47.268545-04:00",
-  "this_week_end": "2026-05-31",
-  "this_month_end": "2026-05-31",
-  "next_month_start": "2026-06-01",
-  "next_month_end": "2026-06-30",
+  "generated_at": "2026-06-01T09:39:31.878372-04:00",
+  "this_week_end": "2026-06-07",
+  "this_month_end": "2026-06-30",
+  "next_month_start": "2026-07-01",
+  "next_month_end": "2026-07-31",
   "this_month": [
-    {
-      "id": "dbf6f177-4715-4c2c-ae64-88874e584373",
-      "event_title": "Through Her Eyes - New York, Spring 2026 — American Ukraine Committee",
-      "event_date": "2026-04-13",
-      "end_date": "2026-06-06",
-      "ticket_link": "https://www.amukr.org/news/through-her-eyes-new-york-spring-2026",
-      "cover_image_url": "http://static1.squarespace.com/static/688a4380e5388e7b843955e5/t/69dd48a665e4f561c0719744/1776110150047/War+Photography+Exhibition.jpeg?format=1500w",
-      "source": "American Ukraine Committee",
-      "event_category": "performance"
-    },
-    {
-      "id": "df5d955f-d25f-4a1f-8e1e-d2c48d508f6a",
-      "event_title": "Turandot",
-      "event_date": "2026-05-19",
-      "end_date": "2026-06-06",
-      "ticket_link": "https://www.metopera.org/season/2025-26-season/turandot/",
-      "cover_image_url": "https://www.metopera.org/globalassets/season/2025-26/turandot/turandot-1600x685-3.png$0",
-      "source": "Metropolitan Opera",
-      "event_category": "performance"
-    },
-    {
-      "id": "c98c7e23-ef99-4a36-9601-a5ef36a31973",
-      "event_title": "Run the Line — Jersey City",
-      "event_date": "2026-05-31",
-      "end_date": "2026-05-31",
-      "ticket_link": "https://www.lotus-fund.org/run-the-line/jersey-city",
-      "cover_image_url": null,
-      "source": "Lotus Fund",
-      "event_category": "sport"
-    },
-    {
-      "id": "46d9a364-3ce2-4291-b10e-45b959e5ed80",
-      "event_title": "Playgrounda playful, acting experience, guided for non-actors",
-      "event_date": "2026-05-31",
-      "end_date": "2026-05-31",
-      "ticket_link": "https://tisto.nyc/workshops/05-31-playground",
-      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
-      "source": "Tisto NYC",
-      "event_category": "workshop"
-    },
-    {
-      "id": "ba3efcad-7d25-47fb-99aa-8f8bdad242fe",
-      "event_title": "Long Island,NY/Премʼєра \"Хрещатик 48/2\"/Office of Magical Forces",
-      "event_date": "2026-05-31",
-      "end_date": "2026-05-31",
-      "ticket_link": "https://www.eventbrite.com/e/long-islandny-482office-of-magical-forces-tickets-1988009816878",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1182809091%252F294391790611%252F1%252Foriginal.20260422-185933%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.83%26fp-y%3D0.336%26s%3Db0f864ae4e0d3aa7b4c631971d4f04ab&w=1880&q=75",
-      "source": "Eventbrite",
-      "event_category": "movie"
-    }
-  ],
-  "next_month": [
     {
       "id": "dbf6f177-4715-4c2c-ae64-88874e584373",
       "event_title": "Through Her Eyes - New York, Spring 2026 — American Ukraine Committee",
@@ -118,16 +66,6 @@
       "event_category": "movie"
     },
     {
-      "id": "de3f59ed-8dff-4b13-8861-8d1301a706ae",
-      "event_title": "UKRAINIAN BOAT IN MANHATTAN - Cruise into Summer Sounds",
-      "event_date": "2026-06-06",
-      "end_date": "2026-06-06",
-      "ticket_link": "https://ukrainian.us/events/boat2026",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/Z3KglP8EBNIKXuEBocxRHZLet69aXmD3-source.png?v=0.1&s=ec46aa5952f47c50ded8fc5861ca59af",
-      "source": "Ukrainian USA",
-      "event_category": "concert"
-    },
-    {
       "id": "a8af58eb-ba9d-47ab-9bde-fe36778b847b",
       "event_title": "Brooklyn/Премʼєра \"Хрещатик 48/2\"/Office of Magical Forces",
       "event_date": "2026-06-06",
@@ -138,13 +76,13 @@
       "event_category": "movie"
     },
     {
-      "id": "615b2b89-7b3e-4b00-9105-019bb1bab1b4",
-      "event_title": "Jinjer at Toyota Oakdale Theatre",
-      "event_date": "2026-06-10",
-      "end_date": "2026-06-10",
-      "ticket_link": "https://www.bandsintown.com/t/108089852?app_id=js_jinjer-metal.com&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
-      "cover_image_url": null,
-      "source": "Jinjer",
+      "id": "de3f59ed-8dff-4b13-8861-8d1301a706ae",
+      "event_title": "UKRAINIAN BOAT IN MANHATTAN - Cruise into Summer Sounds",
+      "event_date": "2026-06-06",
+      "end_date": "2026-06-06",
+      "ticket_link": "https://ukrainian.us/events/boat2026",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/Z3KglP8EBNIKXuEBocxRHZLet69aXmD3-source.png?v=0.1&s=ec46aa5952f47c50ded8fc5861ca59af",
+      "source": "Ukrainian USA",
       "event_category": "concert"
     },
     {
@@ -158,6 +96,16 @@
       "event_category": "discussion"
     },
     {
+      "id": "615b2b89-7b3e-4b00-9105-019bb1bab1b4",
+      "event_title": "Jinjer at Toyota Oakdale Theatre",
+      "event_date": "2026-06-10",
+      "end_date": "2026-06-10",
+      "ticket_link": "https://www.bandsintown.com/t/108089852?app_id=js_jinjer-metal.com&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+      "cover_image_url": "https://s1.ticketm.net/dam/a/219/b7f0eacf-4fa6-411d-bb91-648d27876219_RETINA_PORTRAIT_3_2.jpg$0",
+      "source": "Jinjer",
+      "event_category": "concert"
+    },
+    {
       "id": "b3ccbf9b-d645-4af4-a1e0-2e3d1f350acb",
       "event_title": "From Bach to Broadway: Virtuosos for Ukraine",
       "event_date": "2026-06-11",
@@ -166,26 +114,6 @@
       "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2026/03/mindlina-4.jpg",
       "source": "Helping Hands for Ukraine",
       "event_category": "concert"
-    },
-    {
-      "id": "73e16fe5-742c-454e-a642-3372795c9ede",
-      "event_title": "Jinjer at Palladium Times Square",
-      "event_date": "2026-06-12",
-      "end_date": "2026-06-12",
-      "ticket_link": "https://www.bandsintown.com/t/108089855?app_id=js_jinjer-metal.com&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
-      "cover_image_url": null,
-      "source": "Jinjer",
-      "event_category": "concert"
-    },
-    {
-      "id": "5b689b16-8bdc-4480-ac4f-fbd916d23a17",
-      "event_title": "World Cup Music Fest - Dromnyc.com",
-      "event_date": "2026-06-12",
-      "end_date": "2026-06-12",
-      "ticket_link": "https://dromnyc.com/event/world-cup-music-fest-jun-12/",
-      "cover_image_url": "https://dromnyc.com/wp-content/uploads/2026/04/June-12-copy.jpg",
-      "source": "Drom NYC",
-      "event_category": "festival"
     },
     {
       "id": "fd44e887-e258-4852-8116-74d98401ce15",
@@ -198,14 +126,14 @@
       "event_category": "discussion"
     },
     {
-      "id": "2971e423-9232-4ea1-a7d9-90d38a20747e",
-      "event_title": "Let's Dance June",
+      "id": "73e16fe5-742c-454e-a642-3372795c9ede",
+      "event_title": "Jinjer at Palladium Times Square",
       "event_date": "2026-06-12",
       "end_date": "2026-06-12",
-      "ticket_link": "https://www.helpinghandsukraine.org/lets-dance-june/",
-      "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2026/02/silhouette-dancing-people-disco-colorful-light-scaled.jpg",
-      "source": "Helping Hands for Ukraine",
-      "event_category": "performance"
+      "ticket_link": "https://www.bandsintown.com/t/108089855?app_id=js_jinjer-metal.com&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+      "cover_image_url": "https://s1.ticketm.net/dam/a/219/b7f0eacf-4fa6-411d-bb91-648d27876219_RETINA_PORTRAIT_3_2.jpg$0",
+      "source": "Jinjer",
+      "event_category": "concert"
     },
     {
       "id": "f68a917a-de20-47f7-bd01-704cf9db1d0e",
@@ -218,6 +146,26 @@
       "event_category": "concert"
     },
     {
+      "id": "2971e423-9232-4ea1-a7d9-90d38a20747e",
+      "event_title": "Let's Dance June",
+      "event_date": "2026-06-12",
+      "end_date": "2026-06-12",
+      "ticket_link": "https://www.helpinghandsukraine.org/lets-dance-june/",
+      "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2026/02/silhouette-dancing-people-disco-colorful-light-scaled.jpg",
+      "source": "Helping Hands for Ukraine",
+      "event_category": "performance"
+    },
+    {
+      "id": "5b689b16-8bdc-4480-ac4f-fbd916d23a17",
+      "event_title": "World Cup Music Fest - Dromnyc.com",
+      "event_date": "2026-06-12",
+      "end_date": "2026-06-12",
+      "ticket_link": "https://dromnyc.com/event/world-cup-music-fest-jun-12/",
+      "cover_image_url": "https://dromnyc.com/wp-content/uploads/2026/04/June-12-copy.jpg",
+      "source": "Drom NYC",
+      "event_category": "festival"
+    },
+    {
       "id": "f9de7c75-a8dc-41a0-90f0-905a5511120f",
       "event_title": "Petrykivka Painting Workshop with Kateryna Kryvolap",
       "event_date": "2026-06-13",
@@ -225,6 +173,16 @@
       "ticket_link": "https://www.zeffy.com/en-US/ticketing/petrykivka-painting-workshop-with-kateryna-kryvolap",
       "cover_image_url": "https://www.theukrainianmuseum.org/wp-content/uploads/Petrykivka-Painting-Workshop-with-Kateryna-Kryvolap-1000-x-500-px.jpg",
       "source": "Ukrainian Museum",
+      "event_category": "workshop"
+    },
+    {
+      "id": "f93dd29b-6ded-403d-ae95-2da2c37f4ebb",
+      "event_title": "PETRYKIVKA PAINTING WORKSHOP with Kateryna Kryvolap (Session 2)",
+      "event_date": "2026-06-14",
+      "end_date": "2026-06-14",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/petrykivka-painting-workshop-with-kateryna-kryvolap-2",
+      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1777567545/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/f696dfe9-1091-456a-b0ae-3e62b18188c2.png",
+      "source": "Ukrainian Museum Zeffy",
       "event_category": "workshop"
     },
     {
@@ -248,16 +206,6 @@
       "event_category": "workshop"
     },
     {
-      "id": "f93dd29b-6ded-403d-ae95-2da2c37f4ebb",
-      "event_title": "PETRYKIVKA PAINTING WORKSHOP with Kateryna Kryvolap (Session 2)",
-      "event_date": "2026-06-14",
-      "end_date": "2026-06-14",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/petrykivka-painting-workshop-with-kateryna-kryvolap-2",
-      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1777567545/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/f696dfe9-1091-456a-b0ae-3e62b18188c2.png",
-      "source": "Ukrainian Museum Zeffy",
-      "event_category": "workshop"
-    },
-    {
       "id": "832fc00a-3cc0-44ca-a654-a1294e3a95db",
       "event_title": "Father’s Day Brunch",
       "event_date": "2026-06-21",
@@ -276,6 +224,16 @@
       "cover_image_url": "https://borshch-of-art.s3.us-east-1.amazonaws.com/events/6a0536b79567039c6ebe060a/june-24-website-%282000-x-1000-px%29.png",
       "source": "Borshch of Art",
       "event_category": "sport"
+    },
+    {
+      "id": "1a1241cb-90b8-4b1b-9f0a-91cb7de55185",
+      "event_title": "Songs Across Regions",
+      "event_date": "2026-06-28",
+      "end_date": "2026-06-28",
+      "ticket_link": "https://www.eventbrite.com/e/songs-across-regions-tickets-1990703356327",
+      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1185776171%252F502975386231%252F1%252Foriginal.20260530-203407%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Db1f55e75e0b4ff892a87471cfa972e44&w=1880&q=75",
+      "source": "Eventbrite",
+      "event_category": "concert"
     },
     {
       "id": "e39f6a16-e807-4c1f-b049-3375a239ec96",
@@ -298,7 +256,7 @@
       "event_category": "concert"
     }
   ],
-  "all_events": [
+  "next_month": [
     {
       "id": "c87b6b2f-4c3d-4236-9d50-b187ad5101df",
       "event_title": "Vasyl Baidak - New York City",
@@ -368,7 +326,9 @@
       "cover_image_url": "https://res.cloudinary.com/nyphil/image/upload/f_auto/q_auto/f_auto/v1765817093/images/concerts-tickets/vail/2526/Concert_7-19-117_Photo_Zach_Mahone?_a=BAAASyDQ",
       "source": "NY Phil",
       "event_category": "concert"
-    },
+    }
+  ],
+  "all_events": [
     {
       "id": "f2301e33-d269-4aa8-96d8-3872b4ea4ae1",
       "event_title": "Dance Camp Recital",
@@ -410,16 +370,6 @@
       "event_category": "concert"
     },
     {
-      "id": "0e9a9824-a1fa-4c05-8cab-56056cac5141",
-      "event_title": "KOLO",
-      "event_date": "2026-08-23",
-      "end_date": "2026-08-23",
-      "ticket_link": "https://ra.co/events/2451595",
-      "cover_image_url": "https://images.ra.co/92c04359fc72b1a3e1f15e61c3c6597673a02041.png",
-      "source": "Resident Advisor (KOLO NYC)",
-      "event_category": "concert"
-    },
-    {
       "id": "6e09be07-367d-42d5-b19a-3ebc96a34241",
       "event_title": "Ukrainian Independence Folk Festival",
       "event_date": "2026-08-23",
@@ -428,6 +378,16 @@
       "cover_image_url": "https://www.tryzub.org/resources/Pictures/ukrainian-folk-festival-2025.jpg",
       "source": "Tryzub",
       "event_category": "festival"
+    },
+    {
+      "id": "0e9a9824-a1fa-4c05-8cab-56056cac5141",
+      "event_title": "KOLO",
+      "event_date": "2026-08-23",
+      "end_date": "2026-08-23",
+      "ticket_link": "https://ra.co/events/2451595",
+      "cover_image_url": "https://images.ra.co/92c04359fc72b1a3e1f15e61c3c6597673a02041.png",
+      "source": "Resident Advisor (KOLO NYC)",
+      "event_category": "concert"
     },
     {
       "id": "20e80d05-1cc2-46f4-8ee5-6c9d82d2e10f",
@@ -540,6 +500,16 @@
       "event_category": "festival"
     },
     {
+      "id": "592d60ee-82f4-4299-b397-2bf3c40680ca",
+      "event_title": "Ukrainian Music Competition Gala",
+      "event_date": "2027-01-15",
+      "end_date": "2027-01-15",
+      "ticket_link": "https://www.carnegiehall.org/calendar/2027/01/15/ukrainian-music-competition-gala-0700pm",
+      "cover_image_url": null,
+      "source": "Carnegie Hall",
+      "event_category": "concert"
+    },
+    {
       "id": "19df0b0c-7afd-4b91-bf6e-aecbbee5ce78",
       "event_title": "Shugar - New York",
       "event_date": "2027-01-22",
@@ -547,6 +517,16 @@
       "ticket_link": "https://bomond.com/events/shugar-new-york",
       "cover_image_url": "https://api.bomond.com/public/80/4017/200895/photo_2026-05-19%2013.22.53.webp",
       "source": "Bomond",
+      "event_category": "concert"
+    },
+    {
+      "id": "f5b2fb53-8e57-46dc-9479-34776f4d7f12",
+      "event_title": "Concert of Ukrainian Music",
+      "event_date": "2027-02-05",
+      "end_date": "2027-02-05",
+      "ticket_link": "https://www.carnegiehall.org/calendar/2027/02/05/concert-of-ukrainian-music-0700pm",
+      "cover_image_url": null,
+      "source": "Carnegie Hall",
       "event_category": "concert"
     },
     {
