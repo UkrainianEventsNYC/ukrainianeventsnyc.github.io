@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T11:23:49.179054-04:00",
+  "generated_at": "2026-06-01T14:03:56.445823-04:00",
   "this_week_end": "2026-06-07",
   "this_month_end": "2026-06-30",
   "next_month_start": "2026-07-01",
@@ -56,14 +56,14 @@
       "event_category": "exhibitions"
     },
     {
-      "id": "48f90c2d-d3d2-426f-b4c1-db63b1a403ce",
-      "event_title": "Behind the Iron Curtain: Making Fashion in Soviet Ukraine, 1945–1991",
+      "id": "de3f59ed-8dff-4b13-8861-8d1301a706ae",
+      "event_title": "UKRAINIAN BOAT IN MANHATTAN - Cruise into Summer Sounds",
       "event_date": "2026-06-06",
       "end_date": "2026-06-06",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/behind-the-iron-curtain-making-fashion-in-soviet-ukraine-1945--1991",
-      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1779383783/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/2f95930e-d340-40fe-bf5a-dbbf0a9b0cfb.png",
-      "source": "Ukrainian Museum Zeffy",
-      "event_category": "movie"
+      "ticket_link": "https://ukrainian.us/events/boat2026",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/Z3KglP8EBNIKXuEBocxRHZLet69aXmD3-source.png?v=0.1&s=ec46aa5952f47c50ded8fc5861ca59af",
+      "source": "Ukrainian USA",
+      "event_category": "concert"
     },
     {
       "id": "a8af58eb-ba9d-47ab-9bde-fe36778b847b",
@@ -76,14 +76,14 @@
       "event_category": "movie"
     },
     {
-      "id": "de3f59ed-8dff-4b13-8861-8d1301a706ae",
-      "event_title": "UKRAINIAN BOAT IN MANHATTAN - Cruise into Summer Sounds",
+      "id": "48f90c2d-d3d2-426f-b4c1-db63b1a403ce",
+      "event_title": "Behind the Iron Curtain: Making Fashion in Soviet Ukraine, 1945–1991",
       "event_date": "2026-06-06",
       "end_date": "2026-06-06",
-      "ticket_link": "https://ukrainian.us/events/boat2026",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/Z3KglP8EBNIKXuEBocxRHZLet69aXmD3-source.png?v=0.1&s=ec46aa5952f47c50ded8fc5861ca59af",
-      "source": "Ukrainian USA",
-      "event_category": "concert"
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/behind-the-iron-curtain-making-fashion-in-soviet-ukraine-1945--1991",
+      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1779383783/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/2f95930e-d340-40fe-bf5a-dbbf0a9b0cfb.png",
+      "source": "Ukrainian Museum Zeffy",
+      "event_category": "movie"
     },
     {
       "id": "5a1292a7-7a40-4244-bacd-9ca3eb83e00b",
@@ -101,7 +101,7 @@
       "event_date": "2026-06-10",
       "end_date": "2026-06-10",
       "ticket_link": "https://www.bandsintown.com/t/108089852?app_id=js_jinjer-metal.com&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
-      "cover_image_url": "https://s1.ticketm.net/dam/a/219/b7f0eacf-4fa6-411d-bb91-648d27876219_RETINA_PORTRAIT_3_2.jpg$0",
+      "cover_image_url": "https://static.tildacdn.net/tild3033-3632-4931-b035-663839303561/main.jpg",
       "source": "Jinjer",
       "event_category": "concert"
     },
@@ -131,7 +131,7 @@
       "event_date": "2026-06-12",
       "end_date": "2026-06-12",
       "ticket_link": "https://www.bandsintown.com/t/108089855?app_id=js_jinjer-metal.com&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
-      "cover_image_url": "https://s1.ticketm.net/dam/a/219/b7f0eacf-4fa6-411d-bb91-648d27876219_RETINA_PORTRAIT_3_2.jpg$0",
+      "cover_image_url": "https://static.tildacdn.net/tild3033-3632-4931-b035-663839303561/main.jpg",
       "source": "Jinjer",
       "event_category": "concert"
     },
@@ -465,7 +465,7 @@
       "event_date": "2026-11-06",
       "end_date": "2026-11-06",
       "ticket_link": "https://www.carnegiehall.org/calendar/2026/11/06/chamber-girls-choir-of-the-mv-lysenko-kyiv-state-music-lyceum-and-westchester-0730pm",
-      "cover_image_url": null,
+      "cover_image_url": "https://carnegiehall.imgix.net:443/-/media/CarnegieHall/Images/About/Welcome/Welcome-3.jpg?w=2000&h=800&fit=crop&crop=bottom",
       "source": "Carnegie Hall",
       "event_category": "concert"
     },
@@ -505,7 +505,7 @@
       "event_date": "2027-01-15",
       "end_date": "2027-01-15",
       "ticket_link": "https://www.carnegiehall.org/calendar/2027/01/15/ukrainian-music-competition-gala-0700pm",
-      "cover_image_url": null,
+      "cover_image_url": "https://carnegiehall.imgix.net:443/-/media/CarnegieHall/Images/About/Welcome/Welcome-3.jpg?w=2000&h=800&fit=crop&crop=bottom",
       "source": "Carnegie Hall",
       "event_category": "concert"
     },
@@ -525,7 +525,7 @@
       "event_date": "2027-02-05",
       "end_date": "2027-02-05",
       "ticket_link": "https://www.carnegiehall.org/calendar/2027/02/05/concert-of-ukrainian-music-0700pm",
-      "cover_image_url": null,
+      "cover_image_url": "https://carnegiehall.imgix.net:443/-/media/CarnegieHall/Images/About/Welcome/Welcome-3.jpg?w=2000&h=800&fit=crop&crop=bottom",
       "source": "Carnegie Hall",
       "event_category": "concert"
     },
@@ -548,6 +548,16 @@
       "cover_image_url": "https://res.cloudinary.com/nyphil/image/upload/f_auto/q_auto/f_auto/v1771008364/images/concerts-tickets/calendar/2627/Feb/2627-BychkovAx-1200x800?_a=BAAASyDQ",
       "source": "NY Phil",
       "event_category": "concert"
+    },
+    {
+      "id": "2bf1b15d-cc92-4777-bf0d-4ac8d4bb4db1",
+      "event_title": "The Hardkiss - New York",
+      "event_date": "2027-02-26",
+      "end_date": "2027-02-26",
+      "ticket_link": "https://bomond.com/events/the-hardkiss-new-york-2",
+      "cover_image_url": "https://api.bomond.com/public/80/4023/201177/hardkiss_432x432%20%281%29.webp",
+      "source": "Bomond",
+      "event_category": "festival"
     }
   ]
 }
