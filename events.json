@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T14:03:56.445823-04:00",
+  "generated_at": "2026-06-01T14:35:09.397678-04:00",
   "this_week_end": "2026-06-07",
   "this_month_end": "2026-06-30",
   "next_month_start": "2026-07-01",
@@ -21,7 +21,7 @@
       "event_date": "2026-05-19",
       "end_date": "2026-06-06",
       "ticket_link": "https://www.metopera.org/season/2025-26-season/turandot/",
-      "cover_image_url": "https://www.metopera.org/globalassets/season/2025-26/turandot/turandot-1600x685-3.png$0",
+      "cover_image_url": "https://www.metopera.org/globalassets/about/our-story/1380x391_ourstory.jpg",
       "source": "Metropolitan Opera",
       "event_category": "performance"
     },
@@ -36,16 +36,6 @@
       "event_category": "concert"
     },
     {
-      "id": "c6138479-365a-49ae-b971-4fd00cc09d0e",
-      "event_title": "Pysanky Workshop",
-      "event_date": "2026-06-03",
-      "end_date": "2026-06-07",
-      "ticket_link": "https://soyuzivka.com/calendar-of-events/pysanky-workshops/",
-      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/PysankyWorkshop-1024x576.png",
-      "source": "Soyuzivka",
-      "event_category": "workshop"
-    },
-    {
       "id": "b011ee57-8cea-438a-a32d-a0d34c0dd7fb",
       "event_title": "Horse Galloping on a Tomato",
       "event_date": "2026-06-03",
@@ -56,14 +46,14 @@
       "event_category": "exhibitions"
     },
     {
-      "id": "de3f59ed-8dff-4b13-8861-8d1301a706ae",
-      "event_title": "UKRAINIAN BOAT IN MANHATTAN - Cruise into Summer Sounds",
-      "event_date": "2026-06-06",
-      "end_date": "2026-06-06",
-      "ticket_link": "https://ukrainian.us/events/boat2026",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/Z3KglP8EBNIKXuEBocxRHZLet69aXmD3-source.png?v=0.1&s=ec46aa5952f47c50ded8fc5861ca59af",
-      "source": "Ukrainian USA",
-      "event_category": "concert"
+      "id": "c6138479-365a-49ae-b971-4fd00cc09d0e",
+      "event_title": "Pysanky Workshop",
+      "event_date": "2026-06-03",
+      "end_date": "2026-06-07",
+      "ticket_link": "https://soyuzivka.com/calendar-of-events/pysanky-workshops/",
+      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/PysankyWorkshop-1024x576.png",
+      "source": "Soyuzivka",
+      "event_category": "workshop"
     },
     {
       "id": "a8af58eb-ba9d-47ab-9bde-fe36778b847b",
@@ -74,6 +64,16 @@
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1182819493%252F294391790611%252F1%252Foriginal.20260422-204620%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D480%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.801%26fp-y%3D0.272%26s%3D7896487ef2632c57a85db044196533a1&w=1880&q=75",
       "source": "Eventbrite",
       "event_category": "movie"
+    },
+    {
+      "id": "de3f59ed-8dff-4b13-8861-8d1301a706ae",
+      "event_title": "UKRAINIAN BOAT IN MANHATTAN - Cruise into Summer Sounds",
+      "event_date": "2026-06-06",
+      "end_date": "2026-06-06",
+      "ticket_link": "https://ukrainian.us/events/boat2026",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/Z3KglP8EBNIKXuEBocxRHZLet69aXmD3-source.png?v=0.1&s=ec46aa5952f47c50ded8fc5861ca59af",
+      "source": "Ukrainian USA",
+      "event_category": "concert"
     },
     {
       "id": "48f90c2d-d3d2-426f-b4c1-db63b1a403ce",
@@ -116,23 +116,13 @@
       "event_category": "concert"
     },
     {
-      "id": "fd44e887-e258-4852-8116-74d98401ce15",
-      "event_title": "Maya Deren in Dialogue with Contemporary Ukrainian-American Artists",
+      "id": "f68a917a-de20-47f7-bd01-704cf9db1d0e",
+      "event_title": "YiYi",
       "event_date": "2026-06-12",
       "end_date": "2026-06-12",
-      "ticket_link": "https://borshchofart.org/programs/public-programs/dorosh-slinko-grokhovsky-selthofner-20260612",
-      "cover_image_url": "https://borshch-of-art.s3.us-east-1.amazonaws.com/events/6a036f109567039c6ebe0543/_website-maya-deren-in-dialogue-with-contemporary-ukrainian-american-artists-%281%29.png",
-      "source": "Borshch of Art",
-      "event_category": "discussion"
-    },
-    {
-      "id": "73e16fe5-742c-454e-a642-3372795c9ede",
-      "event_title": "Jinjer at Palladium Times Square",
-      "event_date": "2026-06-12",
-      "end_date": "2026-06-12",
-      "ticket_link": "https://www.bandsintown.com/t/108089855?app_id=js_jinjer-metal.com&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
-      "cover_image_url": "https://static.tildacdn.net/tild3033-3632-4931-b035-663839303561/main.jpg",
-      "source": "Jinjer",
+      "ticket_link": "https://www.viewcy.com/event/yiyi",
+      "cover_image_url": "https://www.viewcy.com/api/og-image?url=https%3A%2F%2Fwww.viewcy.com%2Frails%2Factive_storage%2Frepresentations%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6MTc5MjYxLCJwdXIiOiJibG9iX2lkIn19--13e6fea5d9e06e73fd6f264956cf1d1622adc1eb%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzMyMCwxODBdLCJzYXZlciI6eyJzdHJpcCI6dHJ1ZSwicXVhbGl0eSI6ODUsImludGVybGFjZSI6IlBsYW5lIn19LCJwdXIiOiJ2YXJpYXRpb24ifX0%3D--5decdaaf8a5eba4176df170d1747a0304d4eaa26%2F36C3B204-EDE7-4094-B7B2-45D50122FA56.jpg",
+      "source": "Jalopy Theatre",
       "event_category": "concert"
     },
     {
@@ -146,16 +136,6 @@
       "event_category": "performance"
     },
     {
-      "id": "f68a917a-de20-47f7-bd01-704cf9db1d0e",
-      "event_title": "YiYi",
-      "event_date": "2026-06-12",
-      "end_date": "2026-06-12",
-      "ticket_link": "https://www.viewcy.com/event/yiyi",
-      "cover_image_url": "https://www.viewcy.com/api/og-image?url=https%3A%2F%2Fwww.viewcy.com%2Frails%2Factive_storage%2Frepresentations%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6MTc5MjYxLCJwdXIiOiJibG9iX2lkIn19--13e6fea5d9e06e73fd6f264956cf1d1622adc1eb%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzMyMCwxODBdLCJzYXZlciI6eyJzdHJpcCI6dHJ1ZSwicXVhbGl0eSI6ODUsImludGVybGFjZSI6IlBsYW5lIn19LCJwdXIiOiJ2YXJpYXRpb24ifX0%3D--5decdaaf8a5eba4176df170d1747a0304d4eaa26%2F36C3B204-EDE7-4094-B7B2-45D50122FA56.jpg",
-      "source": "Jalopy Theatre",
-      "event_category": "concert"
-    },
-    {
       "id": "5b689b16-8bdc-4480-ac4f-fbd916d23a17",
       "event_title": "World Cup Music Fest - Dromnyc.com",
       "event_date": "2026-06-12",
@@ -164,6 +144,26 @@
       "cover_image_url": "https://dromnyc.com/wp-content/uploads/2026/04/June-12-copy.jpg",
       "source": "Drom NYC",
       "event_category": "festival"
+    },
+    {
+      "id": "73e16fe5-742c-454e-a642-3372795c9ede",
+      "event_title": "Jinjer at Palladium Times Square",
+      "event_date": "2026-06-12",
+      "end_date": "2026-06-12",
+      "ticket_link": "https://www.bandsintown.com/t/108089855?app_id=js_jinjer-metal.com&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+      "cover_image_url": "https://static.tildacdn.net/tild3033-3632-4931-b035-663839303561/main.jpg",
+      "source": "Jinjer",
+      "event_category": "concert"
+    },
+    {
+      "id": "fd44e887-e258-4852-8116-74d98401ce15",
+      "event_title": "Maya Deren in Dialogue with Contemporary Ukrainian-American Artists",
+      "event_date": "2026-06-12",
+      "end_date": "2026-06-12",
+      "ticket_link": "https://borshchofart.org/programs/public-programs/dorosh-slinko-grokhovsky-selthofner-20260612",
+      "cover_image_url": "https://borshch-of-art.s3.us-east-1.amazonaws.com/events/6a036f109567039c6ebe0543/_website-maya-deren-in-dialogue-with-contemporary-ukrainian-american-artists-%281%29.png",
+      "source": "Borshch of Art",
+      "event_category": "discussion"
     },
     {
       "id": "f9de7c75-a8dc-41a0-90f0-905a5511120f",
@@ -176,16 +176,6 @@
       "event_category": "workshop"
     },
     {
-      "id": "f93dd29b-6ded-403d-ae95-2da2c37f4ebb",
-      "event_title": "PETRYKIVKA PAINTING WORKSHOP with Kateryna Kryvolap (Session 2)",
-      "event_date": "2026-06-14",
-      "end_date": "2026-06-14",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/petrykivka-painting-workshop-with-kateryna-kryvolap-2",
-      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1777567545/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/f696dfe9-1091-456a-b0ae-3e62b18188c2.png",
-      "source": "Ukrainian Museum Zeffy",
-      "event_category": "workshop"
-    },
-    {
       "id": "a3e25c09-bfd7-45e1-946d-bd7af312132b",
       "event_title": "Experience in New York",
       "event_date": "2026-06-14",
@@ -194,6 +184,16 @@
       "cover_image_url": "https://static.wixstatic.com/media/55cd19_db4ae9f7705f454fb80c7939c348f9b5~mv2.png/v1/fill/w_1920,h_1080,al_c/55cd19_db4ae9f7705f454fb80c7939c348f9b5~mv2.png",
       "source": "Tarsahno",
       "event_category": "concert"
+    },
+    {
+      "id": "f93dd29b-6ded-403d-ae95-2da2c37f4ebb",
+      "event_title": "PETRYKIVKA PAINTING WORKSHOP with Kateryna Kryvolap (Session 2)",
+      "event_date": "2026-06-14",
+      "end_date": "2026-06-14",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/petrykivka-painting-workshop-with-kateryna-kryvolap-2",
+      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1777567545/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/f696dfe9-1091-456a-b0ae-3e62b18188c2.png",
+      "source": "Ukrainian Museum Zeffy",
+      "event_category": "workshop"
     },
     {
       "id": "14bde3ce-8baf-4622-b2df-afd6c5e31eab",
