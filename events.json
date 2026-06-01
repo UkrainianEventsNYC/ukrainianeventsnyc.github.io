@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T09:39:31.878372-04:00",
+  "generated_at": "2026-06-01T11:23:49.179054-04:00",
   "this_week_end": "2026-06-07",
   "this_month_end": "2026-06-30",
   "next_month_start": "2026-07-01",
@@ -136,16 +136,6 @@
       "event_category": "concert"
     },
     {
-      "id": "f68a917a-de20-47f7-bd01-704cf9db1d0e",
-      "event_title": "YiYi",
-      "event_date": "2026-06-12",
-      "end_date": "2026-06-12",
-      "ticket_link": "https://www.viewcy.com/event/yiyi",
-      "cover_image_url": null,
-      "source": "Jalopy Theatre",
-      "event_category": "concert"
-    },
-    {
       "id": "2971e423-9232-4ea1-a7d9-90d38a20747e",
       "event_title": "Let's Dance June",
       "event_date": "2026-06-12",
@@ -154,6 +144,16 @@
       "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2026/02/silhouette-dancing-people-disco-colorful-light-scaled.jpg",
       "source": "Helping Hands for Ukraine",
       "event_category": "performance"
+    },
+    {
+      "id": "f68a917a-de20-47f7-bd01-704cf9db1d0e",
+      "event_title": "YiYi",
+      "event_date": "2026-06-12",
+      "end_date": "2026-06-12",
+      "ticket_link": "https://www.viewcy.com/event/yiyi",
+      "cover_image_url": "https://www.viewcy.com/api/og-image?url=https%3A%2F%2Fwww.viewcy.com%2Frails%2Factive_storage%2Frepresentations%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6MTc5MjYxLCJwdXIiOiJibG9iX2lkIn19--13e6fea5d9e06e73fd6f264956cf1d1622adc1eb%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzMyMCwxODBdLCJzYXZlciI6eyJzdHJpcCI6dHJ1ZSwicXVhbGl0eSI6ODUsImludGVybGFjZSI6IlBsYW5lIn19LCJwdXIiOiJ2YXJpYXRpb24ifX0%3D--5decdaaf8a5eba4176df170d1747a0304d4eaa26%2F36C3B204-EDE7-4094-B7B2-45D50122FA56.jpg",
+      "source": "Jalopy Theatre",
+      "event_category": "concert"
     },
     {
       "id": "5b689b16-8bdc-4480-ac4f-fbd916d23a17",
@@ -226,6 +226,16 @@
       "event_category": "sport"
     },
     {
+      "id": "e39f6a16-e807-4c1f-b049-3375a239ec96",
+      "event_title": "[NEW YORK] FESTIVE CONCERT-DISCO FOR UKRAINE'S CONSTITUTION DAY",
+      "event_date": "2026-06-28",
+      "end_date": "2026-06-28",
+      "ticket_link": "https://eventcartel.com/events/concert/new-york-festive-concert-disco-for-ukraines-constitution-day-new-york-NY-sky-wise-tickets-14016",
+      "cover_image_url": "https://cdn.eventcartel.com/media/thumb/c2/79/c279b9fee32c992c933b863f1409e45a.webp",
+      "source": "EventCartel / Sky Wise",
+      "event_category": "concert"
+    },
+    {
       "id": "1a1241cb-90b8-4b1b-9f0a-91cb7de55185",
       "event_title": "Songs Across Regions",
       "event_date": "2026-06-28",
@@ -233,16 +243,6 @@
       "ticket_link": "https://www.eventbrite.com/e/songs-across-regions-tickets-1990703356327",
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1185776171%252F502975386231%252F1%252Foriginal.20260530-203407%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Db1f55e75e0b4ff892a87471cfa972e44&w=1880&q=75",
       "source": "Eventbrite",
-      "event_category": "concert"
-    },
-    {
-      "id": "e39f6a16-e807-4c1f-b049-3375a239ec96",
-      "event_title": "[NEW YORK] FESTIVE CONCERT-DISCO FOR UKRAINE'S CONSTITUTION DAY",
-      "event_date": "2026-06-28",
-      "end_date": "2026-06-28",
-      "ticket_link": "https://eventcartel.com/events/concert/new-york-festive-concert-disco-for-ukraines-constitution-day-new-york-NY-sky-wise-tickets-14016",
-      "cover_image_url": null,
-      "source": "EventCartel / Sky Wise",
       "event_category": "concert"
     },
     {
