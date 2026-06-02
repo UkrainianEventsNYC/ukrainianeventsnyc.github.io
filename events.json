@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T14:35:09.397678-04:00",
+  "generated_at": "2026-06-02T08:07:29.428000-04:00",
   "this_week_end": "2026-06-07",
   "this_month_end": "2026-06-30",
   "next_month_start": "2026-07-01",
@@ -26,16 +26,6 @@
       "event_category": "performance"
     },
     {
-      "id": "2f9b8f85-c369-4d7c-b8ba-671da677c85c",
-      "event_title": "Boundless: Min Xiao-Fen and Julian Kytasty · Lincoln Center",
-      "event_date": "2026-06-01",
-      "end_date": "2026-06-01",
-      "ticket_link": "https://lincolncenter.org/series/lincoln-center-presents/boundless-min-xiao-fen-and-julian-kytasty",
-      "cover_image_url": "https://images.lincolncenter.org/image/upload/v1768512273/exwhm6mrh8pj2clne3wd.jpg",
-      "source": "Lincoln Center",
-      "event_category": "concert"
-    },
-    {
       "id": "b011ee57-8cea-438a-a32d-a0d34c0dd7fb",
       "event_title": "Horse Galloping on a Tomato",
       "event_date": "2026-06-03",
@@ -54,6 +44,16 @@
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/PysankyWorkshop-1024x576.png",
       "source": "Soyuzivka",
       "event_category": "workshop"
+    },
+    {
+      "id": "48f90c2d-d3d2-426f-b4c1-db63b1a403ce",
+      "event_title": "Behind the Iron Curtain: Making Fashion in Soviet Ukraine, 1945–1991",
+      "event_date": "2026-06-06",
+      "end_date": "2026-06-06",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/behind-the-iron-curtain-making-fashion-in-soviet-ukraine-1945--1991",
+      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1779383783/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/2f95930e-d340-40fe-bf5a-dbbf0a9b0cfb.png",
+      "source": "Ukrainian Museum Zeffy",
+      "event_category": "movie"
     },
     {
       "id": "a8af58eb-ba9d-47ab-9bde-fe36778b847b",
@@ -76,14 +76,14 @@
       "event_category": "concert"
     },
     {
-      "id": "48f90c2d-d3d2-426f-b4c1-db63b1a403ce",
-      "event_title": "Behind the Iron Curtain: Making Fashion in Soviet Ukraine, 1945–1991",
-      "event_date": "2026-06-06",
-      "end_date": "2026-06-06",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/behind-the-iron-curtain-making-fashion-in-soviet-ukraine-1945--1991",
-      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1779383783/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/2f95930e-d340-40fe-bf5a-dbbf0a9b0cfb.png",
-      "source": "Ukrainian Museum Zeffy",
-      "event_category": "movie"
+      "id": "16e4a645-a866-48c8-9941-1d405f1cf5fc",
+      "event_title": "Playgrounda playful, acting experience, guided for non-actors",
+      "event_date": "2026-06-07",
+      "end_date": "2026-06-07",
+      "ticket_link": "https://tisto.nyc/workshops/06-07-playground",
+      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
+      "source": "Tisto NYC",
+      "event_category": "workshop"
     },
     {
       "id": "5a1292a7-7a40-4244-bacd-9ca3eb83e00b",
@@ -116,6 +116,16 @@
       "event_category": "concert"
     },
     {
+      "id": "5b689b16-8bdc-4480-ac4f-fbd916d23a17",
+      "event_title": "World Cup Music Fest - Dromnyc.com",
+      "event_date": "2026-06-12",
+      "end_date": "2026-06-12",
+      "ticket_link": "https://dromnyc.com/event/world-cup-music-fest-jun-12/",
+      "cover_image_url": "https://dromnyc.com/wp-content/uploads/2026/04/June-12-copy.jpg",
+      "source": "Drom NYC",
+      "event_category": "festival"
+    },
+    {
       "id": "f68a917a-de20-47f7-bd01-704cf9db1d0e",
       "event_title": "YiYi",
       "event_date": "2026-06-12",
@@ -136,14 +146,14 @@
       "event_category": "performance"
     },
     {
-      "id": "5b689b16-8bdc-4480-ac4f-fbd916d23a17",
-      "event_title": "World Cup Music Fest - Dromnyc.com",
+      "id": "fd44e887-e258-4852-8116-74d98401ce15",
+      "event_title": "Maya Deren in Dialogue with Contemporary Ukrainian-American Artists",
       "event_date": "2026-06-12",
       "end_date": "2026-06-12",
-      "ticket_link": "https://dromnyc.com/event/world-cup-music-fest-jun-12/",
-      "cover_image_url": "https://dromnyc.com/wp-content/uploads/2026/04/June-12-copy.jpg",
-      "source": "Drom NYC",
-      "event_category": "festival"
+      "ticket_link": "https://borshchofart.org/programs/public-programs/dorosh-slinko-grokhovsky-selthofner-20260612",
+      "cover_image_url": "https://borshch-of-art.s3.us-east-1.amazonaws.com/events/6a036f109567039c6ebe0543/_website-maya-deren-in-dialogue-with-contemporary-ukrainian-american-artists-%281%29.png",
+      "source": "Borshch of Art",
+      "event_category": "discussion"
     },
     {
       "id": "73e16fe5-742c-454e-a642-3372795c9ede",
@@ -154,16 +164,6 @@
       "cover_image_url": "https://static.tildacdn.net/tild3033-3632-4931-b035-663839303561/main.jpg",
       "source": "Jinjer",
       "event_category": "concert"
-    },
-    {
-      "id": "fd44e887-e258-4852-8116-74d98401ce15",
-      "event_title": "Maya Deren in Dialogue with Contemporary Ukrainian-American Artists",
-      "event_date": "2026-06-12",
-      "end_date": "2026-06-12",
-      "ticket_link": "https://borshchofart.org/programs/public-programs/dorosh-slinko-grokhovsky-selthofner-20260612",
-      "cover_image_url": "https://borshch-of-art.s3.us-east-1.amazonaws.com/events/6a036f109567039c6ebe0543/_website-maya-deren-in-dialogue-with-contemporary-ukrainian-american-artists-%281%29.png",
-      "source": "Borshch of Art",
-      "event_category": "discussion"
     },
     {
       "id": "f9de7c75-a8dc-41a0-90f0-905a5511120f",
@@ -226,16 +226,6 @@
       "event_category": "sport"
     },
     {
-      "id": "e39f6a16-e807-4c1f-b049-3375a239ec96",
-      "event_title": "[NEW YORK] FESTIVE CONCERT-DISCO FOR UKRAINE'S CONSTITUTION DAY",
-      "event_date": "2026-06-28",
-      "end_date": "2026-06-28",
-      "ticket_link": "https://eventcartel.com/events/concert/new-york-festive-concert-disco-for-ukraines-constitution-day-new-york-NY-sky-wise-tickets-14016",
-      "cover_image_url": "https://cdn.eventcartel.com/media/thumb/c2/79/c279b9fee32c992c933b863f1409e45a.webp",
-      "source": "EventCartel / Sky Wise",
-      "event_category": "concert"
-    },
-    {
       "id": "1a1241cb-90b8-4b1b-9f0a-91cb7de55185",
       "event_title": "Songs Across Regions",
       "event_date": "2026-06-28",
@@ -243,6 +233,16 @@
       "ticket_link": "https://www.eventbrite.com/e/songs-across-regions-tickets-1990703356327",
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1185776171%252F502975386231%252F1%252Foriginal.20260530-203407%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Db1f55e75e0b4ff892a87471cfa972e44&w=1880&q=75",
       "source": "Eventbrite",
+      "event_category": "concert"
+    },
+    {
+      "id": "e39f6a16-e807-4c1f-b049-3375a239ec96",
+      "event_title": "[NEW YORK] FESTIVE CONCERT-DISCO FOR UKRAINE'S CONSTITUTION DAY",
+      "event_date": "2026-06-28",
+      "end_date": "2026-06-28",
+      "ticket_link": "https://eventcartel.com/events/concert/new-york-festive-concert-disco-for-ukraines-constitution-day-new-york-NY-sky-wise-tickets-14016",
+      "cover_image_url": "https://cdn.eventcartel.com/media/thumb/c2/79/c279b9fee32c992c933b863f1409e45a.webp",
+      "source": "EventCartel / Sky Wise",
       "event_category": "concert"
     },
     {
@@ -370,16 +370,6 @@
       "event_category": "concert"
     },
     {
-      "id": "6e09be07-367d-42d5-b19a-3ebc96a34241",
-      "event_title": "Ukrainian Independence Folk Festival",
-      "event_date": "2026-08-23",
-      "end_date": "2026-08-23",
-      "ticket_link": "https://www.tryzub.org/Ukraine-Festival-2026",
-      "cover_image_url": "https://www.tryzub.org/resources/Pictures/ukrainian-folk-festival-2025.jpg",
-      "source": "Tryzub",
-      "event_category": "festival"
-    },
-    {
       "id": "0e9a9824-a1fa-4c05-8cab-56056cac5141",
       "event_title": "KOLO",
       "event_date": "2026-08-23",
@@ -388,6 +378,16 @@
       "cover_image_url": "https://images.ra.co/92c04359fc72b1a3e1f15e61c3c6597673a02041.png",
       "source": "Resident Advisor (KOLO NYC)",
       "event_category": "concert"
+    },
+    {
+      "id": "6e09be07-367d-42d5-b19a-3ebc96a34241",
+      "event_title": "Ukrainian Independence Folk Festival",
+      "event_date": "2026-08-23",
+      "end_date": "2026-08-23",
+      "ticket_link": "https://www.tryzub.org/Ukraine-Festival-2026",
+      "cover_image_url": "https://www.tryzub.org/resources/Pictures/ukrainian-folk-festival-2025.jpg",
+      "source": "Tryzub",
+      "event_category": "festival"
     },
     {
       "id": "20e80d05-1cc2-46f4-8ee5-6c9d82d2e10f",
