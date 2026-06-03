@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T08:07:29.428000-04:00",
+  "generated_at": "2026-06-03T02:10:38.008882-04:00",
   "this_week_end": "2026-06-07",
   "this_month_end": "2026-06-30",
   "next_month_start": "2026-07-01",
@@ -21,9 +21,29 @@
       "event_date": "2026-05-19",
       "end_date": "2026-06-06",
       "ticket_link": "https://www.metopera.org/season/2025-26-season/turandot/",
-      "cover_image_url": "https://www.metopera.org/globalassets/about/our-story/1380x391_ourstory.jpg",
+      "cover_image_url": "/globalassets/season/2025-26/turandot/turandot-1600x685-3.png",
       "source": "Metropolitan Opera",
       "event_category": "performance"
+    },
+    {
+      "id": "bf49628a-6dac-4f2f-9e09-5a8c04cb02ad",
+      "event_title": "FRONTLINE PBS Presents: 2000 Meters to Andriivka",
+      "event_date": "2026-06-03",
+      "end_date": "2026-06-03",
+      "ticket_link": "https://www.bam.org/film/2026/frontline-2000",
+      "cover_image_url": "https://www.bam.org/globalassets/programs/cinema/2026fy/0626/2000meterstoandriivka.jpeg?width=1920&mode=crop&heightratio=0.5625&quality=80",
+      "source": "BAM",
+      "event_category": "movie"
+    },
+    {
+      "id": "c6138479-365a-49ae-b971-4fd00cc09d0e",
+      "event_title": "Pysanky Workshop",
+      "event_date": "2026-06-03",
+      "end_date": "2026-06-07",
+      "ticket_link": "https://soyuzivka.com/calendar-of-events/pysanky-workshops/",
+      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/PysankyWorkshop-1024x576.png",
+      "source": "Soyuzivka",
+      "event_category": "workshop"
     },
     {
       "id": "b011ee57-8cea-438a-a32d-a0d34c0dd7fb",
@@ -36,14 +56,34 @@
       "event_category": "exhibitions"
     },
     {
-      "id": "c6138479-365a-49ae-b971-4fd00cc09d0e",
-      "event_title": "Pysanky Workshop",
-      "event_date": "2026-06-03",
-      "end_date": "2026-06-07",
-      "ticket_link": "https://soyuzivka.com/calendar-of-events/pysanky-workshops/",
-      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/PysankyWorkshop-1024x576.png",
-      "source": "Soyuzivka",
-      "event_category": "workshop"
+      "id": "a1da00e6-eedb-4dbf-8101-f0b6915ef45b",
+      "event_title": "Creative Evening: War Through Her Eyes",
+      "event_date": "2026-06-05",
+      "end_date": "2026-06-05",
+      "ticket_link": "https://www.sharvarok.com/en/listing/creative-evening-war-through-her-eyes/1303",
+      "cover_image_url": "https://images.sharvarok.com/post/1303/1780427755836-400026903.jpeg",
+      "source": "Sharvarok",
+      "event_category": "art"
+    },
+    {
+      "id": "17b28d35-6396-416a-a0da-132981809bca",
+      "event_title": "Free “How Are You?” Support Program Presentation for Ukrainians",
+      "event_date": "2026-06-05",
+      "end_date": "2026-06-05",
+      "ticket_link": "https://www.sharvarok.com/en/listing/free-how-are-you-support-program-presentation-for-ukrainians/1274",
+      "cover_image_url": "https://images.sharvarok.com/post/1274/1779951467657-398569371.jpeg",
+      "source": "Sharvarok",
+      "event_category": "discussion"
+    },
+    {
+      "id": "de3f59ed-8dff-4b13-8861-8d1301a706ae",
+      "event_title": "UKRAINIAN BOAT IN MANHATTAN - Cruise into Summer Sounds",
+      "event_date": "2026-06-06",
+      "end_date": "2026-06-06",
+      "ticket_link": "https://ukrainian.us/events/boat2026",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/Z3KglP8EBNIKXuEBocxRHZLet69aXmD3-source.png?v=0.1&s=ec46aa5952f47c50ded8fc5861ca59af",
+      "source": "Ukrainian USA",
+      "event_category": "concert"
     },
     {
       "id": "48f90c2d-d3d2-426f-b4c1-db63b1a403ce",
@@ -66,16 +106,6 @@
       "event_category": "movie"
     },
     {
-      "id": "de3f59ed-8dff-4b13-8861-8d1301a706ae",
-      "event_title": "UKRAINIAN BOAT IN MANHATTAN - Cruise into Summer Sounds",
-      "event_date": "2026-06-06",
-      "end_date": "2026-06-06",
-      "ticket_link": "https://ukrainian.us/events/boat2026",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/Z3KglP8EBNIKXuEBocxRHZLet69aXmD3-source.png?v=0.1&s=ec46aa5952f47c50ded8fc5861ca59af",
-      "source": "Ukrainian USA",
-      "event_category": "concert"
-    },
-    {
       "id": "16e4a645-a866-48c8-9941-1d405f1cf5fc",
       "event_title": "Playgrounda playful, acting experience, guided for non-actors",
       "event_date": "2026-06-07",
@@ -86,13 +116,23 @@
       "event_category": "workshop"
     },
     {
-      "id": "5a1292a7-7a40-4244-bacd-9ca3eb83e00b",
-      "event_title": "Origins of the War: A Conversation with Timothy Snyder",
-      "event_date": "2026-06-10",
-      "end_date": "2026-06-10",
-      "ticket_link": "https://zoom.us/webinar/register/WN_WZoPwduhRnO0sW_GDxJmqA?os=ipad#/registration",
-      "cover_image_url": "https://zoom.us/w_p/99446930890/d1a7d4f7-d6e9-4d8b-9f01-649e941d7de7.png",
-      "source": "Zoom Webinar",
+      "id": "3af3b82a-fbb5-4c51-bc0e-048f7c41c586",
+      "event_title": "13th Annual Ukrainian Charity Festival on Staten Island",
+      "event_date": "2026-06-07",
+      "end_date": "2026-06-07",
+      "ticket_link": "https://www.sharvarok.com/en/listing/13th-annual-ukrainian-charity-festival-on-staten-island/1179",
+      "cover_image_url": "https://images.sharvarok.com/post/1179/1776282255380-594072164.jpeg",
+      "source": "Sharvarok",
+      "event_category": "festival"
+    },
+    {
+      "id": "4598abf0-44b9-4965-8d19-95611230ce13",
+      "event_title": "Targeted for Theft and Destruction: Art and Cultural Heritage at Risk in Times of Armed Conflict",
+      "event_date": "2026-06-09",
+      "end_date": "2026-06-09",
+      "ticket_link": "https://www.unanyc.org/events/targeted-for-theft-and-destruction",
+      "cover_image_url": "http://static1.squarespace.com/static/5f491d29e58aa67d42cfa5cf/5fd1f81ead61ab58318eb6e4/6a0684d147fc3f37bcaa6130/1780416250613/C%2BC-Targeted-banner-teaser.jpg?format=1500w",
+      "source": "UNA-NYC",
       "event_category": "discussion"
     },
     {
@@ -106,6 +146,16 @@
       "event_category": "concert"
     },
     {
+      "id": "5a1292a7-7a40-4244-bacd-9ca3eb83e00b",
+      "event_title": "Origins of the War: A Conversation with Timothy Snyder",
+      "event_date": "2026-06-10",
+      "end_date": "2026-06-10",
+      "ticket_link": "https://zoom.us/webinar/register/WN_WZoPwduhRnO0sW_GDxJmqA?os=ipad#/registration",
+      "cover_image_url": "https://zoom.us/w_p/99446930890/d1a7d4f7-d6e9-4d8b-9f01-649e941d7de7.png",
+      "source": "Zoom Webinar",
+      "event_category": "discussion"
+    },
+    {
       "id": "b3ccbf9b-d645-4af4-a1e0-2e3d1f350acb",
       "event_title": "From Bach to Broadway: Virtuosos for Ukraine",
       "event_date": "2026-06-11",
@@ -116,23 +166,13 @@
       "event_category": "concert"
     },
     {
-      "id": "5b689b16-8bdc-4480-ac4f-fbd916d23a17",
-      "event_title": "World Cup Music Fest - Dromnyc.com",
+      "id": "73e16fe5-742c-454e-a642-3372795c9ede",
+      "event_title": "Jinjer at Palladium Times Square",
       "event_date": "2026-06-12",
       "end_date": "2026-06-12",
-      "ticket_link": "https://dromnyc.com/event/world-cup-music-fest-jun-12/",
-      "cover_image_url": "https://dromnyc.com/wp-content/uploads/2026/04/June-12-copy.jpg",
-      "source": "Drom NYC",
-      "event_category": "festival"
-    },
-    {
-      "id": "f68a917a-de20-47f7-bd01-704cf9db1d0e",
-      "event_title": "YiYi",
-      "event_date": "2026-06-12",
-      "end_date": "2026-06-12",
-      "ticket_link": "https://www.viewcy.com/event/yiyi",
-      "cover_image_url": "https://www.viewcy.com/api/og-image?url=https%3A%2F%2Fwww.viewcy.com%2Frails%2Factive_storage%2Frepresentations%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6MTc5MjYxLCJwdXIiOiJibG9iX2lkIn19--13e6fea5d9e06e73fd6f264956cf1d1622adc1eb%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzMyMCwxODBdLCJzYXZlciI6eyJzdHJpcCI6dHJ1ZSwicXVhbGl0eSI6ODUsImludGVybGFjZSI6IlBsYW5lIn19LCJwdXIiOiJ2YXJpYXRpb24ifX0%3D--5decdaaf8a5eba4176df170d1747a0304d4eaa26%2F36C3B204-EDE7-4094-B7B2-45D50122FA56.jpg",
-      "source": "Jalopy Theatre",
+      "ticket_link": "https://www.bandsintown.com/t/108089855?app_id=js_jinjer-metal.com&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+      "cover_image_url": "https://static.tildacdn.net/tild3033-3632-4931-b035-663839303561/main.jpg",
+      "source": "Jinjer",
       "event_category": "concert"
     },
     {
@@ -156,14 +196,44 @@
       "event_category": "discussion"
     },
     {
-      "id": "73e16fe5-742c-454e-a642-3372795c9ede",
-      "event_title": "Jinjer at Palladium Times Square",
+      "id": "5b689b16-8bdc-4480-ac4f-fbd916d23a17",
+      "event_title": "World Cup Music Fest - Dromnyc.com",
       "event_date": "2026-06-12",
       "end_date": "2026-06-12",
-      "ticket_link": "https://www.bandsintown.com/t/108089855?app_id=js_jinjer-metal.com&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
-      "cover_image_url": "https://static.tildacdn.net/tild3033-3632-4931-b035-663839303561/main.jpg",
-      "source": "Jinjer",
+      "ticket_link": "https://dromnyc.com/event/world-cup-music-fest-jun-12/",
+      "cover_image_url": "https://dromnyc.com/wp-content/uploads/2026/04/June-12-copy.jpg",
+      "source": "Drom NYC",
+      "event_category": "festival"
+    },
+    {
+      "id": "f68a917a-de20-47f7-bd01-704cf9db1d0e",
+      "event_title": "YiYi",
+      "event_date": "2026-06-12",
+      "end_date": "2026-06-12",
+      "ticket_link": "https://www.viewcy.com/event/yiyi",
+      "cover_image_url": "https://www.viewcy.com/api/og-image?url=https%3A%2F%2Fwww.viewcy.com%2Frails%2Factive_storage%2Frepresentations%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6MTc5MjYxLCJwdXIiOiJibG9iX2lkIn19--13e6fea5d9e06e73fd6f264956cf1d1622adc1eb%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzMyMCwxODBdLCJzYXZlciI6eyJzdHJpcCI6dHJ1ZSwicXVhbGl0eSI6ODUsImludGVybGFjZSI6IlBsYW5lIn19LCJwdXIiOiJ2YXJpYXRpb24ifX0%3D--5decdaaf8a5eba4176df170d1747a0304d4eaa26%2F36C3B204-EDE7-4094-B7B2-45D50122FA56.jpg",
+      "source": "Jalopy Theatre",
       "event_category": "concert"
+    },
+    {
+      "id": "76b7e720-1c76-4168-bac0-d0ef4d05729e",
+      "event_title": "Ukrainian Zustrich Zabava in Trenton",
+      "event_date": "2026-06-13",
+      "end_date": "2026-06-13",
+      "ticket_link": "https://www.sharvarok.com/en/listing/ukrainian-zustrich-zabava-in-trenton/1304",
+      "cover_image_url": "https://images.sharvarok.com/post/1304/1780428041404-493276838.jpeg",
+      "source": "Sharvarok",
+      "event_category": "festival"
+    },
+    {
+      "id": "5599e81c-5a4a-44eb-a743-96b1dcf3b7b6",
+      "event_title": "With You, The Unknown Becomes An Adventure: A Community Performance by TISTO Studio",
+      "event_date": "2026-06-13",
+      "end_date": "2026-06-13",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/with-you-the-unknown-becomes-an-adventure-a-community-performance-by-tisto-studio",
+      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1780423304/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/6d1eaa5f-9a4e-492d-a8b4-a0298d739a88.png",
+      "source": "Ukrainian Museum / TISTO Studio",
+      "event_category": "performance"
     },
     {
       "id": "f9de7c75-a8dc-41a0-90f0-905a5511120f",
@@ -173,6 +243,26 @@
       "ticket_link": "https://www.zeffy.com/en-US/ticketing/petrykivka-painting-workshop-with-kateryna-kryvolap",
       "cover_image_url": "https://www.theukrainianmuseum.org/wp-content/uploads/Petrykivka-Painting-Workshop-with-Kateryna-Kryvolap-1000-x-500-px.jpg",
       "source": "Ukrainian Museum",
+      "event_category": "workshop"
+    },
+    {
+      "id": "4fd0d30c-cb5e-4dd8-810f-862e92ab286e",
+      "event_title": "Art Therapy",
+      "event_date": "2026-06-13",
+      "end_date": "2026-06-13",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/group-therapy-2",
+      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1780407860/organizations/7/b/8/1/7b81cdf4-e002-4505-be5c-a3b004a24046/3db067aa-c6d4-4fa2-bab3-2b7680cbb5cb.png",
+      "source": "Liberty Ukraine Foundation",
+      "event_category": "workshop"
+    },
+    {
+      "id": "f93dd29b-6ded-403d-ae95-2da2c37f4ebb",
+      "event_title": "PETRYKIVKA PAINTING WORKSHOP with Kateryna Kryvolap (Session 2)",
+      "event_date": "2026-06-14",
+      "end_date": "2026-06-14",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/petrykivka-painting-workshop-with-kateryna-kryvolap-2",
+      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1777567545/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/f696dfe9-1091-456a-b0ae-3e62b18188c2.png",
+      "source": "Ukrainian Museum Zeffy",
       "event_category": "workshop"
     },
     {
@@ -186,16 +276,6 @@
       "event_category": "concert"
     },
     {
-      "id": "f93dd29b-6ded-403d-ae95-2da2c37f4ebb",
-      "event_title": "PETRYKIVKA PAINTING WORKSHOP with Kateryna Kryvolap (Session 2)",
-      "event_date": "2026-06-14",
-      "end_date": "2026-06-14",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/petrykivka-painting-workshop-with-kateryna-kryvolap-2",
-      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1777567545/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/f696dfe9-1091-456a-b0ae-3e62b18188c2.png",
-      "source": "Ukrainian Museum Zeffy",
-      "event_category": "workshop"
-    },
-    {
       "id": "14bde3ce-8baf-4622-b2df-afd6c5e31eab",
       "event_title": "Classic Make-up by Alina Klymko",
       "event_date": "2026-06-14",
@@ -204,6 +284,16 @@
       "cover_image_url": "https://ukrainian.us/storage/event/1/ZWmr7Hd5R7fgI45X3IdOxAGwOZEahN1E-source.png?v=0.1&s=cb4049f9a3c52b2c3146fb7db48bad50",
       "source": "Ukrainian USA",
       "event_category": "workshop"
+    },
+    {
+      "id": "ef33356a-e588-48d6-905c-4e74ec4134d2",
+      "event_title": "Charity Evening ARONIA in Support of Ukraine",
+      "event_date": "2026-06-20",
+      "end_date": "2026-06-20",
+      "ticket_link": "https://www.sharvarok.com/en/listing/charity-evening-aronia-in-support-of-ukraine/1266",
+      "cover_image_url": "https://images.sharvarok.com/post/1266/1779949982975-309488114.jpeg",
+      "source": "Sharvarok",
+      "event_category": "festival"
     },
     {
       "id": "832fc00a-3cc0-44ca-a654-a1294e3a95db",
@@ -226,13 +316,13 @@
       "event_category": "sport"
     },
     {
-      "id": "1a1241cb-90b8-4b1b-9f0a-91cb7de55185",
-      "event_title": "Songs Across Regions",
-      "event_date": "2026-06-28",
-      "end_date": "2026-06-28",
-      "ticket_link": "https://www.eventbrite.com/e/songs-across-regions-tickets-1990703356327",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1185776171%252F502975386231%252F1%252Foriginal.20260530-203407%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Db1f55e75e0b4ff892a87471cfa972e44&w=1880&q=75",
-      "source": "Eventbrite",
+      "id": "8b315e50-5fc3-4c61-b18e-e7e7312c6062",
+      "event_title": "BEZ OBMEZHEN Strong Hearts Tour — Rochester",
+      "event_date": "2026-06-27",
+      "end_date": "2026-06-27",
+      "ticket_link": "https://www.sharvarok.com/en/listing/bez-obmezhen-strong-hearts-tour-rochester/1213",
+      "cover_image_url": "https://images.sharvarok.com/post/1213/1777924442623-25781003.jpeg",
+      "source": "Sharvarok",
       "event_category": "concert"
     },
     {
@@ -243,6 +333,16 @@
       "ticket_link": "https://eventcartel.com/events/concert/new-york-festive-concert-disco-for-ukraines-constitution-day-new-york-NY-sky-wise-tickets-14016",
       "cover_image_url": "https://cdn.eventcartel.com/media/thumb/c2/79/c279b9fee32c992c933b863f1409e45a.webp",
       "source": "EventCartel / Sky Wise",
+      "event_category": "concert"
+    },
+    {
+      "id": "1a1241cb-90b8-4b1b-9f0a-91cb7de55185",
+      "event_title": "Songs Across Regions",
+      "event_date": "2026-06-28",
+      "end_date": "2026-06-28",
+      "ticket_link": "https://www.eventbrite.com/e/songs-across-regions-tickets-1990703356327",
+      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1185776171%252F502975386231%252F1%252Foriginal.20260530-203407%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Db1f55e75e0b4ff892a87471cfa972e44&w=1880&q=75",
+      "source": "Eventbrite",
       "event_category": "concert"
     },
     {
@@ -340,6 +440,16 @@
       "event_category": "workshop"
     },
     {
+      "id": "d764c618-6260-4e8b-b947-7e47410f5d20",
+      "event_title": "globalFEST at BRIC Celebrate Brooklyn! With DakhaBrakha",
+      "event_date": "2026-08-07",
+      "end_date": "2026-08-07",
+      "ticket_link": "https://bricartsmedia.org/event/globalfest-at-bric-celebrate-brooklyn-with-dakhabrakha-yeison-landero-sally-babys-silver-dollars-and-sunju-park/",
+      "cover_image_url": "https://bricartsmedia.org/wp-content/uploads/2026/04/DB22MartaSyrko-scaled.jpg",
+      "source": "BRIC Celebrate Brooklyn",
+      "event_category": "concert"
+    },
+    {
       "id": "d33bc16e-c4c7-4ce0-97ea-a1709cf17562",
       "event_title": "Miss Soyuzivka",
       "event_date": "2026-08-08",
@@ -368,6 +478,16 @@
       "cover_image_url": "https://irinabilyk.com/images/NY-Iryna_Bilyk-20_august-4х5.jpg",
       "source": "Iryna Bilyk",
       "event_category": "concert"
+    },
+    {
+      "id": "85924df7-ed77-4e01-98d1-023d6ce49676",
+      "event_title": "Independence Day of Ukraine Celebration",
+      "event_date": "2026-08-22",
+      "end_date": "2026-08-22",
+      "ticket_link": "https://www.sharvarok.com/en/listing/independence-day-of-ukraine-celebration/1273",
+      "cover_image_url": "https://images.sharvarok.com/post/1273/1779951298218-865706631.jpeg",
+      "source": "Sharvarok",
+      "event_category": "festival"
     },
     {
       "id": "0e9a9824-a1fa-4c05-8cab-56056cac5141",
@@ -468,6 +588,16 @@
       "cover_image_url": "https://carnegiehall.imgix.net:443/-/media/CarnegieHall/Images/About/Welcome/Welcome-3.jpg?w=2000&h=800&fit=crop&crop=bottom",
       "source": "Carnegie Hall",
       "event_category": "concert"
+    },
+    {
+      "id": "cd32e76a-d762-40a5-b3f9-8011aecbae07",
+      "event_title": "75th Anniversary UAYA Jersey City",
+      "event_date": "2026-11-07",
+      "end_date": "2026-11-07",
+      "ticket_link": "https://allevents.in/jersey-city/75th-anniversary-uaya-jersey-city/100001986374183655",
+      "cover_image_url": "https://dyn-image.allevents.in/generate-image?v=4&title=75th+Anniversary+UAYA+Jersey+City&date=Sat+Nov+07+2026+at+05%3A00+pm&bg=1",
+      "source": "AllEvents",
+      "event_category": "festival"
     },
     {
       "id": "16d1bebe-e32f-445d-b99e-ce2abd42f690",
