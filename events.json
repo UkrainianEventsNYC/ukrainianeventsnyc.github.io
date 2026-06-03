@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T02:28:54.923081-04:00",
+  "generated_at": "2026-06-03T08:45:01.882207-04:00",
   "this_week_end": "2026-06-07",
   "this_month_end": "2026-06-30",
   "next_month_start": "2026-07-01",
@@ -166,16 +166,6 @@
       "event_category": "concert"
     },
     {
-      "id": "2971e423-9232-4ea1-a7d9-90d38a20747e",
-      "event_title": "Let's Dance June",
-      "event_date": "2026-06-12",
-      "end_date": "2026-06-12",
-      "ticket_link": "https://www.helpinghandsukraine.org/lets-dance-june/",
-      "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2026/02/silhouette-dancing-people-disco-colorful-light-scaled.jpg",
-      "source": "Helping Hands for Ukraine",
-      "event_category": "performance"
-    },
-    {
       "id": "73e16fe5-742c-454e-a642-3372795c9ede",
       "event_title": "Jinjer at Palladium Times Square",
       "event_date": "2026-06-12",
@@ -184,6 +174,16 @@
       "cover_image_url": "https://static.tildacdn.net/tild3033-3632-4931-b035-663839303561/main.jpg",
       "source": "Jinjer",
       "event_category": "concert"
+    },
+    {
+      "id": "2971e423-9232-4ea1-a7d9-90d38a20747e",
+      "event_title": "Let's Dance June",
+      "event_date": "2026-06-12",
+      "end_date": "2026-06-12",
+      "ticket_link": "https://www.helpinghandsukraine.org/lets-dance-june/",
+      "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2026/02/silhouette-dancing-people-disco-colorful-light-scaled.jpg",
+      "source": "Helping Hands for Ukraine",
+      "event_category": "performance"
     },
     {
       "id": "fd44e887-e258-4852-8116-74d98401ce15",
