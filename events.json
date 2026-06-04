@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T08:45:01.882207-04:00",
+  "generated_at": "2026-06-04T07:20:42.922355-04:00",
   "this_week_end": "2026-06-07",
   "this_month_end": "2026-06-30",
   "next_month_start": "2026-07-01",
@@ -26,16 +26,6 @@
       "event_category": "performance"
     },
     {
-      "id": "bf49628a-6dac-4f2f-9e09-5a8c04cb02ad",
-      "event_title": "FRONTLINE PBS Presents: 2000 Meters to Andriivka",
-      "event_date": "2026-06-03",
-      "end_date": "2026-06-03",
-      "ticket_link": "https://www.bam.org/film/2026/frontline-2000",
-      "cover_image_url": "https://www.bam.org/globalassets/programs/cinema/2026fy/0626/2000meterstoandriivka.jpeg?width=1920&mode=crop&heightratio=0.5625&quality=80",
-      "source": "BAM",
-      "event_category": "movie"
-    },
-    {
       "id": "c6138479-365a-49ae-b971-4fd00cc09d0e",
       "event_title": "Pysanky Workshop",
       "event_date": "2026-06-03",
@@ -44,16 +34,6 @@
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/PysankyWorkshop-1024x576.png",
       "source": "Soyuzivka",
       "event_category": "workshop"
-    },
-    {
-      "id": "b011ee57-8cea-438a-a32d-a0d34c0dd7fb",
-      "event_title": "Horse Galloping on a Tomato",
-      "event_date": "2026-06-03",
-      "end_date": "2026-06-03",
-      "ticket_link": "https://www.mriya.nyc/upcoming-exhibitions/horse-galloping-on-a-tomato",
-      "cover_image_url": "https://cdn.prod.website-files.com/67fe29fac03351cdc1b58f18/69f369f1892fcb044657f981_Full_HD_bannery_-_patra_na_webu_blog_15_20af21b1-5fa7-419a-a7ca-153ee1d553f0.jpg.webp",
-      "source": "MRIYA Gallery",
-      "event_category": "exhibitions"
     },
     {
       "id": "a1da00e6-eedb-4dbf-8101-f0b6915ef45b",
@@ -76,16 +56,6 @@
       "event_category": "discussion"
     },
     {
-      "id": "de3f59ed-8dff-4b13-8861-8d1301a706ae",
-      "event_title": "UKRAINIAN BOAT IN MANHATTAN - Cruise into Summer Sounds",
-      "event_date": "2026-06-06",
-      "end_date": "2026-06-06",
-      "ticket_link": "https://ukrainian.us/events/boat2026",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/Z3KglP8EBNIKXuEBocxRHZLet69aXmD3-source.png?v=0.1&s=ec46aa5952f47c50ded8fc5861ca59af",
-      "source": "Ukrainian USA",
-      "event_category": "concert"
-    },
-    {
       "id": "48f90c2d-d3d2-426f-b4c1-db63b1a403ce",
       "event_title": "Behind the Iron Curtain: Making Fashion in Soviet Ukraine, 1945–1991",
       "event_date": "2026-06-06",
@@ -94,6 +64,16 @@
       "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1779383783/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/2f95930e-d340-40fe-bf5a-dbbf0a9b0cfb.png",
       "source": "Ukrainian Museum Zeffy",
       "event_category": "movie"
+    },
+    {
+      "id": "de3f59ed-8dff-4b13-8861-8d1301a706ae",
+      "event_title": "UKRAINIAN BOAT IN MANHATTAN - Cruise into Summer Sounds",
+      "event_date": "2026-06-06",
+      "end_date": "2026-06-06",
+      "ticket_link": "https://ukrainian.us/events/boat2026",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/Z3KglP8EBNIKXuEBocxRHZLet69aXmD3-source.png?v=0.1&s=ec46aa5952f47c50ded8fc5861ca59af",
+      "source": "Ukrainian USA",
+      "event_category": "concert"
     },
     {
       "id": "a8af58eb-ba9d-47ab-9bde-fe36778b847b",
@@ -106,16 +86,6 @@
       "event_category": "movie"
     },
     {
-      "id": "16e4a645-a866-48c8-9941-1d405f1cf5fc",
-      "event_title": "Playgrounda playful, acting experience, guided for non-actors",
-      "event_date": "2026-06-07",
-      "end_date": "2026-06-07",
-      "ticket_link": "https://tisto.nyc/workshops/06-07-playground",
-      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
-      "source": "Tisto NYC",
-      "event_category": "workshop"
-    },
-    {
       "id": "3af3b82a-fbb5-4c51-bc0e-048f7c41c586",
       "event_title": "13th Annual Ukrainian Charity Festival on Staten Island",
       "event_date": "2026-06-07",
@@ -124,6 +94,16 @@
       "cover_image_url": "https://images.sharvarok.com/post/1179/1776282255380-594072164.jpeg",
       "source": "Sharvarok",
       "event_category": "festival"
+    },
+    {
+      "id": "16e4a645-a866-48c8-9941-1d405f1cf5fc",
+      "event_title": "Playgrounda playful, acting experience, guided for non-actors",
+      "event_date": "2026-06-07",
+      "end_date": "2026-06-07",
+      "ticket_link": "https://tisto.nyc/workshops/06-07-playground",
+      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
+      "source": "Tisto NYC",
+      "event_category": "workshop"
     },
     {
       "id": "4598abf0-44b9-4965-8d19-95611230ce13",
@@ -166,14 +146,14 @@
       "event_category": "concert"
     },
     {
-      "id": "73e16fe5-742c-454e-a642-3372795c9ede",
-      "event_title": "Jinjer at Palladium Times Square",
+      "id": "fd44e887-e258-4852-8116-74d98401ce15",
+      "event_title": "Maya Deren in Dialogue with Contemporary Ukrainian-American Artists",
       "event_date": "2026-06-12",
       "end_date": "2026-06-12",
-      "ticket_link": "https://www.bandsintown.com/t/108089855?app_id=js_jinjer-metal.com&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
-      "cover_image_url": "https://static.tildacdn.net/tild3033-3632-4931-b035-663839303561/main.jpg",
-      "source": "Jinjer",
-      "event_category": "concert"
+      "ticket_link": "https://borshchofart.org/programs/public-programs/dorosh-slinko-grokhovsky-selthofner-20260612",
+      "cover_image_url": "https://borshch-of-art.s3.us-east-1.amazonaws.com/events/6a036f109567039c6ebe0543/_website-maya-deren-in-dialogue-with-contemporary-ukrainian-american-artists-%281%29.png",
+      "source": "Borshch of Art",
+      "event_category": "discussion"
     },
     {
       "id": "2971e423-9232-4ea1-a7d9-90d38a20747e",
@@ -184,16 +164,6 @@
       "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2026/02/silhouette-dancing-people-disco-colorful-light-scaled.jpg",
       "source": "Helping Hands for Ukraine",
       "event_category": "performance"
-    },
-    {
-      "id": "fd44e887-e258-4852-8116-74d98401ce15",
-      "event_title": "Maya Deren in Dialogue with Contemporary Ukrainian-American Artists",
-      "event_date": "2026-06-12",
-      "end_date": "2026-06-12",
-      "ticket_link": "https://borshchofart.org/programs/public-programs/dorosh-slinko-grokhovsky-selthofner-20260612",
-      "cover_image_url": "https://borshch-of-art.s3.us-east-1.amazonaws.com/events/6a036f109567039c6ebe0543/_website-maya-deren-in-dialogue-with-contemporary-ukrainian-american-artists-%281%29.png",
-      "source": "Borshch of Art",
-      "event_category": "discussion"
     },
     {
       "id": "5b689b16-8bdc-4480-ac4f-fbd916d23a17",
@@ -216,6 +186,16 @@
       "event_category": "concert"
     },
     {
+      "id": "73e16fe5-742c-454e-a642-3372795c9ede",
+      "event_title": "Jinjer at Palladium Times Square",
+      "event_date": "2026-06-12",
+      "end_date": "2026-06-12",
+      "ticket_link": "https://www.bandsintown.com/t/108089855?app_id=js_jinjer-metal.com&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+      "cover_image_url": "https://static.tildacdn.net/tild3033-3632-4931-b035-663839303561/main.jpg",
+      "source": "Jinjer",
+      "event_category": "concert"
+    },
+    {
       "id": "76b7e720-1c76-4168-bac0-d0ef4d05729e",
       "event_title": "Ukrainian Zustrich Zabava in Trenton",
       "event_date": "2026-06-13",
@@ -226,14 +206,14 @@
       "event_category": "festival"
     },
     {
-      "id": "5599e81c-5a4a-44eb-a743-96b1dcf3b7b6",
-      "event_title": "With You, The Unknown Becomes An Adventure: A Community Performance by TISTO Studio",
+      "id": "4fd0d30c-cb5e-4dd8-810f-862e92ab286e",
+      "event_title": "Art Therapy",
       "event_date": "2026-06-13",
       "end_date": "2026-06-13",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/with-you-the-unknown-becomes-an-adventure-a-community-performance-by-tisto-studio",
-      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1780423304/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/6d1eaa5f-9a4e-492d-a8b4-a0298d739a88.png",
-      "source": "Ukrainian Museum / TISTO Studio",
-      "event_category": "performance"
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/group-therapy-2",
+      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1780407860/organizations/7/b/8/1/7b81cdf4-e002-4505-be5c-a3b004a24046/3db067aa-c6d4-4fa2-bab3-2b7680cbb5cb.png",
+      "source": "Liberty Ukraine Foundation",
+      "event_category": "workshop"
     },
     {
       "id": "f9de7c75-a8dc-41a0-90f0-905a5511120f",
@@ -246,14 +226,14 @@
       "event_category": "workshop"
     },
     {
-      "id": "4fd0d30c-cb5e-4dd8-810f-862e92ab286e",
-      "event_title": "Art Therapy",
+      "id": "5599e81c-5a4a-44eb-a743-96b1dcf3b7b6",
+      "event_title": "With You, The Unknown Becomes An Adventure: A Community Performance by TISTO Studio",
       "event_date": "2026-06-13",
       "end_date": "2026-06-13",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/group-therapy-2",
-      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1780407860/organizations/7/b/8/1/7b81cdf4-e002-4505-be5c-a3b004a24046/3db067aa-c6d4-4fa2-bab3-2b7680cbb5cb.png",
-      "source": "Liberty Ukraine Foundation",
-      "event_category": "workshop"
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/with-you-the-unknown-becomes-an-adventure-a-community-performance-by-tisto-studio",
+      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1780423304/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/6d1eaa5f-9a4e-492d-a8b4-a0298d739a88.png",
+      "source": "Ukrainian Museum / TISTO Studio",
+      "event_category": "performance"
     },
     {
       "id": "f93dd29b-6ded-403d-ae95-2da2c37f4ebb",
@@ -284,6 +264,16 @@
       "cover_image_url": "https://ukrainian.us/storage/event/1/ZWmr7Hd5R7fgI45X3IdOxAGwOZEahN1E-source.png?v=0.1&s=cb4049f9a3c52b2c3146fb7db48bad50",
       "source": "Ukrainian USA",
       "event_category": "workshop"
+    },
+    {
+      "id": "97dcba43-ba00-430e-8538-3b7bc60237cb",
+      "event_title": "UKRAINE VECHORNYTCI | Ivo Bobul Concert",
+      "event_date": "2026-06-19",
+      "end_date": "2026-06-19",
+      "ticket_link": "https://ukrainian.us/events/newyork_ivo_bobul2",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/L_3T_TZqCOaD8yoBBpuhzorYG5SmHMDu-source.png?v=0.1&s=df58425efd9444f8959f0964881596b1",
+      "source": "Ukrainian USA",
+      "event_category": "concert"
     },
     {
       "id": "ef33356a-e588-48d6-905c-4e74ec4134d2",
@@ -326,16 +316,6 @@
       "event_category": "concert"
     },
     {
-      "id": "e39f6a16-e807-4c1f-b049-3375a239ec96",
-      "event_title": "[NEW YORK] FESTIVE CONCERT-DISCO FOR UKRAINE'S CONSTITUTION DAY",
-      "event_date": "2026-06-28",
-      "end_date": "2026-06-28",
-      "ticket_link": "https://eventcartel.com/events/concert/new-york-festive-concert-disco-for-ukraines-constitution-day-new-york-NY-sky-wise-tickets-14016",
-      "cover_image_url": "https://cdn.eventcartel.com/media/thumb/c2/79/c279b9fee32c992c933b863f1409e45a.webp",
-      "source": "EventCartel / Sky Wise",
-      "event_category": "concert"
-    },
-    {
       "id": "1a1241cb-90b8-4b1b-9f0a-91cb7de55185",
       "event_title": "Songs Across Regions",
       "event_date": "2026-06-28",
@@ -343,6 +323,16 @@
       "ticket_link": "https://www.eventbrite.com/e/songs-across-regions-tickets-1990703356327",
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1185776171%252F502975386231%252F1%252Foriginal.20260530-203407%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Db1f55e75e0b4ff892a87471cfa972e44&w=1880&q=75",
       "source": "Eventbrite",
+      "event_category": "concert"
+    },
+    {
+      "id": "e39f6a16-e807-4c1f-b049-3375a239ec96",
+      "event_title": "[NEW YORK] FESTIVE CONCERT-DISCO FOR UKRAINE'S CONSTITUTION DAY",
+      "event_date": "2026-06-28",
+      "end_date": "2026-06-28",
+      "ticket_link": "https://eventcartel.com/events/concert/new-york-festive-concert-disco-for-ukraines-constitution-day-new-york-NY-sky-wise-tickets-14016",
+      "cover_image_url": "https://cdn.eventcartel.com/media/thumb/c2/79/c279b9fee32c992c933b863f1409e45a.webp",
+      "source": "EventCartel / Sky Wise",
       "event_category": "concert"
     },
     {
@@ -358,16 +348,6 @@
   ],
   "next_month": [
     {
-      "id": "c87b6b2f-4c3d-4236-9d50-b187ad5101df",
-      "event_title": "Vasyl Baidak - New York City",
-      "event_date": "2026-07-03",
-      "end_date": "2026-07-03",
-      "ticket_link": "https://waylight.me/ucrazy/event/16319-cd91c",
-      "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1773094064_-1200630.jpg",
-      "source": "Waylight",
-      "event_category": "standup"
-    },
-    {
       "id": "d0ff2077-0c30-46dd-a7da-132667e16d37",
       "event_title": "July 4th Celebration",
       "event_date": "2026-07-03",
@@ -376,6 +356,16 @@
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/July4th-1024x576.png",
       "source": "Soyuzivka",
       "event_category": "festival"
+    },
+    {
+      "id": "c87b6b2f-4c3d-4236-9d50-b187ad5101df",
+      "event_title": "Vasyl Baidak - New York City",
+      "event_date": "2026-07-03",
+      "end_date": "2026-07-03",
+      "ticket_link": "https://waylight.me/ucrazy/event/16319-cd91c",
+      "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1773094064_-1200630.jpg",
+      "source": "Waylight",
+      "event_category": "standup"
     },
     {
       "id": "acf665c7-63ac-4d64-b842-a6426b57414a",
