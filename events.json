@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T01:28:37.318797-04:00",
+  "generated_at": "2026-06-05T07:28:19.740522-04:00",
   "this_week_end": "2026-06-07",
   "this_month_end": "2026-06-30",
   "next_month_start": "2026-07-01",
@@ -86,14 +86,14 @@
       "event_category": "concert"
     },
     {
-      "id": "1f3ec313-29fe-4d25-89dc-20971e1b3785",
-      "event_title": "Art in Times of War",
+      "id": "48f90c2d-d3d2-426f-b4c1-db63b1a403ce",
+      "event_title": "Behind the Iron Curtain: Making Fashion in Soviet Ukraine, 1945–1991",
       "event_date": "2026-06-06",
-      "end_date": "2026-07-04",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/art-in-times-of-war",
-      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1780542007/organizations/5/1/e/6/51e679e0-b44e-4f15-a3d0-f944bbafdc87/5c08e0cb-1527-43bf-a016-81557b1dd3ec.png",
-      "source": "Svitanok NYC Zeffy",
-      "event_category": "discussion"
+      "end_date": "2026-06-06",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/behind-the-iron-curtain-making-fashion-in-soviet-ukraine-1945--1991",
+      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1779383783/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/2f95930e-d340-40fe-bf5a-dbbf0a9b0cfb.png",
+      "source": "Ukrainian Museum Zeffy",
+      "event_category": "movie"
     },
     {
       "id": "a8af58eb-ba9d-47ab-9bde-fe36778b847b",
@@ -106,14 +106,14 @@
       "event_category": "movie"
     },
     {
-      "id": "48f90c2d-d3d2-426f-b4c1-db63b1a403ce",
-      "event_title": "Behind the Iron Curtain: Making Fashion in Soviet Ukraine, 1945–1991",
+      "id": "1f3ec313-29fe-4d25-89dc-20971e1b3785",
+      "event_title": "Art in Times of War",
       "event_date": "2026-06-06",
-      "end_date": "2026-06-06",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/behind-the-iron-curtain-making-fashion-in-soviet-ukraine-1945--1991",
-      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1779383783/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/2f95930e-d340-40fe-bf5a-dbbf0a9b0cfb.png",
-      "source": "Ukrainian Museum Zeffy",
-      "event_category": "movie"
+      "end_date": "2026-07-04",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/art-in-times-of-war",
+      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1780542007/organizations/5/1/e/6/51e679e0-b44e-4f15-a3d0-f944bbafdc87/5c08e0cb-1527-43bf-a016-81557b1dd3ec.png",
+      "source": "Svitanok NYC Zeffy",
+      "event_category": "discussion"
     },
     {
       "id": "16e4a645-a866-48c8-9941-1d405f1cf5fc",
@@ -176,16 +176,6 @@
       "event_category": "discussion"
     },
     {
-      "id": "615b2b89-7b3e-4b00-9105-019bb1bab1b4",
-      "event_title": "Jinjer at Toyota Oakdale Theatre",
-      "event_date": "2026-06-10",
-      "end_date": "2026-06-10",
-      "ticket_link": "https://www.bandsintown.com/t/108089852?app_id=js_jinjer-metal.com&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
-      "cover_image_url": "https://static.tildacdn.net/tild3033-3632-4931-b035-663839303561/main.jpg",
-      "source": "Jinjer",
-      "event_category": "concert"
-    },
-    {
       "id": "9c09e240-8348-4458-a693-80a935858acb",
       "event_title": "Boundless: Min Xiao-Fen and Julian Kytasty · Lincoln Center",
       "event_date": "2026-06-10",
@@ -194,6 +184,16 @@
       "cover_image_url": "https://images.lincolncenter.org/image/upload/v1768512273/exwhm6mrh8pj2clne3wd.jpg",
       "source": "Lincoln Center",
       "event_category": "other"
+    },
+    {
+      "id": "615b2b89-7b3e-4b00-9105-019bb1bab1b4",
+      "event_title": "Jinjer at Toyota Oakdale Theatre",
+      "event_date": "2026-06-10",
+      "end_date": "2026-06-10",
+      "ticket_link": "https://www.bandsintown.com/t/108089852?app_id=js_jinjer-metal.com&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+      "cover_image_url": "https://static.tildacdn.net/tild3033-3632-4931-b035-663839303561/main.jpg",
+      "source": "Jinjer",
+      "event_category": "concert"
     },
     {
       "id": "b3ccbf9b-d645-4af4-a1e0-2e3d1f350acb",
@@ -256,13 +256,13 @@
       "event_category": "concert"
     },
     {
-      "id": "f9de7c75-a8dc-41a0-90f0-905a5511120f",
-      "event_title": "Petrykivka Painting Workshop with Kateryna Kryvolap",
+      "id": "4fd0d30c-cb5e-4dd8-810f-862e92ab286e",
+      "event_title": "Art Therapy",
       "event_date": "2026-06-13",
       "end_date": "2026-06-13",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/petrykivka-painting-workshop-with-kateryna-kryvolap",
-      "cover_image_url": "https://www.theukrainianmuseum.org/wp-content/uploads/Petrykivka-Painting-Workshop-with-Kateryna-Kryvolap-1000-x-500-px.jpg",
-      "source": "Ukrainian Museum",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/group-therapy-2",
+      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1780407860/organizations/7/b/8/1/7b81cdf4-e002-4505-be5c-a3b004a24046/3db067aa-c6d4-4fa2-bab3-2b7680cbb5cb.png",
+      "source": "Liberty Ukraine Foundation",
       "event_category": "workshop"
     },
     {
@@ -286,13 +286,33 @@
       "event_category": "performance"
     },
     {
-      "id": "4fd0d30c-cb5e-4dd8-810f-862e92ab286e",
-      "event_title": "Art Therapy",
+      "id": "f9de7c75-a8dc-41a0-90f0-905a5511120f",
+      "event_title": "Petrykivka Painting Workshop with Kateryna Kryvolap",
       "event_date": "2026-06-13",
       "end_date": "2026-06-13",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/group-therapy-2",
-      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1780407860/organizations/7/b/8/1/7b81cdf4-e002-4505-be5c-a3b004a24046/3db067aa-c6d4-4fa2-bab3-2b7680cbb5cb.png",
-      "source": "Liberty Ukraine Foundation",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/petrykivka-painting-workshop-with-kateryna-kryvolap",
+      "cover_image_url": "https://www.theukrainianmuseum.org/wp-content/uploads/Petrykivka-Painting-Workshop-with-Kateryna-Kryvolap-1000-x-500-px.jpg",
+      "source": "Ukrainian Museum",
+      "event_category": "workshop"
+    },
+    {
+      "id": "14bde3ce-8baf-4622-b2df-afd6c5e31eab",
+      "event_title": "Classic Make-up by Alina Klymko",
+      "event_date": "2026-06-14",
+      "end_date": "2026-06-14",
+      "ticket_link": "https://ukrainian.us/events/classic-make-up",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/ZWmr7Hd5R7fgI45X3IdOxAGwOZEahN1E-source.png?v=0.1&s=cb4049f9a3c52b2c3146fb7db48bad50",
+      "source": "Ukrainian USA",
+      "event_category": "workshop"
+    },
+    {
+      "id": "f93dd29b-6ded-403d-ae95-2da2c37f4ebb",
+      "event_title": "PETRYKIVKA PAINTING WORKSHOP with Kateryna Kryvolap (Session 2)",
+      "event_date": "2026-06-14",
+      "end_date": "2026-06-14",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/petrykivka-painting-workshop-with-kateryna-kryvolap-2",
+      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1777567545/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/f696dfe9-1091-456a-b0ae-3e62b18188c2.png",
+      "source": "Ukrainian Museum Zeffy",
       "event_category": "workshop"
     },
     {
@@ -306,16 +326,6 @@
       "event_category": "concert"
     },
     {
-      "id": "f93dd29b-6ded-403d-ae95-2da2c37f4ebb",
-      "event_title": "PETRYKIVKA PAINTING WORKSHOP with Kateryna Kryvolap (Session 2)",
-      "event_date": "2026-06-14",
-      "end_date": "2026-06-14",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/petrykivka-painting-workshop-with-kateryna-kryvolap-2",
-      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1777567545/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/f696dfe9-1091-456a-b0ae-3e62b18188c2.png",
-      "source": "Ukrainian Museum Zeffy",
-      "event_category": "workshop"
-    },
-    {
       "id": "f2e1162d-e464-47aa-898f-93b91da0ef50",
       "event_title": "GELLI Plate Printing with Nature (Workshop & Gallery Talk)",
       "event_date": "2026-06-14",
@@ -323,16 +333,6 @@
       "ticket_link": "https://www.ukrhec.org/events/gelli-plate-printing-nature-workshop-gallery-talk",
       "cover_image_url": "https://www.ukrhec.org/files/styles/card-copy-1/public/events/gelli_print_2026.jpg",
       "source": "Ukrainian History and Education Center",
-      "event_category": "workshop"
-    },
-    {
-      "id": "14bde3ce-8baf-4622-b2df-afd6c5e31eab",
-      "event_title": "Classic Make-up by Alina Klymko",
-      "event_date": "2026-06-14",
-      "end_date": "2026-06-14",
-      "ticket_link": "https://ukrainian.us/events/classic-make-up",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/ZWmr7Hd5R7fgI45X3IdOxAGwOZEahN1E-source.png?v=0.1&s=cb4049f9a3c52b2c3146fb7db48bad50",
-      "source": "Ukrainian USA",
       "event_category": "workshop"
     },
     {
@@ -446,16 +446,6 @@
       "event_category": "workshop"
     },
     {
-      "id": "e39f6a16-e807-4c1f-b049-3375a239ec96",
-      "event_title": "[NEW YORK] FESTIVE CONCERT-DISCO FOR UKRAINE'S CONSTITUTION DAY",
-      "event_date": "2026-06-28",
-      "end_date": "2026-06-28",
-      "ticket_link": "https://eventcartel.com/events/concert/new-york-festive-concert-disco-for-ukraines-constitution-day-new-york-NY-sky-wise-tickets-14016",
-      "cover_image_url": "https://cdn.eventcartel.com/media/thumb/c2/79/c279b9fee32c992c933b863f1409e45a.webp",
-      "source": "EventCartel / Sky Wise",
-      "event_category": "concert"
-    },
-    {
       "id": "1a1241cb-90b8-4b1b-9f0a-91cb7de55185",
       "event_title": "Songs Across Regions",
       "event_date": "2026-06-28",
@@ -463,6 +453,16 @@
       "ticket_link": "https://www.eventbrite.com/e/songs-across-regions-tickets-1990703356327",
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1185776171%252F502975386231%252F1%252Foriginal.20260530-203407%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Db1f55e75e0b4ff892a87471cfa972e44&w=1880&q=75",
       "source": "Eventbrite",
+      "event_category": "concert"
+    },
+    {
+      "id": "e39f6a16-e807-4c1f-b049-3375a239ec96",
+      "event_title": "[NEW YORK] FESTIVE CONCERT-DISCO FOR UKRAINE'S CONSTITUTION DAY",
+      "event_date": "2026-06-28",
+      "end_date": "2026-06-28",
+      "ticket_link": "https://eventcartel.com/events/concert/new-york-festive-concert-disco-for-ukraines-constitution-day-new-york-NY-sky-wise-tickets-14016",
+      "cover_image_url": "https://cdn.eventcartel.com/media/thumb/c2/79/c279b9fee32c992c933b863f1409e45a.webp",
+      "source": "EventCartel / Sky Wise",
       "event_category": "concert"
     },
     {
@@ -488,16 +488,6 @@
       "event_category": "discussion"
     },
     {
-      "id": "c87b6b2f-4c3d-4236-9d50-b187ad5101df",
-      "event_title": "Vasyl Baidak - New York City",
-      "event_date": "2026-07-03",
-      "end_date": "2026-07-03",
-      "ticket_link": "https://waylight.me/ucrazy/event/16319-cd91c",
-      "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1773094064_-1200630.jpg",
-      "source": "Waylight",
-      "event_category": "standup"
-    },
-    {
       "id": "d0ff2077-0c30-46dd-a7da-132667e16d37",
       "event_title": "July 4th Celebration",
       "event_date": "2026-07-03",
@@ -506,6 +496,16 @@
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/July4th-1024x576.png",
       "source": "Soyuzivka",
       "event_category": "festival"
+    },
+    {
+      "id": "c87b6b2f-4c3d-4236-9d50-b187ad5101df",
+      "event_title": "Vasyl Baidak - New York City",
+      "event_date": "2026-07-03",
+      "end_date": "2026-07-03",
+      "ticket_link": "https://waylight.me/ucrazy/event/16319-cd91c",
+      "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1773094064_-1200630.jpg",
+      "source": "Waylight",
+      "event_category": "standup"
     },
     {
       "id": "acf665c7-63ac-4d64-b842-a6426b57414a",
