@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T07:03:20.533624-04:00",
+  "generated_at": "2026-06-10T07:42:30.155543-04:00",
   "this_week_end": "2026-06-14",
   "this_month_end": "2026-06-30",
   "next_month_start": "2026-07-01",
@@ -26,23 +26,13 @@
       "event_category": "discussion"
     },
     {
-      "id": "4598abf0-44b9-4965-8d19-95611230ce13",
-      "event_title": "Targeted for Theft and Destruction: Art and Cultural Heritage at Risk in Times of Armed Conflict",
-      "event_date": "2026-06-09",
-      "end_date": "2026-06-09",
-      "ticket_link": "https://www.unanyc.org/events/targeted-for-theft-and-destruction",
-      "cover_image_url": "http://static1.squarespace.com/static/5f491d29e58aa67d42cfa5cf/5fd1f81ead61ab58318eb6e4/6a0684d147fc3f37bcaa6130/1780416250613/C%2BC-Targeted-banner-teaser.jpg?format=1500w",
-      "source": "UNA-NYC",
-      "event_category": "discussion"
-    },
-    {
-      "id": "c9ae6d7f-f5a4-4849-9295-7006ed3958f7",
-      "event_title": "Maya Cacao Workshop",
-      "event_date": "2026-06-09",
-      "end_date": "2026-06-09",
-      "ticket_link": "https://www.instagram.com/p/DZKk3grEUIU/",
-      "cover_image_url": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-15/714966225_18593109802017689_5212569997357742985_n.jpg?stp=c708.0.2126.2125a_dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=ofSgzppkEoYQ7kNvwGM9MCx&_nc_oc=AdpMIea8FKUo0kGRdxU7ydQ7sRl3MrWPA0Y5Y2ukS1rxBpcF89b_X0v_45wlzs7DFHg&_nc_zt=23&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_gid=4HW0zxZIKCEhygMqeAneVg&_nc_ss=7260f&oh=00_Af8Td1FXpmucjt1U0s2p8_OWaur-z3us4CD9doTNObhU6A&oe=6A283139",
-      "source": "Yara Arts Group",
+      "id": "0ac417cf-18b2-4374-89b5-b358db501858",
+      "event_title": "Купала на Йвана: майстерклас з купальських пісень з Іриною Данилейко",
+      "event_date": "2026-06-10",
+      "end_date": "2026-06-12",
+      "ticket_link": "https://forms.gle/yZdFihJ34VmL7LZv6",
+      "cover_image_url": "https://lh3.googleusercontent.com/12yhDvlCQ8kDPRgGswgrlhKDW7GruuHeJb4ZJRzFw-d6Kw9Og9R-E2pMhOm6F1P-Jl7hDwzx_qlMGZ4=w1200-h630-p",
+      "source": "Kolo Charitable Fund / Znai Svoiu Ukrainu",
       "event_category": "workshop"
     },
     {
@@ -56,14 +46,14 @@
       "event_category": "other"
     },
     {
-      "id": "0ac417cf-18b2-4374-89b5-b358db501858",
-      "event_title": "Купала на Йвана: майстерклас з купальських пісень з Іриною Данилейко",
+      "id": "615b2b89-7b3e-4b00-9105-019bb1bab1b4",
+      "event_title": "Jinjer at Toyota Oakdale Theatre",
       "event_date": "2026-06-10",
-      "end_date": "2026-06-12",
-      "ticket_link": "https://forms.gle/yZdFihJ34VmL7LZv6",
-      "cover_image_url": "https://lh3.googleusercontent.com/12yhDvlCQ8kDPRgGswgrlhKDW7GruuHeJb4ZJRzFw-d6Kw9Og9R-E2pMhOm6F1P-Jl7hDwzx_qlMGZ4=w1200-h630-p",
-      "source": "Kolo Charitable Fund / Znai Svoiu Ukrainu",
-      "event_category": "workshop"
+      "end_date": "2026-06-10",
+      "ticket_link": "https://www.bandsintown.com/t/108089852?app_id=js_jinjer-metal.com&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+      "cover_image_url": "https://static.tildacdn.net/tild3033-3632-4931-b035-663839303561/main.jpg",
+      "source": "Jinjer",
+      "event_category": "concert"
     },
     {
       "id": "5a1292a7-7a40-4244-bacd-9ca3eb83e00b",
@@ -76,16 +66,6 @@
       "event_category": "discussion"
     },
     {
-      "id": "615b2b89-7b3e-4b00-9105-019bb1bab1b4",
-      "event_title": "Jinjer at Toyota Oakdale Theatre",
-      "event_date": "2026-06-10",
-      "end_date": "2026-06-10",
-      "ticket_link": "https://www.bandsintown.com/t/108089852?app_id=js_jinjer-metal.com&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
-      "cover_image_url": "https://static.tildacdn.net/tild3033-3632-4931-b035-663839303561/main.jpg",
-      "source": "Jinjer",
-      "event_category": "concert"
-    },
-    {
       "id": "b3ccbf9b-d645-4af4-a1e0-2e3d1f350acb",
       "event_title": "From Bach to Broadway: Virtuosos for Ukraine",
       "event_date": "2026-06-11",
@@ -93,6 +73,16 @@
       "ticket_link": "https://www.helpinghandsukraine.org/bach_to_broadway/",
       "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2026/03/mindlina-4.jpg",
       "source": "Helping Hands for Ukraine",
+      "event_category": "concert"
+    },
+    {
+      "id": "f68a917a-de20-47f7-bd01-704cf9db1d0e",
+      "event_title": "YiYi",
+      "event_date": "2026-06-12",
+      "end_date": "2026-06-12",
+      "ticket_link": "https://www.viewcy.com/event/yiyi",
+      "cover_image_url": "https://www.viewcy.com/api/og-image?url=https%3A%2F%2Fwww.viewcy.com%2Frails%2Factive_storage%2Frepresentations%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6MTc5MjYxLCJwdXIiOiJibG9iX2lkIn19--13e6fea5d9e06e73fd6f264956cf1d1622adc1eb%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzMyMCwxODBdLCJzYXZlciI6eyJzdHJpcCI6dHJ1ZSwicXVhbGl0eSI6ODUsImludGVybGFjZSI6IlBsYW5lIn19LCJwdXIiOiJ2YXJpYXRpb24ifX0%3D--5decdaaf8a5eba4176df170d1747a0304d4eaa26%2F36C3B204-EDE7-4094-B7B2-45D50122FA56.jpg",
+      "source": "Jalopy Theatre",
       "event_category": "concert"
     },
     {
@@ -106,16 +96,6 @@
       "event_category": "performance"
     },
     {
-      "id": "fd44e887-e258-4852-8116-74d98401ce15",
-      "event_title": "Maya Deren in Dialogue with Contemporary Ukrainian-American Artists",
-      "event_date": "2026-06-12",
-      "end_date": "2026-06-12",
-      "ticket_link": "https://borshchofart.org/programs/public-programs/dorosh-slinko-grokhovsky-selthofner-20260612",
-      "cover_image_url": "https://borshch-of-art.s3.us-east-1.amazonaws.com/events/6a036f109567039c6ebe0543/_website-maya-deren-in-dialogue-with-contemporary-ukrainian-american-artists-%281%29.png",
-      "source": "Borshch of Art",
-      "event_category": "discussion"
-    },
-    {
       "id": "5b689b16-8bdc-4480-ac4f-fbd916d23a17",
       "event_title": "World Cup Music Fest - Dromnyc.com",
       "event_date": "2026-06-12",
@@ -126,14 +106,14 @@
       "event_category": "festival"
     },
     {
-      "id": "f68a917a-de20-47f7-bd01-704cf9db1d0e",
-      "event_title": "YiYi",
+      "id": "fd44e887-e258-4852-8116-74d98401ce15",
+      "event_title": "Maya Deren in Dialogue with Contemporary Ukrainian-American Artists",
       "event_date": "2026-06-12",
       "end_date": "2026-06-12",
-      "ticket_link": "https://www.viewcy.com/event/yiyi",
-      "cover_image_url": "https://www.viewcy.com/api/og-image?url=https%3A%2F%2Fwww.viewcy.com%2Frails%2Factive_storage%2Frepresentations%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6MTc5MjYxLCJwdXIiOiJibG9iX2lkIn19--13e6fea5d9e06e73fd6f264956cf1d1622adc1eb%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzMyMCwxODBdLCJzYXZlciI6eyJzdHJpcCI6dHJ1ZSwicXVhbGl0eSI6ODUsImludGVybGFjZSI6IlBsYW5lIn19LCJwdXIiOiJ2YXJpYXRpb24ifX0%3D--5decdaaf8a5eba4176df170d1747a0304d4eaa26%2F36C3B204-EDE7-4094-B7B2-45D50122FA56.jpg",
-      "source": "Jalopy Theatre",
-      "event_category": "concert"
+      "ticket_link": "https://borshchofart.org/programs/public-programs/dorosh-slinko-grokhovsky-selthofner-20260612",
+      "cover_image_url": "https://borshch-of-art.s3.us-east-1.amazonaws.com/events/6a036f109567039c6ebe0543/_website-maya-deren-in-dialogue-with-contemporary-ukrainian-american-artists-%281%29.png",
+      "source": "Borshch of Art",
+      "event_category": "discussion"
     },
     {
       "id": "73e16fe5-742c-454e-a642-3372795c9ede",
@@ -156,16 +136,6 @@
       "event_category": "performance"
     },
     {
-      "id": "76b7e720-1c76-4168-bac0-d0ef4d05729e",
-      "event_title": "Ukrainian Zustrich Zabava in Trenton",
-      "event_date": "2026-06-13",
-      "end_date": "2026-06-13",
-      "ticket_link": "https://www.sharvarok.com/en/listing/ukrainian-zustrich-zabava-in-trenton/1304",
-      "cover_image_url": "https://images.sharvarok.com/post/1304/1780428041404-493276838.jpeg",
-      "source": "Sharvarok",
-      "event_category": "festival"
-    },
-    {
       "id": "4fd0d30c-cb5e-4dd8-810f-862e92ab286e",
       "event_title": "Art Therapy",
       "event_date": "2026-06-13",
@@ -186,13 +156,23 @@
       "event_category": "workshop"
     },
     {
-      "id": "14bde3ce-8baf-4622-b2df-afd6c5e31eab",
-      "event_title": "Classic Make-up by Alina Klymko",
+      "id": "76b7e720-1c76-4168-bac0-d0ef4d05729e",
+      "event_title": "Ukrainian Zustrich Zabava in Trenton",
+      "event_date": "2026-06-13",
+      "end_date": "2026-06-13",
+      "ticket_link": "https://www.sharvarok.com/en/listing/ukrainian-zustrich-zabava-in-trenton/1304",
+      "cover_image_url": "https://images.sharvarok.com/post/1304/1780428041404-493276838.jpeg",
+      "source": "Sharvarok",
+      "event_category": "festival"
+    },
+    {
+      "id": "f93dd29b-6ded-403d-ae95-2da2c37f4ebb",
+      "event_title": "PETRYKIVKA PAINTING WORKSHOP with Kateryna Kryvolap (Session 2)",
       "event_date": "2026-06-14",
       "end_date": "2026-06-14",
-      "ticket_link": "https://ukrainian.us/events/classic-make-up",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/ZWmr7Hd5R7fgI45X3IdOxAGwOZEahN1E-source.png?v=0.1&s=cb4049f9a3c52b2c3146fb7db48bad50",
-      "source": "Ukrainian USA",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/petrykivka-painting-workshop-with-kateryna-kryvolap-2",
+      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1777567545/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/f696dfe9-1091-456a-b0ae-3e62b18188c2.png",
+      "source": "Ukrainian Museum Zeffy",
       "event_category": "workshop"
     },
     {
@@ -206,13 +186,13 @@
       "event_category": "workshop"
     },
     {
-      "id": "f93dd29b-6ded-403d-ae95-2da2c37f4ebb",
-      "event_title": "PETRYKIVKA PAINTING WORKSHOP with Kateryna Kryvolap (Session 2)",
+      "id": "14bde3ce-8baf-4622-b2df-afd6c5e31eab",
+      "event_title": "Classic Make-up by Alina Klymko",
       "event_date": "2026-06-14",
       "end_date": "2026-06-14",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/petrykivka-painting-workshop-with-kateryna-kryvolap-2",
-      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1777567545/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/f696dfe9-1091-456a-b0ae-3e62b18188c2.png",
-      "source": "Ukrainian Museum Zeffy",
+      "ticket_link": "https://ukrainian.us/events/classic-make-up",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/ZWmr7Hd5R7fgI45X3IdOxAGwOZEahN1E-source.png?v=0.1&s=cb4049f9a3c52b2c3146fb7db48bad50",
+      "source": "Ukrainian USA",
       "event_category": "workshop"
     },
     {
@@ -266,6 +246,16 @@
       "event_category": "festival"
     },
     {
+      "id": "29225eee-dda1-4d30-8e92-025a2f2b04a2",
+      "event_title": "Studio Glass: International Movement and Ukrainian Art|ONLINE event",
+      "event_date": "2026-06-20",
+      "end_date": "2026-06-20",
+      "ticket_link": "https://www.sharvarok.com/en/listing/studio-glass-international-movement-and-ukrainian-artonline-event/1320",
+      "cover_image_url": "https://images.sharvarok.com/post/1320/1781073914203-672203604.jpg",
+      "source": "Sharvarok",
+      "event_category": "art"
+    },
+    {
       "id": "832fc00a-3cc0-44ca-a654-a1294e3a95db",
       "event_title": "Father’s Day Brunch",
       "event_date": "2026-06-21",
@@ -273,16 +263,6 @@
       "ticket_link": "https://soyuzivka.com/calendar-of-events/fathers-day-brunch/",
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/05/Fathers-Day.png",
       "source": "Soyuzivka",
-      "event_category": "other"
-    },
-    {
-      "id": "710fd197-d869-47e7-9225-c37a7b8e3fc8",
-      "event_title": "NashiPredky@Home Virtual Office Hours",
-      "event_date": "2026-06-23",
-      "end_date": "2026-06-23",
-      "ticket_link": "https://www.ukrhec.org/events/nashipredkyhome-virtual-office-hours-16",
-      "cover_image_url": "https://www.ukrhec.org/files/styles/card-copy-1/public/events/nphome_june_2026_office_hours.png",
-      "source": "Ukrainian History and Education Center",
       "event_category": "other"
     },
     {
@@ -296,14 +276,14 @@
       "event_category": "workshop"
     },
     {
-      "id": "d8fd4108-7958-4725-8bf6-89027f30c9b5",
-      "event_title": "Red, White and Blue: A Pysanka to Celebrate America's Semiquincentennial (Virtual Pysanka Demo)",
-      "event_date": "2026-06-24",
-      "end_date": "2026-06-24",
-      "ticket_link": "https://www.ukrhec.org/events/red-white-blue-pysanka-celebrate-americas-semiquincentennial-virtual-pysanka-demo",
-      "cover_image_url": "https://www.ukrhec.org/files/styles/card-copy-1/public/events/wallis_june_2026.jpg",
+      "id": "710fd197-d869-47e7-9225-c37a7b8e3fc8",
+      "event_title": "NashiPredky@Home Virtual Office Hours",
+      "event_date": "2026-06-23",
+      "end_date": "2026-06-23",
+      "ticket_link": "https://www.ukrhec.org/events/nashipredkyhome-virtual-office-hours-16",
+      "cover_image_url": "https://www.ukrhec.org/files/styles/card-copy-1/public/events/nphome_june_2026_office_hours.png",
       "source": "Ukrainian History and Education Center",
-      "event_category": "workshop"
+      "event_category": "other"
     },
     {
       "id": "281585de-3ad5-4884-b40f-4aea440f021c",
@@ -314,6 +294,16 @@
       "cover_image_url": "https://borshch-of-art.s3.us-east-1.amazonaws.com/events/6a0536b79567039c6ebe060a/june-24-website-%282000-x-1000-px%29.png",
       "source": "Borshch of Art",
       "event_category": "sport"
+    },
+    {
+      "id": "d8fd4108-7958-4725-8bf6-89027f30c9b5",
+      "event_title": "Red, White and Blue: A Pysanka to Celebrate America's Semiquincentennial (Virtual Pysanka Demo)",
+      "event_date": "2026-06-24",
+      "end_date": "2026-06-24",
+      "ticket_link": "https://www.ukrhec.org/events/red-white-blue-pysanka-celebrate-americas-semiquincentennial-virtual-pysanka-demo",
+      "cover_image_url": "https://www.ukrhec.org/files/styles/card-copy-1/public/events/wallis_june_2026.jpg",
+      "source": "Ukrainian History and Education Center",
+      "event_category": "workshop"
     },
     {
       "id": "acf641a7-471c-4c7e-a033-9b560e21e9cd",
@@ -336,16 +326,6 @@
       "event_category": "concert"
     },
     {
-      "id": "e39f6a16-e807-4c1f-b049-3375a239ec96",
-      "event_title": "[NEW YORK] FESTIVE CONCERT-DISCO FOR UKRAINE'S CONSTITUTION DAY",
-      "event_date": "2026-06-28",
-      "end_date": "2026-06-28",
-      "ticket_link": "https://eventcartel.com/events/concert/new-york-festive-concert-disco-for-ukraines-constitution-day-new-york-NY-sky-wise-tickets-14016",
-      "cover_image_url": "https://cdn.eventcartel.com/media/thumb/c2/79/c279b9fee32c992c933b863f1409e45a.webp",
-      "source": "EventCartel / Sky Wise",
-      "event_category": "concert"
-    },
-    {
       "id": "1a1241cb-90b8-4b1b-9f0a-91cb7de55185",
       "event_title": "Songs Across Regions",
       "event_date": "2026-06-28",
@@ -353,6 +333,16 @@
       "ticket_link": "https://www.eventbrite.com/e/songs-across-regions-tickets-1990703356327",
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1185776171%252F502975386231%252F1%252Foriginal.20260530-203407%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Db1f55e75e0b4ff892a87471cfa972e44&w=1880&q=75",
       "source": "Eventbrite",
+      "event_category": "concert"
+    },
+    {
+      "id": "e39f6a16-e807-4c1f-b049-3375a239ec96",
+      "event_title": "[NEW YORK] FESTIVE CONCERT-DISCO FOR UKRAINE'S CONSTITUTION DAY",
+      "event_date": "2026-06-28",
+      "end_date": "2026-06-28",
+      "ticket_link": "https://eventcartel.com/events/concert/new-york-festive-concert-disco-for-ukraines-constitution-day-new-york-NY-sky-wise-tickets-14016",
+      "cover_image_url": "https://cdn.eventcartel.com/media/thumb/c2/79/c279b9fee32c992c933b863f1409e45a.webp",
+      "source": "EventCartel / Sky Wise",
       "event_category": "concert"
     },
     {
