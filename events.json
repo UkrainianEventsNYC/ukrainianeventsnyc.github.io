@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T08:13:06.781462-04:00",
+  "generated_at": "2026-06-12T07:47:12.505183-04:00",
   "this_week_end": "2026-06-14",
   "this_month_end": "2026-06-30",
   "next_month_start": "2026-07-01",
@@ -34,16 +34,6 @@
       "cover_image_url": "https://lh3.googleusercontent.com/12yhDvlCQ8kDPRgGswgrlhKDW7GruuHeJb4ZJRzFw-d6Kw9Og9R-E2pMhOm6F1P-Jl7hDwzx_qlMGZ4=w1200-h630-p",
       "source": "Kolo Charitable Fund / Znai Svoiu Ukrainu",
       "event_category": "workshop"
-    },
-    {
-      "id": "b3ccbf9b-d645-4af4-a1e0-2e3d1f350acb",
-      "event_title": "From Bach to Broadway: Virtuosos for Ukraine",
-      "event_date": "2026-06-11",
-      "end_date": "2026-06-11",
-      "ticket_link": "https://www.helpinghandsukraine.org/bach_to_broadway/",
-      "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2026/03/mindlina-4.jpg",
-      "source": "Helping Hands for Ukraine",
-      "event_category": "concert"
     },
     {
       "id": "fd44e887-e258-4852-8116-74d98401ce15",
@@ -96,14 +86,14 @@
       "event_category": "concert"
     },
     {
-      "id": "5599e81c-5a4a-44eb-a743-96b1dcf3b7b6",
-      "event_title": "With You, The Unknown Becomes An Adventure: A Community Performance by TISTO Studio",
+      "id": "f9de7c75-a8dc-41a0-90f0-905a5511120f",
+      "event_title": "Petrykivka Painting Workshop with Kateryna Kryvolap",
       "event_date": "2026-06-13",
       "end_date": "2026-06-13",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/with-you-the-unknown-becomes-an-adventure-a-community-performance-by-tisto-studio",
-      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1780423304/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/6d1eaa5f-9a4e-492d-a8b4-a0298d739a88.png",
-      "source": "Ukrainian Museum / TISTO Studio",
-      "event_category": "performance"
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/petrykivka-painting-workshop-with-kateryna-kryvolap",
+      "cover_image_url": "https://www.theukrainianmuseum.org/wp-content/uploads/Petrykivka-Painting-Workshop-with-Kateryna-Kryvolap-1000-x-500-px.jpg",
+      "source": "Ukrainian Museum",
+      "event_category": "workshop"
     },
     {
       "id": "76b7e720-1c76-4168-bac0-d0ef4d05729e",
@@ -116,14 +106,14 @@
       "event_category": "festival"
     },
     {
-      "id": "f9de7c75-a8dc-41a0-90f0-905a5511120f",
-      "event_title": "Petrykivka Painting Workshop with Kateryna Kryvolap",
+      "id": "5599e81c-5a4a-44eb-a743-96b1dcf3b7b6",
+      "event_title": "With You, The Unknown Becomes An Adventure: A Community Performance by TISTO Studio",
       "event_date": "2026-06-13",
       "end_date": "2026-06-13",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/petrykivka-painting-workshop-with-kateryna-kryvolap",
-      "cover_image_url": "https://www.theukrainianmuseum.org/wp-content/uploads/Petrykivka-Painting-Workshop-with-Kateryna-Kryvolap-1000-x-500-px.jpg",
-      "source": "Ukrainian Museum",
-      "event_category": "workshop"
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/with-you-the-unknown-becomes-an-adventure-a-community-performance-by-tisto-studio",
+      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1780423304/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/6d1eaa5f-9a4e-492d-a8b4-a0298d739a88.png",
+      "source": "Ukrainian Museum / TISTO Studio",
+      "event_category": "performance"
     },
     {
       "id": "4fd0d30c-cb5e-4dd8-810f-862e92ab286e",
@@ -133,6 +123,16 @@
       "ticket_link": "https://www.zeffy.com/en-US/ticketing/group-therapy-2",
       "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1780407860/organizations/7/b/8/1/7b81cdf4-e002-4505-be5c-a3b004a24046/3db067aa-c6d4-4fa2-bab3-2b7680cbb5cb.png",
       "source": "Liberty Ukraine Foundation",
+      "event_category": "workshop"
+    },
+    {
+      "id": "f2e1162d-e464-47aa-898f-93b91da0ef50",
+      "event_title": "GELLI Plate Printing with Nature (Workshop & Gallery Talk)",
+      "event_date": "2026-06-14",
+      "end_date": "2026-06-14",
+      "ticket_link": "https://www.ukrhec.org/events/gelli-plate-printing-nature-workshop-gallery-talk",
+      "cover_image_url": "https://www.ukrhec.org/files/styles/card-copy-1/public/events/gelli_print_2026.jpg",
+      "source": "Ukrainian History and Education Center",
       "event_category": "workshop"
     },
     {
@@ -154,16 +154,6 @@
       "cover_image_url": "https://static.wixstatic.com/media/55cd19_db4ae9f7705f454fb80c7939c348f9b5~mv2.png/v1/fill/w_1920,h_1080,al_c/55cd19_db4ae9f7705f454fb80c7939c348f9b5~mv2.png",
       "source": "Tarsahno",
       "event_category": "concert"
-    },
-    {
-      "id": "f2e1162d-e464-47aa-898f-93b91da0ef50",
-      "event_title": "GELLI Plate Printing with Nature (Workshop & Gallery Talk)",
-      "event_date": "2026-06-14",
-      "end_date": "2026-06-14",
-      "ticket_link": "https://www.ukrhec.org/events/gelli-plate-printing-nature-workshop-gallery-talk",
-      "cover_image_url": "https://www.ukrhec.org/files/styles/card-copy-1/public/events/gelli_print_2026.jpg",
-      "source": "Ukrainian History and Education Center",
-      "event_category": "workshop"
     },
     {
       "id": "14bde3ce-8baf-4622-b2df-afd6c5e31eab",
@@ -216,6 +206,16 @@
       "event_category": "art"
     },
     {
+      "id": "3046c15c-7b29-45b8-976b-e1784edcb35e",
+      "event_title": "Members' Preview: The Ground Shifts Beneath Our Feet | Zhanna Kadyrova",
+      "event_date": "2026-06-20",
+      "end_date": "2026-06-20",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/members-preview-exhibition-opening-the-ground-shifts-beneath-our-feet-zhanna-kadyrova",
+      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1781198150/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/88742a31-1ca4-4950-84f9-24ae59985cb7.png",
+      "source": "Ukrainian Museum Zeffy",
+      "event_category": "exhibitions"
+    },
+    {
       "id": "ef33356a-e588-48d6-905c-4e74ec4134d2",
       "event_title": "Charity Evening ARONIA in Support of Ukraine",
       "event_date": "2026-06-20",
@@ -246,6 +246,16 @@
       "event_category": "other"
     },
     {
+      "id": "b9f58474-f164-4d99-90cd-82b9dbbdf4f2",
+      "event_title": "Present, Play & Teamworkan experience for leaders and professionals building modern teams",
+      "event_date": "2026-06-23",
+      "end_date": "2026-06-23",
+      "ticket_link": "https://tisto.nyc/workshops/06-23-present-play-teamwork",
+      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
+      "source": "Tisto NYC",
+      "event_category": "workshop"
+    },
+    {
       "id": "0a58449d-3335-4f8b-b330-fc630e97372f",
       "event_title": "Medieval Game Night",
       "event_date": "2026-06-23",
@@ -256,13 +266,13 @@
       "event_category": "other"
     },
     {
-      "id": "b9f58474-f164-4d99-90cd-82b9dbbdf4f2",
-      "event_title": "Present, Play & Teamworkan experience for leaders and professionals building modern teams",
-      "event_date": "2026-06-23",
-      "end_date": "2026-06-23",
-      "ticket_link": "https://tisto.nyc/workshops/06-23-present-play-teamwork",
-      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
-      "source": "Tisto NYC",
+      "id": "d8fd4108-7958-4725-8bf6-89027f30c9b5",
+      "event_title": "Red, White and Blue: A Pysanka to Celebrate America's Semiquincentennial (Virtual Pysanka Demo)",
+      "event_date": "2026-06-24",
+      "end_date": "2026-06-24",
+      "ticket_link": "https://www.ukrhec.org/events/red-white-blue-pysanka-celebrate-americas-semiquincentennial-virtual-pysanka-demo",
+      "cover_image_url": "https://www.ukrhec.org/files/styles/card-copy-1/public/events/wallis_june_2026.jpg",
+      "source": "Ukrainian History and Education Center",
       "event_category": "workshop"
     },
     {
@@ -276,16 +286,6 @@
       "event_category": "sport"
     },
     {
-      "id": "d8fd4108-7958-4725-8bf6-89027f30c9b5",
-      "event_title": "Red, White and Blue: A Pysanka to Celebrate America's Semiquincentennial (Virtual Pysanka Demo)",
-      "event_date": "2026-06-24",
-      "end_date": "2026-06-24",
-      "ticket_link": "https://www.ukrhec.org/events/red-white-blue-pysanka-celebrate-americas-semiquincentennial-virtual-pysanka-demo",
-      "cover_image_url": "https://www.ukrhec.org/files/styles/card-copy-1/public/events/wallis_june_2026.jpg",
-      "source": "Ukrainian History and Education Center",
-      "event_category": "workshop"
-    },
-    {
       "id": "acf641a7-471c-4c7e-a033-9b560e21e9cd",
       "event_title": "Shared Experience Builds Teamsan experience for leaders and professionals working with teams",
       "event_date": "2026-06-25",
@@ -294,16 +294,6 @@
       "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
       "source": "Tisto NYC",
       "event_category": "workshop"
-    },
-    {
-      "id": "dae88d5e-5e81-4cd8-b0b7-fbd73b1b31f7",
-      "event_title": "The Empty Chair: In Memory of Maksym Kryvtsov",
-      "event_date": "2026-06-27",
-      "end_date": "2026-06-27",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/the-empty-chair-in-memory-of-maksym-kryvtsov",
-      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1781124097/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/e92474f6-c829-4218-afc8-11aa55e0a578.png",
-      "source": "Ukrainian Museum Zeffy",
-      "event_category": "concert"
     },
     {
       "id": "8b315e50-5fc3-4c61-b18e-e7e7312c6062",
@@ -316,13 +306,23 @@
       "event_category": "concert"
     },
     {
-      "id": "1a1241cb-90b8-4b1b-9f0a-91cb7de55185",
-      "event_title": "Songs Across Regions",
+      "id": "dae88d5e-5e81-4cd8-b0b7-fbd73b1b31f7",
+      "event_title": "The Empty Chair: In Memory of Maksym Kryvtsov",
+      "event_date": "2026-06-27",
+      "end_date": "2026-06-27",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/the-empty-chair-in-memory-of-maksym-kryvtsov",
+      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1781124097/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/e92474f6-c829-4218-afc8-11aa55e0a578.png",
+      "source": "Ukrainian Museum Zeffy",
+      "event_category": "concert"
+    },
+    {
+      "id": "e39f6a16-e807-4c1f-b049-3375a239ec96",
+      "event_title": "[NEW YORK] FESTIVE CONCERT-DISCO FOR UKRAINE'S CONSTITUTION DAY",
       "event_date": "2026-06-28",
       "end_date": "2026-06-28",
-      "ticket_link": "https://www.eventbrite.com/e/songs-across-regions-tickets-1990703356327",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1185776171%252F502975386231%252F1%252Foriginal.20260530-203407%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Db1f55e75e0b4ff892a87471cfa972e44&w=1880&q=75",
-      "source": "Eventbrite",
+      "ticket_link": "https://eventcartel.com/events/concert/new-york-festive-concert-disco-for-ukraines-constitution-day-new-york-NY-sky-wise-tickets-14016",
+      "cover_image_url": "https://cdn.eventcartel.com/media/thumb/c2/79/c279b9fee32c992c933b863f1409e45a.webp",
+      "source": "EventCartel / Sky Wise",
       "event_category": "concert"
     },
     {
@@ -336,13 +336,13 @@
       "event_category": "workshop"
     },
     {
-      "id": "e39f6a16-e807-4c1f-b049-3375a239ec96",
-      "event_title": "[NEW YORK] FESTIVE CONCERT-DISCO FOR UKRAINE'S CONSTITUTION DAY",
+      "id": "1a1241cb-90b8-4b1b-9f0a-91cb7de55185",
+      "event_title": "Songs Across Regions",
       "event_date": "2026-06-28",
       "end_date": "2026-06-28",
-      "ticket_link": "https://eventcartel.com/events/concert/new-york-festive-concert-disco-for-ukraines-constitution-day-new-york-NY-sky-wise-tickets-14016",
-      "cover_image_url": "https://cdn.eventcartel.com/media/thumb/c2/79/c279b9fee32c992c933b863f1409e45a.webp",
-      "source": "EventCartel / Sky Wise",
+      "ticket_link": "https://www.eventbrite.com/e/songs-across-regions-tickets-1990703356327",
+      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1185776171%252F502975386231%252F1%252Foriginal.20260530-203407%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Db1f55e75e0b4ff892a87471cfa972e44&w=1880&q=75",
+      "source": "Eventbrite",
       "event_category": "concert"
     },
     {
@@ -426,6 +426,16 @@
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/SQ26-POST-ENG-TNMK-768x960.jpg",
       "source": "Soyuzivka",
       "event_category": "festival"
+    },
+    {
+      "id": "fb4a8562-190e-4d12-a0f0-9e01aa40b84e",
+      "event_title": "Forest, Fire & BuddyA 3-Day Retreat · TISTO's Greatest Hits",
+      "event_date": "2026-07-12",
+      "end_date": "2026-07-12",
+      "ticket_link": "https://tisto.nyc/courses/retreat-tisto",
+      "cover_image_url": null,
+      "source": "Tisto NYC",
+      "event_category": "workshop"
     },
     {
       "id": "0d6e9081-66f1-4bbf-978e-075d33e43a67",
