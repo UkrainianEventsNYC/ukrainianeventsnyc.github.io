@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T07:47:12.505183-04:00",
+  "generated_at": "2026-06-13T06:31:49.898541-04:00",
   "this_week_end": "2026-06-14",
   "this_month_end": "2026-06-30",
   "next_month_start": "2026-07-01",
@@ -26,64 +26,24 @@
       "event_category": "discussion"
     },
     {
-      "id": "0ac417cf-18b2-4374-89b5-b358db501858",
-      "event_title": "Купала на Йвана: майстерклас з купальських пісень з Іриною Данилейко",
-      "event_date": "2026-06-10",
-      "end_date": "2026-06-12",
-      "ticket_link": "https://forms.gle/yZdFihJ34VmL7LZv6",
-      "cover_image_url": "https://lh3.googleusercontent.com/12yhDvlCQ8kDPRgGswgrlhKDW7GruuHeJb4ZJRzFw-d6Kw9Og9R-E2pMhOm6F1P-Jl7hDwzx_qlMGZ4=w1200-h630-p",
-      "source": "Kolo Charitable Fund / Znai Svoiu Ukrainu",
-      "event_category": "workshop"
-    },
-    {
-      "id": "fd44e887-e258-4852-8116-74d98401ce15",
-      "event_title": "Maya Deren in Dialogue with Contemporary Ukrainian-American Artists",
-      "event_date": "2026-06-12",
-      "end_date": "2026-06-12",
-      "ticket_link": "https://borshchofart.org/programs/public-programs/dorosh-slinko-grokhovsky-selthofner-20260612",
-      "cover_image_url": "https://borshch-of-art.s3.us-east-1.amazonaws.com/events/6a036f109567039c6ebe0543/_website-maya-deren-in-dialogue-with-contemporary-ukrainian-american-artists-%281%29.png",
-      "source": "Borshch of Art",
-      "event_category": "discussion"
-    },
-    {
-      "id": "2971e423-9232-4ea1-a7d9-90d38a20747e",
-      "event_title": "Let's Dance June",
-      "event_date": "2026-06-12",
-      "end_date": "2026-06-12",
-      "ticket_link": "https://www.helpinghandsukraine.org/lets-dance-june/",
-      "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2026/02/silhouette-dancing-people-disco-colorful-light-scaled.jpg",
-      "source": "Helping Hands for Ukraine",
-      "event_category": "performance"
-    },
-    {
-      "id": "5b689b16-8bdc-4480-ac4f-fbd916d23a17",
-      "event_title": "World Cup Music Fest - Dromnyc.com",
-      "event_date": "2026-06-12",
-      "end_date": "2026-06-12",
-      "ticket_link": "https://dromnyc.com/event/world-cup-music-fest-jun-12/",
-      "cover_image_url": "https://dromnyc.com/wp-content/uploads/2026/04/June-12-copy.jpg",
-      "source": "Drom NYC",
+      "id": "76b7e720-1c76-4168-bac0-d0ef4d05729e",
+      "event_title": "Ukrainian Zustrich Zabava in Trenton",
+      "event_date": "2026-06-13",
+      "end_date": "2026-06-13",
+      "ticket_link": "https://www.sharvarok.com/en/listing/ukrainian-zustrich-zabava-in-trenton/1304",
+      "cover_image_url": "https://images.sharvarok.com/post/1304/1780428041404-493276838.jpeg",
+      "source": "Sharvarok",
       "event_category": "festival"
     },
     {
-      "id": "f68a917a-de20-47f7-bd01-704cf9db1d0e",
-      "event_title": "YiYi",
-      "event_date": "2026-06-12",
-      "end_date": "2026-06-12",
-      "ticket_link": "https://www.viewcy.com/event/yiyi",
-      "cover_image_url": "https://www.viewcy.com/api/og-image?url=https%3A%2F%2Fwww.viewcy.com%2Frails%2Factive_storage%2Frepresentations%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6MTc5MjYxLCJwdXIiOiJibG9iX2lkIn19--13e6fea5d9e06e73fd6f264956cf1d1622adc1eb%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzMyMCwxODBdLCJzYXZlciI6eyJzdHJpcCI6dHJ1ZSwicXVhbGl0eSI6ODUsImludGVybGFjZSI6IlBsYW5lIn19LCJwdXIiOiJ2YXJpYXRpb24ifX0%3D--5decdaaf8a5eba4176df170d1747a0304d4eaa26%2F36C3B204-EDE7-4094-B7B2-45D50122FA56.jpg",
-      "source": "Jalopy Theatre",
-      "event_category": "concert"
-    },
-    {
-      "id": "73e16fe5-742c-454e-a642-3372795c9ede",
-      "event_title": "Jinjer at Palladium Times Square",
-      "event_date": "2026-06-12",
-      "end_date": "2026-06-12",
-      "ticket_link": "https://www.bandsintown.com/t/108089855?app_id=js_jinjer-metal.com&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
-      "cover_image_url": "https://static.tildacdn.net/tild3033-3632-4931-b035-663839303561/main.jpg",
-      "source": "Jinjer",
-      "event_category": "concert"
+      "id": "4fd0d30c-cb5e-4dd8-810f-862e92ab286e",
+      "event_title": "Art Therapy",
+      "event_date": "2026-06-13",
+      "end_date": "2026-06-13",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/group-therapy-2",
+      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1780407860/organizations/7/b/8/1/7b81cdf4-e002-4505-be5c-a3b004a24046/3db067aa-c6d4-4fa2-bab3-2b7680cbb5cb.png",
+      "source": "Liberty Ukraine Foundation",
+      "event_category": "workshop"
     },
     {
       "id": "f9de7c75-a8dc-41a0-90f0-905a5511120f",
@@ -96,16 +56,6 @@
       "event_category": "workshop"
     },
     {
-      "id": "76b7e720-1c76-4168-bac0-d0ef4d05729e",
-      "event_title": "Ukrainian Zustrich Zabava in Trenton",
-      "event_date": "2026-06-13",
-      "end_date": "2026-06-13",
-      "ticket_link": "https://www.sharvarok.com/en/listing/ukrainian-zustrich-zabava-in-trenton/1304",
-      "cover_image_url": "https://images.sharvarok.com/post/1304/1780428041404-493276838.jpeg",
-      "source": "Sharvarok",
-      "event_category": "festival"
-    },
-    {
       "id": "5599e81c-5a4a-44eb-a743-96b1dcf3b7b6",
       "event_title": "With You, The Unknown Becomes An Adventure: A Community Performance by TISTO Studio",
       "event_date": "2026-06-13",
@@ -116,14 +66,14 @@
       "event_category": "performance"
     },
     {
-      "id": "4fd0d30c-cb5e-4dd8-810f-862e92ab286e",
-      "event_title": "Art Therapy",
-      "event_date": "2026-06-13",
-      "end_date": "2026-06-13",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/group-therapy-2",
-      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1780407860/organizations/7/b/8/1/7b81cdf4-e002-4505-be5c-a3b004a24046/3db067aa-c6d4-4fa2-bab3-2b7680cbb5cb.png",
-      "source": "Liberty Ukraine Foundation",
-      "event_category": "workshop"
+      "id": "a3e25c09-bfd7-45e1-946d-bd7af312132b",
+      "event_title": "Experience in New York",
+      "event_date": "2026-06-14",
+      "end_date": "2026-06-14",
+      "ticket_link": "https://www.tarsahno.com/event-details/experience-in-new-york",
+      "cover_image_url": "https://static.wixstatic.com/media/55cd19_db4ae9f7705f454fb80c7939c348f9b5~mv2.png/v1/fill/w_1920,h_1080,al_c/55cd19_db4ae9f7705f454fb80c7939c348f9b5~mv2.png",
+      "source": "Tarsahno",
+      "event_category": "concert"
     },
     {
       "id": "f2e1162d-e464-47aa-898f-93b91da0ef50",
@@ -144,16 +94,6 @@
       "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1777567545/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/f696dfe9-1091-456a-b0ae-3e62b18188c2.png",
       "source": "Ukrainian Museum Zeffy",
       "event_category": "workshop"
-    },
-    {
-      "id": "a3e25c09-bfd7-45e1-946d-bd7af312132b",
-      "event_title": "Experience in New York",
-      "event_date": "2026-06-14",
-      "end_date": "2026-06-14",
-      "ticket_link": "https://www.tarsahno.com/event-details/experience-in-new-york",
-      "cover_image_url": "https://static.wixstatic.com/media/55cd19_db4ae9f7705f454fb80c7939c348f9b5~mv2.png/v1/fill/w_1920,h_1080,al_c/55cd19_db4ae9f7705f454fb80c7939c348f9b5~mv2.png",
-      "source": "Tarsahno",
-      "event_category": "concert"
     },
     {
       "id": "14bde3ce-8baf-4622-b2df-afd6c5e31eab",
@@ -196,16 +136,6 @@
       "event_category": "concert"
     },
     {
-      "id": "29225eee-dda1-4d30-8e92-025a2f2b04a2",
-      "event_title": "Studio Glass: International Movement and Ukrainian Art|ONLINE event",
-      "event_date": "2026-06-20",
-      "end_date": "2026-06-20",
-      "ticket_link": "https://www.sharvarok.com/en/listing/studio-glass-international-movement-and-ukrainian-artonline-event/1320",
-      "cover_image_url": "https://images.sharvarok.com/post/1320/1781073914203-672203604.jpg",
-      "source": "Sharvarok",
-      "event_category": "art"
-    },
-    {
       "id": "3046c15c-7b29-45b8-976b-e1784edcb35e",
       "event_title": "Members' Preview: The Ground Shifts Beneath Our Feet | Zhanna Kadyrova",
       "event_date": "2026-06-20",
@@ -214,6 +144,16 @@
       "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1781198150/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/88742a31-1ca4-4950-84f9-24ae59985cb7.png",
       "source": "Ukrainian Museum Zeffy",
       "event_category": "exhibitions"
+    },
+    {
+      "id": "29225eee-dda1-4d30-8e92-025a2f2b04a2",
+      "event_title": "Studio Glass: International Movement and Ukrainian Art|ONLINE event",
+      "event_date": "2026-06-20",
+      "end_date": "2026-06-20",
+      "ticket_link": "https://www.sharvarok.com/en/listing/studio-glass-international-movement-and-ukrainian-artonline-event/1320",
+      "cover_image_url": "https://images.sharvarok.com/post/1320/1781073914203-672203604.jpg",
+      "source": "Sharvarok",
+      "event_category": "art"
     },
     {
       "id": "ef33356a-e588-48d6-905c-4e74ec4134d2",
@@ -236,16 +176,6 @@
       "event_category": "other"
     },
     {
-      "id": "710fd197-d869-47e7-9225-c37a7b8e3fc8",
-      "event_title": "NashiPredky@Home Virtual Office Hours",
-      "event_date": "2026-06-23",
-      "end_date": "2026-06-23",
-      "ticket_link": "https://www.ukrhec.org/events/nashipredkyhome-virtual-office-hours-16",
-      "cover_image_url": "https://www.ukrhec.org/files/styles/card-copy-1/public/events/nphome_june_2026_office_hours.png",
-      "source": "Ukrainian History and Education Center",
-      "event_category": "other"
-    },
-    {
       "id": "b9f58474-f164-4d99-90cd-82b9dbbdf4f2",
       "event_title": "Present, Play & Teamworkan experience for leaders and professionals building modern teams",
       "event_date": "2026-06-23",
@@ -263,6 +193,16 @@
       "ticket_link": "https://ukrainianinstitute.org/event/2026-06-23-medieval-game-night/",
       "cover_image_url": null,
       "source": "Ukrainian Institute",
+      "event_category": "other"
+    },
+    {
+      "id": "710fd197-d869-47e7-9225-c37a7b8e3fc8",
+      "event_title": "NashiPredky@Home Virtual Office Hours",
+      "event_date": "2026-06-23",
+      "end_date": "2026-06-23",
+      "ticket_link": "https://www.ukrhec.org/events/nashipredkyhome-virtual-office-hours-16",
+      "cover_image_url": "https://www.ukrhec.org/files/styles/card-copy-1/public/events/nphome_june_2026_office_hours.png",
+      "source": "Ukrainian History and Education Center",
       "event_category": "other"
     },
     {
@@ -296,16 +236,6 @@
       "event_category": "workshop"
     },
     {
-      "id": "8b315e50-5fc3-4c61-b18e-e7e7312c6062",
-      "event_title": "BEZ OBMEZHEN Strong Hearts Tour — Rochester",
-      "event_date": "2026-06-27",
-      "end_date": "2026-06-27",
-      "ticket_link": "https://www.sharvarok.com/en/listing/bez-obmezhen-strong-hearts-tour-rochester/1213",
-      "cover_image_url": "https://images.sharvarok.com/post/1213/1777924442623-25781003.jpeg",
-      "source": "Sharvarok",
-      "event_category": "concert"
-    },
-    {
       "id": "dae88d5e-5e81-4cd8-b0b7-fbd73b1b31f7",
       "event_title": "The Empty Chair: In Memory of Maksym Kryvtsov",
       "event_date": "2026-06-27",
@@ -313,6 +243,26 @@
       "ticket_link": "https://www.zeffy.com/en-US/ticketing/the-empty-chair-in-memory-of-maksym-kryvtsov",
       "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1781124097/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/e92474f6-c829-4218-afc8-11aa55e0a578.png",
       "source": "Ukrainian Museum Zeffy",
+      "event_category": "concert"
+    },
+    {
+      "id": "4db35c4b-56ea-4b91-8049-451e0eb3ff8b",
+      "event_title": "Kupala Night Celebration",
+      "event_date": "2026-06-27",
+      "end_date": "2026-06-27",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/kupala-night-celebration",
+      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1781311618/organizations/5/1/e/6/51e679e0-b44e-4f15-a3d0-f944bbafdc87/f4b1302f-39f9-4eae-85da-748d29bf0bc0.png",
+      "source": "Svitanok NYC Zeffy",
+      "event_category": "concert"
+    },
+    {
+      "id": "8b315e50-5fc3-4c61-b18e-e7e7312c6062",
+      "event_title": "BEZ OBMEZHEN Strong Hearts Tour — Rochester",
+      "event_date": "2026-06-27",
+      "end_date": "2026-06-27",
+      "ticket_link": "https://www.sharvarok.com/en/listing/bez-obmezhen-strong-hearts-tour-rochester/1213",
+      "cover_image_url": "https://images.sharvarok.com/post/1213/1777924442623-25781003.jpeg",
+      "source": "Sharvarok",
       "event_category": "concert"
     },
     {
@@ -368,16 +318,6 @@
       "event_category": "discussion"
     },
     {
-      "id": "c87b6b2f-4c3d-4236-9d50-b187ad5101df",
-      "event_title": "Vasyl Baidak - New York City",
-      "event_date": "2026-07-03",
-      "end_date": "2026-07-03",
-      "ticket_link": "https://waylight.me/ucrazy/event/16319-cd91c",
-      "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1773094064_-1200630.jpg",
-      "source": "Waylight",
-      "event_category": "standup"
-    },
-    {
       "id": "d0ff2077-0c30-46dd-a7da-132667e16d37",
       "event_title": "July 4th Celebration",
       "event_date": "2026-07-03",
@@ -386,6 +326,16 @@
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/July4th-1024x576.png",
       "source": "Soyuzivka",
       "event_category": "festival"
+    },
+    {
+      "id": "c87b6b2f-4c3d-4236-9d50-b187ad5101df",
+      "event_title": "Vasyl Baidak - New York City",
+      "event_date": "2026-07-03",
+      "end_date": "2026-07-03",
+      "ticket_link": "https://waylight.me/ucrazy/event/16319-cd91c",
+      "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1773094064_-1200630.jpg",
+      "source": "Waylight",
+      "event_category": "standup"
     },
     {
       "id": "acf665c7-63ac-4d64-b842-a6426b57414a",
@@ -456,6 +406,16 @@
       "cover_image_url": "https://ukrainian.us/storage/event/1/OUAwSQ6frVWOQobQNL2wSdNSxzioEOqH-source.png?v=0.1&s=3111387e6703e49a3905c30874fb7c4d",
       "source": "Ukrainian USA",
       "event_category": "festival"
+    },
+    {
+      "id": "90ad9464-9cad-4ca2-9940-859487dedb72",
+      "event_title": "On Nature",
+      "event_date": "2026-07-23",
+      "end_date": "2026-07-23",
+      "ticket_link": "https://www.mriya.nyc/upcoming-exhibitions/on-nature",
+      "cover_image_url": "https://cdn.prod.website-files.com/67fe29fac03351cdc1b58f18/6a2c57e43597c4e82dc0b9d5_0c8f1fc7-e25e-4931-a3d4-00b5bbbab152.JPG",
+      "source": "MRIYA Gallery",
+      "event_category": "exhibitions"
     },
     {
       "id": "56622ae2-34c6-4829-a1c7-75d37c43e916",
@@ -550,16 +510,6 @@
       "event_category": "festival"
     },
     {
-      "id": "0e9a9824-a1fa-4c05-8cab-56056cac5141",
-      "event_title": "KOLO",
-      "event_date": "2026-08-23",
-      "end_date": "2026-08-23",
-      "ticket_link": "https://ra.co/events/2451595",
-      "cover_image_url": "https://images.ra.co/92c04359fc72b1a3e1f15e61c3c6597673a02041.png",
-      "source": "Resident Advisor (KOLO NYC)",
-      "event_category": "concert"
-    },
-    {
       "id": "6e09be07-367d-42d5-b19a-3ebc96a34241",
       "event_title": "Ukrainian Independence Folk Festival",
       "event_date": "2026-08-23",
@@ -568,6 +518,16 @@
       "cover_image_url": "https://www.tryzub.org/resources/Pictures/ukrainian-folk-festival-2025.jpg",
       "source": "Tryzub",
       "event_category": "festival"
+    },
+    {
+      "id": "0e9a9824-a1fa-4c05-8cab-56056cac5141",
+      "event_title": "KOLO",
+      "event_date": "2026-08-23",
+      "end_date": "2026-08-23",
+      "ticket_link": "https://ra.co/events/2451595",
+      "cover_image_url": "https://images.ra.co/92c04359fc72b1a3e1f15e61c3c6597673a02041.png",
+      "source": "Resident Advisor (KOLO NYC)",
+      "event_category": "concert"
     },
     {
       "id": "20e80d05-1cc2-46f4-8ee5-6c9d82d2e10f",
