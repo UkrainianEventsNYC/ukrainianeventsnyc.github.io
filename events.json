@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T06:31:49.898541-04:00",
+  "generated_at": "2026-06-14T06:53:36.705036-04:00",
   "this_week_end": "2026-06-14",
   "this_month_end": "2026-06-30",
   "next_month_start": "2026-07-01",
@@ -26,44 +26,24 @@
       "event_category": "discussion"
     },
     {
-      "id": "76b7e720-1c76-4168-bac0-d0ef4d05729e",
-      "event_title": "Ukrainian Zustrich Zabava in Trenton",
-      "event_date": "2026-06-13",
-      "end_date": "2026-06-13",
-      "ticket_link": "https://www.sharvarok.com/en/listing/ukrainian-zustrich-zabava-in-trenton/1304",
-      "cover_image_url": "https://images.sharvarok.com/post/1304/1780428041404-493276838.jpeg",
-      "source": "Sharvarok",
-      "event_category": "festival"
-    },
-    {
-      "id": "4fd0d30c-cb5e-4dd8-810f-862e92ab286e",
-      "event_title": "Art Therapy",
-      "event_date": "2026-06-13",
-      "end_date": "2026-06-13",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/group-therapy-2",
-      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1780407860/organizations/7/b/8/1/7b81cdf4-e002-4505-be5c-a3b004a24046/3db067aa-c6d4-4fa2-bab3-2b7680cbb5cb.png",
-      "source": "Liberty Ukraine Foundation",
+      "id": "14bde3ce-8baf-4622-b2df-afd6c5e31eab",
+      "event_title": "Classic Make-up by Alina Klymko",
+      "event_date": "2026-06-14",
+      "end_date": "2026-06-14",
+      "ticket_link": "https://ukrainian.us/events/classic-make-up",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/ZWmr7Hd5R7fgI45X3IdOxAGwOZEahN1E-source.png?v=0.1&s=cb4049f9a3c52b2c3146fb7db48bad50",
+      "source": "Ukrainian USA",
       "event_category": "workshop"
     },
     {
-      "id": "f9de7c75-a8dc-41a0-90f0-905a5511120f",
-      "event_title": "Petrykivka Painting Workshop with Kateryna Kryvolap",
-      "event_date": "2026-06-13",
-      "end_date": "2026-06-13",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/petrykivka-painting-workshop-with-kateryna-kryvolap",
-      "cover_image_url": "https://www.theukrainianmuseum.org/wp-content/uploads/Petrykivka-Painting-Workshop-with-Kateryna-Kryvolap-1000-x-500-px.jpg",
-      "source": "Ukrainian Museum",
+      "id": "f93dd29b-6ded-403d-ae95-2da2c37f4ebb",
+      "event_title": "PETRYKIVKA PAINTING WORKSHOP with Kateryna Kryvolap (Session 2)",
+      "event_date": "2026-06-14",
+      "end_date": "2026-06-14",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/petrykivka-painting-workshop-with-kateryna-kryvolap-2",
+      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1777567545/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/f696dfe9-1091-456a-b0ae-3e62b18188c2.png",
+      "source": "Ukrainian Museum Zeffy",
       "event_category": "workshop"
-    },
-    {
-      "id": "5599e81c-5a4a-44eb-a743-96b1dcf3b7b6",
-      "event_title": "With You, The Unknown Becomes An Adventure: A Community Performance by TISTO Studio",
-      "event_date": "2026-06-13",
-      "end_date": "2026-06-13",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/with-you-the-unknown-becomes-an-adventure-a-community-performance-by-tisto-studio",
-      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1780423304/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/6d1eaa5f-9a4e-492d-a8b4-a0298d739a88.png",
-      "source": "Ukrainian Museum / TISTO Studio",
-      "event_category": "performance"
     },
     {
       "id": "a3e25c09-bfd7-45e1-946d-bd7af312132b",
@@ -86,24 +66,14 @@
       "event_category": "workshop"
     },
     {
-      "id": "f93dd29b-6ded-403d-ae95-2da2c37f4ebb",
-      "event_title": "PETRYKIVKA PAINTING WORKSHOP with Kateryna Kryvolap (Session 2)",
+      "id": "7f74d4da-08fe-4642-afd0-7a1741414a8b",
+      "event_title": "Boundless: Min Xiao-Fen and Julian Kytasty · Lincoln Center",
       "event_date": "2026-06-14",
       "end_date": "2026-06-14",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/petrykivka-painting-workshop-with-kateryna-kryvolap-2",
-      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1777567545/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/f696dfe9-1091-456a-b0ae-3e62b18188c2.png",
-      "source": "Ukrainian Museum Zeffy",
-      "event_category": "workshop"
-    },
-    {
-      "id": "14bde3ce-8baf-4622-b2df-afd6c5e31eab",
-      "event_title": "Classic Make-up by Alina Klymko",
-      "event_date": "2026-06-14",
-      "end_date": "2026-06-14",
-      "ticket_link": "https://ukrainian.us/events/classic-make-up",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/ZWmr7Hd5R7fgI45X3IdOxAGwOZEahN1E-source.png?v=0.1&s=cb4049f9a3c52b2c3146fb7db48bad50",
-      "source": "Ukrainian USA",
-      "event_category": "workshop"
+      "ticket_link": "https://lincolncenter.org/series/lincoln-center-presents/boundless-min-xiao-fen-and-julian-kytasty",
+      "cover_image_url": "https://images.lincolncenter.org/image/upload/v1768512273/exwhm6mrh8pj2clne3wd.jpg",
+      "source": "Lincoln Center",
+      "event_category": "other"
     },
     {
       "id": "93349af0-c4a7-4f5a-97f6-6f75d6b0e0f4",
@@ -146,16 +116,6 @@
       "event_category": "exhibitions"
     },
     {
-      "id": "29225eee-dda1-4d30-8e92-025a2f2b04a2",
-      "event_title": "Studio Glass: International Movement and Ukrainian Art|ONLINE event",
-      "event_date": "2026-06-20",
-      "end_date": "2026-06-20",
-      "ticket_link": "https://www.sharvarok.com/en/listing/studio-glass-international-movement-and-ukrainian-artonline-event/1320",
-      "cover_image_url": "https://images.sharvarok.com/post/1320/1781073914203-672203604.jpg",
-      "source": "Sharvarok",
-      "event_category": "art"
-    },
-    {
       "id": "ef33356a-e588-48d6-905c-4e74ec4134d2",
       "event_title": "Charity Evening ARONIA in Support of Ukraine",
       "event_date": "2026-06-20",
@@ -166,6 +126,16 @@
       "event_category": "festival"
     },
     {
+      "id": "29225eee-dda1-4d30-8e92-025a2f2b04a2",
+      "event_title": "Studio Glass: International Movement and Ukrainian Art|ONLINE event",
+      "event_date": "2026-06-20",
+      "end_date": "2026-06-20",
+      "ticket_link": "https://www.sharvarok.com/en/listing/studio-glass-international-movement-and-ukrainian-artonline-event/1320",
+      "cover_image_url": "https://images.sharvarok.com/post/1320/1781073914203-672203604.jpg",
+      "source": "Sharvarok",
+      "event_category": "art"
+    },
+    {
       "id": "832fc00a-3cc0-44ca-a654-a1294e3a95db",
       "event_title": "Father’s Day Brunch",
       "event_date": "2026-06-21",
@@ -173,26 +143,6 @@
       "ticket_link": "https://soyuzivka.com/calendar-of-events/fathers-day-brunch/",
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/05/Fathers-Day.png",
       "source": "Soyuzivka",
-      "event_category": "other"
-    },
-    {
-      "id": "b9f58474-f164-4d99-90cd-82b9dbbdf4f2",
-      "event_title": "Present, Play & Teamworkan experience for leaders and professionals building modern teams",
-      "event_date": "2026-06-23",
-      "end_date": "2026-06-23",
-      "ticket_link": "https://tisto.nyc/workshops/06-23-present-play-teamwork",
-      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
-      "source": "Tisto NYC",
-      "event_category": "workshop"
-    },
-    {
-      "id": "0a58449d-3335-4f8b-b330-fc630e97372f",
-      "event_title": "Medieval Game Night",
-      "event_date": "2026-06-23",
-      "end_date": "2026-06-23",
-      "ticket_link": "https://ukrainianinstitute.org/event/2026-06-23-medieval-game-night/",
-      "cover_image_url": null,
-      "source": "Ukrainian Institute",
       "event_category": "other"
     },
     {
@@ -206,13 +156,23 @@
       "event_category": "other"
     },
     {
-      "id": "d8fd4108-7958-4725-8bf6-89027f30c9b5",
-      "event_title": "Red, White and Blue: A Pysanka to Celebrate America's Semiquincentennial (Virtual Pysanka Demo)",
-      "event_date": "2026-06-24",
-      "end_date": "2026-06-24",
-      "ticket_link": "https://www.ukrhec.org/events/red-white-blue-pysanka-celebrate-americas-semiquincentennial-virtual-pysanka-demo",
-      "cover_image_url": "https://www.ukrhec.org/files/styles/card-copy-1/public/events/wallis_june_2026.jpg",
-      "source": "Ukrainian History and Education Center",
+      "id": "0a58449d-3335-4f8b-b330-fc630e97372f",
+      "event_title": "Medieval Game Night",
+      "event_date": "2026-06-23",
+      "end_date": "2026-06-23",
+      "ticket_link": "https://ukrainianinstitute.org/event/2026-06-23-medieval-game-night/",
+      "cover_image_url": null,
+      "source": "Ukrainian Institute",
+      "event_category": "other"
+    },
+    {
+      "id": "b9f58474-f164-4d99-90cd-82b9dbbdf4f2",
+      "event_title": "Present, Play & Teamworkan experience for leaders and professionals building modern teams",
+      "event_date": "2026-06-23",
+      "end_date": "2026-06-23",
+      "ticket_link": "https://tisto.nyc/workshops/06-23-present-play-teamwork",
+      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
+      "source": "Tisto NYC",
       "event_category": "workshop"
     },
     {
@@ -226,6 +186,16 @@
       "event_category": "sport"
     },
     {
+      "id": "d8fd4108-7958-4725-8bf6-89027f30c9b5",
+      "event_title": "Red, White and Blue: A Pysanka to Celebrate America's Semiquincentennial (Virtual Pysanka Demo)",
+      "event_date": "2026-06-24",
+      "end_date": "2026-06-24",
+      "ticket_link": "https://www.ukrhec.org/events/red-white-blue-pysanka-celebrate-americas-semiquincentennial-virtual-pysanka-demo",
+      "cover_image_url": "https://www.ukrhec.org/files/styles/card-copy-1/public/events/wallis_june_2026.jpg",
+      "source": "Ukrainian History and Education Center",
+      "event_category": "workshop"
+    },
+    {
       "id": "acf641a7-471c-4c7e-a033-9b560e21e9cd",
       "event_title": "Shared Experience Builds Teamsan experience for leaders and professionals working with teams",
       "event_date": "2026-06-25",
@@ -234,6 +204,16 @@
       "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
       "source": "Tisto NYC",
       "event_category": "workshop"
+    },
+    {
+      "id": "8b315e50-5fc3-4c61-b18e-e7e7312c6062",
+      "event_title": "BEZ OBMEZHEN Strong Hearts Tour — Rochester",
+      "event_date": "2026-06-27",
+      "end_date": "2026-06-27",
+      "ticket_link": "https://www.sharvarok.com/en/listing/bez-obmezhen-strong-hearts-tour-rochester/1213",
+      "cover_image_url": "https://images.sharvarok.com/post/1213/1777924442623-25781003.jpeg",
+      "source": "Sharvarok",
+      "event_category": "concert"
     },
     {
       "id": "dae88d5e-5e81-4cd8-b0b7-fbd73b1b31f7",
@@ -256,14 +236,14 @@
       "event_category": "concert"
     },
     {
-      "id": "8b315e50-5fc3-4c61-b18e-e7e7312c6062",
-      "event_title": "BEZ OBMEZHEN Strong Hearts Tour — Rochester",
-      "event_date": "2026-06-27",
-      "end_date": "2026-06-27",
-      "ticket_link": "https://www.sharvarok.com/en/listing/bez-obmezhen-strong-hearts-tour-rochester/1213",
-      "cover_image_url": "https://images.sharvarok.com/post/1213/1777924442623-25781003.jpeg",
-      "source": "Sharvarok",
-      "event_category": "concert"
+      "id": "ba3a0c22-938a-475c-9e25-f15307fefb0c",
+      "event_title": "Present, Play & Teamworkan experience for leaders and professionals shaping team culture",
+      "event_date": "2026-06-28",
+      "end_date": "2026-06-28",
+      "ticket_link": "https://tisto.nyc/workshops/06-28-present-play-teamwork",
+      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
+      "source": "Tisto NYC",
+      "event_category": "workshop"
     },
     {
       "id": "e39f6a16-e807-4c1f-b049-3375a239ec96",
@@ -274,16 +254,6 @@
       "cover_image_url": "https://cdn.eventcartel.com/media/thumb/c2/79/c279b9fee32c992c933b863f1409e45a.webp",
       "source": "EventCartel / Sky Wise",
       "event_category": "concert"
-    },
-    {
-      "id": "ba3a0c22-938a-475c-9e25-f15307fefb0c",
-      "event_title": "Present, Play & Teamworkan experience for leaders and professionals shaping team culture",
-      "event_date": "2026-06-28",
-      "end_date": "2026-06-28",
-      "ticket_link": "https://tisto.nyc/workshops/06-28-present-play-teamwork",
-      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
-      "source": "Tisto NYC",
-      "event_category": "workshop"
     },
     {
       "id": "1a1241cb-90b8-4b1b-9f0a-91cb7de55185",
@@ -318,16 +288,6 @@
       "event_category": "discussion"
     },
     {
-      "id": "d0ff2077-0c30-46dd-a7da-132667e16d37",
-      "event_title": "July 4th Celebration",
-      "event_date": "2026-07-03",
-      "end_date": "2026-07-05",
-      "ticket_link": "https://soyuzivka.com/calendar-of-events/july-4th-celebration/",
-      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/July4th-1024x576.png",
-      "source": "Soyuzivka",
-      "event_category": "festival"
-    },
-    {
       "id": "c87b6b2f-4c3d-4236-9d50-b187ad5101df",
       "event_title": "Vasyl Baidak - New York City",
       "event_date": "2026-07-03",
@@ -336,6 +296,16 @@
       "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1773094064_-1200630.jpg",
       "source": "Waylight",
       "event_category": "standup"
+    },
+    {
+      "id": "d0ff2077-0c30-46dd-a7da-132667e16d37",
+      "event_title": "July 4th Celebration",
+      "event_date": "2026-07-03",
+      "end_date": "2026-07-05",
+      "ticket_link": "https://soyuzivka.com/calendar-of-events/july-4th-celebration/",
+      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/July4th-1024x576.png",
+      "source": "Soyuzivka",
+      "event_category": "festival"
     },
     {
       "id": "acf665c7-63ac-4d64-b842-a6426b57414a",
@@ -510,16 +480,6 @@
       "event_category": "festival"
     },
     {
-      "id": "6e09be07-367d-42d5-b19a-3ebc96a34241",
-      "event_title": "Ukrainian Independence Folk Festival",
-      "event_date": "2026-08-23",
-      "end_date": "2026-08-23",
-      "ticket_link": "https://www.tryzub.org/Ukraine-Festival-2026",
-      "cover_image_url": "https://www.tryzub.org/resources/Pictures/ukrainian-folk-festival-2025.jpg",
-      "source": "Tryzub",
-      "event_category": "festival"
-    },
-    {
       "id": "0e9a9824-a1fa-4c05-8cab-56056cac5141",
       "event_title": "KOLO",
       "event_date": "2026-08-23",
@@ -528,6 +488,16 @@
       "cover_image_url": "https://images.ra.co/92c04359fc72b1a3e1f15e61c3c6597673a02041.png",
       "source": "Resident Advisor (KOLO NYC)",
       "event_category": "concert"
+    },
+    {
+      "id": "6e09be07-367d-42d5-b19a-3ebc96a34241",
+      "event_title": "Ukrainian Independence Folk Festival",
+      "event_date": "2026-08-23",
+      "end_date": "2026-08-23",
+      "ticket_link": "https://www.tryzub.org/Ukraine-Festival-2026",
+      "cover_image_url": "https://www.tryzub.org/resources/Pictures/ukrainian-folk-festival-2025.jpg",
+      "source": "Tryzub",
+      "event_category": "festival"
     },
     {
       "id": "20e80d05-1cc2-46f4-8ee5-6c9d82d2e10f",
