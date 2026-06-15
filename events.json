@@ -1,17 +1,27 @@
 {
-  "generated_at": "2026-06-15T09:57:34.466473-04:00",
+  "generated_at": "2026-06-15T19:33:38.929589-04:00",
   "this_week_end": "2026-06-21",
   "this_month_end": "2026-06-30",
   "next_month_start": "2026-07-01",
   "next_month_end": "2026-07-31",
   "this_month": [
     {
+      "id": "fb664424-a4f1-46bf-89b3-128c35c6ec7b",
+      "event_title": "Life With P. Philip Guston: Paintings and Drawings, 1964-1978",
+      "event_date": "2026-04-21",
+      "end_date": "2026-07-10",
+      "ticket_link": "https://www.instagram.com/p/DZVTnlYESGM/",
+      "cover_image_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/719351751_17941434012240609_4968152271624334438_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=MzkxNTEyMTcyMTEzMzM1MTA3NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTM1MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=9EwoiG35WS0Q7kNvwEj-SC-&_nc_oc=AdrWnDWXDC_7gS1eQIDEnviFVbb14YW7EWSjgm7ncD9Ew6vFGEs04Zt5HVoqfmyTpAI&_nc_zt=23&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_gid=AJIqXQ03m8pA0sEiwJWnsQ&_nc_ss=7b289&oh=00_Af_rmK7ZMYq7h3rYD85xx2NeSmg2KR5QyH-qawYW9OnG2Q&oe=6A363641",
+      "source": "Borshch of Art",
+      "event_category": "exhibitions"
+    },
+    {
       "id": "8d3e9957-f29e-4669-ace3-becfc9e75cfa",
       "event_title": "Ukrainian Gardens",
       "event_date": "2026-05-30",
       "end_date": "2026-06-15",
       "ticket_link": "https://www.gardenmuseum.org.uk/film/ukrainian-gardens/#section-pwd-protected",
-      "cover_image_url": null,
+      "cover_image_url": "https://www.gardenmuseum.org.uk/wp-content/uploads/2026/03/NaiveUkrainianGardens-20-1-1360x550.jpg$0",
       "source": "Garden Museum",
       "event_category": "movie"
     },
@@ -46,6 +56,16 @@
       "event_category": "discussion"
     },
     {
+      "id": "9de5dc26-6937-486f-a4c8-843dff4a6f2b",
+      "event_title": "Ukrainian Learning Club",
+      "event_date": "2026-06-19",
+      "end_date": "2026-06-19",
+      "ticket_link": "https://www.eventbrite.com/e/ukrainian-learning-club-tickets-1989678856019",
+      "cover_image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184704670%2F2867000369111%2F1%2Foriginal.20260515-175041?w=940&auto=format%2Ccompress&q=75&sharp=10&s=1695d8dfddcc883f190383a2f14b3662",
+      "source": "Eventbrite / Kvartira Books",
+      "event_category": "workshop"
+    },
+    {
       "id": "97dcba43-ba00-430e-8538-3b7bc60237cb",
       "event_title": "UKRAINE VECHORNYTCI | Ivo Bobul Concert",
       "event_date": "2026-06-19",
@@ -54,16 +74,6 @@
       "cover_image_url": "https://ukrainian.us/storage/event/1/L_3T_TZqCOaD8yoBBpuhzorYG5SmHMDu-source.png?v=0.1&s=df58425efd9444f8959f0964881596b1",
       "source": "Ukrainian USA",
       "event_category": "concert"
-    },
-    {
-      "id": "3046c15c-7b29-45b8-976b-e1784edcb35e",
-      "event_title": "Members' Preview: The Ground Shifts Beneath Our Feet | Zhanna Kadyrova",
-      "event_date": "2026-06-20",
-      "end_date": "2026-06-20",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/members-preview-exhibition-opening-the-ground-shifts-beneath-our-feet-zhanna-kadyrova",
-      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1781198150/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/88742a31-1ca4-4950-84f9-24ae59985cb7.png",
-      "source": "Ukrainian Museum Zeffy",
-      "event_category": "exhibitions"
     },
     {
       "id": "ef33356a-e588-48d6-905c-4e74ec4134d2",
@@ -76,6 +86,26 @@
       "event_category": "festival"
     },
     {
+      "id": "ef9430b1-3bdc-416c-94ad-2b2af4326c32",
+      "event_title": "Leaving Kiev: Coming Full Circle",
+      "event_date": "2026-06-20",
+      "end_date": "2026-06-21",
+      "ticket_link": "https://www.eventbrite.com/e/leaving-kiev-coming-full-circle-tickets-1989159138530",
+      "cover_image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184966000%2F3001509197795%2F1%2Foriginal.20260519-175339?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.495&fp-y=0.265&s=89bfef21a01e4010e43a23e55eccca96",
+      "source": "Eventbrite / Midtown International Theatre Festival",
+      "event_category": "performance"
+    },
+    {
+      "id": "3046c15c-7b29-45b8-976b-e1784edcb35e",
+      "event_title": "Members' Preview: The Ground Shifts Beneath Our Feet | Zhanna Kadyrova",
+      "event_date": "2026-06-20",
+      "end_date": "2026-06-20",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/members-preview-exhibition-opening-the-ground-shifts-beneath-our-feet-zhanna-kadyrova",
+      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1781198150/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/88742a31-1ca4-4950-84f9-24ae59985cb7.png",
+      "source": "Ukrainian Museum Zeffy",
+      "event_category": "exhibitions"
+    },
+    {
       "id": "29225eee-dda1-4d30-8e92-025a2f2b04a2",
       "event_title": "Studio Glass: International Movement and Ukrainian Art|ONLINE event",
       "event_date": "2026-06-20",
@@ -86,6 +116,26 @@
       "event_category": "art"
     },
     {
+      "id": "b2806173-8802-4c56-87fb-4a610695e4d5",
+      "event_title": "Pilates, Desserts & Community for a Cause",
+      "event_date": "2026-06-20",
+      "end_date": "2026-06-20",
+      "ticket_link": "https://www.instagram.com/p/DZaTYFKuRwf/",
+      "cover_image_url": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-15/721297609_18586511344021245_8104942201694210315_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=MzkxNjUyODA0MzY1MTgzMjg2Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA3OS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=8rZ4ObeAZokQ7kNvwGhqu5N&_nc_oc=Adpl91Zj2hfAuySvmf8MWCdf-Rvi1mPQsjqfZ8xLdjAmfSxMg9RavSQdPAC0il5J10o&_nc_zt=23&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_gid=IDs3n1DI9WX34SWrmZxtnA&_nc_ss=7b689&oh=00_Af_qATsftb2uAxeLek0o2oeWqIPCYNgdyIqEldwySkYF1g&oe=6A3638D9",
+      "source": "Liberty Ukraine Foundation",
+      "event_category": "sport"
+    },
+    {
+      "id": "46c4f240-4ad7-479e-b1dd-2424a6ff9540",
+      "event_title": "Be Brave — Therapeutic Acting Workshop",
+      "event_date": "2026-06-21",
+      "end_date": "2026-06-21",
+      "ticket_link": "https://www.instagram.com/p/DZfkLjVxM8-/",
+      "cover_image_url": "https://scontent-lga3-3.cdninstagram.com/v/t51.82787-15/724148259_18618982339030826_1024354583453168483_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=MzkxODAwOTMyNDM3MDQ0ODE5MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTM2NS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Ga2f3cY5NKkQ7kNvwFP1Vk_&_nc_oc=Adp-PX9QF5lW--qfkkGmRi9DTsQ5Vo6AwueoHHe2_vGsBkY2Tr_SwBJ1OAZITwzm-CY&_nc_zt=23&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_gid=nxul8DcDPljQDa35TvZSWA&_nc_ss=7b689&oh=00_Af_HAjL_7lNCa6XSFxTnHVTq5eISMnp2p7zbqNbxMu5dlQ&oe=6A36555F",
+      "source": "Brave Ukrainians",
+      "event_category": "workshop"
+    },
+    {
       "id": "832fc00a-3cc0-44ca-a654-a1294e3a95db",
       "event_title": "Father’s Day Brunch",
       "event_date": "2026-06-21",
@@ -93,6 +143,16 @@
       "ticket_link": "https://soyuzivka.com/calendar-of-events/fathers-day-brunch/",
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/05/Fathers-Day.png",
       "source": "Soyuzivka",
+      "event_category": "other"
+    },
+    {
+      "id": "710fd197-d869-47e7-9225-c37a7b8e3fc8",
+      "event_title": "NashiPredky@Home Virtual Office Hours",
+      "event_date": "2026-06-23",
+      "end_date": "2026-06-23",
+      "ticket_link": "https://www.ukrhec.org/events/nashipredkyhome-virtual-office-hours-16",
+      "cover_image_url": "https://www.ukrhec.org/files/styles/card-copy-1/public/events/nphome_june_2026_office_hours.png",
+      "source": "Ukrainian History and Education Center",
       "event_category": "other"
     },
     {
@@ -106,34 +166,14 @@
       "event_category": "workshop"
     },
     {
-      "id": "710fd197-d869-47e7-9225-c37a7b8e3fc8",
-      "event_title": "NashiPredky@Home Virtual Office Hours",
-      "event_date": "2026-06-23",
-      "end_date": "2026-06-23",
-      "ticket_link": "https://www.ukrhec.org/events/nashipredkyhome-virtual-office-hours-16",
-      "cover_image_url": "https://www.ukrhec.org/files/styles/card-copy-1/public/events/nphome_june_2026_office_hours.png",
-      "source": "Ukrainian History and Education Center",
-      "event_category": "other"
-    },
-    {
       "id": "0a58449d-3335-4f8b-b330-fc630e97372f",
       "event_title": "Medieval Game Night",
       "event_date": "2026-06-23",
       "end_date": "2026-06-23",
       "ticket_link": "https://ukrainianinstitute.org/event/2026-06-23-medieval-game-night/",
-      "cover_image_url": null,
+      "cover_image_url": "https://ukrainianinstitute.org/wp-content/uploads/2026/06/2026.06.23-Medieval-Game-Night-16x9-1.png$0",
       "source": "Ukrainian Institute",
       "event_category": "other"
-    },
-    {
-      "id": "d8fd4108-7958-4725-8bf6-89027f30c9b5",
-      "event_title": "Red, White and Blue: A Pysanka to Celebrate America's Semiquincentennial (Virtual Pysanka Demo)",
-      "event_date": "2026-06-24",
-      "end_date": "2026-06-24",
-      "ticket_link": "https://www.ukrhec.org/events/red-white-blue-pysanka-celebrate-americas-semiquincentennial-virtual-pysanka-demo",
-      "cover_image_url": "https://www.ukrhec.org/files/styles/card-copy-1/public/events/wallis_june_2026.jpg",
-      "source": "Ukrainian History and Education Center",
-      "event_category": "workshop"
     },
     {
       "id": "281585de-3ad5-4884-b40f-4aea440f021c",
@@ -146,6 +186,16 @@
       "event_category": "sport"
     },
     {
+      "id": "d8fd4108-7958-4725-8bf6-89027f30c9b5",
+      "event_title": "Red, White and Blue: A Pysanka to Celebrate America's Semiquincentennial (Virtual Pysanka Demo)",
+      "event_date": "2026-06-24",
+      "end_date": "2026-06-24",
+      "ticket_link": "https://www.ukrhec.org/events/red-white-blue-pysanka-celebrate-americas-semiquincentennial-virtual-pysanka-demo",
+      "cover_image_url": "https://www.ukrhec.org/files/styles/card-copy-1/public/events/wallis_june_2026.jpg",
+      "source": "Ukrainian History and Education Center",
+      "event_category": "workshop"
+    },
+    {
       "id": "acf641a7-471c-4c7e-a033-9b560e21e9cd",
       "event_title": "Shared Experience Builds Teamsan experience for leaders and professionals working with teams",
       "event_date": "2026-06-25",
@@ -154,16 +204,6 @@
       "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
       "source": "Tisto NYC",
       "event_category": "workshop"
-    },
-    {
-      "id": "4db35c4b-56ea-4b91-8049-451e0eb3ff8b",
-      "event_title": "Kupala Night Celebration",
-      "event_date": "2026-06-27",
-      "end_date": "2026-06-27",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/kupala-night-celebration",
-      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1781311618/organizations/5/1/e/6/51e679e0-b44e-4f15-a3d0-f944bbafdc87/f4b1302f-39f9-4eae-85da-748d29bf0bc0.png",
-      "source": "Svitanok NYC Zeffy",
-      "event_category": "concert"
     },
     {
       "id": "dae88d5e-5e81-4cd8-b0b7-fbd73b1b31f7",
@@ -183,6 +223,16 @@
       "ticket_link": "https://www.sharvarok.com/en/listing/bez-obmezhen-strong-hearts-tour-rochester/1213",
       "cover_image_url": "https://images.sharvarok.com/post/1213/1777924442623-25781003.jpeg",
       "source": "Sharvarok",
+      "event_category": "concert"
+    },
+    {
+      "id": "4db35c4b-56ea-4b91-8049-451e0eb3ff8b",
+      "event_title": "Kupala Night Celebration",
+      "event_date": "2026-06-27",
+      "end_date": "2026-06-27",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/kupala-night-celebration",
+      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1781311618/organizations/5/1/e/6/51e679e0-b44e-4f15-a3d0-f944bbafdc87/f4b1302f-39f9-4eae-85da-748d29bf0bc0.png",
+      "source": "Svitanok NYC Zeffy",
       "event_category": "concert"
     },
     {
@@ -227,6 +277,16 @@
     }
   ],
   "next_month": [
+    {
+      "id": "fb664424-a4f1-46bf-89b3-128c35c6ec7b",
+      "event_title": "Life With P. Philip Guston: Paintings and Drawings, 1964-1978",
+      "event_date": "2026-04-21",
+      "end_date": "2026-07-10",
+      "ticket_link": "https://www.instagram.com/p/DZVTnlYESGM/",
+      "cover_image_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/719351751_17941434012240609_4968152271624334438_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=MzkxNTEyMTcyMTEzMzM1MTA3NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTM1MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=9EwoiG35WS0Q7kNvwEj-SC-&_nc_oc=AdrWnDWXDC_7gS1eQIDEnviFVbb14YW7EWSjgm7ncD9Ew6vFGEs04Zt5HVoqfmyTpAI&_nc_zt=23&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_gid=AJIqXQ03m8pA0sEiwJWnsQ&_nc_ss=7b289&oh=00_Af_rmK7ZMYq7h3rYD85xx2NeSmg2KR5QyH-qawYW9OnG2Q&oe=6A363641",
+      "source": "Borshch of Art",
+      "event_category": "exhibitions"
+    },
     {
       "id": "1f3ec313-29fe-4d25-89dc-20971e1b3785",
       "event_title": "Art in Times of War",
@@ -273,7 +333,7 @@
       "event_date": "2026-07-06",
       "end_date": "2026-07-06",
       "ticket_link": "https://tisto.nyc/courses/retreat-3-5-7",
-      "cover_image_url": null,
+      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/6a2317d50e4d3072865e96a7_July%203%2C%202026%20-%20Retreat%20(1).png$0",
       "source": "Tisto NYC",
       "event_category": "workshop"
     },
@@ -302,8 +362,8 @@
       "event_title": "Cake Painting Workshop",
       "event_date": "2026-07-12",
       "end_date": "2026-07-12",
-      "ticket_link": "https://www.instagram.com/p/DZDIxK_im9g/",
-      "cover_image_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/713903162_17950615881173903_7168967257133006793_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=-UZ5S7TdZpIQ7kNvwGnNq1W&_nc_oc=Adp6kY1qLI5iUISXxJbL7i1kjTSK51jSmyQSeO1E4mmsmXn3wkuZpFahTeWfW281uyU&_nc_zt=23&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_gid=mNFqlBrFloat26e7G1M53A&_nc_ss=7260f&oh=00_Af_4-xHmhd8INYnPtqfQ5G6HF0b4ZOMzOJAWlLwNL1Cy0w&oe=6A28309F",
+      "ticket_link": "https://luma.com/jktws75n",
+      "cover_image_url": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/m4/18df8ee8-cadf-4a14-a221-849a78f956ac.jpg",
       "source": "Ptashka Agency",
       "event_category": "workshop"
     },
@@ -313,7 +373,7 @@
       "event_date": "2026-07-12",
       "end_date": "2026-07-12",
       "ticket_link": "https://tisto.nyc/courses/retreat-tisto",
-      "cover_image_url": null,
+      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/6a2317d50e4d3072865e96a7_July%203%2C%202026%20-%20Retreat%20(1).png$0",
       "source": "Tisto NYC",
       "event_category": "workshop"
     },
@@ -346,6 +406,16 @@
       "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2026/02/silhouette-dancing-people-disco-colorful-light-scaled.jpg",
       "source": "Helping Hands for Ukraine",
       "event_category": "performance"
+    },
+    {
+      "id": "df030e13-f9bd-452d-ba2a-6c83056892cb",
+      "event_title": "COCKTAIL PAINTING PICNIC 🍸🎨",
+      "event_date": "2026-07-26",
+      "end_date": "2026-07-26",
+      "ticket_link": "https://luma.com/99xoie9t",
+      "cover_image_url": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/e8/631a1d2c-9e24-4ea3-b790-01aab3c6e997.jpg",
+      "source": "Ptashka Agency",
+      "event_category": "workshop"
     },
     {
       "id": "407d58a4-ab33-48db-a85f-8ad4b9bebd89",
@@ -420,6 +490,16 @@
       "event_category": "concert"
     },
     {
+      "id": "eaff895d-fd21-4a4a-982c-7eb6e889e6f9",
+      "event_title": "Vyshyvanka Run NYC 2026",
+      "event_date": "2026-08-22",
+      "end_date": "2026-08-22",
+      "ticket_link": "https://runsignup.com/Race/NY/NewYork/VyshyvankaRunNYC",
+      "cover_image_url": "https://d368g9lw5ileu7.cloudfront.net/races/races-168xxx/168069/raceBanner-93U0HSEI-bOmDTl.jpg",
+      "source": "Vyshyvanka Run NYC",
+      "event_category": "sport"
+    },
+    {
       "id": "85924df7-ed77-4e01-98d1-023d6ce49676",
       "event_title": "Independence Day of Ukraine Celebration",
       "event_date": "2026-08-22",
@@ -454,7 +534,7 @@
       "event_title": "Ukrainian Freedom Orchestra — August 25, 2026",
       "event_date": "2026-08-25",
       "end_date": "2026-08-25",
-      "ticket_link": "https://www.ukrainianfreedomorchestra.org/tour#august-25-2026",
+      "ticket_link": "https://www.lincolncenter.org/venue/david-geffen-hall/beethoven-7-andamp-strauss-and39four-last-songsand39-461",
       "cover_image_url": "https://images.squarespace-cdn.com/content/v1/66457d7efd83cf18be302d6f/8fadca50-bfc3-4abe-963d-e5e6cf0e0a60/2026+UFO+Tour+Graphic.png?format=500w$0",
       "source": "Ukrainian Freedom Orchestra",
       "event_category": "concert"
@@ -464,7 +544,7 @@
       "event_title": "Ukrainian Freedom Orchestra — August 26, 2026",
       "event_date": "2026-08-26",
       "end_date": "2026-08-26",
-      "ticket_link": "https://www.ukrainianfreedomorchestra.org/tour#august-26-2026",
+      "ticket_link": "https://www.lincolncenter.org/venue/david-geffen-hall/verdi-requiem-849",
       "cover_image_url": "https://images.squarespace-cdn.com/content/v1/66457d7efd83cf18be302d6f/8fadca50-bfc3-4abe-963d-e5e6cf0e0a60/2026+UFO+Tour+Graphic.png?format=500w$0",
       "source": "Ukrainian Freedom Orchestra",
       "event_category": "concert"

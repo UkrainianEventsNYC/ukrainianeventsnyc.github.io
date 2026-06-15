@@ -1836,10 +1836,12 @@
         : `<div class="card-img-fallback">🇺🇦</div>`;
 
       let dateBadge = '';
-      // Hide badge for long-range events (>14 days, e.g. ongoing courses)
-      const isLongRange = isMultiDay && event.event_date && event.end_date &&
-        ((new Date(event.end_date + 'T12:00:00') - new Date(event.event_date + 'T12:00:00')) / 86400000) > 14;
-      if (dayNum && !isLongRange) {
+      // Keep finite exhibitions/limited runs visible; only very long spans read as ongoing.
+      const rangeDays = isMultiDay && event.event_date && event.end_date
+        ? ((new Date(event.end_date + 'T12:00:00') - new Date(event.event_date + 'T12:00:00')) / 86400000)
+        : 0;
+      const isOngoingRange = rangeDays > 60;
+      if (dayNum && !isOngoingRange) {
         if (isMultiDay && endParts && endParts.dayNum) {
           const rangeMonth = monthShort === endParts.monthShort
             ? monthShort
@@ -1858,7 +1860,7 @@
 
 
       let timeDisplay = dateStr;
-      if (isLongRange) {
+      if (isOngoingRange) {
         timeDisplay = 'Ongoing';
       } else if (isMultiDay && endParts && endParts.dateStr) {
         timeDisplay = `${dateStr} — ${endParts.dateStr}`;
@@ -1873,7 +1875,7 @@
         : `<button class="ticket-btn no-link" disabled>No link available</button>`;
 
       let listDateHtml;
-      if (isLongRange) {
+      if (isOngoingRange) {
         listDateHtml = `<div class="list-view-date"><span class="mon">Ongoing</span><span class="day">—</span></div>`;
       } else if (dayNum) {
         if (isMultiDay && endParts && endParts.dayNum) {
@@ -1934,12 +1936,6 @@
         return { dateStr: raw.slice(0, 10), dayNum: '', monthShort: '' };
       }
     }
-
-    function nextMonthDate() {
-      const d = new Date();
-      return new Date(d.getFullYear(), d.getMonth() + 1, 1);
-    }
-
     // ── HTML escape ───────────────────────────────────────────────────────
     function esc(str) {
       return String(str)
