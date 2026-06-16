@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T20:26:54.341712-04:00",
+  "generated_at": "2026-06-16T01:14:08.925162-04:00",
   "this_week_end": "2026-06-21",
   "this_month_end": "2026-06-30",
   "next_month_start": "2026-07-01",
@@ -14,16 +14,6 @@
       "cover_image_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/719351751_17941434012240609_4968152271624334438_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=MzkxNTEyMTcyMTEzMzM1MTA3NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTM1MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=9EwoiG35WS0Q7kNvwEj-SC-&_nc_oc=AdrWnDWXDC_7gS1eQIDEnviFVbb14YW7EWSjgm7ncD9Ew6vFGEs04Zt5HVoqfmyTpAI&_nc_zt=23&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_gid=AJIqXQ03m8pA0sEiwJWnsQ&_nc_ss=7b289&oh=00_Af_rmK7ZMYq7h3rYD85xx2NeSmg2KR5QyH-qawYW9OnG2Q&oe=6A363641",
       "source": "Borshch of Art",
       "event_category": "exhibitions"
-    },
-    {
-      "id": "8d3e9957-f29e-4669-ace3-becfc9e75cfa",
-      "event_title": "Ukrainian Gardens",
-      "event_date": "2026-05-30",
-      "end_date": "2026-06-15",
-      "ticket_link": "https://www.gardenmuseum.org.uk/film/ukrainian-gardens/#section-pwd-protected",
-      "cover_image_url": "https://www.gardenmuseum.org.uk/wp-content/uploads/2026/03/NaiveUkrainianGardens-20-1-1360x550.jpg",
-      "source": "Garden Museum",
-      "event_category": "movie"
     },
     {
       "id": "1f3ec313-29fe-4d25-89dc-20971e1b3785",
@@ -56,16 +46,6 @@
       "event_category": "discussion"
     },
     {
-      "id": "97dcba43-ba00-430e-8538-3b7bc60237cb",
-      "event_title": "UKRAINE VECHORNYTCI | Ivo Bobul Concert",
-      "event_date": "2026-06-19",
-      "end_date": "2026-06-19",
-      "ticket_link": "https://ukrainian.us/events/newyork_ivo_bobul2",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/L_3T_TZqCOaD8yoBBpuhzorYG5SmHMDu-source.png?v=0.1&s=df58425efd9444f8959f0964881596b1",
-      "source": "Ukrainian USA",
-      "event_category": "concert"
-    },
-    {
       "id": "9de5dc26-6937-486f-a4c8-843dff4a6f2b",
       "event_title": "Ukrainian Learning Club",
       "event_date": "2026-06-19",
@@ -76,14 +56,14 @@
       "event_category": "workshop"
     },
     {
-      "id": "3046c15c-7b29-45b8-976b-e1784edcb35e",
-      "event_title": "Members' Preview: The Ground Shifts Beneath Our Feet | Zhanna Kadyrova",
-      "event_date": "2026-06-20",
-      "end_date": "2026-06-20",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/members-preview-exhibition-opening-the-ground-shifts-beneath-our-feet-zhanna-kadyrova",
-      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1781198150/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/88742a31-1ca4-4950-84f9-24ae59985cb7.png",
-      "source": "Ukrainian Museum Zeffy",
-      "event_category": "exhibitions"
+      "id": "97dcba43-ba00-430e-8538-3b7bc60237cb",
+      "event_title": "UKRAINE VECHORNYTCI | Ivo Bobul Concert",
+      "event_date": "2026-06-19",
+      "end_date": "2026-06-19",
+      "ticket_link": "https://ukrainian.us/events/newyork_ivo_bobul2",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/L_3T_TZqCOaD8yoBBpuhzorYG5SmHMDu-source.png?v=0.1&s=df58425efd9444f8959f0964881596b1",
+      "source": "Ukrainian USA",
+      "event_category": "concert"
     },
     {
       "id": "29225eee-dda1-4d30-8e92-025a2f2b04a2",
@@ -94,6 +74,16 @@
       "cover_image_url": "https://images.sharvarok.com/post/1320/1781073914203-672203604.jpg",
       "source": "Sharvarok",
       "event_category": "art"
+    },
+    {
+      "id": "3046c15c-7b29-45b8-976b-e1784edcb35e",
+      "event_title": "Members' Preview: The Ground Shifts Beneath Our Feet | Zhanna Kadyrova",
+      "event_date": "2026-06-20",
+      "end_date": "2026-06-20",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/members-preview-exhibition-opening-the-ground-shifts-beneath-our-feet-zhanna-kadyrova",
+      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1781198150/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/88742a31-1ca4-4950-84f9-24ae59985cb7.png",
+      "source": "Ukrainian Museum Zeffy",
+      "event_category": "exhibitions"
     },
     {
       "id": "ef33356a-e588-48d6-905c-4e74ec4134d2",
@@ -126,6 +116,16 @@
       "event_category": "performance"
     },
     {
+      "id": "46c4f240-4ad7-479e-b1dd-2424a6ff9540",
+      "event_title": "Be Brave — Therapeutic Acting Workshop",
+      "event_date": "2026-06-21",
+      "end_date": "2026-06-21",
+      "ticket_link": "https://www.instagram.com/p/DZfkLjVxM8-/",
+      "cover_image_url": "https://scontent-lga3-3.cdninstagram.com/v/t51.82787-15/724148259_18618982339030826_1024354583453168483_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=MzkxODAwOTMyNDM3MDQ0ODE5MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTM2NS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Ga2f3cY5NKkQ7kNvwFP1Vk_&_nc_oc=Adp-PX9QF5lW--qfkkGmRi9DTsQ5Vo6AwueoHHe2_vGsBkY2Tr_SwBJ1OAZITwzm-CY&_nc_zt=23&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_gid=nxul8DcDPljQDa35TvZSWA&_nc_ss=7b689&oh=00_Af_HAjL_7lNCa6XSFxTnHVTq5eISMnp2p7zbqNbxMu5dlQ&oe=6A36555F",
+      "source": "Brave Ukrainians",
+      "event_category": "workshop"
+    },
+    {
       "id": "832fc00a-3cc0-44ca-a654-a1294e3a95db",
       "event_title": "Father’s Day Brunch",
       "event_date": "2026-06-21",
@@ -136,13 +136,23 @@
       "event_category": "other"
     },
     {
-      "id": "46c4f240-4ad7-479e-b1dd-2424a6ff9540",
-      "event_title": "Be Brave — Therapeutic Acting Workshop",
-      "event_date": "2026-06-21",
-      "end_date": "2026-06-21",
-      "ticket_link": "https://www.instagram.com/p/DZfkLjVxM8-/",
-      "cover_image_url": "https://scontent-lga3-3.cdninstagram.com/v/t51.82787-15/724148259_18618982339030826_1024354583453168483_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=MzkxODAwOTMyNDM3MDQ0ODE5MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTM2NS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Ga2f3cY5NKkQ7kNvwFP1Vk_&_nc_oc=Adp-PX9QF5lW--qfkkGmRi9DTsQ5Vo6AwueoHHe2_vGsBkY2Tr_SwBJ1OAZITwzm-CY&_nc_zt=23&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_gid=nxul8DcDPljQDa35TvZSWA&_nc_ss=7b689&oh=00_Af_HAjL_7lNCa6XSFxTnHVTq5eISMnp2p7zbqNbxMu5dlQ&oe=6A36555F",
-      "source": "Brave Ukrainians",
+      "id": "0a58449d-3335-4f8b-b330-fc630e97372f",
+      "event_title": "Medieval Game Night",
+      "event_date": "2026-06-23",
+      "end_date": "2026-06-23",
+      "ticket_link": "https://ukrainianinstitute.org/event/2026-06-23-medieval-game-night/",
+      "cover_image_url": "https://ukrainianinstitute.org/wp-content/uploads/2026/06/2026.06.23-Medieval-Game-Night-16x9-1.png",
+      "source": "Ukrainian Institute",
+      "event_category": "other"
+    },
+    {
+      "id": "b9f58474-f164-4d99-90cd-82b9dbbdf4f2",
+      "event_title": "Present, Play & Teamworkan experience for leaders and professionals building modern teams",
+      "event_date": "2026-06-23",
+      "end_date": "2026-06-23",
+      "ticket_link": "https://tisto.nyc/workshops/06-23-present-play-teamwork",
+      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
+      "source": "Tisto NYC",
       "event_category": "workshop"
     },
     {
@@ -156,24 +166,14 @@
       "event_category": "workshop"
     },
     {
-      "id": "b9f58474-f164-4d99-90cd-82b9dbbdf4f2",
-      "event_title": "Present, Play & Teamworkan experience for leaders and professionals building modern teams",
-      "event_date": "2026-06-23",
-      "end_date": "2026-06-23",
-      "ticket_link": "https://tisto.nyc/workshops/06-23-present-play-teamwork",
-      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
-      "source": "Tisto NYC",
-      "event_category": "workshop"
-    },
-    {
-      "id": "0a58449d-3335-4f8b-b330-fc630e97372f",
-      "event_title": "Medieval Game Night",
-      "event_date": "2026-06-23",
-      "end_date": "2026-06-23",
-      "ticket_link": "https://ukrainianinstitute.org/event/2026-06-23-medieval-game-night/",
-      "cover_image_url": "https://ukrainianinstitute.org/wp-content/uploads/2026/06/2026.06.23-Medieval-Game-Night-16x9-1.png",
-      "source": "Ukrainian Institute",
-      "event_category": "other"
+      "id": "281585de-3ad5-4884-b40f-4aea440f021c",
+      "event_title": "Walking Tour: Ukrainian Roots of American Art with Slava Shpigel",
+      "event_date": "2026-06-24",
+      "end_date": "2026-06-24",
+      "ticket_link": "https://borshchofart.org/programs/public-programs/slava-shpigel-20260624",
+      "cover_image_url": "https://borshch-of-art.s3.us-east-1.amazonaws.com/events/6a0536b79567039c6ebe060a/june-24-website-%282000-x-1000-px%29.png",
+      "source": "Borshch of Art",
+      "event_category": "sport"
     },
     {
       "id": "d8fd4108-7958-4725-8bf6-89027f30c9b5",
@@ -184,16 +184,6 @@
       "cover_image_url": "https://www.ukrhec.org/files/styles/card-copy-1/public/events/wallis_june_2026.jpg",
       "source": "Ukrainian History and Education Center",
       "event_category": "workshop"
-    },
-    {
-      "id": "281585de-3ad5-4884-b40f-4aea440f021c",
-      "event_title": "Walking Tour: Ukrainian Roots of American Art with Slava Shpigel",
-      "event_date": "2026-06-24",
-      "end_date": "2026-06-24",
-      "ticket_link": "https://borshchofart.org/programs/public-programs/slava-shpigel-20260624",
-      "cover_image_url": "https://borshch-of-art.s3.us-east-1.amazonaws.com/events/6a0536b79567039c6ebe060a/june-24-website-%282000-x-1000-px%29.png",
-      "source": "Borshch of Art",
-      "event_category": "sport"
     },
     {
       "id": "acf641a7-471c-4c7e-a033-9b560e21e9cd",
@@ -246,16 +236,6 @@
       "event_category": "concert"
     },
     {
-      "id": "ba3a0c22-938a-475c-9e25-f15307fefb0c",
-      "event_title": "Present, Play & Teamworkan experience for leaders and professionals shaping team culture",
-      "event_date": "2026-06-28",
-      "end_date": "2026-06-28",
-      "ticket_link": "https://tisto.nyc/workshops/06-28-present-play-teamwork",
-      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
-      "source": "Tisto NYC",
-      "event_category": "workshop"
-    },
-    {
       "id": "e39f6a16-e807-4c1f-b049-3375a239ec96",
       "event_title": "[NEW YORK] FESTIVE CONCERT-DISCO FOR UKRAINE'S CONSTITUTION DAY",
       "event_date": "2026-06-28",
@@ -264,6 +244,16 @@
       "cover_image_url": "https://cdn.eventcartel.com/media/thumb/c2/79/c279b9fee32c992c933b863f1409e45a.webp",
       "source": "EventCartel / Sky Wise",
       "event_category": "concert"
+    },
+    {
+      "id": "ba3a0c22-938a-475c-9e25-f15307fefb0c",
+      "event_title": "Present, Play & Teamworkan experience for leaders and professionals shaping team culture",
+      "event_date": "2026-06-28",
+      "end_date": "2026-06-28",
+      "ticket_link": "https://tisto.nyc/workshops/06-28-present-play-teamwork",
+      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
+      "source": "Tisto NYC",
+      "event_category": "workshop"
     },
     {
       "id": "b6dcfd81-017b-4125-96f0-1ecd422994c2",
@@ -298,16 +288,6 @@
       "event_category": "discussion"
     },
     {
-      "id": "c87b6b2f-4c3d-4236-9d50-b187ad5101df",
-      "event_title": "Vasyl Baidak - New York City",
-      "event_date": "2026-07-03",
-      "end_date": "2026-07-03",
-      "ticket_link": "https://waylight.me/ucrazy/event/16319-cd91c",
-      "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1773094064_-1200630.jpg",
-      "source": "Waylight",
-      "event_category": "standup"
-    },
-    {
       "id": "d0ff2077-0c30-46dd-a7da-132667e16d37",
       "event_title": "July 4th Celebration",
       "event_date": "2026-07-03",
@@ -316,6 +296,16 @@
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/July4th-1024x576.png",
       "source": "Soyuzivka",
       "event_category": "festival"
+    },
+    {
+      "id": "c87b6b2f-4c3d-4236-9d50-b187ad5101df",
+      "event_title": "Vasyl Baidak - New York City",
+      "event_date": "2026-07-03",
+      "end_date": "2026-07-03",
+      "ticket_link": "https://waylight.me/ucrazy/event/16319-cd91c",
+      "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1773094064_-1200630.jpg",
+      "source": "Waylight",
+      "event_category": "standup"
     },
     {
       "id": "acf665c7-63ac-4d64-b842-a6426b57414a",

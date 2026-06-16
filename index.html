@@ -8,6 +8,7 @@
   <title>🇺🇦 NYC Ukrainian Events</title>
   <meta name="description"
     content="Continuously updated directory of Ukrainian cultural events in New York City Area — sorted by This Month, Next Month, and Upcoming." />
+  <link rel="icon" type="image/svg+xml" href="favicon.svg" />
 
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="website" />
@@ -363,6 +364,16 @@
       color: var(--gold);
       display: block;
       line-height: 1;
+    }
+
+    .date-badge .db-label {
+      display: block;
+      font-size: 0.62rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--muted);
+      line-height: 1.1;
+      margin-bottom: 2px;
     }
 
     /* Card body */
@@ -1836,13 +1847,19 @@
         : `<div class="card-img-fallback">🇺🇦</div>`;
 
       let dateBadge = '';
-      // Keep finite exhibitions/limited runs visible; only very long spans read as ongoing.
+      // Keep date badges useful for both short festivals and longer exhibitions.
       const rangeDays = isMultiDay && event.event_date && event.end_date
         ? ((new Date(event.end_date + 'T12:00:00') - new Date(event.event_date + 'T12:00:00')) / 86400000)
         : 0;
-      const isOngoingRange = rangeDays > 60;
-      if (dayNum && !isOngoingRange) {
-        if (isMultiDay && endParts && endParts.dayNum) {
+      const durationDays = isMultiDay ? rangeDays + 1 : 1;
+      const isLongMultiDay = isMultiDay && durationDays > 7;
+      if (dayNum) {
+        if (isLongMultiDay && endParts && endParts.dayNum) {
+          dateBadge = `<div class="date-badge date-badge-until">
+             <span class="db-label">Until</span>
+             <span class="db-day">${endParts.monthShort} ${endParts.dayNum}</span>
+           </div>`;
+        } else if (isMultiDay && endParts && endParts.dayNum) {
           const rangeMonth = monthShort === endParts.monthShort
             ? monthShort
             : `${monthShort}–${endParts.monthShort}`;
@@ -1860,9 +1877,7 @@
 
 
       let timeDisplay = dateStr;
-      if (isOngoingRange) {
-        timeDisplay = 'Ongoing';
-      } else if (isMultiDay && endParts && endParts.dateStr) {
+      if (isMultiDay && endParts && endParts.dateStr) {
         timeDisplay = `${dateStr} — ${endParts.dateStr}`;
       }
       const timeHtml = timeDisplay
@@ -1875,10 +1890,10 @@
         : `<button class="ticket-btn no-link" disabled>No link available</button>`;
 
       let listDateHtml;
-      if (isOngoingRange) {
-        listDateHtml = `<div class="list-view-date"><span class="mon">Ongoing</span><span class="day">—</span></div>`;
-      } else if (dayNum) {
-        if (isMultiDay && endParts && endParts.dayNum) {
+      if (dayNum) {
+        if (isLongMultiDay && endParts && endParts.dayNum) {
+          listDateHtml = `<div class="list-view-date"><span class="mon">Until</span><span class="day">${endParts.monthShort} ${endParts.dayNum}</span></div>`;
+        } else if (isMultiDay && endParts && endParts.dayNum) {
           const rangeMonth = monthShort === endParts.monthShort
             ? monthShort
             : `${monthShort}–${endParts.monthShort}`;
