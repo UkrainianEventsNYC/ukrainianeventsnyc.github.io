@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T19:33:38.929589-04:00",
+  "generated_at": "2026-06-15T20:26:54.341712-04:00",
   "this_week_end": "2026-06-21",
   "this_month_end": "2026-06-30",
   "next_month_start": "2026-07-01",
@@ -7,7 +7,7 @@
   "this_month": [
     {
       "id": "fb664424-a4f1-46bf-89b3-128c35c6ec7b",
-      "event_title": "Life With P. Philip Guston: Paintings and Drawings, 1964-1978",
+      "event_title": "Life With P. Philip Guston: Paintings and Drawings 1964-1978",
       "event_date": "2026-04-21",
       "end_date": "2026-07-10",
       "ticket_link": "https://www.instagram.com/p/DZVTnlYESGM/",
@@ -21,7 +21,7 @@
       "event_date": "2026-05-30",
       "end_date": "2026-06-15",
       "ticket_link": "https://www.gardenmuseum.org.uk/film/ukrainian-gardens/#section-pwd-protected",
-      "cover_image_url": "https://www.gardenmuseum.org.uk/wp-content/uploads/2026/03/NaiveUkrainianGardens-20-1-1360x550.jpg$0",
+      "cover_image_url": "https://www.gardenmuseum.org.uk/wp-content/uploads/2026/03/NaiveUkrainianGardens-20-1-1360x550.jpg",
       "source": "Garden Museum",
       "event_category": "movie"
     },
@@ -56,16 +56,6 @@
       "event_category": "discussion"
     },
     {
-      "id": "9de5dc26-6937-486f-a4c8-843dff4a6f2b",
-      "event_title": "Ukrainian Learning Club",
-      "event_date": "2026-06-19",
-      "end_date": "2026-06-19",
-      "ticket_link": "https://www.eventbrite.com/e/ukrainian-learning-club-tickets-1989678856019",
-      "cover_image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184704670%2F2867000369111%2F1%2Foriginal.20260515-175041?w=940&auto=format%2Ccompress&q=75&sharp=10&s=1695d8dfddcc883f190383a2f14b3662",
-      "source": "Eventbrite / Kvartira Books",
-      "event_category": "workshop"
-    },
-    {
       "id": "97dcba43-ba00-430e-8538-3b7bc60237cb",
       "event_title": "UKRAINE VECHORNYTCI | Ivo Bobul Concert",
       "event_date": "2026-06-19",
@@ -76,24 +66,14 @@
       "event_category": "concert"
     },
     {
-      "id": "ef33356a-e588-48d6-905c-4e74ec4134d2",
-      "event_title": "Charity Evening ARONIA in Support of Ukraine",
-      "event_date": "2026-06-20",
-      "end_date": "2026-06-20",
-      "ticket_link": "https://www.sharvarok.com/en/listing/charity-evening-aronia-in-support-of-ukraine/1266",
-      "cover_image_url": "https://images.sharvarok.com/post/1266/1779949982975-309488114.jpeg",
-      "source": "Sharvarok",
-      "event_category": "festival"
-    },
-    {
-      "id": "ef9430b1-3bdc-416c-94ad-2b2af4326c32",
-      "event_title": "Leaving Kiev: Coming Full Circle",
-      "event_date": "2026-06-20",
-      "end_date": "2026-06-21",
-      "ticket_link": "https://www.eventbrite.com/e/leaving-kiev-coming-full-circle-tickets-1989159138530",
-      "cover_image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184966000%2F3001509197795%2F1%2Foriginal.20260519-175339?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.495&fp-y=0.265&s=89bfef21a01e4010e43a23e55eccca96",
-      "source": "Eventbrite / Midtown International Theatre Festival",
-      "event_category": "performance"
+      "id": "9de5dc26-6937-486f-a4c8-843dff4a6f2b",
+      "event_title": "Ukrainian Learning Club",
+      "event_date": "2026-06-19",
+      "end_date": "2026-06-19",
+      "ticket_link": "https://www.eventbrite.com/e/ukrainian-learning-club-tickets-1989678856019",
+      "cover_image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184704670%2F2867000369111%2F1%2Foriginal.20260515-175041?w=940&auto=format%2Ccompress&q=75&sharp=10&s=1695d8dfddcc883f190383a2f14b3662",
+      "source": "Eventbrite / Kvartira Books",
+      "event_category": "workshop"
     },
     {
       "id": "3046c15c-7b29-45b8-976b-e1784edcb35e",
@@ -116,6 +96,16 @@
       "event_category": "art"
     },
     {
+      "id": "ef33356a-e588-48d6-905c-4e74ec4134d2",
+      "event_title": "Charity Evening ARONIA in Support of Ukraine",
+      "event_date": "2026-06-20",
+      "end_date": "2026-06-20",
+      "ticket_link": "https://www.sharvarok.com/en/listing/charity-evening-aronia-in-support-of-ukraine/1266",
+      "cover_image_url": "https://images.sharvarok.com/post/1266/1779949982975-309488114.jpeg",
+      "source": "Sharvarok",
+      "event_category": "festival"
+    },
+    {
       "id": "b2806173-8802-4c56-87fb-4a610695e4d5",
       "event_title": "Pilates, Desserts & Community for a Cause",
       "event_date": "2026-06-20",
@@ -126,14 +116,14 @@
       "event_category": "sport"
     },
     {
-      "id": "46c4f240-4ad7-479e-b1dd-2424a6ff9540",
-      "event_title": "Be Brave — Therapeutic Acting Workshop",
-      "event_date": "2026-06-21",
+      "id": "ef9430b1-3bdc-416c-94ad-2b2af4326c32",
+      "event_title": "Leaving Kiev: Coming Full Circle",
+      "event_date": "2026-06-20",
       "end_date": "2026-06-21",
-      "ticket_link": "https://www.instagram.com/p/DZfkLjVxM8-/",
-      "cover_image_url": "https://scontent-lga3-3.cdninstagram.com/v/t51.82787-15/724148259_18618982339030826_1024354583453168483_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=MzkxODAwOTMyNDM3MDQ0ODE5MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTM2NS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Ga2f3cY5NKkQ7kNvwFP1Vk_&_nc_oc=Adp-PX9QF5lW--qfkkGmRi9DTsQ5Vo6AwueoHHe2_vGsBkY2Tr_SwBJ1OAZITwzm-CY&_nc_zt=23&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_gid=nxul8DcDPljQDa35TvZSWA&_nc_ss=7b689&oh=00_Af_HAjL_7lNCa6XSFxTnHVTq5eISMnp2p7zbqNbxMu5dlQ&oe=6A36555F",
-      "source": "Brave Ukrainians",
-      "event_category": "workshop"
+      "ticket_link": "https://www.eventbrite.com/e/leaving-kiev-coming-full-circle-tickets-1989159138530",
+      "cover_image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184966000%2F3001509197795%2F1%2Foriginal.20260519-175339?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.495&fp-y=0.265&s=89bfef21a01e4010e43a23e55eccca96",
+      "source": "Eventbrite / Midtown International Theatre Festival",
+      "event_category": "performance"
     },
     {
       "id": "832fc00a-3cc0-44ca-a654-a1294e3a95db",
@@ -146,6 +136,16 @@
       "event_category": "other"
     },
     {
+      "id": "46c4f240-4ad7-479e-b1dd-2424a6ff9540",
+      "event_title": "Be Brave — Therapeutic Acting Workshop",
+      "event_date": "2026-06-21",
+      "end_date": "2026-06-21",
+      "ticket_link": "https://www.instagram.com/p/DZfkLjVxM8-/",
+      "cover_image_url": "https://scontent-lga3-3.cdninstagram.com/v/t51.82787-15/724148259_18618982339030826_1024354583453168483_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=MzkxODAwOTMyNDM3MDQ0ODE5MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTM2NS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Ga2f3cY5NKkQ7kNvwFP1Vk_&_nc_oc=Adp-PX9QF5lW--qfkkGmRi9DTsQ5Vo6AwueoHHe2_vGsBkY2Tr_SwBJ1OAZITwzm-CY&_nc_zt=23&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_gid=nxul8DcDPljQDa35TvZSWA&_nc_ss=7b689&oh=00_Af_HAjL_7lNCa6XSFxTnHVTq5eISMnp2p7zbqNbxMu5dlQ&oe=6A36555F",
+      "source": "Brave Ukrainians",
+      "event_category": "workshop"
+    },
+    {
       "id": "710fd197-d869-47e7-9225-c37a7b8e3fc8",
       "event_title": "NashiPredky@Home Virtual Office Hours",
       "event_date": "2026-06-23",
@@ -153,7 +153,7 @@
       "ticket_link": "https://www.ukrhec.org/events/nashipredkyhome-virtual-office-hours-16",
       "cover_image_url": "https://www.ukrhec.org/files/styles/card-copy-1/public/events/nphome_june_2026_office_hours.png",
       "source": "Ukrainian History and Education Center",
-      "event_category": "other"
+      "event_category": "workshop"
     },
     {
       "id": "b9f58474-f164-4d99-90cd-82b9dbbdf4f2",
@@ -171,19 +171,9 @@
       "event_date": "2026-06-23",
       "end_date": "2026-06-23",
       "ticket_link": "https://ukrainianinstitute.org/event/2026-06-23-medieval-game-night/",
-      "cover_image_url": "https://ukrainianinstitute.org/wp-content/uploads/2026/06/2026.06.23-Medieval-Game-Night-16x9-1.png$0",
+      "cover_image_url": "https://ukrainianinstitute.org/wp-content/uploads/2026/06/2026.06.23-Medieval-Game-Night-16x9-1.png",
       "source": "Ukrainian Institute",
       "event_category": "other"
-    },
-    {
-      "id": "281585de-3ad5-4884-b40f-4aea440f021c",
-      "event_title": "Walking Tour: Ukrainian Roots of American Art with Slava Shpigel",
-      "event_date": "2026-06-24",
-      "end_date": "2026-06-24",
-      "ticket_link": "https://borshchofart.org/programs/public-programs/slava-shpigel-20260624",
-      "cover_image_url": "https://borshch-of-art.s3.us-east-1.amazonaws.com/events/6a0536b79567039c6ebe060a/june-24-website-%282000-x-1000-px%29.png",
-      "source": "Borshch of Art",
-      "event_category": "sport"
     },
     {
       "id": "d8fd4108-7958-4725-8bf6-89027f30c9b5",
@@ -196,6 +186,16 @@
       "event_category": "workshop"
     },
     {
+      "id": "281585de-3ad5-4884-b40f-4aea440f021c",
+      "event_title": "Walking Tour: Ukrainian Roots of American Art with Slava Shpigel",
+      "event_date": "2026-06-24",
+      "end_date": "2026-06-24",
+      "ticket_link": "https://borshchofart.org/programs/public-programs/slava-shpigel-20260624",
+      "cover_image_url": "https://borshch-of-art.s3.us-east-1.amazonaws.com/events/6a0536b79567039c6ebe060a/june-24-website-%282000-x-1000-px%29.png",
+      "source": "Borshch of Art",
+      "event_category": "sport"
+    },
+    {
       "id": "acf641a7-471c-4c7e-a033-9b560e21e9cd",
       "event_title": "Shared Experience Builds Teamsan experience for leaders and professionals working with teams",
       "event_date": "2026-06-25",
@@ -204,6 +204,16 @@
       "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
       "source": "Tisto NYC",
       "event_category": "workshop"
+    },
+    {
+      "id": "4db35c4b-56ea-4b91-8049-451e0eb3ff8b",
+      "event_title": "Kupala Night Celebration",
+      "event_date": "2026-06-27",
+      "end_date": "2026-06-27",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/kupala-night-celebration",
+      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1781311618/organizations/5/1/e/6/51e679e0-b44e-4f15-a3d0-f944bbafdc87/f4b1302f-39f9-4eae-85da-748d29bf0bc0.png",
+      "source": "Svitanok NYC Zeffy",
+      "event_category": "concert"
     },
     {
       "id": "dae88d5e-5e81-4cd8-b0b7-fbd73b1b31f7",
@@ -226,16 +236,6 @@
       "event_category": "concert"
     },
     {
-      "id": "4db35c4b-56ea-4b91-8049-451e0eb3ff8b",
-      "event_title": "Kupala Night Celebration",
-      "event_date": "2026-06-27",
-      "end_date": "2026-06-27",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/kupala-night-celebration",
-      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1781311618/organizations/5/1/e/6/51e679e0-b44e-4f15-a3d0-f944bbafdc87/f4b1302f-39f9-4eae-85da-748d29bf0bc0.png",
-      "source": "Svitanok NYC Zeffy",
-      "event_category": "concert"
-    },
-    {
       "id": "1a1241cb-90b8-4b1b-9f0a-91cb7de55185",
       "event_title": "Songs Across Regions",
       "event_date": "2026-06-28",
@@ -243,16 +243,6 @@
       "ticket_link": "https://www.eventbrite.com/e/songs-across-regions-tickets-1990703356327",
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1185776171%252F502975386231%252F1%252Foriginal.20260530-203407%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Db1f55e75e0b4ff892a87471cfa972e44&w=1880&q=75",
       "source": "Eventbrite",
-      "event_category": "concert"
-    },
-    {
-      "id": "e39f6a16-e807-4c1f-b049-3375a239ec96",
-      "event_title": "[NEW YORK] FESTIVE CONCERT-DISCO FOR UKRAINE'S CONSTITUTION DAY",
-      "event_date": "2026-06-28",
-      "end_date": "2026-06-28",
-      "ticket_link": "https://eventcartel.com/events/concert/new-york-festive-concert-disco-for-ukraines-constitution-day-new-york-NY-sky-wise-tickets-14016",
-      "cover_image_url": "https://cdn.eventcartel.com/media/thumb/c2/79/c279b9fee32c992c933b863f1409e45a.webp",
-      "source": "EventCartel / Sky Wise",
       "event_category": "concert"
     },
     {
@@ -264,6 +254,16 @@
       "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
       "source": "Tisto NYC",
       "event_category": "workshop"
+    },
+    {
+      "id": "e39f6a16-e807-4c1f-b049-3375a239ec96",
+      "event_title": "[NEW YORK] FESTIVE CONCERT-DISCO FOR UKRAINE'S CONSTITUTION DAY",
+      "event_date": "2026-06-28",
+      "end_date": "2026-06-28",
+      "ticket_link": "https://eventcartel.com/events/concert/new-york-festive-concert-disco-for-ukraines-constitution-day-new-york-NY-sky-wise-tickets-14016",
+      "cover_image_url": "https://cdn.eventcartel.com/media/thumb/c2/79/c279b9fee32c992c933b863f1409e45a.webp",
+      "source": "EventCartel / Sky Wise",
+      "event_category": "concert"
     },
     {
       "id": "b6dcfd81-017b-4125-96f0-1ecd422994c2",
@@ -279,7 +279,7 @@
   "next_month": [
     {
       "id": "fb664424-a4f1-46bf-89b3-128c35c6ec7b",
-      "event_title": "Life With P. Philip Guston: Paintings and Drawings, 1964-1978",
+      "event_title": "Life With P. Philip Guston: Paintings and Drawings 1964-1978",
       "event_date": "2026-04-21",
       "end_date": "2026-07-10",
       "ticket_link": "https://www.instagram.com/p/DZVTnlYESGM/",
@@ -298,16 +298,6 @@
       "event_category": "discussion"
     },
     {
-      "id": "d0ff2077-0c30-46dd-a7da-132667e16d37",
-      "event_title": "July 4th Celebration",
-      "event_date": "2026-07-03",
-      "end_date": "2026-07-05",
-      "ticket_link": "https://soyuzivka.com/calendar-of-events/july-4th-celebration/",
-      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/July4th-1024x576.png",
-      "source": "Soyuzivka",
-      "event_category": "festival"
-    },
-    {
       "id": "c87b6b2f-4c3d-4236-9d50-b187ad5101df",
       "event_title": "Vasyl Baidak - New York City",
       "event_date": "2026-07-03",
@@ -316,6 +306,16 @@
       "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1773094064_-1200630.jpg",
       "source": "Waylight",
       "event_category": "standup"
+    },
+    {
+      "id": "d0ff2077-0c30-46dd-a7da-132667e16d37",
+      "event_title": "July 4th Celebration",
+      "event_date": "2026-07-03",
+      "end_date": "2026-07-05",
+      "ticket_link": "https://soyuzivka.com/calendar-of-events/july-4th-celebration/",
+      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/July4th-1024x576.png",
+      "source": "Soyuzivka",
+      "event_category": "festival"
     },
     {
       "id": "acf665c7-63ac-4d64-b842-a6426b57414a",
@@ -333,7 +333,7 @@
       "event_date": "2026-07-06",
       "end_date": "2026-07-06",
       "ticket_link": "https://tisto.nyc/courses/retreat-3-5-7",
-      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/6a2317d50e4d3072865e96a7_July%203%2C%202026%20-%20Retreat%20(1).png$0",
+      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/6a2317d50e4d3072865e96a7_July%203%2C%202026%20-%20Retreat%20(1).png",
       "source": "Tisto NYC",
       "event_category": "workshop"
     },
@@ -373,7 +373,7 @@
       "event_date": "2026-07-12",
       "end_date": "2026-07-12",
       "ticket_link": "https://tisto.nyc/courses/retreat-tisto",
-      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/6a2317d50e4d3072865e96a7_July%203%2C%202026%20-%20Retreat%20(1).png$0",
+      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/6a2317d50e4d3072865e96a7_July%203%2C%202026%20-%20Retreat%20(1).png",
       "source": "Tisto NYC",
       "event_category": "workshop"
     },
@@ -457,7 +457,7 @@
       "ticket_link": "https://bricartsmedia.org/event/globalfest-at-bric-celebrate-brooklyn-with-dakhabrakha-yeison-landero-sally-babys-silver-dollars-and-sunju-park/",
       "cover_image_url": "https://bricartsmedia.org/wp-content/uploads/2026/04/DB22MartaSyrko-scaled.jpg",
       "source": "BRIC Celebrate Brooklyn",
-      "event_category": "concert"
+      "event_category": "festival"
     },
     {
       "id": "d33bc16e-c4c7-4ce0-97ea-a1709cf17562",
