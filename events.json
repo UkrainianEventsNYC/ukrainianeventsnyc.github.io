@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T08:09:48.371502-04:00",
+  "generated_at": "2026-06-20T06:36:57.405284-04:00",
   "this_week_end": "2026-06-21",
   "this_month_end": "2026-06-30",
   "next_month_start": "2026-07-01",
@@ -26,34 +26,14 @@
       "event_category": "discussion"
     },
     {
-      "id": "9de5dc26-6937-486f-a4c8-843dff4a6f2b",
-      "event_title": "Ukrainian Learning Club",
-      "event_date": "2026-06-19",
-      "end_date": "2026-06-19",
-      "ticket_link": "https://www.eventbrite.com/e/ukrainian-learning-club-tickets-1989678856019",
-      "cover_image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184704670%2F2867000369111%2F1%2Foriginal.20260515-175041?w=940&auto=format%2Ccompress&q=75&sharp=10&s=1695d8dfddcc883f190383a2f14b3662",
-      "source": "Eventbrite / Kvartira Books",
-      "event_category": "workshop"
-    },
-    {
-      "id": "97dcba43-ba00-430e-8538-3b7bc60237cb",
-      "event_title": "UKRAINE VECHORNYTCI | Ivo Bobul Concert",
-      "event_date": "2026-06-19",
-      "end_date": "2026-06-19",
-      "ticket_link": "https://ukrainian.us/events/newyork_ivo_bobul2",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/L_3T_TZqCOaD8yoBBpuhzorYG5SmHMDu-source.png?v=0.1&s=df58425efd9444f8959f0964881596b1",
-      "source": "Ukrainian USA",
-      "event_category": "concert"
-    },
-    {
-      "id": "ef33356a-e588-48d6-905c-4e74ec4134d2",
-      "event_title": "Charity Evening ARONIA in Support of Ukraine",
+      "id": "29225eee-dda1-4d30-8e92-025a2f2b04a2",
+      "event_title": "Studio Glass: International Movement and Ukrainian Art|ONLINE event",
       "event_date": "2026-06-20",
       "end_date": "2026-06-20",
-      "ticket_link": "https://www.sharvarok.com/en/listing/charity-evening-aronia-in-support-of-ukraine/1266",
-      "cover_image_url": "https://images.sharvarok.com/post/1266/1779949982975-309488114.jpeg",
+      "ticket_link": "https://www.sharvarok.com/en/listing/studio-glass-international-movement-and-ukrainian-artonline-event/1320",
+      "cover_image_url": "https://images.sharvarok.com/post/1320/1781073914203-672203604.jpg",
       "source": "Sharvarok",
-      "event_category": "festival"
+      "event_category": "art"
     },
     {
       "id": "3046c15c-7b29-45b8-976b-e1784edcb35e",
@@ -76,16 +56,6 @@
       "event_category": "sport"
     },
     {
-      "id": "29225eee-dda1-4d30-8e92-025a2f2b04a2",
-      "event_title": "Studio Glass: International Movement and Ukrainian Art|ONLINE event",
-      "event_date": "2026-06-20",
-      "end_date": "2026-06-20",
-      "ticket_link": "https://www.sharvarok.com/en/listing/studio-glass-international-movement-and-ukrainian-artonline-event/1320",
-      "cover_image_url": "https://images.sharvarok.com/post/1320/1781073914203-672203604.jpg",
-      "source": "Sharvarok",
-      "event_category": "art"
-    },
-    {
       "id": "ef9430b1-3bdc-416c-94ad-2b2af4326c32",
       "event_title": "Leaving Kiev: Coming Full Circle",
       "event_date": "2026-06-20",
@@ -96,14 +66,14 @@
       "event_category": "performance"
     },
     {
-      "id": "46c4f240-4ad7-479e-b1dd-2424a6ff9540",
-      "event_title": "Be Brave — Therapeutic Acting Workshop",
-      "event_date": "2026-06-21",
-      "end_date": "2026-06-21",
-      "ticket_link": "https://www.instagram.com/p/DZfkLjVxM8-/",
-      "cover_image_url": "https://scontent-lga3-3.cdninstagram.com/v/t51.82787-15/724148259_18618982339030826_1024354583453168483_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=MzkxODAwOTMyNDM3MDQ0ODE5MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTM2NS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Ga2f3cY5NKkQ7kNvwFP1Vk_&_nc_oc=Adp-PX9QF5lW--qfkkGmRi9DTsQ5Vo6AwueoHHe2_vGsBkY2Tr_SwBJ1OAZITwzm-CY&_nc_zt=23&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_gid=nxul8DcDPljQDa35TvZSWA&_nc_ss=7b689&oh=00_Af_HAjL_7lNCa6XSFxTnHVTq5eISMnp2p7zbqNbxMu5dlQ&oe=6A36555F",
-      "source": "Brave Ukrainians",
-      "event_category": "workshop"
+      "id": "ef33356a-e588-48d6-905c-4e74ec4134d2",
+      "event_title": "Charity Evening ARONIA in Support of Ukraine",
+      "event_date": "2026-06-20",
+      "end_date": "2026-06-20",
+      "ticket_link": "https://www.sharvarok.com/en/listing/charity-evening-aronia-in-support-of-ukraine/1266",
+      "cover_image_url": "https://images.sharvarok.com/post/1266/1779949982975-309488114.jpeg",
+      "source": "Sharvarok",
+      "event_category": "festival"
     },
     {
       "id": "832fc00a-3cc0-44ca-a654-a1294e3a95db",
@@ -116,13 +86,13 @@
       "event_category": "other"
     },
     {
-      "id": "b9f58474-f164-4d99-90cd-82b9dbbdf4f2",
-      "event_title": "Present, Play & Teamworkan experience for leaders and professionals building modern teams",
-      "event_date": "2026-06-23",
-      "end_date": "2026-06-23",
-      "ticket_link": "https://tisto.nyc/workshops/06-23-present-play-teamwork",
-      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
-      "source": "Tisto NYC",
+      "id": "46c4f240-4ad7-479e-b1dd-2424a6ff9540",
+      "event_title": "Be Brave — Therapeutic Acting Workshop",
+      "event_date": "2026-06-21",
+      "end_date": "2026-06-21",
+      "ticket_link": "https://www.instagram.com/p/DZfkLjVxM8-/",
+      "cover_image_url": "https://scontent-lga3-3.cdninstagram.com/v/t51.82787-15/724148259_18618982339030826_1024354583453168483_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=MzkxODAwOTMyNDM3MDQ0ODE5MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTM2NS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Ga2f3cY5NKkQ7kNvwFP1Vk_&_nc_oc=Adp-PX9QF5lW--qfkkGmRi9DTsQ5Vo6AwueoHHe2_vGsBkY2Tr_SwBJ1OAZITwzm-CY&_nc_zt=23&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_gid=nxul8DcDPljQDa35TvZSWA&_nc_ss=7b689&oh=00_Af_HAjL_7lNCa6XSFxTnHVTq5eISMnp2p7zbqNbxMu5dlQ&oe=6A36555F",
+      "source": "Brave Ukrainians",
       "event_category": "workshop"
     },
     {
@@ -146,13 +116,13 @@
       "event_category": "workshop"
     },
     {
-      "id": "d8fd4108-7958-4725-8bf6-89027f30c9b5",
-      "event_title": "Red, White and Blue: A Pysanka to Celebrate America's Semiquincentennial (Virtual Pysanka Demo)",
-      "event_date": "2026-06-24",
-      "end_date": "2026-06-24",
-      "ticket_link": "https://www.ukrhec.org/events/red-white-blue-pysanka-celebrate-americas-semiquincentennial-virtual-pysanka-demo",
-      "cover_image_url": "https://www.ukrhec.org/files/styles/card-copy-1/public/events/wallis_june_2026.jpg",
-      "source": "Ukrainian History and Education Center",
+      "id": "b9f58474-f164-4d99-90cd-82b9dbbdf4f2",
+      "event_title": "Present, Play & Teamworkan experience for leaders and professionals building modern teams",
+      "event_date": "2026-06-23",
+      "end_date": "2026-06-23",
+      "ticket_link": "https://tisto.nyc/workshops/06-23-present-play-teamwork",
+      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
+      "source": "Tisto NYC",
       "event_category": "workshop"
     },
     {
@@ -164,6 +134,16 @@
       "cover_image_url": "https://borshch-of-art.s3.us-east-1.amazonaws.com/events/6a0536b79567039c6ebe060a/june-24-website-%282000-x-1000-px%29.png",
       "source": "Borshch of Art",
       "event_category": "sport"
+    },
+    {
+      "id": "d8fd4108-7958-4725-8bf6-89027f30c9b5",
+      "event_title": "Red, White and Blue: A Pysanka to Celebrate America's Semiquincentennial (Virtual Pysanka Demo)",
+      "event_date": "2026-06-24",
+      "end_date": "2026-06-24",
+      "ticket_link": "https://www.ukrhec.org/events/red-white-blue-pysanka-celebrate-americas-semiquincentennial-virtual-pysanka-demo",
+      "cover_image_url": "https://www.ukrhec.org/files/styles/card-copy-1/public/events/wallis_june_2026.jpg",
+      "source": "Ukrainian History and Education Center",
+      "event_category": "workshop"
     },
     {
       "id": "acf641a7-471c-4c7e-a033-9b560e21e9cd",
@@ -206,14 +186,14 @@
       "event_category": "concert"
     },
     {
-      "id": "e39f6a16-e807-4c1f-b049-3375a239ec96",
-      "event_title": "[NEW YORK] FESTIVE CONCERT-DISCO FOR UKRAINE'S CONSTITUTION DAY",
+      "id": "ba3a0c22-938a-475c-9e25-f15307fefb0c",
+      "event_title": "Present, Play & Teamworkan experience for leaders and professionals shaping team culture",
       "event_date": "2026-06-28",
       "end_date": "2026-06-28",
-      "ticket_link": "https://eventcartel.com/events/concert/new-york-festive-concert-disco-for-ukraines-constitution-day-new-york-NY-sky-wise-tickets-14016",
-      "cover_image_url": "https://cdn.eventcartel.com/media/thumb/c2/79/c279b9fee32c992c933b863f1409e45a.webp",
-      "source": "EventCartel / Sky Wise",
-      "event_category": "concert"
+      "ticket_link": "https://tisto.nyc/workshops/06-28-present-play-teamwork",
+      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
+      "source": "Tisto NYC",
+      "event_category": "workshop"
     },
     {
       "id": "1a1241cb-90b8-4b1b-9f0a-91cb7de55185",
@@ -226,14 +206,14 @@
       "event_category": "concert"
     },
     {
-      "id": "ba3a0c22-938a-475c-9e25-f15307fefb0c",
-      "event_title": "Present, Play & Teamworkan experience for leaders and professionals shaping team culture",
+      "id": "e39f6a16-e807-4c1f-b049-3375a239ec96",
+      "event_title": "[NEW YORK] FESTIVE CONCERT-DISCO FOR UKRAINE'S CONSTITUTION DAY",
       "event_date": "2026-06-28",
       "end_date": "2026-06-28",
-      "ticket_link": "https://tisto.nyc/workshops/06-28-present-play-teamwork",
-      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
-      "source": "Tisto NYC",
-      "event_category": "workshop"
+      "ticket_link": "https://eventcartel.com/events/concert/new-york-festive-concert-disco-for-ukraines-constitution-day-new-york-NY-sky-wise-tickets-14016",
+      "cover_image_url": "https://cdn.eventcartel.com/media/thumb/c2/79/c279b9fee32c992c933b863f1409e45a.webp",
+      "source": "EventCartel / Sky Wise",
+      "event_category": "concert"
     },
     {
       "id": "b6dcfd81-017b-4125-96f0-1ecd422994c2",
@@ -326,6 +306,16 @@
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/SQ26-POST-ENG-TNMK-768x960.jpg",
       "source": "Soyuzivka",
       "event_category": "festival"
+    },
+    {
+      "id": "661d2ed1-d643-4fe3-a95a-d482bf6b76b5",
+      "event_title": "Waves of Beauty",
+      "event_date": "2026-07-11",
+      "end_date": "2026-07-11",
+      "ticket_link": "https://ukrainian.us/events/waves-of-beauty",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/djeIMTLl8eO2He7FNrxdbIsdg2-RVds--source.png?v=0.1&s=e8990163508bbe265b98afc0812e3747",
+      "source": "Ukrainian USA",
+      "event_category": "other"
     },
     {
       "id": "0d6e9081-66f1-4bbf-978e-075d33e43a67",
@@ -480,16 +470,6 @@
       "event_category": "festival"
     },
     {
-      "id": "0e9a9824-a1fa-4c05-8cab-56056cac5141",
-      "event_title": "KOLO",
-      "event_date": "2026-08-23",
-      "end_date": "2026-08-23",
-      "ticket_link": "https://ra.co/events/2451595",
-      "cover_image_url": "https://images.ra.co/92c04359fc72b1a3e1f15e61c3c6597673a02041.png",
-      "source": "Resident Advisor (KOLO NYC)",
-      "event_category": "concert"
-    },
-    {
       "id": "6e09be07-367d-42d5-b19a-3ebc96a34241",
       "event_title": "Ukrainian Independence Folk Festival",
       "event_date": "2026-08-23",
@@ -498,6 +478,16 @@
       "cover_image_url": "https://www.tryzub.org/resources/Pictures/ukrainian-folk-festival-2025.jpg",
       "source": "Tryzub",
       "event_category": "festival"
+    },
+    {
+      "id": "0e9a9824-a1fa-4c05-8cab-56056cac5141",
+      "event_title": "KOLO",
+      "event_date": "2026-08-23",
+      "end_date": "2026-08-23",
+      "ticket_link": "https://ra.co/events/2451595",
+      "cover_image_url": "https://images.ra.co/92c04359fc72b1a3e1f15e61c3c6597673a02041.png",
+      "source": "Resident Advisor (KOLO NYC)",
+      "event_category": "concert"
     },
     {
       "id": "20e80d05-1cc2-46f4-8ee5-6c9d82d2e10f",
