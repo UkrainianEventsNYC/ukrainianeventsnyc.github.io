@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T06:36:57.405284-04:00",
+  "generated_at": "2026-06-21T07:19:53.860763-04:00",
   "this_week_end": "2026-06-21",
   "this_month_end": "2026-06-30",
   "next_month_start": "2026-07-01",
@@ -26,36 +26,6 @@
       "event_category": "discussion"
     },
     {
-      "id": "29225eee-dda1-4d30-8e92-025a2f2b04a2",
-      "event_title": "Studio Glass: International Movement and Ukrainian Art|ONLINE event",
-      "event_date": "2026-06-20",
-      "end_date": "2026-06-20",
-      "ticket_link": "https://www.sharvarok.com/en/listing/studio-glass-international-movement-and-ukrainian-artonline-event/1320",
-      "cover_image_url": "https://images.sharvarok.com/post/1320/1781073914203-672203604.jpg",
-      "source": "Sharvarok",
-      "event_category": "art"
-    },
-    {
-      "id": "3046c15c-7b29-45b8-976b-e1784edcb35e",
-      "event_title": "Members' Preview: The Ground Shifts Beneath Our Feet | Zhanna Kadyrova",
-      "event_date": "2026-06-20",
-      "end_date": "2026-06-20",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/members-preview-exhibition-opening-the-ground-shifts-beneath-our-feet-zhanna-kadyrova",
-      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1781198150/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/88742a31-1ca4-4950-84f9-24ae59985cb7.png",
-      "source": "Ukrainian Museum Zeffy",
-      "event_category": "exhibitions"
-    },
-    {
-      "id": "b2806173-8802-4c56-87fb-4a610695e4d5",
-      "event_title": "Pilates, Desserts & Community for a Cause",
-      "event_date": "2026-06-20",
-      "end_date": "2026-06-20",
-      "ticket_link": "https://www.instagram.com/p/DZaTYFKuRwf/",
-      "cover_image_url": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-15/721297609_18586511344021245_8104942201694210315_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=MzkxNjUyODA0MzY1MTgzMjg2Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA3OS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=8rZ4ObeAZokQ7kNvwGhqu5N&_nc_oc=Adpl91Zj2hfAuySvmf8MWCdf-Rvi1mPQsjqfZ8xLdjAmfSxMg9RavSQdPAC0il5J10o&_nc_zt=23&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_gid=IDs3n1DI9WX34SWrmZxtnA&_nc_ss=7b689&oh=00_Af_qATsftb2uAxeLek0o2oeWqIPCYNgdyIqEldwySkYF1g&oe=6A3638D9",
-      "source": "Liberty Ukraine Foundation",
-      "event_category": "sport"
-    },
-    {
       "id": "ef9430b1-3bdc-416c-94ad-2b2af4326c32",
       "event_title": "Leaving Kiev: Coming Full Circle",
       "event_date": "2026-06-20",
@@ -64,16 +34,6 @@
       "cover_image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184966000%2F3001509197795%2F1%2Foriginal.20260519-175339?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.495&fp-y=0.265&s=89bfef21a01e4010e43a23e55eccca96",
       "source": "Eventbrite / Midtown International Theatre Festival",
       "event_category": "performance"
-    },
-    {
-      "id": "ef33356a-e588-48d6-905c-4e74ec4134d2",
-      "event_title": "Charity Evening ARONIA in Support of Ukraine",
-      "event_date": "2026-06-20",
-      "end_date": "2026-06-20",
-      "ticket_link": "https://www.sharvarok.com/en/listing/charity-evening-aronia-in-support-of-ukraine/1266",
-      "cover_image_url": "https://images.sharvarok.com/post/1266/1779949982975-309488114.jpeg",
-      "source": "Sharvarok",
-      "event_category": "festival"
     },
     {
       "id": "832fc00a-3cc0-44ca-a654-a1294e3a95db",
@@ -96,6 +56,16 @@
       "event_category": "workshop"
     },
     {
+      "id": "b9f58474-f164-4d99-90cd-82b9dbbdf4f2",
+      "event_title": "Present, Play & Teamworkan experience for leaders and professionals building modern teams",
+      "event_date": "2026-06-23",
+      "end_date": "2026-06-23",
+      "ticket_link": "https://tisto.nyc/workshops/06-23-present-play-teamwork",
+      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
+      "source": "Tisto NYC",
+      "event_category": "workshop"
+    },
+    {
       "id": "0a58449d-3335-4f8b-b330-fc630e97372f",
       "event_title": "Medieval Game Night",
       "event_date": "2026-06-23",
@@ -113,16 +83,6 @@
       "ticket_link": "https://www.ukrhec.org/events/nashipredkyhome-virtual-office-hours-16",
       "cover_image_url": "https://www.ukrhec.org/files/styles/card-copy-1/public/events/nphome_june_2026_office_hours.png",
       "source": "Ukrainian History and Education Center",
-      "event_category": "workshop"
-    },
-    {
-      "id": "b9f58474-f164-4d99-90cd-82b9dbbdf4f2",
-      "event_title": "Present, Play & Teamworkan experience for leaders and professionals building modern teams",
-      "event_date": "2026-06-23",
-      "end_date": "2026-06-23",
-      "ticket_link": "https://tisto.nyc/workshops/06-23-present-play-teamwork",
-      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
-      "source": "Tisto NYC",
       "event_category": "workshop"
     },
     {
@@ -156,16 +116,6 @@
       "event_category": "workshop"
     },
     {
-      "id": "4db35c4b-56ea-4b91-8049-451e0eb3ff8b",
-      "event_title": "Kupala Night Celebration",
-      "event_date": "2026-06-27",
-      "end_date": "2026-06-27",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/kupala-night-celebration",
-      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1781311618/organizations/5/1/e/6/51e679e0-b44e-4f15-a3d0-f944bbafdc87/f4b1302f-39f9-4eae-85da-748d29bf0bc0.png",
-      "source": "Svitanok NYC Zeffy",
-      "event_category": "concert"
-    },
-    {
       "id": "8b315e50-5fc3-4c61-b18e-e7e7312c6062",
       "event_title": "BEZ OBMEZHEN Strong Hearts Tour — Rochester",
       "event_date": "2026-06-27",
@@ -173,6 +123,16 @@
       "ticket_link": "https://www.sharvarok.com/en/listing/bez-obmezhen-strong-hearts-tour-rochester/1213",
       "cover_image_url": "https://images.sharvarok.com/post/1213/1777924442623-25781003.jpeg",
       "source": "Sharvarok",
+      "event_category": "concert"
+    },
+    {
+      "id": "4db35c4b-56ea-4b91-8049-451e0eb3ff8b",
+      "event_title": "Kupala Night Celebration",
+      "event_date": "2026-06-27",
+      "end_date": "2026-06-27",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/kupala-night-celebration",
+      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1781311618/organizations/5/1/e/6/51e679e0-b44e-4f15-a3d0-f944bbafdc87/f4b1302f-39f9-4eae-85da-748d29bf0bc0.png",
+      "source": "Svitanok NYC Zeffy",
       "event_category": "concert"
     },
     {
@@ -184,16 +144,6 @@
       "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1781124097/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/e92474f6-c829-4218-afc8-11aa55e0a578.png",
       "source": "Ukrainian Museum Zeffy",
       "event_category": "concert"
-    },
-    {
-      "id": "ba3a0c22-938a-475c-9e25-f15307fefb0c",
-      "event_title": "Present, Play & Teamworkan experience for leaders and professionals shaping team culture",
-      "event_date": "2026-06-28",
-      "end_date": "2026-06-28",
-      "ticket_link": "https://tisto.nyc/workshops/06-28-present-play-teamwork",
-      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
-      "source": "Tisto NYC",
-      "event_category": "workshop"
     },
     {
       "id": "1a1241cb-90b8-4b1b-9f0a-91cb7de55185",
@@ -214,6 +164,16 @@
       "cover_image_url": "https://cdn.eventcartel.com/media/thumb/c2/79/c279b9fee32c992c933b863f1409e45a.webp",
       "source": "EventCartel / Sky Wise",
       "event_category": "concert"
+    },
+    {
+      "id": "ba3a0c22-938a-475c-9e25-f15307fefb0c",
+      "event_title": "Present, Play & Teamworkan experience for leaders and professionals shaping team culture",
+      "event_date": "2026-06-28",
+      "end_date": "2026-06-28",
+      "ticket_link": "https://tisto.nyc/workshops/06-28-present-play-teamwork",
+      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
+      "source": "Tisto NYC",
+      "event_category": "workshop"
     },
     {
       "id": "b6dcfd81-017b-4125-96f0-1ecd422994c2",
@@ -450,16 +410,6 @@
       "event_category": "concert"
     },
     {
-      "id": "eaff895d-fd21-4a4a-982c-7eb6e889e6f9",
-      "event_title": "Vyshyvanka Run NYC 2026",
-      "event_date": "2026-08-22",
-      "end_date": "2026-08-22",
-      "ticket_link": "https://runsignup.com/Race/NY/NewYork/VyshyvankaRunNYC",
-      "cover_image_url": "https://d368g9lw5ileu7.cloudfront.net/races/races-168xxx/168069/raceBanner-93U0HSEI-bOmDTl.jpg",
-      "source": "Vyshyvanka Run NYC",
-      "event_category": "sport"
-    },
-    {
       "id": "85924df7-ed77-4e01-98d1-023d6ce49676",
       "event_title": "Independence Day of Ukraine Celebration",
       "event_date": "2026-08-22",
@@ -468,6 +418,16 @@
       "cover_image_url": "https://images.sharvarok.com/post/1273/1779951298218-865706631.jpeg",
       "source": "Sharvarok",
       "event_category": "festival"
+    },
+    {
+      "id": "eaff895d-fd21-4a4a-982c-7eb6e889e6f9",
+      "event_title": "Vyshyvanka Run NYC 2026",
+      "event_date": "2026-08-22",
+      "end_date": "2026-08-22",
+      "ticket_link": "https://runsignup.com/Race/NY/NewYork/VyshyvankaRunNYC",
+      "cover_image_url": "https://d368g9lw5ileu7.cloudfront.net/races/races-168xxx/168069/raceBanner-93U0HSEI-bOmDTl.jpg",
+      "source": "Vyshyvanka Run NYC",
+      "event_category": "sport"
     },
     {
       "id": "6e09be07-367d-42d5-b19a-3ebc96a34241",
