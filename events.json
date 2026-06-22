@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-21T07:19:53.860763-04:00",
-  "this_week_end": "2026-06-21",
+  "generated_at": "2026-06-22T09:38:08.904831-04:00",
+  "this_week_end": "2026-06-28",
   "this_month_end": "2026-06-30",
   "next_month_start": "2026-07-01",
   "next_month_end": "2026-07-31",
@@ -26,33 +26,13 @@
       "event_category": "discussion"
     },
     {
-      "id": "ef9430b1-3bdc-416c-94ad-2b2af4326c32",
-      "event_title": "Leaving Kiev: Coming Full Circle",
-      "event_date": "2026-06-20",
-      "end_date": "2026-06-21",
-      "ticket_link": "https://www.eventbrite.com/e/leaving-kiev-coming-full-circle-tickets-1989159138530",
-      "cover_image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184966000%2F3001509197795%2F1%2Foriginal.20260519-175339?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.495&fp-y=0.265&s=89bfef21a01e4010e43a23e55eccca96",
-      "source": "Eventbrite / Midtown International Theatre Festival",
-      "event_category": "performance"
-    },
-    {
-      "id": "832fc00a-3cc0-44ca-a654-a1294e3a95db",
-      "event_title": "Father’s Day Brunch",
-      "event_date": "2026-06-21",
-      "end_date": "2026-06-21",
-      "ticket_link": "https://soyuzivka.com/calendar-of-events/fathers-day-brunch/",
-      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/05/Fathers-Day.png",
-      "source": "Soyuzivka",
-      "event_category": "other"
-    },
-    {
-      "id": "46c4f240-4ad7-479e-b1dd-2424a6ff9540",
-      "event_title": "Be Brave — Therapeutic Acting Workshop",
-      "event_date": "2026-06-21",
-      "end_date": "2026-06-21",
-      "ticket_link": "https://www.instagram.com/p/DZfkLjVxM8-/",
-      "cover_image_url": "https://scontent-lga3-3.cdninstagram.com/v/t51.82787-15/724148259_18618982339030826_1024354583453168483_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=MzkxODAwOTMyNDM3MDQ0ODE5MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTM2NS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Ga2f3cY5NKkQ7kNvwFP1Vk_&_nc_oc=Adp-PX9QF5lW--qfkkGmRi9DTsQ5Vo6AwueoHHe2_vGsBkY2Tr_SwBJ1OAZITwzm-CY&_nc_zt=23&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_gid=nxul8DcDPljQDa35TvZSWA&_nc_ss=7b689&oh=00_Af_HAjL_7lNCa6XSFxTnHVTq5eISMnp2p7zbqNbxMu5dlQ&oe=6A36555F",
-      "source": "Brave Ukrainians",
+      "id": "710fd197-d869-47e7-9225-c37a7b8e3fc8",
+      "event_title": "NashiPredky@Home Virtual Office Hours",
+      "event_date": "2026-06-23",
+      "end_date": "2026-06-23",
+      "ticket_link": "https://www.ukrhec.org/events/nashipredkyhome-virtual-office-hours-16",
+      "cover_image_url": "https://www.ukrhec.org/files/styles/card-copy-1/public/events/nphome_june_2026_office_hours.png",
+      "source": "Ukrainian History and Education Center",
       "event_category": "workshop"
     },
     {
@@ -76,12 +56,12 @@
       "event_category": "other"
     },
     {
-      "id": "710fd197-d869-47e7-9225-c37a7b8e3fc8",
-      "event_title": "NashiPredky@Home Virtual Office Hours",
-      "event_date": "2026-06-23",
-      "end_date": "2026-06-23",
-      "ticket_link": "https://www.ukrhec.org/events/nashipredkyhome-virtual-office-hours-16",
-      "cover_image_url": "https://www.ukrhec.org/files/styles/card-copy-1/public/events/nphome_june_2026_office_hours.png",
+      "id": "d8fd4108-7958-4725-8bf6-89027f30c9b5",
+      "event_title": "Red, White and Blue: A Pysanka to Celebrate America's Semiquincentennial (Virtual Pysanka Demo)",
+      "event_date": "2026-06-24",
+      "end_date": "2026-06-24",
+      "ticket_link": "https://www.ukrhec.org/events/red-white-blue-pysanka-celebrate-americas-semiquincentennial-virtual-pysanka-demo",
+      "cover_image_url": "https://www.ukrhec.org/files/styles/card-copy-1/public/events/wallis_june_2026.jpg",
       "source": "Ukrainian History and Education Center",
       "event_category": "workshop"
     },
@@ -94,16 +74,6 @@
       "cover_image_url": "https://borshch-of-art.s3.us-east-1.amazonaws.com/events/6a0536b79567039c6ebe060a/june-24-website-%282000-x-1000-px%29.png",
       "source": "Borshch of Art",
       "event_category": "sport"
-    },
-    {
-      "id": "d8fd4108-7958-4725-8bf6-89027f30c9b5",
-      "event_title": "Red, White and Blue: A Pysanka to Celebrate America's Semiquincentennial (Virtual Pysanka Demo)",
-      "event_date": "2026-06-24",
-      "end_date": "2026-06-24",
-      "ticket_link": "https://www.ukrhec.org/events/red-white-blue-pysanka-celebrate-americas-semiquincentennial-virtual-pysanka-demo",
-      "cover_image_url": "https://www.ukrhec.org/files/styles/card-copy-1/public/events/wallis_june_2026.jpg",
-      "source": "Ukrainian History and Education Center",
-      "event_category": "workshop"
     },
     {
       "id": "acf641a7-471c-4c7e-a033-9b560e21e9cd",
@@ -156,16 +126,6 @@
       "event_category": "concert"
     },
     {
-      "id": "e39f6a16-e807-4c1f-b049-3375a239ec96",
-      "event_title": "[NEW YORK] FESTIVE CONCERT-DISCO FOR UKRAINE'S CONSTITUTION DAY",
-      "event_date": "2026-06-28",
-      "end_date": "2026-06-28",
-      "ticket_link": "https://eventcartel.com/events/concert/new-york-festive-concert-disco-for-ukraines-constitution-day-new-york-NY-sky-wise-tickets-14016",
-      "cover_image_url": "https://cdn.eventcartel.com/media/thumb/c2/79/c279b9fee32c992c933b863f1409e45a.webp",
-      "source": "EventCartel / Sky Wise",
-      "event_category": "concert"
-    },
-    {
       "id": "ba3a0c22-938a-475c-9e25-f15307fefb0c",
       "event_title": "Present, Play & Teamworkan experience for leaders and professionals shaping team culture",
       "event_date": "2026-06-28",
@@ -174,6 +134,16 @@
       "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
       "source": "Tisto NYC",
       "event_category": "workshop"
+    },
+    {
+      "id": "e39f6a16-e807-4c1f-b049-3375a239ec96",
+      "event_title": "[NEW YORK] FESTIVE CONCERT-DISCO FOR UKRAINE'S CONSTITUTION DAY",
+      "event_date": "2026-06-28",
+      "end_date": "2026-06-28",
+      "ticket_link": "https://eventcartel.com/events/concert/new-york-festive-concert-disco-for-ukraines-constitution-day-new-york-NY-sky-wise-tickets-14016",
+      "cover_image_url": "https://cdn.eventcartel.com/media/thumb/c2/79/c279b9fee32c992c933b863f1409e45a.webp",
+      "source": "EventCartel / Sky Wise",
+      "event_category": "concert"
     },
     {
       "id": "b6dcfd81-017b-4125-96f0-1ecd422994c2",
@@ -278,16 +248,6 @@
       "event_category": "other"
     },
     {
-      "id": "0d6e9081-66f1-4bbf-978e-075d33e43a67",
-      "event_title": "Cake Painting Workshop",
-      "event_date": "2026-07-12",
-      "end_date": "2026-07-12",
-      "ticket_link": "https://luma.com/jktws75n",
-      "cover_image_url": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/m4/18df8ee8-cadf-4a14-a221-849a78f956ac.jpg",
-      "source": "Ptashka Agency",
-      "event_category": "workshop"
-    },
-    {
       "id": "fb4a8562-190e-4d12-a0f0-9e01aa40b84e",
       "event_title": "Forest, Fire & BuddyA 3-Day Retreat · TISTO's Greatest Hits",
       "event_date": "2026-07-12",
@@ -295,6 +255,16 @@
       "ticket_link": "https://tisto.nyc/courses/retreat-tisto",
       "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/6a2317d50e4d3072865e96a7_July%203%2C%202026%20-%20Retreat%20(1).png",
       "source": "Tisto NYC",
+      "event_category": "workshop"
+    },
+    {
+      "id": "0d6e9081-66f1-4bbf-978e-075d33e43a67",
+      "event_title": "Cake Painting Workshop",
+      "event_date": "2026-07-12",
+      "end_date": "2026-07-12",
+      "ticket_link": "https://luma.com/jktws75n",
+      "cover_image_url": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/m4/18df8ee8-cadf-4a14-a221-849a78f956ac.jpg",
+      "source": "Ptashka Agency",
       "event_category": "workshop"
     },
     {
@@ -430,16 +400,6 @@
       "event_category": "sport"
     },
     {
-      "id": "6e09be07-367d-42d5-b19a-3ebc96a34241",
-      "event_title": "Ukrainian Independence Folk Festival",
-      "event_date": "2026-08-23",
-      "end_date": "2026-08-23",
-      "ticket_link": "https://www.tryzub.org/Ukraine-Festival-2026",
-      "cover_image_url": "https://www.tryzub.org/resources/Pictures/ukrainian-folk-festival-2025.jpg",
-      "source": "Tryzub",
-      "event_category": "festival"
-    },
-    {
       "id": "0e9a9824-a1fa-4c05-8cab-56056cac5141",
       "event_title": "KOLO",
       "event_date": "2026-08-23",
@@ -448,6 +408,16 @@
       "cover_image_url": "https://images.ra.co/92c04359fc72b1a3e1f15e61c3c6597673a02041.png",
       "source": "Resident Advisor (KOLO NYC)",
       "event_category": "concert"
+    },
+    {
+      "id": "6e09be07-367d-42d5-b19a-3ebc96a34241",
+      "event_title": "Ukrainian Independence Folk Festival",
+      "event_date": "2026-08-23",
+      "end_date": "2026-08-23",
+      "ticket_link": "https://www.tryzub.org/Ukraine-Festival-2026",
+      "cover_image_url": "https://www.tryzub.org/resources/Pictures/ukrainian-folk-festival-2025.jpg",
+      "source": "Tryzub",
+      "event_category": "festival"
     },
     {
       "id": "20e80d05-1cc2-46f4-8ee5-6c9d82d2e10f",
