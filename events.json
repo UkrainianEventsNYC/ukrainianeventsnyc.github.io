@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T07:05:18.681160-04:00",
+  "generated_at": "2026-06-24T06:51:14.691689-04:00",
   "this_week_end": "2026-06-28",
   "this_month_end": "2026-06-30",
   "next_month_start": "2026-07-01",
@@ -24,36 +24,6 @@
       "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1780542007/organizations/5/1/e/6/51e679e0-b44e-4f15-a3d0-f944bbafdc87/5c08e0cb-1527-43bf-a016-81557b1dd3ec.png",
       "source": "Svitanok NYC Zeffy",
       "event_category": "discussion"
-    },
-    {
-      "id": "710fd197-d869-47e7-9225-c37a7b8e3fc8",
-      "event_title": "NashiPredky@Home Virtual Office Hours",
-      "event_date": "2026-06-23",
-      "end_date": "2026-06-23",
-      "ticket_link": "https://www.ukrhec.org/events/nashipredkyhome-virtual-office-hours-16",
-      "cover_image_url": "https://www.ukrhec.org/files/styles/card-copy-1/public/events/nphome_june_2026_office_hours.png",
-      "source": "Ukrainian History and Education Center",
-      "event_category": "workshop"
-    },
-    {
-      "id": "b9f58474-f164-4d99-90cd-82b9dbbdf4f2",
-      "event_title": "Present, Play & Teamworkan experience for leaders and professionals building modern teams",
-      "event_date": "2026-06-23",
-      "end_date": "2026-06-23",
-      "ticket_link": "https://tisto.nyc/workshops/06-23-present-play-teamwork",
-      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
-      "source": "Tisto NYC",
-      "event_category": "workshop"
-    },
-    {
-      "id": "0a58449d-3335-4f8b-b330-fc630e97372f",
-      "event_title": "Medieval Game Night",
-      "event_date": "2026-06-23",
-      "end_date": "2026-06-23",
-      "ticket_link": "https://ukrainianinstitute.org/event/2026-06-23-medieval-game-night/",
-      "cover_image_url": "https://ukrainianinstitute.org/wp-content/uploads/2026/06/2026.06.23-Medieval-Game-Night-16x9-1.png",
-      "source": "Ukrainian Institute",
-      "event_category": "other"
     },
     {
       "id": "d8fd4108-7958-4725-8bf6-89027f30c9b5",
@@ -86,16 +56,6 @@
       "event_category": "workshop"
     },
     {
-      "id": "8b315e50-5fc3-4c61-b18e-e7e7312c6062",
-      "event_title": "BEZ OBMEZHEN Strong Hearts Tour — Rochester",
-      "event_date": "2026-06-27",
-      "end_date": "2026-06-27",
-      "ticket_link": "https://www.sharvarok.com/en/listing/bez-obmezhen-strong-hearts-tour-rochester/1213",
-      "cover_image_url": "https://images.sharvarok.com/post/1213/1777924442623-25781003.jpeg",
-      "source": "Sharvarok",
-      "event_category": "concert"
-    },
-    {
       "id": "4db35c4b-56ea-4b91-8049-451e0eb3ff8b",
       "event_title": "Kupala Night Celebration",
       "event_date": "2026-06-27",
@@ -116,6 +76,16 @@
       "event_category": "concert"
     },
     {
+      "id": "8b315e50-5fc3-4c61-b18e-e7e7312c6062",
+      "event_title": "BEZ OBMEZHEN Strong Hearts Tour — Rochester",
+      "event_date": "2026-06-27",
+      "end_date": "2026-06-27",
+      "ticket_link": "https://www.sharvarok.com/en/listing/bez-obmezhen-strong-hearts-tour-rochester/1213",
+      "cover_image_url": "https://images.sharvarok.com/post/1213/1777924442623-25781003.jpeg",
+      "source": "Sharvarok",
+      "event_category": "concert"
+    },
+    {
       "id": "1a1241cb-90b8-4b1b-9f0a-91cb7de55185",
       "event_title": "Songs Across Regions",
       "event_date": "2026-06-28",
@@ -123,6 +93,16 @@
       "ticket_link": "https://www.eventbrite.com/e/songs-across-regions-tickets-1990703356327",
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1185776171%252F502975386231%252F1%252Foriginal.20260530-203407%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Db1f55e75e0b4ff892a87471cfa972e44&w=1880&q=75",
       "source": "Eventbrite",
+      "event_category": "concert"
+    },
+    {
+      "id": "e39f6a16-e807-4c1f-b049-3375a239ec96",
+      "event_title": "[NEW YORK] FESTIVE CONCERT-DISCO FOR UKRAINE'S CONSTITUTION DAY",
+      "event_date": "2026-06-28",
+      "end_date": "2026-06-28",
+      "ticket_link": "https://eventcartel.com/events/concert/new-york-festive-concert-disco-for-ukraines-constitution-day-new-york-NY-sky-wise-tickets-14016",
+      "cover_image_url": "https://cdn.eventcartel.com/media/thumb/c2/79/c279b9fee32c992c933b863f1409e45a.webp",
+      "source": "EventCartel / Sky Wise",
       "event_category": "concert"
     },
     {
@@ -134,16 +114,6 @@
       "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
       "source": "Tisto NYC",
       "event_category": "workshop"
-    },
-    {
-      "id": "e39f6a16-e807-4c1f-b049-3375a239ec96",
-      "event_title": "[NEW YORK] FESTIVE CONCERT-DISCO FOR UKRAINE'S CONSTITUTION DAY",
-      "event_date": "2026-06-28",
-      "end_date": "2026-06-28",
-      "ticket_link": "https://eventcartel.com/events/concert/new-york-festive-concert-disco-for-ukraines-constitution-day-new-york-NY-sky-wise-tickets-14016",
-      "cover_image_url": "https://cdn.eventcartel.com/media/thumb/c2/79/c279b9fee32c992c933b863f1409e45a.webp",
-      "source": "EventCartel / Sky Wise",
-      "event_category": "concert"
     },
     {
       "id": "b6dcfd81-017b-4125-96f0-1ecd422994c2",
@@ -178,16 +148,6 @@
       "event_category": "discussion"
     },
     {
-      "id": "c87b6b2f-4c3d-4236-9d50-b187ad5101df",
-      "event_title": "Vasyl Baidak - New York City",
-      "event_date": "2026-07-03",
-      "end_date": "2026-07-03",
-      "ticket_link": "https://waylight.me/ucrazy/event/16319-cd91c",
-      "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1773094064_-1200630.jpg",
-      "source": "Waylight",
-      "event_category": "standup"
-    },
-    {
       "id": "d0ff2077-0c30-46dd-a7da-132667e16d37",
       "event_title": "July 4th Celebration",
       "event_date": "2026-07-03",
@@ -196,6 +156,16 @@
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/July4th-1024x576.png",
       "source": "Soyuzivka",
       "event_category": "festival"
+    },
+    {
+      "id": "c87b6b2f-4c3d-4236-9d50-b187ad5101df",
+      "event_title": "Vasyl Baidak - New York City",
+      "event_date": "2026-07-03",
+      "end_date": "2026-07-03",
+      "ticket_link": "https://waylight.me/ucrazy/event/16319-cd91c",
+      "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1773094064_-1200630.jpg",
+      "source": "Waylight",
+      "event_category": "standup"
     },
     {
       "id": "acf665c7-63ac-4d64-b842-a6426b57414a",
@@ -498,6 +468,16 @@
       "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2025/11/mikhail-voskresenskiy.jpg",
       "source": "Helping Hands for Ukraine",
       "event_category": "concert"
+    },
+    {
+      "id": "7f205e3a-4bb8-4c52-83f4-84c9bdb2e7e0",
+      "event_title": "UKETOBERFEST",
+      "event_date": "2026-10-17",
+      "end_date": "2026-10-17",
+      "ticket_link": "https://www.tryzub.org/events-main",
+      "cover_image_url": null,
+      "source": "Tryzub",
+      "event_category": "festival"
     },
     {
       "id": "59f88201-352f-4f2c-8405-d3d07b496330",
