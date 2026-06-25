@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T06:51:14.691689-04:00",
+  "generated_at": "2026-06-25T06:44:31.360736-04:00",
   "this_week_end": "2026-06-28",
   "this_month_end": "2026-06-30",
   "next_month_start": "2026-07-01",
@@ -26,26 +26,6 @@
       "event_category": "discussion"
     },
     {
-      "id": "d8fd4108-7958-4725-8bf6-89027f30c9b5",
-      "event_title": "Red, White and Blue: A Pysanka to Celebrate America's Semiquincentennial (Virtual Pysanka Demo)",
-      "event_date": "2026-06-24",
-      "end_date": "2026-06-24",
-      "ticket_link": "https://www.ukrhec.org/events/red-white-blue-pysanka-celebrate-americas-semiquincentennial-virtual-pysanka-demo",
-      "cover_image_url": "https://www.ukrhec.org/files/styles/card-copy-1/public/events/wallis_june_2026.jpg",
-      "source": "Ukrainian History and Education Center",
-      "event_category": "workshop"
-    },
-    {
-      "id": "281585de-3ad5-4884-b40f-4aea440f021c",
-      "event_title": "Walking Tour: Ukrainian Roots of American Art with Slava Shpigel",
-      "event_date": "2026-06-24",
-      "end_date": "2026-06-24",
-      "ticket_link": "https://borshchofart.org/programs/public-programs/slava-shpigel-20260624",
-      "cover_image_url": "https://borshch-of-art.s3.us-east-1.amazonaws.com/events/6a0536b79567039c6ebe060a/june-24-website-%282000-x-1000-px%29.png",
-      "source": "Borshch of Art",
-      "event_category": "sport"
-    },
-    {
       "id": "acf641a7-471c-4c7e-a033-9b560e21e9cd",
       "event_title": "Shared Experience Builds Teamsan experience for leaders and professionals working with teams",
       "event_date": "2026-06-25",
@@ -66,6 +46,16 @@
       "event_category": "concert"
     },
     {
+      "id": "8b315e50-5fc3-4c61-b18e-e7e7312c6062",
+      "event_title": "BEZ OBMEZHEN Strong Hearts Tour — Rochester",
+      "event_date": "2026-06-27",
+      "end_date": "2026-06-27",
+      "ticket_link": "https://www.sharvarok.com/en/listing/bez-obmezhen-strong-hearts-tour-rochester/1213",
+      "cover_image_url": "https://images.sharvarok.com/post/1213/1777924442623-25781003.jpeg",
+      "source": "Sharvarok",
+      "event_category": "concert"
+    },
+    {
       "id": "dae88d5e-5e81-4cd8-b0b7-fbd73b1b31f7",
       "event_title": "The Empty Chair: In Memory of Maksym Kryvtsov",
       "event_date": "2026-06-27",
@@ -76,14 +66,14 @@
       "event_category": "concert"
     },
     {
-      "id": "8b315e50-5fc3-4c61-b18e-e7e7312c6062",
-      "event_title": "BEZ OBMEZHEN Strong Hearts Tour — Rochester",
-      "event_date": "2026-06-27",
-      "end_date": "2026-06-27",
-      "ticket_link": "https://www.sharvarok.com/en/listing/bez-obmezhen-strong-hearts-tour-rochester/1213",
-      "cover_image_url": "https://images.sharvarok.com/post/1213/1777924442623-25781003.jpeg",
-      "source": "Sharvarok",
-      "event_category": "concert"
+      "id": "ba3a0c22-938a-475c-9e25-f15307fefb0c",
+      "event_title": "Present, Play & Teamworkan experience for leaders and professionals shaping team culture",
+      "event_date": "2026-06-28",
+      "end_date": "2026-06-28",
+      "ticket_link": "https://tisto.nyc/workshops/06-28-present-play-teamwork",
+      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
+      "source": "Tisto NYC",
+      "event_category": "workshop"
     },
     {
       "id": "1a1241cb-90b8-4b1b-9f0a-91cb7de55185",
@@ -104,16 +94,6 @@
       "cover_image_url": "https://cdn.eventcartel.com/media/thumb/c2/79/c279b9fee32c992c933b863f1409e45a.webp",
       "source": "EventCartel / Sky Wise",
       "event_category": "concert"
-    },
-    {
-      "id": "ba3a0c22-938a-475c-9e25-f15307fefb0c",
-      "event_title": "Present, Play & Teamworkan experience for leaders and professionals shaping team culture",
-      "event_date": "2026-06-28",
-      "end_date": "2026-06-28",
-      "ticket_link": "https://tisto.nyc/workshops/06-28-present-play-teamwork",
-      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
-      "source": "Tisto NYC",
-      "event_category": "workshop"
     },
     {
       "id": "b6dcfd81-017b-4125-96f0-1ecd422994c2",
@@ -218,16 +198,6 @@
       "event_category": "other"
     },
     {
-      "id": "fb4a8562-190e-4d12-a0f0-9e01aa40b84e",
-      "event_title": "Forest, Fire & BuddyA 3-Day Retreat · TISTO's Greatest Hits",
-      "event_date": "2026-07-12",
-      "end_date": "2026-07-12",
-      "ticket_link": "https://tisto.nyc/courses/retreat-tisto",
-      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/6a2317d50e4d3072865e96a7_July%203%2C%202026%20-%20Retreat%20(1).png",
-      "source": "Tisto NYC",
-      "event_category": "workshop"
-    },
-    {
       "id": "0d6e9081-66f1-4bbf-978e-075d33e43a67",
       "event_title": "Cake Painting Workshop",
       "event_date": "2026-07-12",
@@ -235,6 +205,16 @@
       "ticket_link": "https://luma.com/jktws75n",
       "cover_image_url": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/m4/18df8ee8-cadf-4a14-a221-849a78f956ac.jpg",
       "source": "Ptashka Agency",
+      "event_category": "workshop"
+    },
+    {
+      "id": "fb4a8562-190e-4d12-a0f0-9e01aa40b84e",
+      "event_title": "Forest, Fire & BuddyA 3-Day Retreat · TISTO's Greatest Hits",
+      "event_date": "2026-07-12",
+      "end_date": "2026-07-12",
+      "ticket_link": "https://tisto.nyc/courses/retreat-tisto",
+      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/6a2317d50e4d3072865e96a7_July%203%2C%202026%20-%20Retreat%20(1).png",
+      "source": "Tisto NYC",
       "event_category": "workshop"
     },
     {
