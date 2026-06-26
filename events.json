@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T06:44:31.360736-04:00",
+  "generated_at": "2026-06-26T06:54:00.694266-04:00",
   "this_week_end": "2026-06-28",
   "this_month_end": "2026-06-30",
   "next_month_start": "2026-07-01",
@@ -26,26 +26,6 @@
       "event_category": "discussion"
     },
     {
-      "id": "acf641a7-471c-4c7e-a033-9b560e21e9cd",
-      "event_title": "Shared Experience Builds Teamsan experience for leaders and professionals working with teams",
-      "event_date": "2026-06-25",
-      "end_date": "2026-06-25",
-      "ticket_link": "https://tisto.nyc/workshops/06-24-shared-experience-builds-teams",
-      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
-      "source": "Tisto NYC",
-      "event_category": "workshop"
-    },
-    {
-      "id": "4db35c4b-56ea-4b91-8049-451e0eb3ff8b",
-      "event_title": "Kupala Night Celebration",
-      "event_date": "2026-06-27",
-      "end_date": "2026-06-27",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/kupala-night-celebration",
-      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1781311618/organizations/5/1/e/6/51e679e0-b44e-4f15-a3d0-f944bbafdc87/f4b1302f-39f9-4eae-85da-748d29bf0bc0.png",
-      "source": "Svitanok NYC Zeffy",
-      "event_category": "concert"
-    },
-    {
       "id": "8b315e50-5fc3-4c61-b18e-e7e7312c6062",
       "event_title": "BEZ OBMEZHEN Strong Hearts Tour — Rochester",
       "event_date": "2026-06-27",
@@ -64,6 +44,26 @@
       "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1781124097/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/e92474f6-c829-4218-afc8-11aa55e0a578.png",
       "source": "Ukrainian Museum Zeffy",
       "event_category": "concert"
+    },
+    {
+      "id": "4db35c4b-56ea-4b91-8049-451e0eb3ff8b",
+      "event_title": "Kupala Night Celebration",
+      "event_date": "2026-06-27",
+      "end_date": "2026-06-27",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/kupala-night-celebration",
+      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1781311618/organizations/5/1/e/6/51e679e0-b44e-4f15-a3d0-f944bbafdc87/f4b1302f-39f9-4eae-85da-748d29bf0bc0.png",
+      "source": "Svitanok NYC Zeffy",
+      "event_category": "concert"
+    },
+    {
+      "id": "57bbfc23-2ff8-41f0-b6e3-4ae2e73c303a",
+      "event_title": "Lemko Vatra '26 Festival This Saturday",
+      "event_date": "2026-06-27",
+      "end_date": "2026-06-27",
+      "ticket_link": "https://www.sharvarok.com/en/listing/lemko-vatra-26-festival-this-saturday/1345",
+      "cover_image_url": "https://images.sharvarok.com/post/1345/1782426877317-62685387.jpg",
+      "source": "Sharvarok",
+      "event_category": "festival"
     },
     {
       "id": "ba3a0c22-938a-475c-9e25-f15307fefb0c",
@@ -198,16 +198,6 @@
       "event_category": "other"
     },
     {
-      "id": "0d6e9081-66f1-4bbf-978e-075d33e43a67",
-      "event_title": "Cake Painting Workshop",
-      "event_date": "2026-07-12",
-      "end_date": "2026-07-12",
-      "ticket_link": "https://luma.com/jktws75n",
-      "cover_image_url": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/m4/18df8ee8-cadf-4a14-a221-849a78f956ac.jpg",
-      "source": "Ptashka Agency",
-      "event_category": "workshop"
-    },
-    {
       "id": "fb4a8562-190e-4d12-a0f0-9e01aa40b84e",
       "event_title": "Forest, Fire & BuddyA 3-Day Retreat · TISTO's Greatest Hits",
       "event_date": "2026-07-12",
@@ -215,6 +205,16 @@
       "ticket_link": "https://tisto.nyc/courses/retreat-tisto",
       "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/6a2317d50e4d3072865e96a7_July%203%2C%202026%20-%20Retreat%20(1).png",
       "source": "Tisto NYC",
+      "event_category": "workshop"
+    },
+    {
+      "id": "0d6e9081-66f1-4bbf-978e-075d33e43a67",
+      "event_title": "Cake Painting Workshop",
+      "event_date": "2026-07-12",
+      "end_date": "2026-07-12",
+      "ticket_link": "https://luma.com/jktws75n",
+      "cover_image_url": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/m4/18df8ee8-cadf-4a14-a221-849a78f956ac.jpg",
+      "source": "Ptashka Agency",
       "event_category": "workshop"
     },
     {
