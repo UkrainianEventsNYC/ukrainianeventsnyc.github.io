@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T06:54:00.694266-04:00",
+  "generated_at": "2026-06-27T06:07:59.892246-04:00",
   "this_week_end": "2026-06-28",
   "this_month_end": "2026-06-30",
   "next_month_start": "2026-07-01",
@@ -26,13 +26,13 @@
       "event_category": "discussion"
     },
     {
-      "id": "8b315e50-5fc3-4c61-b18e-e7e7312c6062",
-      "event_title": "BEZ OBMEZHEN Strong Hearts Tour — Rochester",
+      "id": "4db35c4b-56ea-4b91-8049-451e0eb3ff8b",
+      "event_title": "Kupala Night Celebration",
       "event_date": "2026-06-27",
       "end_date": "2026-06-27",
-      "ticket_link": "https://www.sharvarok.com/en/listing/bez-obmezhen-strong-hearts-tour-rochester/1213",
-      "cover_image_url": "https://images.sharvarok.com/post/1213/1777924442623-25781003.jpeg",
-      "source": "Sharvarok",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/kupala-night-celebration",
+      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1781311618/organizations/5/1/e/6/51e679e0-b44e-4f15-a3d0-f944bbafdc87/f4b1302f-39f9-4eae-85da-748d29bf0bc0.png",
+      "source": "Svitanok NYC Zeffy",
       "event_category": "concert"
     },
     {
@@ -46,16 +46,6 @@
       "event_category": "concert"
     },
     {
-      "id": "4db35c4b-56ea-4b91-8049-451e0eb3ff8b",
-      "event_title": "Kupala Night Celebration",
-      "event_date": "2026-06-27",
-      "end_date": "2026-06-27",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/kupala-night-celebration",
-      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1781311618/organizations/5/1/e/6/51e679e0-b44e-4f15-a3d0-f944bbafdc87/f4b1302f-39f9-4eae-85da-748d29bf0bc0.png",
-      "source": "Svitanok NYC Zeffy",
-      "event_category": "concert"
-    },
-    {
       "id": "57bbfc23-2ff8-41f0-b6e3-4ae2e73c303a",
       "event_title": "Lemko Vatra '26 Festival This Saturday",
       "event_date": "2026-06-27",
@@ -66,14 +56,24 @@
       "event_category": "festival"
     },
     {
-      "id": "ba3a0c22-938a-475c-9e25-f15307fefb0c",
-      "event_title": "Present, Play & Teamworkan experience for leaders and professionals shaping team culture",
+      "id": "8b315e50-5fc3-4c61-b18e-e7e7312c6062",
+      "event_title": "BEZ OBMEZHEN Strong Hearts Tour — Rochester",
+      "event_date": "2026-06-27",
+      "end_date": "2026-06-27",
+      "ticket_link": "https://www.sharvarok.com/en/listing/bez-obmezhen-strong-hearts-tour-rochester/1213",
+      "cover_image_url": "https://images.sharvarok.com/post/1213/1777924442623-25781003.jpeg",
+      "source": "Sharvarok",
+      "event_category": "concert"
+    },
+    {
+      "id": "e39f6a16-e807-4c1f-b049-3375a239ec96",
+      "event_title": "[NEW YORK] FESTIVE CONCERT-DISCO FOR UKRAINE'S CONSTITUTION DAY",
       "event_date": "2026-06-28",
       "end_date": "2026-06-28",
-      "ticket_link": "https://tisto.nyc/workshops/06-28-present-play-teamwork",
-      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
-      "source": "Tisto NYC",
-      "event_category": "workshop"
+      "ticket_link": "https://eventcartel.com/events/concert/new-york-festive-concert-disco-for-ukraines-constitution-day-new-york-NY-sky-wise-tickets-14016",
+      "cover_image_url": "https://cdn.eventcartel.com/media/thumb/c2/79/c279b9fee32c992c933b863f1409e45a.webp",
+      "source": "EventCartel / Sky Wise",
+      "event_category": "concert"
     },
     {
       "id": "1a1241cb-90b8-4b1b-9f0a-91cb7de55185",
@@ -86,14 +86,14 @@
       "event_category": "concert"
     },
     {
-      "id": "e39f6a16-e807-4c1f-b049-3375a239ec96",
-      "event_title": "[NEW YORK] FESTIVE CONCERT-DISCO FOR UKRAINE'S CONSTITUTION DAY",
+      "id": "ba3a0c22-938a-475c-9e25-f15307fefb0c",
+      "event_title": "Present, Play & Teamworkan experience for leaders and professionals shaping team culture",
       "event_date": "2026-06-28",
       "end_date": "2026-06-28",
-      "ticket_link": "https://eventcartel.com/events/concert/new-york-festive-concert-disco-for-ukraines-constitution-day-new-york-NY-sky-wise-tickets-14016",
-      "cover_image_url": "https://cdn.eventcartel.com/media/thumb/c2/79/c279b9fee32c992c933b863f1409e45a.webp",
-      "source": "EventCartel / Sky Wise",
-      "event_category": "concert"
+      "ticket_link": "https://tisto.nyc/workshops/06-28-present-play-teamwork",
+      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
+      "source": "Tisto NYC",
+      "event_category": "workshop"
     },
     {
       "id": "b6dcfd81-017b-4125-96f0-1ecd422994c2",
@@ -126,6 +126,16 @@
       "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1780542007/organizations/5/1/e/6/51e679e0-b44e-4f15-a3d0-f944bbafdc87/5c08e0cb-1527-43bf-a016-81557b1dd3ec.png",
       "source": "Svitanok NYC Zeffy",
       "event_category": "discussion"
+    },
+    {
+      "id": "d3d80dfd-4a96-4804-8ed1-6a7e4c838853",
+      "event_title": "1st Thursdays",
+      "event_date": "2026-07-02",
+      "end_date": "2026-07-02",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/1st-thursdays",
+      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/c_fill,g_auto,f_jpg,q_auto,w_1200,h_630/v1782502359/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/2486d9fc-cc43-48b3-98ce-3afb29a51a4b.png",
+      "source": "Ukrainian Museum Zeffy",
+      "event_category": "art"
     },
     {
       "id": "d0ff2077-0c30-46dd-a7da-132667e16d37",
@@ -330,16 +340,6 @@
       "event_category": "concert"
     },
     {
-      "id": "85924df7-ed77-4e01-98d1-023d6ce49676",
-      "event_title": "Independence Day of Ukraine Celebration",
-      "event_date": "2026-08-22",
-      "end_date": "2026-08-22",
-      "ticket_link": "https://www.sharvarok.com/en/listing/independence-day-of-ukraine-celebration/1273",
-      "cover_image_url": "https://images.sharvarok.com/post/1273/1779951298218-865706631.jpeg",
-      "source": "Sharvarok",
-      "event_category": "festival"
-    },
-    {
       "id": "eaff895d-fd21-4a4a-982c-7eb6e889e6f9",
       "event_title": "Vyshyvanka Run NYC 2026",
       "event_date": "2026-08-22",
@@ -350,14 +350,14 @@
       "event_category": "sport"
     },
     {
-      "id": "0e9a9824-a1fa-4c05-8cab-56056cac5141",
-      "event_title": "KOLO",
-      "event_date": "2026-08-23",
-      "end_date": "2026-08-23",
-      "ticket_link": "https://ra.co/events/2451595",
-      "cover_image_url": "https://images.ra.co/92c04359fc72b1a3e1f15e61c3c6597673a02041.png",
-      "source": "Resident Advisor (KOLO NYC)",
-      "event_category": "concert"
+      "id": "85924df7-ed77-4e01-98d1-023d6ce49676",
+      "event_title": "Independence Day of Ukraine Celebration",
+      "event_date": "2026-08-22",
+      "end_date": "2026-08-22",
+      "ticket_link": "https://www.sharvarok.com/en/listing/independence-day-of-ukraine-celebration/1273",
+      "cover_image_url": "https://images.sharvarok.com/post/1273/1779951298218-865706631.jpeg",
+      "source": "Sharvarok",
+      "event_category": "festival"
     },
     {
       "id": "6e09be07-367d-42d5-b19a-3ebc96a34241",
@@ -368,6 +368,16 @@
       "cover_image_url": "https://www.tryzub.org/resources/Pictures/ukrainian-folk-festival-2025.jpg",
       "source": "Tryzub",
       "event_category": "festival"
+    },
+    {
+      "id": "0e9a9824-a1fa-4c05-8cab-56056cac5141",
+      "event_title": "KOLO",
+      "event_date": "2026-08-23",
+      "end_date": "2026-08-23",
+      "ticket_link": "https://ra.co/events/2451595",
+      "cover_image_url": "https://images.ra.co/92c04359fc72b1a3e1f15e61c3c6597673a02041.png",
+      "source": "Resident Advisor (KOLO NYC)",
+      "event_category": "concert"
     },
     {
       "id": "20e80d05-1cc2-46f4-8ee5-6c9d82d2e10f",
