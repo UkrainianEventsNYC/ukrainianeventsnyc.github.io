@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T06:07:59.892246-04:00",
+  "generated_at": "2026-06-28T06:30:52.753831-04:00",
   "this_week_end": "2026-06-28",
   "this_month_end": "2026-06-30",
   "next_month_start": "2026-07-01",
@@ -26,44 +26,14 @@
       "event_category": "discussion"
     },
     {
-      "id": "4db35c4b-56ea-4b91-8049-451e0eb3ff8b",
-      "event_title": "Kupala Night Celebration",
-      "event_date": "2026-06-27",
-      "end_date": "2026-06-27",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/kupala-night-celebration",
-      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1781311618/organizations/5/1/e/6/51e679e0-b44e-4f15-a3d0-f944bbafdc87/f4b1302f-39f9-4eae-85da-748d29bf0bc0.png",
-      "source": "Svitanok NYC Zeffy",
-      "event_category": "concert"
-    },
-    {
-      "id": "dae88d5e-5e81-4cd8-b0b7-fbd73b1b31f7",
-      "event_title": "The Empty Chair: In Memory of Maksym Kryvtsov",
-      "event_date": "2026-06-27",
-      "end_date": "2026-06-27",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/the-empty-chair-in-memory-of-maksym-kryvtsov",
-      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1781124097/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/e92474f6-c829-4218-afc8-11aa55e0a578.png",
-      "source": "Ukrainian Museum Zeffy",
-      "event_category": "concert"
-    },
-    {
-      "id": "57bbfc23-2ff8-41f0-b6e3-4ae2e73c303a",
-      "event_title": "Lemko Vatra '26 Festival This Saturday",
-      "event_date": "2026-06-27",
-      "end_date": "2026-06-27",
-      "ticket_link": "https://www.sharvarok.com/en/listing/lemko-vatra-26-festival-this-saturday/1345",
-      "cover_image_url": "https://images.sharvarok.com/post/1345/1782426877317-62685387.jpg",
-      "source": "Sharvarok",
-      "event_category": "festival"
-    },
-    {
-      "id": "8b315e50-5fc3-4c61-b18e-e7e7312c6062",
-      "event_title": "BEZ OBMEZHEN Strong Hearts Tour — Rochester",
-      "event_date": "2026-06-27",
-      "end_date": "2026-06-27",
-      "ticket_link": "https://www.sharvarok.com/en/listing/bez-obmezhen-strong-hearts-tour-rochester/1213",
-      "cover_image_url": "https://images.sharvarok.com/post/1213/1777924442623-25781003.jpeg",
-      "source": "Sharvarok",
-      "event_category": "concert"
+      "id": "ba3a0c22-938a-475c-9e25-f15307fefb0c",
+      "event_title": "Present, Play & Teamworkan experience for leaders and professionals shaping team culture",
+      "event_date": "2026-06-28",
+      "end_date": "2026-06-28",
+      "ticket_link": "https://tisto.nyc/workshops/06-28-present-play-teamwork",
+      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
+      "source": "Tisto NYC",
+      "event_category": "workshop"
     },
     {
       "id": "e39f6a16-e807-4c1f-b049-3375a239ec96",
@@ -84,16 +54,6 @@
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1185776171%252F502975386231%252F1%252Foriginal.20260530-203407%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3Db1f55e75e0b4ff892a87471cfa972e44&w=1880&q=75",
       "source": "Eventbrite",
       "event_category": "concert"
-    },
-    {
-      "id": "ba3a0c22-938a-475c-9e25-f15307fefb0c",
-      "event_title": "Present, Play & Teamworkan experience for leaders and professionals shaping team culture",
-      "event_date": "2026-06-28",
-      "end_date": "2026-06-28",
-      "ticket_link": "https://tisto.nyc/workshops/06-28-present-play-teamwork",
-      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
-      "source": "Tisto NYC",
-      "event_category": "workshop"
     },
     {
       "id": "b6dcfd81-017b-4125-96f0-1ecd422994c2",
@@ -126,6 +86,16 @@
       "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1780542007/organizations/5/1/e/6/51e679e0-b44e-4f15-a3d0-f944bbafdc87/5c08e0cb-1527-43bf-a016-81557b1dd3ec.png",
       "source": "Svitanok NYC Zeffy",
       "event_category": "discussion"
+    },
+    {
+      "id": "cbb9faf4-f4ff-407e-b69c-6ec4fee6c66d",
+      "event_title": "Present, Play & Teamworkfor anyone who works with people",
+      "event_date": "2026-07-01",
+      "end_date": "2026-07-01",
+      "ticket_link": "https://tisto.nyc/workshops/07-01-present-play-teamwork-copy",
+      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
+      "source": "Tisto NYC",
+      "event_category": "workshop"
     },
     {
       "id": "d3d80dfd-4a96-4804-8ed1-6a7e4c838853",
@@ -340,16 +310,6 @@
       "event_category": "concert"
     },
     {
-      "id": "eaff895d-fd21-4a4a-982c-7eb6e889e6f9",
-      "event_title": "Vyshyvanka Run NYC 2026",
-      "event_date": "2026-08-22",
-      "end_date": "2026-08-22",
-      "ticket_link": "https://runsignup.com/Race/NY/NewYork/VyshyvankaRunNYC",
-      "cover_image_url": "https://d368g9lw5ileu7.cloudfront.net/races/races-168xxx/168069/raceBanner-93U0HSEI-bOmDTl.jpg",
-      "source": "Vyshyvanka Run NYC",
-      "event_category": "sport"
-    },
-    {
       "id": "85924df7-ed77-4e01-98d1-023d6ce49676",
       "event_title": "Independence Day of Ukraine Celebration",
       "event_date": "2026-08-22",
@@ -360,14 +320,14 @@
       "event_category": "festival"
     },
     {
-      "id": "6e09be07-367d-42d5-b19a-3ebc96a34241",
-      "event_title": "Ukrainian Independence Folk Festival",
-      "event_date": "2026-08-23",
-      "end_date": "2026-08-23",
-      "ticket_link": "https://www.tryzub.org/Ukraine-Festival-2026",
-      "cover_image_url": "https://www.tryzub.org/resources/Pictures/ukrainian-folk-festival-2025.jpg",
-      "source": "Tryzub",
-      "event_category": "festival"
+      "id": "eaff895d-fd21-4a4a-982c-7eb6e889e6f9",
+      "event_title": "Vyshyvanka Run NYC 2026",
+      "event_date": "2026-08-22",
+      "end_date": "2026-08-22",
+      "ticket_link": "https://runsignup.com/Race/NY/NewYork/VyshyvankaRunNYC",
+      "cover_image_url": "https://d368g9lw5ileu7.cloudfront.net/races/races-168xxx/168069/raceBanner-93U0HSEI-bOmDTl.jpg",
+      "source": "Vyshyvanka Run NYC",
+      "event_category": "sport"
     },
     {
       "id": "0e9a9824-a1fa-4c05-8cab-56056cac5141",
@@ -378,6 +338,16 @@
       "cover_image_url": "https://images.ra.co/92c04359fc72b1a3e1f15e61c3c6597673a02041.png",
       "source": "Resident Advisor (KOLO NYC)",
       "event_category": "concert"
+    },
+    {
+      "id": "6e09be07-367d-42d5-b19a-3ebc96a34241",
+      "event_title": "Ukrainian Independence Folk Festival",
+      "event_date": "2026-08-23",
+      "end_date": "2026-08-23",
+      "ticket_link": "https://www.tryzub.org/Ukraine-Festival-2026",
+      "cover_image_url": "https://www.tryzub.org/resources/Pictures/ukrainian-folk-festival-2025.jpg",
+      "source": "Tryzub",
+      "event_category": "festival"
     },
     {
       "id": "20e80d05-1cc2-46f4-8ee5-6c9d82d2e10f",
