@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T07:27:00.961763-04:00",
+  "generated_at": "2026-07-02T06:40:51.288550-04:00",
   "this_week_end": "2026-07-05",
   "this_month_end": "2026-07-31",
   "next_month_start": "2026-08-01",
@@ -26,16 +26,6 @@
       "event_category": "discussion"
     },
     {
-      "id": "cbb9faf4-f4ff-407e-b69c-6ec4fee6c66d",
-      "event_title": "Present, Play & Teamworkfor anyone who works with people",
-      "event_date": "2026-07-01",
-      "end_date": "2026-07-01",
-      "ticket_link": "https://tisto.nyc/workshops/07-01-present-play-teamwork-copy",
-      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/69bd9c0167d47374152d4328_38-DSC05558%201.png",
-      "source": "Tisto NYC",
-      "event_category": "workshop"
-    },
-    {
       "id": "d3d80dfd-4a96-4804-8ed1-6a7e4c838853",
       "event_title": "1st Thursdays",
       "event_date": "2026-07-02",
@@ -46,16 +36,6 @@
       "event_category": "art"
     },
     {
-      "id": "c87b6b2f-4c3d-4236-9d50-b187ad5101df",
-      "event_title": "Vasyl Baidak - New York City",
-      "event_date": "2026-07-03",
-      "end_date": "2026-07-03",
-      "ticket_link": "https://waylight.me/ucrazy/event/16319-cd91c",
-      "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1773094064_-1200630.jpg",
-      "source": "Waylight",
-      "event_category": "standup"
-    },
-    {
       "id": "d0ff2077-0c30-46dd-a7da-132667e16d37",
       "event_title": "July 4th Celebration",
       "event_date": "2026-07-03",
@@ -64,6 +44,16 @@
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/July4th-1024x576.png",
       "source": "Soyuzivka",
       "event_category": "festival"
+    },
+    {
+      "id": "c87b6b2f-4c3d-4236-9d50-b187ad5101df",
+      "event_title": "Vasyl Baidak - New York City",
+      "event_date": "2026-07-03",
+      "end_date": "2026-07-03",
+      "ticket_link": "https://waylight.me/ucrazy/event/16319-cd91c",
+      "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1773094064_-1200630.jpg",
+      "source": "Waylight",
+      "event_category": "standup"
     },
     {
       "id": "acf665c7-63ac-4d64-b842-a6426b57414a",
