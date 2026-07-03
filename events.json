@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T06:40:51.288550-04:00",
+  "generated_at": "2026-07-03T06:37:46.616358-04:00",
   "this_week_end": "2026-07-05",
   "this_month_end": "2026-07-31",
   "next_month_start": "2026-08-01",
@@ -24,16 +24,6 @@
       "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/v1780542007/organizations/5/1/e/6/51e679e0-b44e-4f15-a3d0-f944bbafdc87/5c08e0cb-1527-43bf-a016-81557b1dd3ec.png",
       "source": "Svitanok NYC Zeffy",
       "event_category": "discussion"
-    },
-    {
-      "id": "d3d80dfd-4a96-4804-8ed1-6a7e4c838853",
-      "event_title": "1st Thursdays",
-      "event_date": "2026-07-02",
-      "end_date": "2026-07-02",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/1st-thursdays",
-      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/c_fill,g_auto,f_jpg,q_auto,w_1200,h_630/v1782502359/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/2486d9fc-cc43-48b3-98ce-3afb29a51a4b.png",
-      "source": "Ukrainian Museum Zeffy",
-      "event_category": "art"
     },
     {
       "id": "d0ff2077-0c30-46dd-a7da-132667e16d37",
@@ -106,16 +96,6 @@
       "event_category": "other"
     },
     {
-      "id": "fb4a8562-190e-4d12-a0f0-9e01aa40b84e",
-      "event_title": "Forest, Fire & BuddyA 3-Day Retreat · TISTO's Greatest Hits",
-      "event_date": "2026-07-12",
-      "end_date": "2026-07-12",
-      "ticket_link": "https://tisto.nyc/courses/retreat-tisto",
-      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/6a2317d50e4d3072865e96a7_July%203%2C%202026%20-%20Retreat%20(1).png",
-      "source": "Tisto NYC",
-      "event_category": "workshop"
-    },
-    {
       "id": "0d6e9081-66f1-4bbf-978e-075d33e43a67",
       "event_title": "Cake Painting Workshop",
       "event_date": "2026-07-12",
@@ -123,6 +103,26 @@
       "ticket_link": "https://luma.com/jktws75n",
       "cover_image_url": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/m4/18df8ee8-cadf-4a14-a221-849a78f956ac.jpg",
       "source": "Ptashka Agency",
+      "event_category": "workshop"
+    },
+    {
+      "id": "dbd09ac4-bab5-49c4-ae90-93f9dec605e3",
+      "event_title": "Kids & Family Day: A Living Canvas",
+      "event_date": "2026-07-12",
+      "end_date": "2026-07-12",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/kids-and-family-day-a-living-canvas",
+      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/c_fill,g_auto,f_jpg,q_auto,w_1200,h_630/v1783025611/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/2a4918f6-6d86-474d-8d2d-3b226fdeee9b.png",
+      "source": "Ukrainian Museum Zeffy",
+      "event_category": "other"
+    },
+    {
+      "id": "fb4a8562-190e-4d12-a0f0-9e01aa40b84e",
+      "event_title": "Forest, Fire & BuddyA 3-Day Retreat · TISTO's Greatest Hits",
+      "event_date": "2026-07-12",
+      "end_date": "2026-07-12",
+      "ticket_link": "https://tisto.nyc/courses/retreat-tisto",
+      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/6a2317d50e4d3072865e96a7_July%203%2C%202026%20-%20Retreat%20(1).png",
+      "source": "Tisto NYC",
       "event_category": "workshop"
     },
     {
@@ -248,16 +248,6 @@
       "event_category": "concert"
     },
     {
-      "id": "85924df7-ed77-4e01-98d1-023d6ce49676",
-      "event_title": "Independence Day of Ukraine Celebration",
-      "event_date": "2026-08-22",
-      "end_date": "2026-08-22",
-      "ticket_link": "https://www.sharvarok.com/en/listing/independence-day-of-ukraine-celebration/1273",
-      "cover_image_url": "https://images.sharvarok.com/post/1273/1779951298218-865706631.jpeg",
-      "source": "Sharvarok",
-      "event_category": "festival"
-    },
-    {
       "id": "eaff895d-fd21-4a4a-982c-7eb6e889e6f9",
       "event_title": "Vyshyvanka Run NYC 2026",
       "event_date": "2026-08-22",
@@ -266,6 +256,16 @@
       "cover_image_url": "https://d368g9lw5ileu7.cloudfront.net/races/races-168xxx/168069/raceBanner-93U0HSEI-bOmDTl.jpg",
       "source": "Vyshyvanka Run NYC",
       "event_category": "sport"
+    },
+    {
+      "id": "85924df7-ed77-4e01-98d1-023d6ce49676",
+      "event_title": "Independence Day of Ukraine Celebration",
+      "event_date": "2026-08-22",
+      "end_date": "2026-08-22",
+      "ticket_link": "https://www.sharvarok.com/en/listing/independence-day-of-ukraine-celebration/1273",
+      "cover_image_url": "https://images.sharvarok.com/post/1273/1779951298218-865706631.jpeg",
+      "source": "Sharvarok",
+      "event_category": "festival"
     },
     {
       "id": "6e09be07-367d-42d5-b19a-3ebc96a34241",
