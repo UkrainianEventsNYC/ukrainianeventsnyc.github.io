@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T06:37:46.616358-04:00",
+  "generated_at": "2026-07-04T06:11:26.997384-04:00",
   "this_week_end": "2026-07-05",
   "this_month_end": "2026-07-31",
   "next_month_start": "2026-08-01",
@@ -34,16 +34,6 @@
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/July4th-1024x576.png",
       "source": "Soyuzivka",
       "event_category": "festival"
-    },
-    {
-      "id": "c87b6b2f-4c3d-4236-9d50-b187ad5101df",
-      "event_title": "Vasyl Baidak - New York City",
-      "event_date": "2026-07-03",
-      "end_date": "2026-07-03",
-      "ticket_link": "https://waylight.me/ucrazy/event/16319-cd91c",
-      "cover_image_url": "https://d1kvnmzll4ky5b.cloudfront.net/1773094064_-1200630.jpg",
-      "source": "Waylight",
-      "event_category": "standup"
     },
     {
       "id": "acf665c7-63ac-4d64-b842-a6426b57414a",
