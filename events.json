@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T06:13:34.879929-04:00",
-  "this_week_end": "2026-07-05",
+  "generated_at": "2026-07-06T08:06:25.796252-04:00",
+  "this_week_end": "2026-07-12",
   "this_month_end": "2026-07-31",
   "next_month_start": "2026-08-01",
   "next_month_end": "2026-08-31",
@@ -14,16 +14,6 @@
       "cover_image_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/719351751_17941434012240609_4968152271624334438_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=MzkxNTEyMTcyMTEzMzM1MTA3NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTM1MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=9EwoiG35WS0Q7kNvwEj-SC-&_nc_oc=AdrWnDWXDC_7gS1eQIDEnviFVbb14YW7EWSjgm7ncD9Ew6vFGEs04Zt5HVoqfmyTpAI&_nc_zt=23&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_gid=AJIqXQ03m8pA0sEiwJWnsQ&_nc_ss=7b289&oh=00_Af_rmK7ZMYq7h3rYD85xx2NeSmg2KR5QyH-qawYW9OnG2Q&oe=6A363641",
       "source": "Borshch of Art",
       "event_category": "exhibitions"
-    },
-    {
-      "id": "d0ff2077-0c30-46dd-a7da-132667e16d37",
-      "event_title": "July 4th Celebration",
-      "event_date": "2026-07-03",
-      "end_date": "2026-07-05",
-      "ticket_link": "https://soyuzivka.com/calendar-of-events/july-4th-celebration/",
-      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/July4th-1024x576.png",
-      "source": "Soyuzivka",
-      "event_category": "festival"
     },
     {
       "id": "06ee4a4d-c6bb-4753-9c41-f3ac13b34412",
@@ -66,6 +56,16 @@
       "event_category": "other"
     },
     {
+      "id": "0d6e9081-66f1-4bbf-978e-075d33e43a67",
+      "event_title": "Cake Painting Workshop",
+      "event_date": "2026-07-12",
+      "end_date": "2026-07-12",
+      "ticket_link": "https://luma.com/jktws75n",
+      "cover_image_url": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/m4/18df8ee8-cadf-4a14-a221-849a78f956ac.jpg",
+      "source": "Ptashka Agency",
+      "event_category": "workshop"
+    },
+    {
       "id": "fb4a8562-190e-4d12-a0f0-9e01aa40b84e",
       "event_title": "Forest, Fire & BuddyA 3-Day Retreat · TISTO's Greatest Hits",
       "event_date": "2026-07-12",
@@ -84,16 +84,6 @@
       "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/c_fill,g_auto,f_jpg,q_auto,w_1200,h_630/v1783025611/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/2a4918f6-6d86-474d-8d2d-3b226fdeee9b.png",
       "source": "Ukrainian Museum Zeffy",
       "event_category": "other"
-    },
-    {
-      "id": "0d6e9081-66f1-4bbf-978e-075d33e43a67",
-      "event_title": "Cake Painting Workshop",
-      "event_date": "2026-07-12",
-      "end_date": "2026-07-12",
-      "ticket_link": "https://luma.com/jktws75n",
-      "cover_image_url": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/uploads/m4/18df8ee8-cadf-4a14-a221-849a78f956ac.jpg",
-      "source": "Ptashka Agency",
-      "event_category": "workshop"
     },
     {
       "id": "4cfebdf8-aaab-41b8-8944-6edabf327bec",
@@ -238,16 +228,6 @@
       "event_category": "sport"
     },
     {
-      "id": "0e9a9824-a1fa-4c05-8cab-56056cac5141",
-      "event_title": "KOLO",
-      "event_date": "2026-08-23",
-      "end_date": "2026-08-23",
-      "ticket_link": "https://ra.co/events/2451595",
-      "cover_image_url": "https://images.ra.co/92c04359fc72b1a3e1f15e61c3c6597673a02041.png",
-      "source": "Resident Advisor (KOLO NYC)",
-      "event_category": "concert"
-    },
-    {
       "id": "6e09be07-367d-42d5-b19a-3ebc96a34241",
       "event_title": "Ukrainian Independence Folk Festival",
       "event_date": "2026-08-23",
@@ -256,6 +236,16 @@
       "cover_image_url": "https://www.tryzub.org/resources/Pictures/ukrainian-folk-festival-2025.jpg",
       "source": "Tryzub",
       "event_category": "festival"
+    },
+    {
+      "id": "0e9a9824-a1fa-4c05-8cab-56056cac5141",
+      "event_title": "KOLO",
+      "event_date": "2026-08-23",
+      "end_date": "2026-08-23",
+      "ticket_link": "https://ra.co/events/2451595",
+      "cover_image_url": "https://images.ra.co/92c04359fc72b1a3e1f15e61c3c6597673a02041.png",
+      "source": "Resident Advisor (KOLO NYC)",
+      "event_category": "concert"
     },
     {
       "id": "20e80d05-1cc2-46f4-8ee5-6c9d82d2e10f",
