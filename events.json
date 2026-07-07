@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T08:06:25.796252-04:00",
+  "generated_at": "2026-07-07T06:57:37.474798-04:00",
   "this_week_end": "2026-07-12",
   "this_month_end": "2026-07-31",
   "next_month_start": "2026-08-01",
@@ -14,16 +14,6 @@
       "cover_image_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/719351751_17941434012240609_4968152271624334438_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=MzkxNTEyMTcyMTEzMzM1MTA3NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTM1MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=9EwoiG35WS0Q7kNvwEj-SC-&_nc_oc=AdrWnDWXDC_7gS1eQIDEnviFVbb14YW7EWSjgm7ncD9Ew6vFGEs04Zt5HVoqfmyTpAI&_nc_zt=23&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_gid=AJIqXQ03m8pA0sEiwJWnsQ&_nc_ss=7b289&oh=00_Af_rmK7ZMYq7h3rYD85xx2NeSmg2KR5QyH-qawYW9OnG2Q&oe=6A363641",
       "source": "Borshch of Art",
       "event_category": "exhibitions"
-    },
-    {
-      "id": "06ee4a4d-c6bb-4753-9c41-f3ac13b34412",
-      "event_title": "Forest, Fire & BuddyA 3-Day Retreat · TISTO's Greatest Hits",
-      "event_date": "2026-07-06",
-      "end_date": "2026-07-06",
-      "ticket_link": "https://tisto.nyc/courses/retreat-3-5-7",
-      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/6a2317d50e4d3072865e96a7_July%203%2C%202026%20-%20Retreat%20(1).png",
-      "source": "Tisto NYC",
-      "event_category": "workshop"
     },
     {
       "id": "c0f23732-2b2d-4241-b7e7-5c081fa59a4c",
@@ -66,16 +56,6 @@
       "event_category": "workshop"
     },
     {
-      "id": "fb4a8562-190e-4d12-a0f0-9e01aa40b84e",
-      "event_title": "Forest, Fire & BuddyA 3-Day Retreat · TISTO's Greatest Hits",
-      "event_date": "2026-07-12",
-      "end_date": "2026-07-12",
-      "ticket_link": "https://tisto.nyc/courses/retreat-tisto",
-      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/6a2317d50e4d3072865e96a7_July%203%2C%202026%20-%20Retreat%20(1).png",
-      "source": "Tisto NYC",
-      "event_category": "workshop"
-    },
-    {
       "id": "dbd09ac4-bab5-49c4-ae90-93f9dec605e3",
       "event_title": "Kids & Family Day: A Living Canvas",
       "event_date": "2026-07-12",
@@ -86,6 +66,16 @@
       "event_category": "other"
     },
     {
+      "id": "fb4a8562-190e-4d12-a0f0-9e01aa40b84e",
+      "event_title": "Forest, Fire & BuddyA 3-Day Retreat · TISTO's Greatest Hits",
+      "event_date": "2026-07-12",
+      "end_date": "2026-07-12",
+      "ticket_link": "https://tisto.nyc/courses/retreat-tisto",
+      "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/6a2317d50e4d3072865e96a7_July%203%2C%202026%20-%20Retreat%20(1).png",
+      "source": "Tisto NYC",
+      "event_category": "workshop"
+    },
+    {
       "id": "4cfebdf8-aaab-41b8-8944-6edabf327bec",
       "event_title": "UKRAINIAN WHITE BOAT IN MANHATTAN",
       "event_date": "2026-07-18",
@@ -94,6 +84,16 @@
       "cover_image_url": "https://ukrainian.us/storage/event/1/OUAwSQ6frVWOQobQNL2wSdNSxzioEOqH-source.png?v=0.1&s=3111387e6703e49a3905c30874fb7c4d",
       "source": "Ukrainian USA",
       "event_category": "festival"
+    },
+    {
+      "id": "d76d15c2-4e75-4856-a18b-55b1e956bcbf",
+      "event_title": "SHUMEI - NEW YORK",
+      "event_date": "2026-07-18",
+      "end_date": "2026-07-18",
+      "ticket_link": "https://www.eventbrite.com/e/shumei-new-york-tickets-1993358430726",
+      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1188313137%252F2233785815063%252F1%252Foriginal.20260706-193317%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D58270b286b781d3c8147ca86f9eaa901&w=1880&q=75",
+      "source": "Eventbrite",
+      "event_category": "concert"
     },
     {
       "id": "90ad9464-9cad-4ca2-9940-859487dedb72",
@@ -208,16 +208,6 @@
       "event_category": "concert"
     },
     {
-      "id": "85924df7-ed77-4e01-98d1-023d6ce49676",
-      "event_title": "Independence Day of Ukraine Celebration",
-      "event_date": "2026-08-22",
-      "end_date": "2026-08-22",
-      "ticket_link": "https://www.sharvarok.com/en/listing/independence-day-of-ukraine-celebration/1273",
-      "cover_image_url": "https://images.sharvarok.com/post/1273/1779951298218-865706631.jpeg",
-      "source": "Sharvarok",
-      "event_category": "festival"
-    },
-    {
       "id": "eaff895d-fd21-4a4a-982c-7eb6e889e6f9",
       "event_title": "Vyshyvanka Run NYC 2026",
       "event_date": "2026-08-22",
@@ -228,13 +218,13 @@
       "event_category": "sport"
     },
     {
-      "id": "6e09be07-367d-42d5-b19a-3ebc96a34241",
-      "event_title": "Ukrainian Independence Folk Festival",
-      "event_date": "2026-08-23",
-      "end_date": "2026-08-23",
-      "ticket_link": "https://www.tryzub.org/Ukraine-Festival-2026",
-      "cover_image_url": "https://www.tryzub.org/resources/Pictures/ukrainian-folk-festival-2025.jpg",
-      "source": "Tryzub",
+      "id": "85924df7-ed77-4e01-98d1-023d6ce49676",
+      "event_title": "Independence Day of Ukraine Celebration",
+      "event_date": "2026-08-22",
+      "end_date": "2026-08-22",
+      "ticket_link": "https://www.sharvarok.com/en/listing/independence-day-of-ukraine-celebration/1273",
+      "cover_image_url": "https://images.sharvarok.com/post/1273/1779951298218-865706631.jpeg",
+      "source": "Sharvarok",
       "event_category": "festival"
     },
     {
@@ -246,6 +236,16 @@
       "cover_image_url": "https://images.ra.co/92c04359fc72b1a3e1f15e61c3c6597673a02041.png",
       "source": "Resident Advisor (KOLO NYC)",
       "event_category": "concert"
+    },
+    {
+      "id": "6e09be07-367d-42d5-b19a-3ebc96a34241",
+      "event_title": "Ukrainian Independence Folk Festival",
+      "event_date": "2026-08-23",
+      "end_date": "2026-08-23",
+      "ticket_link": "https://www.tryzub.org/Ukraine-Festival-2026",
+      "cover_image_url": "https://www.tryzub.org/resources/Pictures/ukrainian-folk-festival-2025.jpg",
+      "source": "Tryzub",
+      "event_category": "festival"
     },
     {
       "id": "20e80d05-1cc2-46f4-8ee5-6c9d82d2e10f",
