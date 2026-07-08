@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T06:57:37.474798-04:00",
+  "generated_at": "2026-07-08T06:19:26.651949-04:00",
   "this_week_end": "2026-07-12",
   "this_month_end": "2026-07-31",
   "next_month_start": "2026-08-01",
@@ -56,16 +56,6 @@
       "event_category": "workshop"
     },
     {
-      "id": "dbd09ac4-bab5-49c4-ae90-93f9dec605e3",
-      "event_title": "Kids & Family Day: A Living Canvas",
-      "event_date": "2026-07-12",
-      "end_date": "2026-07-12",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/kids-and-family-day-a-living-canvas",
-      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/c_fill,g_auto,f_jpg,q_auto,w_1200,h_630/v1783025611/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/2a4918f6-6d86-474d-8d2d-3b226fdeee9b.png",
-      "source": "Ukrainian Museum Zeffy",
-      "event_category": "other"
-    },
-    {
       "id": "fb4a8562-190e-4d12-a0f0-9e01aa40b84e",
       "event_title": "Forest, Fire & BuddyA 3-Day Retreat · TISTO's Greatest Hits",
       "event_date": "2026-07-12",
@@ -74,6 +64,16 @@
       "cover_image_url": "https://cdn.prod.website-files.com/69a56b4a81d6c1830cc0feaa/6a2317d50e4d3072865e96a7_July%203%2C%202026%20-%20Retreat%20(1).png",
       "source": "Tisto NYC",
       "event_category": "workshop"
+    },
+    {
+      "id": "dbd09ac4-bab5-49c4-ae90-93f9dec605e3",
+      "event_title": "Kids & Family Day: A Living Canvas",
+      "event_date": "2026-07-12",
+      "end_date": "2026-07-12",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/kids-and-family-day-a-living-canvas",
+      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/c_fill,g_auto,f_jpg,q_auto,w_1200,h_630/v1783025611/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/2a4918f6-6d86-474d-8d2d-3b226fdeee9b.png",
+      "source": "Ukrainian Museum Zeffy",
+      "event_category": "other"
     },
     {
       "id": "4cfebdf8-aaab-41b8-8944-6edabf327bec",
@@ -228,16 +228,6 @@
       "event_category": "festival"
     },
     {
-      "id": "0e9a9824-a1fa-4c05-8cab-56056cac5141",
-      "event_title": "KOLO",
-      "event_date": "2026-08-23",
-      "end_date": "2026-08-23",
-      "ticket_link": "https://ra.co/events/2451595",
-      "cover_image_url": "https://images.ra.co/92c04359fc72b1a3e1f15e61c3c6597673a02041.png",
-      "source": "Resident Advisor (KOLO NYC)",
-      "event_category": "concert"
-    },
-    {
       "id": "6e09be07-367d-42d5-b19a-3ebc96a34241",
       "event_title": "Ukrainian Independence Folk Festival",
       "event_date": "2026-08-23",
@@ -246,6 +236,16 @@
       "cover_image_url": "https://www.tryzub.org/resources/Pictures/ukrainian-folk-festival-2025.jpg",
       "source": "Tryzub",
       "event_category": "festival"
+    },
+    {
+      "id": "0e9a9824-a1fa-4c05-8cab-56056cac5141",
+      "event_title": "KOLO",
+      "event_date": "2026-08-23",
+      "end_date": "2026-08-23",
+      "ticket_link": "https://ra.co/events/2451595",
+      "cover_image_url": "https://images.ra.co/92c04359fc72b1a3e1f15e61c3c6597673a02041.png",
+      "source": "Resident Advisor (KOLO NYC)",
+      "event_category": "concert"
     },
     {
       "id": "20e80d05-1cc2-46f4-8ee5-6c9d82d2e10f",
@@ -308,6 +308,16 @@
       "cover_image_url": "https://www.helpinghandsukraine.org/wp-content/uploads/2025/03/IMG_5700-scaled.jpg",
       "source": "Helping Hands for Ukraine",
       "event_category": "concert"
+    },
+    {
+      "id": "7895a078-9b30-4998-9ed1-0cb69a8cddb6",
+      "event_title": "17th Annual Ukrainian Festival",
+      "event_date": "2026-09-26",
+      "end_date": "2026-09-26",
+      "ticket_link": "https://uaccnj.org/event/17th-annual-ukrainian-festival/",
+      "cover_image_url": "https://uaccnj.org/wp-content/uploads/2021/08/Annual-Ukrainian-Festivals-1024x683.jpg",
+      "source": "UACCNJ",
+      "event_category": "festival"
     },
     {
       "id": "8a85cb17-1d6c-43f0-be8e-c229dc988ed0",
