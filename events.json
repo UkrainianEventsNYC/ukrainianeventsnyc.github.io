@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T06:19:26.651949-04:00",
+  "generated_at": "2026-07-09T06:57:01.445779-04:00",
   "this_week_end": "2026-07-12",
   "this_month_end": "2026-07-31",
   "next_month_start": "2026-08-01",
@@ -76,6 +76,16 @@
       "event_category": "other"
     },
     {
+      "id": "d76d15c2-4e75-4856-a18b-55b1e956bcbf",
+      "event_title": "SHUMEI - NEW YORK",
+      "event_date": "2026-07-18",
+      "end_date": "2026-07-18",
+      "ticket_link": "https://www.eventbrite.com/e/shumei-new-york-tickets-1993358430726",
+      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1188313137%252F2233785815063%252F1%252Foriginal.20260706-193317%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D58270b286b781d3c8147ca86f9eaa901&w=1880&q=75",
+      "source": "Eventbrite",
+      "event_category": "concert"
+    },
+    {
       "id": "4cfebdf8-aaab-41b8-8944-6edabf327bec",
       "event_title": "UKRAINIAN WHITE BOAT IN MANHATTAN",
       "event_date": "2026-07-18",
@@ -86,14 +96,14 @@
       "event_category": "festival"
     },
     {
-      "id": "d76d15c2-4e75-4856-a18b-55b1e956bcbf",
-      "event_title": "SHUMEI - NEW YORK",
-      "event_date": "2026-07-18",
-      "end_date": "2026-07-18",
-      "ticket_link": "https://www.eventbrite.com/e/shumei-new-york-tickets-1993358430726",
-      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1188313137%252F2233785815063%252F1%252Foriginal.20260706-193317%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D58270b286b781d3c8147ca86f9eaa901&w=1880&q=75",
-      "source": "Eventbrite",
-      "event_category": "concert"
+      "id": "dde68196-c61e-4d90-9f26-0d78abda4a4e",
+      "event_title": "Svitanok Picnic",
+      "event_date": "2026-07-19",
+      "end_date": "2026-07-19",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/svitanok-picnic-2",
+      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/c_fill,g_auto,f_jpg,q_auto,w_1200,h_630/v1783563038/organizations/5/1/e/6/51e679e0-b44e-4f15-a3d0-f944bbafdc87/f3292ac1-2260-435f-a3d1-588c2662ac9e.png",
+      "source": "Svitanok NYC Zeffy",
+      "event_category": "festival"
     },
     {
       "id": "90ad9464-9cad-4ca2-9940-859487dedb72",
@@ -228,16 +238,6 @@
       "event_category": "festival"
     },
     {
-      "id": "6e09be07-367d-42d5-b19a-3ebc96a34241",
-      "event_title": "Ukrainian Independence Folk Festival",
-      "event_date": "2026-08-23",
-      "end_date": "2026-08-23",
-      "ticket_link": "https://www.tryzub.org/Ukraine-Festival-2026",
-      "cover_image_url": "https://www.tryzub.org/resources/Pictures/ukrainian-folk-festival-2025.jpg",
-      "source": "Tryzub",
-      "event_category": "festival"
-    },
-    {
       "id": "0e9a9824-a1fa-4c05-8cab-56056cac5141",
       "event_title": "KOLO",
       "event_date": "2026-08-23",
@@ -246,6 +246,16 @@
       "cover_image_url": "https://images.ra.co/92c04359fc72b1a3e1f15e61c3c6597673a02041.png",
       "source": "Resident Advisor (KOLO NYC)",
       "event_category": "concert"
+    },
+    {
+      "id": "6e09be07-367d-42d5-b19a-3ebc96a34241",
+      "event_title": "Ukrainian Independence Folk Festival",
+      "event_date": "2026-08-23",
+      "end_date": "2026-08-23",
+      "ticket_link": "https://www.tryzub.org/Ukraine-Festival-2026",
+      "cover_image_url": "https://www.tryzub.org/resources/Pictures/ukrainian-folk-festival-2025.jpg",
+      "source": "Tryzub",
+      "event_category": "festival"
     },
     {
       "id": "20e80d05-1cc2-46f4-8ee5-6c9d82d2e10f",
