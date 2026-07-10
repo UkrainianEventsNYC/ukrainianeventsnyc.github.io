@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T06:57:01.445779-04:00",
+  "generated_at": "2026-07-10T06:56:21.229088-04:00",
   "this_week_end": "2026-07-12",
   "this_month_end": "2026-07-31",
   "next_month_start": "2026-08-01",
@@ -14,16 +14,6 @@
       "cover_image_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/719351751_17941434012240609_4968152271624334438_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=MzkxNTEyMTcyMTEzMzM1MTA3NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTM1MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=9EwoiG35WS0Q7kNvwEj-SC-&_nc_oc=AdrWnDWXDC_7gS1eQIDEnviFVbb14YW7EWSjgm7ncD9Ew6vFGEs04Zt5HVoqfmyTpAI&_nc_zt=23&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_gid=AJIqXQ03m8pA0sEiwJWnsQ&_nc_ss=7b289&oh=00_Af_rmK7ZMYq7h3rYD85xx2NeSmg2KR5QyH-qawYW9OnG2Q&oe=6A363641",
       "source": "Borshch of Art",
       "event_category": "exhibitions"
-    },
-    {
-      "id": "c0f23732-2b2d-4241-b7e7-5c081fa59a4c",
-      "event_title": "Зустріч та презентація книг | Олександр ФОЗЗІ Сидоренко — WHIPPANY",
-      "event_date": "2026-07-09",
-      "end_date": "2026-07-09",
-      "ticket_link": "https://events.ticketleap.com/tickets/molokocompany/whippany",
-      "cover_image_url": "https://cajgsqpzgqoqgtcrymzw.supabase.co/storage/v1/object/public/event-images/1779894311339-aw8j73msn3l.jpg",
-      "source": "MoLoKo Agency",
-      "event_category": "discussion"
     },
     {
       "id": "20660505-fb61-4af0-906a-1b427d985910",
@@ -104,6 +94,16 @@
       "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/c_fill,g_auto,f_jpg,q_auto,w_1200,h_630/v1783563038/organizations/5/1/e/6/51e679e0-b44e-4f15-a3d0-f944bbafdc87/f3292ac1-2260-435f-a3d1-588c2662ac9e.png",
       "source": "Svitanok NYC Zeffy",
       "event_category": "festival"
+    },
+    {
+      "id": "d8775246-1516-467a-badf-88eb3f158e27",
+      "event_title": "Ukrainian Institute of America Contact Information",
+      "event_date": "2026-07-23",
+      "end_date": "2026-07-23",
+      "ticket_link": "https://www.sharvarok.com/en/listing/ukrainian-institute-of-america-contact-information/1372",
+      "cover_image_url": "https://images.sharvarok.com/post/1372/1783598932716-808197451.jpg",
+      "source": "Sharvarok",
+      "event_category": "other"
     },
     {
       "id": "90ad9464-9cad-4ca2-9940-859487dedb72",
@@ -238,16 +238,6 @@
       "event_category": "festival"
     },
     {
-      "id": "0e9a9824-a1fa-4c05-8cab-56056cac5141",
-      "event_title": "KOLO",
-      "event_date": "2026-08-23",
-      "end_date": "2026-08-23",
-      "ticket_link": "https://ra.co/events/2451595",
-      "cover_image_url": "https://images.ra.co/92c04359fc72b1a3e1f15e61c3c6597673a02041.png",
-      "source": "Resident Advisor (KOLO NYC)",
-      "event_category": "concert"
-    },
-    {
       "id": "6e09be07-367d-42d5-b19a-3ebc96a34241",
       "event_title": "Ukrainian Independence Folk Festival",
       "event_date": "2026-08-23",
@@ -256,6 +246,16 @@
       "cover_image_url": "https://www.tryzub.org/resources/Pictures/ukrainian-folk-festival-2025.jpg",
       "source": "Tryzub",
       "event_category": "festival"
+    },
+    {
+      "id": "0e9a9824-a1fa-4c05-8cab-56056cac5141",
+      "event_title": "KOLO",
+      "event_date": "2026-08-23",
+      "end_date": "2026-08-23",
+      "ticket_link": "https://ra.co/events/2451595",
+      "cover_image_url": "https://images.ra.co/92c04359fc72b1a3e1f15e61c3c6597673a02041.png",
+      "source": "Resident Advisor (KOLO NYC)",
+      "event_category": "concert"
     },
     {
       "id": "20e80d05-1cc2-46f4-8ee5-6c9d82d2e10f",
@@ -298,6 +298,16 @@
       "cover_image_url": "https://images.sharvarok.com/post/1331/1781758679900-707203231.jpg",
       "source": "Sharvarok",
       "event_category": "other"
+    },
+    {
+      "id": "48e09f0a-6cdd-4983-b0c1-d4560830167b",
+      "event_title": "57th Annual Connecticut State Ukrainian Day Festival",
+      "event_date": "2026-09-13",
+      "end_date": "2026-09-13",
+      "ticket_link": "https://www.sharvarok.com/en/listing/57th-annual-connecticut-state-ukrainian-day-festival/1374",
+      "cover_image_url": "https://images.sharvarok.com/post/1374/1783626871482-604225465.jpg",
+      "source": "Sharvarok",
+      "event_category": "festival"
     },
     {
       "id": "06aabc50-370f-4319-950c-7ac4d74dfabb",
