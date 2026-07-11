@@ -1,20 +1,10 @@
 {
-  "generated_at": "2026-07-10T06:56:21.229088-04:00",
+  "generated_at": "2026-07-11T05:30:14.189357-04:00",
   "this_week_end": "2026-07-12",
   "this_month_end": "2026-07-31",
   "next_month_start": "2026-08-01",
   "next_month_end": "2026-08-31",
   "this_month": [
-    {
-      "id": "fb664424-a4f1-46bf-89b3-128c35c6ec7b",
-      "event_title": "Life With P. Philip Guston: Paintings and Drawings 1964-1978",
-      "event_date": "2026-04-21",
-      "end_date": "2026-07-10",
-      "ticket_link": "https://www.instagram.com/p/DZVTnlYESGM/",
-      "cover_image_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/719351751_17941434012240609_4968152271624334438_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=MzkxNTEyMTcyMTEzMzM1MTA3NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTM1MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=9EwoiG35WS0Q7kNvwEj-SC-&_nc_oc=AdrWnDWXDC_7gS1eQIDEnviFVbb14YW7EWSjgm7ncD9Ew6vFGEs04Zt5HVoqfmyTpAI&_nc_zt=23&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_gid=AJIqXQ03m8pA0sEiwJWnsQ&_nc_ss=7b289&oh=00_Af_rmK7ZMYq7h3rYD85xx2NeSmg2KR5QyH-qawYW9OnG2Q&oe=6A363641",
-      "source": "Borshch of Art",
-      "event_category": "exhibitions"
-    },
     {
       "id": "20660505-fb61-4af0-906a-1b427d985910",
       "event_title": "Ukraine Fest 2026",
