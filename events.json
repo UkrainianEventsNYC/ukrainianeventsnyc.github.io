@@ -1,10 +1,20 @@
 {
-  "generated_at": "2026-07-13T07:02:15.294762-04:00",
+  "generated_at": "2026-07-14T05:59:59.070191-04:00",
   "this_week_end": "2026-07-19",
   "this_month_end": "2026-07-31",
   "next_month_start": "2026-08-01",
   "next_month_end": "2026-08-31",
   "this_month": [
+    {
+      "id": "4cfebdf8-aaab-41b8-8944-6edabf327bec",
+      "event_title": "UKRAINIAN WHITE BOAT IN MANHATTAN",
+      "event_date": "2026-07-18",
+      "end_date": "2026-07-18",
+      "ticket_link": "https://ukrainian.us/events/whiteboat2026",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/OUAwSQ6frVWOQobQNL2wSdNSxzioEOqH-source.png?v=0.1&s=3111387e6703e49a3905c30874fb7c4d",
+      "source": "Ukrainian USA",
+      "event_category": "festival"
+    },
     {
       "id": "d76d15c2-4e75-4856-a18b-55b1e956bcbf",
       "event_title": "SHUMEI - NEW YORK",
@@ -16,14 +26,14 @@
       "event_category": "concert"
     },
     {
-      "id": "4cfebdf8-aaab-41b8-8944-6edabf327bec",
-      "event_title": "UKRAINIAN WHITE BOAT IN MANHATTAN",
-      "event_date": "2026-07-18",
-      "end_date": "2026-07-18",
-      "ticket_link": "https://ukrainian.us/events/whiteboat2026",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/OUAwSQ6frVWOQobQNL2wSdNSxzioEOqH-source.png?v=0.1&s=3111387e6703e49a3905c30874fb7c4d",
-      "source": "Ukrainian USA",
-      "event_category": "festival"
+      "id": "07ed8246-fd27-40c9-8898-0475fbc0721a",
+      "event_title": "Meeting with the Consul General of Ukraine",
+      "event_date": "2026-07-19",
+      "end_date": "2026-07-19",
+      "ticket_link": "https://www.sharvarok.com/en/listing/meeting-with-the-consul-general-of-ukraine/1391",
+      "cover_image_url": "https://images.sharvarok.com/post/1391/1784020863800-519499123.jpg",
+      "source": "Sharvarok",
+      "event_category": "other"
     },
     {
       "id": "dde68196-c61e-4d90-9f26-0d78abda4a4e",
@@ -158,6 +168,16 @@
       "event_category": "concert"
     },
     {
+      "id": "85924df7-ed77-4e01-98d1-023d6ce49676",
+      "event_title": "Independence Day of Ukraine Celebration",
+      "event_date": "2026-08-22",
+      "end_date": "2026-08-22",
+      "ticket_link": "https://www.sharvarok.com/en/listing/independence-day-of-ukraine-celebration/1273",
+      "cover_image_url": "https://images.sharvarok.com/post/1273/1779951298218-865706631.jpeg",
+      "source": "Sharvarok",
+      "event_category": "festival"
+    },
+    {
       "id": "eaff895d-fd21-4a4a-982c-7eb6e889e6f9",
       "event_title": "Vyshyvanka Run NYC 2026",
       "event_date": "2026-08-22",
@@ -168,13 +188,13 @@
       "event_category": "sport"
     },
     {
-      "id": "85924df7-ed77-4e01-98d1-023d6ce49676",
-      "event_title": "Independence Day of Ukraine Celebration",
-      "event_date": "2026-08-22",
-      "end_date": "2026-08-22",
-      "ticket_link": "https://www.sharvarok.com/en/listing/independence-day-of-ukraine-celebration/1273",
-      "cover_image_url": "https://images.sharvarok.com/post/1273/1779951298218-865706631.jpeg",
-      "source": "Sharvarok",
+      "id": "6e09be07-367d-42d5-b19a-3ebc96a34241",
+      "event_title": "Ukrainian Independence Folk Festival",
+      "event_date": "2026-08-23",
+      "end_date": "2026-08-23",
+      "ticket_link": "https://www.tryzub.org/Ukraine-Festival-2026",
+      "cover_image_url": "https://www.tryzub.org/resources/Pictures/ukrainian-folk-festival-2025.jpg",
+      "source": "Tryzub",
       "event_category": "festival"
     },
     {
@@ -186,16 +206,6 @@
       "cover_image_url": "https://images.ra.co/92c04359fc72b1a3e1f15e61c3c6597673a02041.png",
       "source": "Resident Advisor (KOLO NYC)",
       "event_category": "concert"
-    },
-    {
-      "id": "6e09be07-367d-42d5-b19a-3ebc96a34241",
-      "event_title": "Ukrainian Independence Folk Festival",
-      "event_date": "2026-08-23",
-      "end_date": "2026-08-23",
-      "ticket_link": "https://www.tryzub.org/Ukraine-Festival-2026",
-      "cover_image_url": "https://www.tryzub.org/resources/Pictures/ukrainian-folk-festival-2025.jpg",
-      "source": "Tryzub",
-      "event_category": "festival"
     },
     {
       "id": "20e80d05-1cc2-46f4-8ee5-6c9d82d2e10f",
