@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T05:59:59.070191-04:00",
+  "generated_at": "2026-07-15T06:04:54.140291-04:00",
   "this_week_end": "2026-07-19",
   "this_month_end": "2026-07-31",
   "next_month_start": "2026-08-01",
@@ -168,16 +168,6 @@
       "event_category": "concert"
     },
     {
-      "id": "85924df7-ed77-4e01-98d1-023d6ce49676",
-      "event_title": "Independence Day of Ukraine Celebration",
-      "event_date": "2026-08-22",
-      "end_date": "2026-08-22",
-      "ticket_link": "https://www.sharvarok.com/en/listing/independence-day-of-ukraine-celebration/1273",
-      "cover_image_url": "https://images.sharvarok.com/post/1273/1779951298218-865706631.jpeg",
-      "source": "Sharvarok",
-      "event_category": "festival"
-    },
-    {
       "id": "eaff895d-fd21-4a4a-982c-7eb6e889e6f9",
       "event_title": "Vyshyvanka Run NYC 2026",
       "event_date": "2026-08-22",
@@ -186,6 +176,16 @@
       "cover_image_url": "https://d368g9lw5ileu7.cloudfront.net/races/races-168xxx/168069/raceBanner-93U0HSEI-bOmDTl.jpg",
       "source": "Vyshyvanka Run NYC",
       "event_category": "sport"
+    },
+    {
+      "id": "85924df7-ed77-4e01-98d1-023d6ce49676",
+      "event_title": "Independence Day of Ukraine Celebration",
+      "event_date": "2026-08-22",
+      "end_date": "2026-08-22",
+      "ticket_link": "https://www.sharvarok.com/en/listing/independence-day-of-ukraine-celebration/1273",
+      "cover_image_url": "https://images.sharvarok.com/post/1273/1779951298218-865706631.jpeg",
+      "source": "Sharvarok",
+      "event_category": "festival"
     },
     {
       "id": "6e09be07-367d-42d5-b19a-3ebc96a34241",
@@ -226,6 +226,16 @@
       "cover_image_url": "https://images.squarespace-cdn.com/content/v1/66457d7efd83cf18be302d6f/8fadca50-bfc3-4abe-963d-e5e6cf0e0a60/2026+UFO+Tour+Graphic.png?format=500w$0",
       "source": "Ukrainian Freedom Orchestra",
       "event_category": "concert"
+    },
+    {
+      "id": "e7aaa278-9ef2-4ec8-99fb-344c2b664a2e",
+      "event_title": "Long Island,NY  /Премʼєра фільму \" Потяг \"Червона Рута\"/Red Rue Express",
+      "event_date": "2026-08-29",
+      "end_date": "2026-08-29",
+      "ticket_link": "https://www.eventbrite.com/e/long-islandny-red-rue-express-tickets-1993955714217",
+      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1188332869%252F294391790611%252F1%252Foriginal.20260707-000509%3Fw%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26s%3D9792fc37dadd6121a885af3d9b5394bf&w=1880&q=75",
+      "source": "Eventbrite",
+      "event_category": "movie"
     }
   ],
   "all_events": [
