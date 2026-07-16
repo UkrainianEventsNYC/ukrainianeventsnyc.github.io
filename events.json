@@ -1,20 +1,10 @@
 {
-  "generated_at": "2026-07-15T06:04:54.140291-04:00",
+  "generated_at": "2026-07-16T06:10:19.986443-04:00",
   "this_week_end": "2026-07-19",
   "this_month_end": "2026-07-31",
   "next_month_start": "2026-08-01",
   "next_month_end": "2026-08-31",
   "this_month": [
-    {
-      "id": "4cfebdf8-aaab-41b8-8944-6edabf327bec",
-      "event_title": "UKRAINIAN WHITE BOAT IN MANHATTAN",
-      "event_date": "2026-07-18",
-      "end_date": "2026-07-18",
-      "ticket_link": "https://ukrainian.us/events/whiteboat2026",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/OUAwSQ6frVWOQobQNL2wSdNSxzioEOqH-source.png?v=0.1&s=3111387e6703e49a3905c30874fb7c4d",
-      "source": "Ukrainian USA",
-      "event_category": "festival"
-    },
     {
       "id": "d76d15c2-4e75-4856-a18b-55b1e956bcbf",
       "event_title": "SHUMEI - NEW YORK",
@@ -26,14 +16,14 @@
       "event_category": "concert"
     },
     {
-      "id": "07ed8246-fd27-40c9-8898-0475fbc0721a",
-      "event_title": "Meeting with the Consul General of Ukraine",
-      "event_date": "2026-07-19",
-      "end_date": "2026-07-19",
-      "ticket_link": "https://www.sharvarok.com/en/listing/meeting-with-the-consul-general-of-ukraine/1391",
-      "cover_image_url": "https://images.sharvarok.com/post/1391/1784020863800-519499123.jpg",
-      "source": "Sharvarok",
-      "event_category": "other"
+      "id": "4cfebdf8-aaab-41b8-8944-6edabf327bec",
+      "event_title": "UKRAINIAN WHITE BOAT IN MANHATTAN",
+      "event_date": "2026-07-18",
+      "end_date": "2026-07-18",
+      "ticket_link": "https://ukrainian.us/events/whiteboat2026",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/OUAwSQ6frVWOQobQNL2wSdNSxzioEOqH-source.png?v=0.1&s=3111387e6703e49a3905c30874fb7c4d",
+      "source": "Ukrainian USA",
+      "event_category": "festival"
     },
     {
       "id": "dde68196-c61e-4d90-9f26-0d78abda4a4e",
@@ -46,14 +36,14 @@
       "event_category": "festival"
     },
     {
-      "id": "90ad9464-9cad-4ca2-9940-859487dedb72",
-      "event_title": "On Nature",
-      "event_date": "2026-07-23",
-      "end_date": "2026-07-23",
-      "ticket_link": "https://www.mriya.nyc/upcoming-exhibitions/on-nature",
-      "cover_image_url": "https://cdn.prod.website-files.com/67fe29fac03351cdc1b58f18/6a2c57e43597c4e82dc0b9d5_0c8f1fc7-e25e-4931-a3d4-00b5bbbab152.JPG",
-      "source": "MRIYA Gallery",
-      "event_category": "exhibitions"
+      "id": "07ed8246-fd27-40c9-8898-0475fbc0721a",
+      "event_title": "Meeting with the Consul General of Ukraine",
+      "event_date": "2026-07-19",
+      "end_date": "2026-07-19",
+      "ticket_link": "https://www.sharvarok.com/en/listing/meeting-with-the-consul-general-of-ukraine/1391",
+      "cover_image_url": "https://images.sharvarok.com/post/1391/1784020863800-519499123.jpg",
+      "source": "Sharvarok",
+      "event_category": "other"
     },
     {
       "id": "d8775246-1516-467a-badf-88eb3f158e27",
@@ -64,6 +54,16 @@
       "cover_image_url": "https://images.sharvarok.com/post/1372/1783598932716-808197451.jpg",
       "source": "Sharvarok",
       "event_category": "other"
+    },
+    {
+      "id": "90ad9464-9cad-4ca2-9940-859487dedb72",
+      "event_title": "On Nature",
+      "event_date": "2026-07-23",
+      "end_date": "2026-07-23",
+      "ticket_link": "https://www.mriya.nyc/upcoming-exhibitions/on-nature",
+      "cover_image_url": "https://cdn.prod.website-files.com/67fe29fac03351cdc1b58f18/6a2c57e43597c4e82dc0b9d5_0c8f1fc7-e25e-4931-a3d4-00b5bbbab152.JPG",
+      "source": "MRIYA Gallery",
+      "event_category": "exhibitions"
     },
     {
       "id": "56622ae2-34c6-4829-a1c7-75d37c43e916",
@@ -168,14 +168,14 @@
       "event_category": "concert"
     },
     {
-      "id": "eaff895d-fd21-4a4a-982c-7eb6e889e6f9",
-      "event_title": "Vyshyvanka Run NYC 2026",
+      "id": "8479c827-8e02-4414-aac6-0c1f9735a048",
+      "event_title": "UKRAINIAN ALL STARS BOAT IN MANHATTAN",
       "event_date": "2026-08-22",
       "end_date": "2026-08-22",
-      "ticket_link": "https://runsignup.com/Race/NY/NewYork/VyshyvankaRunNYC",
-      "cover_image_url": "https://d368g9lw5ileu7.cloudfront.net/races/races-168xxx/168069/raceBanner-93U0HSEI-bOmDTl.jpg",
-      "source": "Vyshyvanka Run NYC",
-      "event_category": "sport"
+      "ticket_link": "https://ukrainian.us/events/allstars26",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/bJc1gT6WHyIilisG4ReWxzD883cY_OpV-source.png?v=0.1&s=3ddacdefd7005ab0c550050c1823782b",
+      "source": "Ukrainian USA",
+      "event_category": "concert"
     },
     {
       "id": "85924df7-ed77-4e01-98d1-023d6ce49676",
@@ -188,14 +188,14 @@
       "event_category": "festival"
     },
     {
-      "id": "6e09be07-367d-42d5-b19a-3ebc96a34241",
-      "event_title": "Ukrainian Independence Folk Festival",
-      "event_date": "2026-08-23",
-      "end_date": "2026-08-23",
-      "ticket_link": "https://www.tryzub.org/Ukraine-Festival-2026",
-      "cover_image_url": "https://www.tryzub.org/resources/Pictures/ukrainian-folk-festival-2025.jpg",
-      "source": "Tryzub",
-      "event_category": "festival"
+      "id": "eaff895d-fd21-4a4a-982c-7eb6e889e6f9",
+      "event_title": "Vyshyvanka Run NYC 2026",
+      "event_date": "2026-08-22",
+      "end_date": "2026-08-22",
+      "ticket_link": "https://runsignup.com/Race/NY/NewYork/VyshyvankaRunNYC",
+      "cover_image_url": "https://d368g9lw5ileu7.cloudfront.net/races/races-168xxx/168069/raceBanner-93U0HSEI-bOmDTl.jpg",
+      "source": "Vyshyvanka Run NYC",
+      "event_category": "sport"
     },
     {
       "id": "0e9a9824-a1fa-4c05-8cab-56056cac5141",
@@ -206,6 +206,16 @@
       "cover_image_url": "https://images.ra.co/92c04359fc72b1a3e1f15e61c3c6597673a02041.png",
       "source": "Resident Advisor (KOLO NYC)",
       "event_category": "concert"
+    },
+    {
+      "id": "6e09be07-367d-42d5-b19a-3ebc96a34241",
+      "event_title": "Ukrainian Independence Folk Festival",
+      "event_date": "2026-08-23",
+      "end_date": "2026-08-23",
+      "ticket_link": "https://www.tryzub.org/Ukraine-Festival-2026",
+      "cover_image_url": "https://www.tryzub.org/resources/Pictures/ukrainian-folk-festival-2025.jpg",
+      "source": "Tryzub",
+      "event_category": "festival"
     },
     {
       "id": "20e80d05-1cc2-46f4-8ee5-6c9d82d2e10f",
