@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T06:10:19.986443-04:00",
+  "generated_at": "2026-07-17T05:59:42.154970-04:00",
   "this_week_end": "2026-07-19",
   "this_month_end": "2026-07-31",
   "next_month_start": "2026-08-01",
@@ -243,6 +243,16 @@
       "event_date": "2026-08-29",
       "end_date": "2026-08-29",
       "ticket_link": "https://www.eventbrite.com/e/long-islandny-red-rue-express-tickets-1993955714217",
+      "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1188332869%252F294391790611%252F1%252Foriginal.20260707-000509%3Fw%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26s%3D9792fc37dadd6121a885af3d9b5394bf&w=1880&q=75",
+      "source": "Eventbrite",
+      "event_category": "movie"
+    },
+    {
+      "id": "69d97999-7e72-445c-9d1d-3b80daa64bf5",
+      "event_title": "Brooklyn/Премʼєра фільму \" Потяг \"Червона Рута\"/Red Rue Express",
+      "event_date": "2026-08-30",
+      "end_date": "2026-08-30",
+      "ticket_link": "https://www.eventbrite.com/e/brooklyn-red-rue-express-tickets-1994259969252",
       "cover_image_url": "https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1188332869%252F294391790611%252F1%252Foriginal.20260707-000509%3Fw%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26s%3D9792fc37dadd6121a885af3d9b5394bf&w=1880&q=75",
       "source": "Eventbrite",
       "event_category": "movie"
