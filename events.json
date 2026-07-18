@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T05:59:42.154970-04:00",
+  "generated_at": "2026-07-18T05:26:15.762302-04:00",
   "this_week_end": "2026-07-19",
   "this_month_end": "2026-07-31",
   "next_month_start": "2026-08-01",
@@ -26,16 +26,6 @@
       "event_category": "festival"
     },
     {
-      "id": "dde68196-c61e-4d90-9f26-0d78abda4a4e",
-      "event_title": "Svitanok Picnic",
-      "event_date": "2026-07-19",
-      "end_date": "2026-07-19",
-      "ticket_link": "https://www.zeffy.com/en-US/ticketing/svitanok-picnic-2",
-      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/c_fill,g_auto,f_jpg,q_auto,w_1200,h_630/v1783563038/organizations/5/1/e/6/51e679e0-b44e-4f15-a3d0-f944bbafdc87/f3292ac1-2260-435f-a3d1-588c2662ac9e.png",
-      "source": "Svitanok NYC Zeffy",
-      "event_category": "festival"
-    },
-    {
       "id": "07ed8246-fd27-40c9-8898-0475fbc0721a",
       "event_title": "Meeting with the Consul General of Ukraine",
       "event_date": "2026-07-19",
@@ -44,6 +34,16 @@
       "cover_image_url": "https://images.sharvarok.com/post/1391/1784020863800-519499123.jpg",
       "source": "Sharvarok",
       "event_category": "other"
+    },
+    {
+      "id": "dde68196-c61e-4d90-9f26-0d78abda4a4e",
+      "event_title": "Svitanok Picnic",
+      "event_date": "2026-07-19",
+      "end_date": "2026-07-19",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/svitanok-picnic-2",
+      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/c_fill,g_auto,f_jpg,q_auto,w_1200,h_630/v1783563038/organizations/5/1/e/6/51e679e0-b44e-4f15-a3d0-f944bbafdc87/f3292ac1-2260-435f-a3d1-588c2662ac9e.png",
+      "source": "Svitanok NYC Zeffy",
+      "event_category": "festival"
     },
     {
       "id": "d8775246-1516-467a-badf-88eb3f158e27",
@@ -168,14 +168,14 @@
       "event_category": "concert"
     },
     {
-      "id": "8479c827-8e02-4414-aac6-0c1f9735a048",
-      "event_title": "UKRAINIAN ALL STARS BOAT IN MANHATTAN",
+      "id": "eaff895d-fd21-4a4a-982c-7eb6e889e6f9",
+      "event_title": "Vyshyvanka Run NYC 2026",
       "event_date": "2026-08-22",
       "end_date": "2026-08-22",
-      "ticket_link": "https://ukrainian.us/events/allstars26",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/bJc1gT6WHyIilisG4ReWxzD883cY_OpV-source.png?v=0.1&s=3ddacdefd7005ab0c550050c1823782b",
-      "source": "Ukrainian USA",
-      "event_category": "concert"
+      "ticket_link": "https://runsignup.com/Race/NY/NewYork/VyshyvankaRunNYC",
+      "cover_image_url": "https://d368g9lw5ileu7.cloudfront.net/races/races-168xxx/168069/raceBanner-93U0HSEI-bOmDTl.jpg",
+      "source": "Vyshyvanka Run NYC",
+      "event_category": "sport"
     },
     {
       "id": "85924df7-ed77-4e01-98d1-023d6ce49676",
@@ -188,14 +188,14 @@
       "event_category": "festival"
     },
     {
-      "id": "eaff895d-fd21-4a4a-982c-7eb6e889e6f9",
-      "event_title": "Vyshyvanka Run NYC 2026",
+      "id": "8479c827-8e02-4414-aac6-0c1f9735a048",
+      "event_title": "UKRAINIAN ALL STARS BOAT IN MANHATTAN",
       "event_date": "2026-08-22",
       "end_date": "2026-08-22",
-      "ticket_link": "https://runsignup.com/Race/NY/NewYork/VyshyvankaRunNYC",
-      "cover_image_url": "https://d368g9lw5ileu7.cloudfront.net/races/races-168xxx/168069/raceBanner-93U0HSEI-bOmDTl.jpg",
-      "source": "Vyshyvanka Run NYC",
-      "event_category": "sport"
+      "ticket_link": "https://ukrainian.us/events/allstars26",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/bJc1gT6WHyIilisG4ReWxzD883cY_OpV-source.png?v=0.1&s=3ddacdefd7005ab0c550050c1823782b",
+      "source": "Ukrainian USA",
+      "event_category": "concert"
     },
     {
       "id": "0e9a9824-a1fa-4c05-8cab-56056cac5141",
@@ -260,6 +260,16 @@
   ],
   "all_events": [
     {
+      "id": "ed81285d-c0a5-4f75-a623-b20243e05fc7",
+      "event_title": "INDEPENDANCE NIGHT in New Jersey",
+      "event_date": "2026-09-04",
+      "end_date": "2026-09-04",
+      "ticket_link": "https://ukrainian.us/events/indepnight26",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/8bMwPsottn5ErEQJkwOsdITPagR0VeoJ-source.png?v=0.1&s=60e1927e6b77010ed3dc5d39c2b31c61",
+      "source": "Ukrainian USA",
+      "event_category": "performance"
+    },
+    {
       "id": "a7cd86a1-9544-4093-9ac3-8253c2996220",
       "event_title": "Labor Day Weekend",
       "event_date": "2026-09-04",
@@ -280,14 +290,14 @@
       "event_category": "other"
     },
     {
-      "id": "48e09f0a-6cdd-4983-b0c1-d4560830167b",
-      "event_title": "57th Annual Connecticut State Ukrainian Day Festival",
-      "event_date": "2026-09-13",
-      "end_date": "2026-09-13",
-      "ticket_link": "https://www.sharvarok.com/en/listing/57th-annual-connecticut-state-ukrainian-day-festival/1374",
-      "cover_image_url": "https://images.sharvarok.com/post/1374/1783626871482-604225465.jpg",
-      "source": "Sharvarok",
-      "event_category": "festival"
+      "id": "d06a9c96-68a7-465c-917c-9097eadea3c7",
+      "event_title": "Ukrainian Embroidery",
+      "event_date": "2026-09-12",
+      "end_date": "2026-10-31",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/ukrainian-embroidery",
+      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/c_fill,g_auto,f_jpg,q_auto,w_1200,h_630/v1784309075/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/49e9be64-f958-409d-bb67-3e89e96ff5f6.png",
+      "source": "Ukrainian Museum Zeffy",
+      "event_category": "sport"
     },
     {
       "id": "06aabc50-370f-4319-950c-7ac4d74dfabb",
@@ -298,6 +308,16 @@
       "cover_image_url": "https://www.ukrhec.org/files/styles/card-copy-1/public/events/madson_linocut_2026_0.jpg",
       "source": "Ukrainian History and Education Center",
       "event_category": "workshop"
+    },
+    {
+      "id": "48e09f0a-6cdd-4983-b0c1-d4560830167b",
+      "event_title": "57th Annual Connecticut State Ukrainian Day Festival",
+      "event_date": "2026-09-13",
+      "end_date": "2026-09-13",
+      "ticket_link": "https://www.sharvarok.com/en/listing/57th-annual-connecticut-state-ukrainian-day-festival/1374",
+      "cover_image_url": "https://images.sharvarok.com/post/1374/1783626871482-604225465.jpg",
+      "source": "Sharvarok",
+      "event_category": "festival"
     },
     {
       "id": "018709f0-512c-4048-a988-b64a205a230b",
