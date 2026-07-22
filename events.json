@@ -1,20 +1,10 @@
 {
-  "generated_at": "2026-07-21T06:28:25.108707-04:00",
+  "generated_at": "2026-07-22T06:29:33.522409-04:00",
   "this_week_end": "2026-07-26",
   "this_month_end": "2026-07-31",
   "next_month_start": "2026-08-01",
   "next_month_end": "2026-08-31",
   "this_month": [
-    {
-      "id": "d8775246-1516-467a-badf-88eb3f158e27",
-      "event_title": "Ukrainian Institute of America Contact Information",
-      "event_date": "2026-07-23",
-      "end_date": "2026-07-23",
-      "ticket_link": "https://www.sharvarok.com/en/listing/ukrainian-institute-of-america-contact-information/1372",
-      "cover_image_url": "https://images.sharvarok.com/post/1372/1783598932716-808197451.jpg",
-      "source": "Sharvarok",
-      "event_category": "other"
-    },
     {
       "id": "90ad9464-9cad-4ca2-9940-859487dedb72",
       "event_title": "On Nature",
@@ -24,6 +14,16 @@
       "cover_image_url": "https://cdn.prod.website-files.com/67fe29fac03351cdc1b58f18/6a2c57e43597c4e82dc0b9d5_0c8f1fc7-e25e-4931-a3d4-00b5bbbab152.JPG",
       "source": "MRIYA Gallery",
       "event_category": "exhibitions"
+    },
+    {
+      "id": "d8775246-1516-467a-badf-88eb3f158e27",
+      "event_title": "Ukrainian Institute of America Contact Information",
+      "event_date": "2026-07-23",
+      "end_date": "2026-07-23",
+      "ticket_link": "https://www.sharvarok.com/en/listing/ukrainian-institute-of-america-contact-information/1372",
+      "cover_image_url": "https://images.sharvarok.com/post/1372/1783598932716-808197451.jpg",
+      "source": "Sharvarok",
+      "event_category": "other"
     },
     {
       "id": "56622ae2-34c6-4829-a1c7-75d37c43e916",
@@ -54,6 +54,26 @@
       "cover_image_url": "https://res.cloudinary.com/nyphil/image/upload/f_auto/q_auto/f_auto/v1765817093/images/concerts-tickets/vail/2526/Concert_7-19-117_Photo_Zach_Mahone?_a=BAAASyDQ",
       "source": "NY Phil",
       "event_category": "concert"
+    },
+    {
+      "id": "7b6f03c4-91e4-49cd-9622-2bbe728f0171",
+      "event_title": "Extended Hours & Free Admission",
+      "event_date": "2026-07-30",
+      "end_date": "2026-07-30",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/extended-hours-and-free-admission",
+      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/c_fill,g_auto,f_jpg,q_auto,w_1200,h_630/v1784643757/organizations/8/7/7/8/8778373d-59c9-4dae-9d39-7ac3d3cb6b22/441bfda4-a1f1-4ed8-960e-b234187c8443.png",
+      "source": "Ukrainian Museum Zeffy",
+      "event_category": "exhibitions"
+    },
+    {
+      "id": "b3612f6f-cabb-4138-adb2-80b425ba7f92",
+      "event_title": "Posydenky Gathering",
+      "event_date": "2026-07-31",
+      "end_date": "2026-07-31",
+      "ticket_link": "https://www.sharvarok.com/en/listing/posydenky-gathering/1410",
+      "cover_image_url": "https://images.sharvarok.com/post/1410/1784701433336-730441017.jpg",
+      "source": "Sharvarok",
+      "event_category": "other"
     }
   ],
   "next_month": [
@@ -68,6 +88,16 @@
       "event_category": "workshop"
     },
     {
+      "id": "8834ded9-5454-4577-8867-bd08f6c06134",
+      "event_title": "Saturday Kids Quest Program in Ramsey",
+      "event_date": "2026-08-01",
+      "end_date": "2026-08-01",
+      "ticket_link": "https://www.sharvarok.com/en/listing/saturday-kids-quest-program-in-ramsey/1419",
+      "cover_image_url": "https://images.sharvarok.com/post/1419/1784702496483-168136129.jpg",
+      "source": "Sharvarok",
+      "event_category": "festival"
+    },
+    {
       "id": "12d3054f-65ca-47f9-a57f-afea1b39fe67",
       "event_title": "Summer Camp 2026: Passport Through Ukraine",
       "event_date": "2026-08-03",
@@ -75,6 +105,16 @@
       "ticket_link": "https://www.ukrhec.org/events/summer-camp-2026-passport-through-ukraine",
       "cover_image_url": "https://www.ukrhec.org/files/styles/card-copy-1/public/events/summer_camp_2026.jpg",
       "source": "Ukrainian History and Education Center",
+      "event_category": "workshop"
+    },
+    {
+      "id": "84dcbaf5-dc00-4754-aa27-8f6e6177ca26",
+      "event_title": "Charity Masterclass “Trendy Smokey Eyes”",
+      "event_date": "2026-08-04",
+      "end_date": "2026-08-04",
+      "ticket_link": "https://ukrainian.us/events/smokeyeyes",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/sKXwqxQ-j6p5bo5YMtx7Ce8bNlDaAcOs-source.png?v=0.1&s=f9d03bc57716d8f1555a619012ec7546",
+      "source": "Ukrainian USA",
       "event_category": "workshop"
     },
     {
@@ -128,16 +168,6 @@
       "event_category": "concert"
     },
     {
-      "id": "85924df7-ed77-4e01-98d1-023d6ce49676",
-      "event_title": "Independence Day of Ukraine Celebration",
-      "event_date": "2026-08-22",
-      "end_date": "2026-08-22",
-      "ticket_link": "https://www.sharvarok.com/en/listing/independence-day-of-ukraine-celebration/1273",
-      "cover_image_url": "https://images.sharvarok.com/post/1273/1779951298218-865706631.jpeg",
-      "source": "Sharvarok",
-      "event_category": "festival"
-    },
-    {
       "id": "8479c827-8e02-4414-aac6-0c1f9735a048",
       "event_title": "UKRAINIAN ALL STARS BOAT IN MANHATTAN",
       "event_date": "2026-08-22",
@@ -156,6 +186,16 @@
       "cover_image_url": "https://d368g9lw5ileu7.cloudfront.net/races/races-168xxx/168069/raceBanner-93U0HSEI-bOmDTl.jpg",
       "source": "Vyshyvanka Run NYC",
       "event_category": "sport"
+    },
+    {
+      "id": "85924df7-ed77-4e01-98d1-023d6ce49676",
+      "event_title": "Independence Day of Ukraine Celebration",
+      "event_date": "2026-08-22",
+      "end_date": "2026-08-22",
+      "ticket_link": "https://www.sharvarok.com/en/listing/independence-day-of-ukraine-celebration/1273",
+      "cover_image_url": "https://images.sharvarok.com/post/1273/1779951298218-865706631.jpeg",
+      "source": "Sharvarok",
+      "event_category": "festival"
     },
     {
       "id": "6e09be07-367d-42d5-b19a-3ebc96a34241",
@@ -230,16 +270,6 @@
   ],
   "all_events": [
     {
-      "id": "ed81285d-c0a5-4f75-a623-b20243e05fc7",
-      "event_title": "INDEPENDANCE NIGHT in New Jersey",
-      "event_date": "2026-09-04",
-      "end_date": "2026-09-04",
-      "ticket_link": "https://ukrainian.us/events/indepnight26",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/8bMwPsottn5ErEQJkwOsdITPagR0VeoJ-source.png?v=0.1&s=60e1927e6b77010ed3dc5d39c2b31c61",
-      "source": "Ukrainian USA",
-      "event_category": "performance"
-    },
-    {
       "id": "a7cd86a1-9544-4093-9ac3-8253c2996220",
       "event_title": "Labor Day Weekend",
       "event_date": "2026-09-04",
@@ -248,6 +278,16 @@
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/LaborDay-1024x576.png",
       "source": "Soyuzivka",
       "event_category": "festival"
+    },
+    {
+      "id": "ed81285d-c0a5-4f75-a623-b20243e05fc7",
+      "event_title": "INDEPENDANCE NIGHT in New Jersey",
+      "event_date": "2026-09-04",
+      "end_date": "2026-09-04",
+      "ticket_link": "https://ukrainian.us/events/indepnight26",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/8bMwPsottn5ErEQJkwOsdITPagR0VeoJ-source.png?v=0.1&s=60e1927e6b77010ed3dc5d39c2b31c61",
+      "source": "Ukrainian USA",
+      "event_category": "performance"
     },
     {
       "id": "68bbcbc3-95f2-44cf-8485-6be3e02739b3",
@@ -270,16 +310,6 @@
       "event_category": "sport"
     },
     {
-      "id": "06aabc50-370f-4319-950c-7ac4d74dfabb",
-      "event_title": "Linocut Workshop & Gallery Talk",
-      "event_date": "2026-09-13",
-      "end_date": "2026-09-13",
-      "ticket_link": "https://www.ukrhec.org/events/linocut-workshop-gallery-talk",
-      "cover_image_url": "https://www.ukrhec.org/files/styles/card-copy-1/public/events/madson_linocut_2026_0.jpg",
-      "source": "Ukrainian History and Education Center",
-      "event_category": "workshop"
-    },
-    {
       "id": "48e09f0a-6cdd-4983-b0c1-d4560830167b",
       "event_title": "57th Annual Connecticut State Ukrainian Day Festival",
       "event_date": "2026-09-13",
@@ -288,6 +318,16 @@
       "cover_image_url": "https://images.sharvarok.com/post/1374/1783626871482-604225465.jpg",
       "source": "Sharvarok",
       "event_category": "festival"
+    },
+    {
+      "id": "06aabc50-370f-4319-950c-7ac4d74dfabb",
+      "event_title": "Linocut Workshop & Gallery Talk",
+      "event_date": "2026-09-13",
+      "end_date": "2026-09-13",
+      "ticket_link": "https://www.ukrhec.org/events/linocut-workshop-gallery-talk",
+      "cover_image_url": "https://www.ukrhec.org/files/styles/card-copy-1/public/events/madson_linocut_2026_0.jpg",
+      "source": "Ukrainian History and Education Center",
+      "event_category": "workshop"
     },
     {
       "id": "018709f0-512c-4048-a988-b64a205a230b",
