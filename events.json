@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T06:29:33.522409-04:00",
+  "generated_at": "2026-07-23T06:23:07.054952-04:00",
   "this_week_end": "2026-07-26",
   "this_month_end": "2026-07-31",
   "next_month_start": "2026-08-01",
@@ -78,16 +78,6 @@
   ],
   "next_month": [
     {
-      "id": "f2301e33-d269-4aa8-96d8-3872b4ea4ae1",
-      "event_title": "Dance Camp Recital",
-      "event_date": "2026-08-01",
-      "end_date": "2026-08-01",
-      "ticket_link": "https://soyuzivka.com/calendar-of-events/dance-camp-recital-2/",
-      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/Dance-Camp2.png",
-      "source": "Soyuzivka",
-      "event_category": "workshop"
-    },
-    {
       "id": "8834ded9-5454-4577-8867-bd08f6c06134",
       "event_title": "Saturday Kids Quest Program in Ramsey",
       "event_date": "2026-08-01",
@@ -96,6 +86,16 @@
       "cover_image_url": "https://images.sharvarok.com/post/1419/1784702496483-168136129.jpg",
       "source": "Sharvarok",
       "event_category": "festival"
+    },
+    {
+      "id": "f2301e33-d269-4aa8-96d8-3872b4ea4ae1",
+      "event_title": "Dance Camp Recital",
+      "event_date": "2026-08-01",
+      "end_date": "2026-08-01",
+      "ticket_link": "https://soyuzivka.com/calendar-of-events/dance-camp-recital-2/",
+      "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/02/Dance-Camp2.png",
+      "source": "Soyuzivka",
+      "event_category": "workshop"
     },
     {
       "id": "12d3054f-65ca-47f9-a57f-afea1b39fe67",
@@ -168,16 +168,6 @@
       "event_category": "concert"
     },
     {
-      "id": "8479c827-8e02-4414-aac6-0c1f9735a048",
-      "event_title": "UKRAINIAN ALL STARS BOAT IN MANHATTAN",
-      "event_date": "2026-08-22",
-      "end_date": "2026-08-22",
-      "ticket_link": "https://ukrainian.us/events/allstars26",
-      "cover_image_url": "https://ukrainian.us/storage/event/1/bJc1gT6WHyIilisG4ReWxzD883cY_OpV-source.png?v=0.1&s=3ddacdefd7005ab0c550050c1823782b",
-      "source": "Ukrainian USA",
-      "event_category": "concert"
-    },
-    {
       "id": "eaff895d-fd21-4a4a-982c-7eb6e889e6f9",
       "event_title": "Vyshyvanka Run NYC 2026",
       "event_date": "2026-08-22",
@@ -186,6 +176,16 @@
       "cover_image_url": "https://d368g9lw5ileu7.cloudfront.net/races/races-168xxx/168069/raceBanner-93U0HSEI-bOmDTl.jpg",
       "source": "Vyshyvanka Run NYC",
       "event_category": "sport"
+    },
+    {
+      "id": "8479c827-8e02-4414-aac6-0c1f9735a048",
+      "event_title": "UKRAINIAN ALL STARS BOAT IN MANHATTAN",
+      "event_date": "2026-08-22",
+      "end_date": "2026-08-22",
+      "ticket_link": "https://ukrainian.us/events/allstars26",
+      "cover_image_url": "https://ukrainian.us/storage/event/1/bJc1gT6WHyIilisG4ReWxzD883cY_OpV-source.png?v=0.1&s=3ddacdefd7005ab0c550050c1823782b",
+      "source": "Ukrainian USA",
+      "event_category": "concert"
     },
     {
       "id": "85924df7-ed77-4e01-98d1-023d6ce49676",
@@ -198,16 +198,6 @@
       "event_category": "festival"
     },
     {
-      "id": "6e09be07-367d-42d5-b19a-3ebc96a34241",
-      "event_title": "Ukrainian Independence Folk Festival",
-      "event_date": "2026-08-23",
-      "end_date": "2026-08-23",
-      "ticket_link": "https://www.tryzub.org/Ukraine-Festival-2026",
-      "cover_image_url": "https://www.tryzub.org/resources/Pictures/ukrainian-folk-festival-2025.jpg",
-      "source": "Tryzub",
-      "event_category": "festival"
-    },
-    {
       "id": "0e9a9824-a1fa-4c05-8cab-56056cac5141",
       "event_title": "KOLO",
       "event_date": "2026-08-23",
@@ -216,6 +206,16 @@
       "cover_image_url": "https://images.ra.co/92c04359fc72b1a3e1f15e61c3c6597673a02041.png",
       "source": "Resident Advisor (KOLO NYC)",
       "event_category": "concert"
+    },
+    {
+      "id": "6e09be07-367d-42d5-b19a-3ebc96a34241",
+      "event_title": "Ukrainian Independence Folk Festival",
+      "event_date": "2026-08-23",
+      "end_date": "2026-08-23",
+      "ticket_link": "https://www.tryzub.org/Ukraine-Festival-2026",
+      "cover_image_url": "https://www.tryzub.org/resources/Pictures/ukrainian-folk-festival-2025.jpg",
+      "source": "Tryzub",
+      "event_category": "festival"
     },
     {
       "id": "20e80d05-1cc2-46f4-8ee5-6c9d82d2e10f",
@@ -235,6 +235,26 @@
       "ticket_link": "https://www.lincolncenter.org/venue/david-geffen-hall/verdi-requiem-849",
       "cover_image_url": "https://images.squarespace-cdn.com/content/v1/66457d7efd83cf18be302d6f/8fadca50-bfc3-4abe-963d-e5e6cf0e0a60/2026+UFO+Tour+Graphic.png?format=500w$0",
       "source": "Ukrainian Freedom Orchestra",
+      "event_category": "concert"
+    },
+    {
+      "id": "6721d986-16f5-4e15-a118-e4ca2867e205",
+      "event_title": "Paddles for Peace: Charity Pickleball Tournament for Ukraine",
+      "event_date": "2026-08-27",
+      "end_date": "2026-08-27",
+      "ticket_link": "https://www.zeffy.com/en-US/ticketing/paddles-for-peace-charity-pickleball-tournament-for-ukraine",
+      "cover_image_url": "https://res.cloudinary.com/hxn9dbuhd/image/upload/c_fill,g_auto,f_jpg,q_auto,w_1200,h_630/v1784722030/organizations/b/2/7/e/b27e4378-6991-447b-940e-8be316d33ee0/50ec60e0-921e-41c0-bb15-ab3e4085a8ad.png",
+      "source": "UCCA Zeffy",
+      "event_category": "concert"
+    },
+    {
+      "id": "5dbd65dc-486a-410a-b0bd-e919abed509e",
+      "event_title": "NEW YORK. TINA KAROL",
+      "event_date": "2026-08-28",
+      "end_date": "2026-08-28",
+      "ticket_link": "https://www.eventbrite.com/e/new-york-tina-karol-tickets-1994749727131",
+      "cover_image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1189352697%2F86171180225%2F1%2Foriginal.20260721-225812?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.373&fp-y=0.563&s=6bb3da994a73db259fec5cb1e277a93a",
+      "source": "Eventbrite",
       "event_category": "concert"
     },
     {
