@@ -1,30 +1,10 @@
 {
-  "generated_at": "2026-07-23T06:23:07.054952-04:00",
+  "generated_at": "2026-07-24T06:19:53.280711-04:00",
   "this_week_end": "2026-07-26",
   "this_month_end": "2026-07-31",
   "next_month_start": "2026-08-01",
   "next_month_end": "2026-08-31",
   "this_month": [
-    {
-      "id": "90ad9464-9cad-4ca2-9940-859487dedb72",
-      "event_title": "On Nature",
-      "event_date": "2026-07-23",
-      "end_date": "2026-07-23",
-      "ticket_link": "https://www.mriya.nyc/upcoming-exhibitions/on-nature",
-      "cover_image_url": "https://cdn.prod.website-files.com/67fe29fac03351cdc1b58f18/6a2c57e43597c4e82dc0b9d5_0c8f1fc7-e25e-4931-a3d4-00b5bbbab152.JPG",
-      "source": "MRIYA Gallery",
-      "event_category": "exhibitions"
-    },
-    {
-      "id": "d8775246-1516-467a-badf-88eb3f158e27",
-      "event_title": "Ukrainian Institute of America Contact Information",
-      "event_date": "2026-07-23",
-      "end_date": "2026-07-23",
-      "ticket_link": "https://www.sharvarok.com/en/listing/ukrainian-institute-of-america-contact-information/1372",
-      "cover_image_url": "https://images.sharvarok.com/post/1372/1783598932716-808197451.jpg",
-      "source": "Sharvarok",
-      "event_category": "other"
-    },
     {
       "id": "56622ae2-34c6-4829-a1c7-75d37c43e916",
       "event_title": "Let's Dance for a Cause",
@@ -168,16 +148,6 @@
       "event_category": "concert"
     },
     {
-      "id": "eaff895d-fd21-4a4a-982c-7eb6e889e6f9",
-      "event_title": "Vyshyvanka Run NYC 2026",
-      "event_date": "2026-08-22",
-      "end_date": "2026-08-22",
-      "ticket_link": "https://runsignup.com/Race/NY/NewYork/VyshyvankaRunNYC",
-      "cover_image_url": "https://d368g9lw5ileu7.cloudfront.net/races/races-168xxx/168069/raceBanner-93U0HSEI-bOmDTl.jpg",
-      "source": "Vyshyvanka Run NYC",
-      "event_category": "sport"
-    },
-    {
       "id": "8479c827-8e02-4414-aac6-0c1f9735a048",
       "event_title": "UKRAINIAN ALL STARS BOAT IN MANHATTAN",
       "event_date": "2026-08-22",
@@ -186,6 +156,16 @@
       "cover_image_url": "https://ukrainian.us/storage/event/1/bJc1gT6WHyIilisG4ReWxzD883cY_OpV-source.png?v=0.1&s=3ddacdefd7005ab0c550050c1823782b",
       "source": "Ukrainian USA",
       "event_category": "concert"
+    },
+    {
+      "id": "eaff895d-fd21-4a4a-982c-7eb6e889e6f9",
+      "event_title": "Vyshyvanka Run NYC 2026",
+      "event_date": "2026-08-22",
+      "end_date": "2026-08-22",
+      "ticket_link": "https://runsignup.com/Race/NY/NewYork/VyshyvankaRunNYC",
+      "cover_image_url": "https://d368g9lw5ileu7.cloudfront.net/races/races-168xxx/168069/raceBanner-93U0HSEI-bOmDTl.jpg",
+      "source": "Vyshyvanka Run NYC",
+      "event_category": "sport"
     },
     {
       "id": "85924df7-ed77-4e01-98d1-023d6ce49676",
@@ -198,16 +178,6 @@
       "event_category": "festival"
     },
     {
-      "id": "0e9a9824-a1fa-4c05-8cab-56056cac5141",
-      "event_title": "KOLO",
-      "event_date": "2026-08-23",
-      "end_date": "2026-08-23",
-      "ticket_link": "https://ra.co/events/2451595",
-      "cover_image_url": "https://images.ra.co/92c04359fc72b1a3e1f15e61c3c6597673a02041.png",
-      "source": "Resident Advisor (KOLO NYC)",
-      "event_category": "concert"
-    },
-    {
       "id": "6e09be07-367d-42d5-b19a-3ebc96a34241",
       "event_title": "Ukrainian Independence Folk Festival",
       "event_date": "2026-08-23",
@@ -216,6 +186,16 @@
       "cover_image_url": "https://www.tryzub.org/resources/Pictures/ukrainian-folk-festival-2025.jpg",
       "source": "Tryzub",
       "event_category": "festival"
+    },
+    {
+      "id": "0e9a9824-a1fa-4c05-8cab-56056cac5141",
+      "event_title": "KOLO",
+      "event_date": "2026-08-23",
+      "end_date": "2026-08-23",
+      "ticket_link": "https://ra.co/events/2451595",
+      "cover_image_url": "https://images.ra.co/92c04359fc72b1a3e1f15e61c3c6597673a02041.png",
+      "source": "Resident Advisor (KOLO NYC)",
+      "event_category": "concert"
     },
     {
       "id": "20e80d05-1cc2-46f4-8ee5-6c9d82d2e10f",
@@ -330,16 +310,6 @@
       "event_category": "sport"
     },
     {
-      "id": "48e09f0a-6cdd-4983-b0c1-d4560830167b",
-      "event_title": "57th Annual Connecticut State Ukrainian Day Festival",
-      "event_date": "2026-09-13",
-      "end_date": "2026-09-13",
-      "ticket_link": "https://www.sharvarok.com/en/listing/57th-annual-connecticut-state-ukrainian-day-festival/1374",
-      "cover_image_url": "https://images.sharvarok.com/post/1374/1783626871482-604225465.jpg",
-      "source": "Sharvarok",
-      "event_category": "festival"
-    },
-    {
       "id": "06aabc50-370f-4319-950c-7ac4d74dfabb",
       "event_title": "Linocut Workshop & Gallery Talk",
       "event_date": "2026-09-13",
@@ -348,6 +318,16 @@
       "cover_image_url": "https://www.ukrhec.org/files/styles/card-copy-1/public/events/madson_linocut_2026_0.jpg",
       "source": "Ukrainian History and Education Center",
       "event_category": "workshop"
+    },
+    {
+      "id": "48e09f0a-6cdd-4983-b0c1-d4560830167b",
+      "event_title": "57th Annual Connecticut State Ukrainian Day Festival",
+      "event_date": "2026-09-13",
+      "end_date": "2026-09-13",
+      "ticket_link": "https://www.sharvarok.com/en/listing/57th-annual-connecticut-state-ukrainian-day-festival/1374",
+      "cover_image_url": "https://images.sharvarok.com/post/1374/1783626871482-604225465.jpg",
+      "source": "Sharvarok",
+      "event_category": "festival"
     },
     {
       "id": "018709f0-512c-4048-a988-b64a205a230b",
@@ -390,6 +370,16 @@
       "event_category": "concert"
     },
     {
+      "id": "b516a4a8-1b3f-43da-8594-4a5edcf2ee63",
+      "event_title": "Reporting & Benefit Soirée in Whippany",
+      "event_date": "2026-10-03",
+      "end_date": "2026-10-03",
+      "ticket_link": "https://www.sharvarok.com/en/listing/reporting-benefit-soiree-in-whippany/1420",
+      "cover_image_url": "https://images.sharvarok.com/post/1420/1784702549959-562107248.jpg",
+      "source": "Sharvarok",
+      "event_category": "other"
+    },
+    {
       "id": "7f205e3a-4bb8-4c52-83f4-84c9bdb2e7e0",
       "event_title": "UKETOBERFEST",
       "event_date": "2026-10-17",
@@ -400,6 +390,16 @@
       "event_category": "festival"
     },
     {
+      "id": "d824035a-9322-4270-9d37-b5778af7723b",
+      "event_title": "КИЇВСЬКА ПЕРЕПІЧКА | IRMA VITOVSKA — NEW YORK",
+      "event_date": "2026-10-24",
+      "end_date": "2026-10-24",
+      "ticket_link": "https://events.ticketleap.com/tickets/molokocompany/irma-vitovska-new-york",
+      "cover_image_url": "https://cajgsqpzgqoqgtcrymzw.supabase.co/storage/v1/object/public/event-images/1784853678226-g26itzt4f.jpg",
+      "source": "MoLoKo Agency",
+      "event_category": "other"
+    },
+    {
       "id": "59f88201-352f-4f2c-8405-d3d07b496330",
       "event_title": "Maskarada",
       "event_date": "2026-10-31",
@@ -408,6 +408,16 @@
       "cover_image_url": "https://soyuzivka.com/wp-content/uploads/2025/10/Maskarade.jpg",
       "source": "Soyuzivka",
       "event_category": "festival"
+    },
+    {
+      "id": "1e5836bc-62d7-4ce1-9120-be12ae64b367",
+      "event_title": "ОЛЕКСАНДР ПОНОМАРЬОВ NEW YORK благодійний концерт Revived Soldiers Ukraine",
+      "event_date": "2026-11-06",
+      "end_date": "2026-11-06",
+      "ticket_link": "https://www.eventbrite.com/e/new-york-revived-soldiers-ukraine-tickets-1994749276784",
+      "cover_image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1189352087%2F86171180225%2F1%2Foriginal.20260721-224913?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=7bc4eecb6026ef52512dab60f81f4443",
+      "source": "Eventbrite",
+      "event_category": "concert"
     },
     {
       "id": "a0e8b2af-0816-4f0b-9232-72bdcd8aec5d",
